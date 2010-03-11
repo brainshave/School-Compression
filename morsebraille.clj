@@ -1,7 +1,8 @@
 (ns #^{:author "Szymon Witamborski (santamon)"
        :doc "Converts text to Braile and Morse codes. Performs some statistics as well."}
   morsebraille
-  (:require (clojure [set :as set])
+  (:require (clojure [set :as set]
+		     [stacktrace :as stacktrace])
 	    (clojure.contrib [string :as string]
 			     [io :as io]))
   (:import (java.awt BorderLayout
@@ -101,6 +102,7 @@
 		    ss (rest ss)))))
 
 ;; GUI
+
 (defn make-button
   "Create button with label name and function f called upon click"
   [name f]
@@ -128,15 +130,14 @@
 
 (defn make-convert-f
   [from f to]
-  #((.setText to (f (.getText from)))))
+  #(.setText to (f (.getText from))))
 
 (defn make-convert-fs
   "bindings => f to"
   [from & bindings]
   (let [fs (map #(apply make-convert-f from %) (partition 2 bindings))]
-    (println fs)
     #(doseq [f fs] (f))))
-
+  
 (defn main
   "Main function, if exit? then after closing window application will exit."
   ([exit?]
@@ -149,7 +150,7 @@
 		   (.setDefaultCloseOperation (if exit?
 						JFrame/EXIT_ON_CLOSE
 						JFrame/DISPOSE_ON_CLOSE))
-		   (.setSize 1000 500))
+		   (.setSize 700 600))
 	   input-area (make-tarea)
 	   braille-area (make-tarea false)
 	   morse-area (make-tarea false)
