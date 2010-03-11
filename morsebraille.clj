@@ -2,7 +2,8 @@
        :doc "Converts text to Braile and Morse codes. Performs some statistics as well."}
   morsebraille
   (:require (clojure [set :as set])
-	    (clojure.contrib [string :as string])))
+	    (clojure.contrib [string :as string]
+			     [io :as io])))
 
 (def #^{:doc "Map with Morse codes"
 	:test (fn [] (map #(when (not (= (last %) \space)) %) (vals morse-data)))}
@@ -44,6 +45,9 @@
   [s]
   (decode morse-data-inv #"[.-]+\s" s))
 
+(def capital-mark "000001")
+(def digit-mark   "001111")
+
 (def #^{:doc "Map with Braile codes"}
      braille-data
      (let [original-data {\1 "100000" \2 "110000" \3 "100100" \4 "100110" \5 "100010"
@@ -57,9 +61,7 @@
 			  \ą "100001" \ł "110001" \ć "100101" \ń "100111" \ę "100011"
 			  \, "010000" \; "011000" \: "010010" \? "010001" \! "011010"
 			  \( "011011" \) "011011" \„ "011001" \" "001011" \” "001011"
-			  \. "010011" \- "001001" \newline "001000"}
-	   capital-mark "000001"
-	   digit-mark   "001111"
+			  \. "010011" \- "001001" \newline "001000" \space "000000"}
 	   offspring-data ;; add chars with capital marks and number marks
 	   (filter vector? (map (fn [[k v]]
 				  (cond (Character/isLetter k) [(Character/toUpperCase k)
@@ -78,6 +80,6 @@
 (defn unbraille
   "Decodes from Braille"
   [s]
-  )
-  
-
+  (apply str (let [ss (map #(apply str %) (partition 6 (str "______" s)))]
+	       (map #(some braille-data-inv (list (str %1 %2) %2))
+		    ss (rest ss)))))
