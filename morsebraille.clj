@@ -3,7 +3,22 @@
   morsebraille
   (:require (clojure [set :as set])
 	    (clojure.contrib [string :as string]
-			     [io :as io])))
+			     [io :as io]))
+  (:import (java.awt BorderLayout
+		     Dimension
+		     Font)
+	   (javax.swing JFrame
+			JToolBar
+			JLabel
+			JPanel
+			BoxLayout
+			JButton
+			JTextArea
+			JScrollPane
+			JSplitPane
+			SwingConstants)
+	   (java.awt.event ActionListener
+			   ActionEvent)))
 
 (def #^{:doc "Map with Morse codes"
 	:test (fn [] (map #(when (not (= (last %) \space)) %) (vals morse-data)))}
@@ -32,7 +47,8 @@
   (let [ss (conj (apply vector \0 (.toLowerCase s)) \0)] ; add \0 to the end and begining
     (apply str (map #(cond (and (= %2 \c) (= %3 \h)) "---- " ;; ch
 			   (or (not= %1 \c) (not= %2 \h)) (morse-data %2))
-		   ss (next ss) (nnext ss)))))
+		    ss (next ss) (nnext ss)))))
+
 (defn decode
   "Decodes s partitionning s with re using m[ap] as a reference for each item."
   [m re s]
@@ -73,7 +89,7 @@
 (def braille-data-inv (set/map-invert braille-data))
 
 (defn braille
-  "Convert to Braille"
+  "Converts to Braille"
   [s]
   (apply str (map braille-data s)))
 
@@ -83,3 +99,84 @@
   (apply str (let [ss (map #(apply str %) (partition 6 (str "______" s)))]
 	       (map #(some braille-data-inv (list (str %1 %2) %2))
 		    ss (rest ss)))))
+
+;; GUI
+(defn make-button
+  "Create button with label name and function f called upon click"
+  [name f]
+  (doto (JButton. name)
+    (.addActionListener
+     (proxy [ActionListener] []
+       (actionPerformed [#^ActionEvent e]
+			(f))))))
+(defn make-tarea
+  "Create JTextArea with monospaced font"
+  ([editable?]
+     (doto (JTextArea.)
+       (.setFont (Font. Font/MONOSPACED Font/PLAIN 14))
+       (.setLineWrap true)
+       (.setEditable editable?)))
+  ([] (make-tarea true)))
+
+(defn with-scrollbars
+  "Wraps panel with scrollbars, sets minimum size to 200x200"
+  [p]
+  (let [d (Dimension. 200 200)]
+    (doto (JScrollPane. p)
+      (.setMinimumSize d)
+      (.setPreferredSize d))))
+
+(defn make-convert-f
+  [from f to]
+  #((.setText to (f (.getText from)))))
+
+(defn make-convert-fs
+  "bindings => f to"
+  [from & bindings]
+  (let [fs (map #(apply make-convert-f from %) (partition 2 bindings))]
+    (println fs)
+    #(doseq [f fs] (f))))
+
+(defn main
+  "Main function, if exit? then after closing window application will exit."
+  ([exit?]
+     (try
+      (doseq [laf (javax.swing.UIManager/getInstalledLookAndFeels)]
+	(when (= (.getName laf) "Nimbus")
+	  (javax.swing.UIManager/setLookAndFeel (.getClassName laf))))
+      (catch Exception e))
+     (let [frame (doto (JFrame. "Morse and Braille by Szymon Witaborski")
+		   (.setDefaultCloseOperation (if exit?
+						JFrame/EXIT_ON_CLOSE
+						JFrame/DISPOSE_ON_CLOSE))
+		   (.setSize 1000 500))
+	   input-area (make-tarea)
+	   braille-area (make-tarea false)
+	   morse-area (make-tarea false)
+	   outs-split (doto (JSplitPane. JSplitPane/VERTICAL_SPLIT)
+			(.add (with-scrollbars braille-area))
+			(.add (with-scrollbars morse-area)))
+	   main-split (doto (JSplitPane. JSplitPane/HORIZONTAL_SPLIT)
+			(.add (with-scrollbars input-area))
+			(.add outs-split))
+	   toolbar (doto (JToolBar.)
+		     (.setFloatable false)
+		     (.add (make-button "Open" #()))
+		     (.add (make-button "Save" #()))
+		     (.addSeparator)
+		     (.add (make-button "Morse!" (make-convert-f
+						  input-area morse morse-area)))
+		     (.add (make-button "Braille!" (make-convert-f
+						    input-area braille braille-area)))
+		     (.add (make-button "All!" (make-convert-fs input-area
+								morse morse-area
+								braille braille-area)))
+		     (.addSeparator)
+		     (.add (make-button "Save Braille" #()))
+		     (.add (make-button "Save Morse" #())))
+	   cpane (doto (.getContentPane frame)
+		   (.setLayout (BorderLayout. 5 5))
+		   (.add toolbar BorderLayout/NORTH)
+		   (.add main-split BorderLayout/CENTER))]
+       (.setVisible frame true)))
+  ([] (main true)))
