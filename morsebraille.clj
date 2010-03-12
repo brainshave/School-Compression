@@ -53,17 +53,12 @@
 			   (or (not= %1 \c) (not= %2 \h)) (morse-data %2))
 		    ss (next ss) (nnext ss)))))
 
-(defn decode
-  "Decodes s partitionning s with re using m[ap] as a reference for each item."
-  [m re s]
-  (apply str (map #(let [thing (m %)]
-		     (if thing thing %))
-		  (string/partition re s))))
-
 (defn unmorse
   "Decodes Morse code."
   [s]
-  (decode morse-data-inv #"[.-]+\s" s))
+  (apply str (map #(or (if-let [a (= % "---- ")] "ch") (morse-data-inv %) %)
+		  (string/partition #"[.-]+\s" s))))
+
 
 (def capital-mark "000001")
 (def digit-mark   "001111")
@@ -95,12 +90,16 @@
 (defn braille
   "Converts to Braille"
   [s]
-  (apply str (map braille-data s)))
+  (apply str (interleave (map #(apply str %) (partition 10 10 (repeat nil)
+							(map braille-data s)))
+			 (repeat \newline))))
 
 (defn unbraille
   "Decodes from Braille"
   [s]
-  (apply str (let [ss (map #(apply str %) (partition 6 (str "______" s)))]
+  (apply str (let [ss (map #(apply str %)
+			   (partition 6 (apply str "______"
+					       (filter #(not= \newline %) s))))]
 	       (map #(some braille-data-inv (list (str %1 %2) %2))
 		    ss (rest ss)))))
 
@@ -119,7 +118,7 @@
   ([editable?]
      (doto (JTextArea.)
        (.setFont (Font. Font/MONOSPACED Font/PLAIN 14))
-       (.setLineWrap true)
+       ;(.setLineWrap true)
        (.setEditable editable?)))
   ([] (make-tarea true)))
 
