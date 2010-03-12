@@ -211,7 +211,7 @@ Autor: Szymon Witamborski, santamon@gmail.com"
 (defn make-stats-f
   [parent input-area braille-area morse-area]
   #(let [in-count (count (.getText input-area))
-	 br-c (count (.getText braille-area))
+	 br-c (count (filter (fn [c] (not= \newline c)) (.getText braille-area)))
 	 mo-c (count (.getText morse-area))
 	 br-av (/ br-c in-count)
 	 mo-av (/ mo-c in-count)]
