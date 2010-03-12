@@ -177,7 +177,7 @@ Autor: Szymon Witamborski, santamon@gmail.com"
 (defn make-open-f
   [parent tarea]
   #(if-let [fpath (choose-file parent true)]
-     (.setText tarea (slurp fpath "utf-8"))))
+     (.setText tarea (slurp fpath))))
 
 (defn make-save-f
   [parent tarea]
