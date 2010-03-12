@@ -17,7 +17,10 @@
 			JTextArea
 			JScrollPane
 			JSplitPane
-			SwingConstants)
+			SwingConstants
+			JOptionPane
+			JDialog
+			JFileChooser)
 	   (java.awt.event ActionListener
 			   ActionEvent)))
 
@@ -137,7 +140,50 @@
   [from & bindings]
   (let [fs (map #(apply make-convert-f from %) (partition 2 bindings))]
     #(doseq [f fs] (f))))
-  
+
+(defn help [parent]
+  (JOptionPane/showMessageDialog
+   parent
+   "Please explore all functions in this toolbar.
+
+Autor: Szymon Witamborski, santamon@gmail.com"
+   "Info/Help"
+   JOptionPane/INFORMATION_MESSAGE))
+
+(defn make-show-inv-f
+  [parent from f to]
+  (let [dialog (doto (JDialog. parent "Inverted" false)
+		 (.setSize 500 300))
+	tarea (make-tarea)
+	cpane (doto (.getContentPane dialog)
+		(.setLayout (BorderLayout.))
+		(.add (with-scrollbars tarea) BorderLayout/CENTER)
+		(.add (make-button "Save" #())))
+	convert-f (make-convert-f from f to)]
+    #(do (convert-f)
+	 (.setVisible dialog true))))
+
+(def chooser (JFileChooser.))
+
+(defn choose-file
+  [parent open?]
+  (let [;;chooser (JFileChooser.)
+	status (if open?
+		 (.showOpenDialog chooser parent)
+		 (.showSaveDialog chooser parent))]
+    (if (= status JFileChooser/APPROVE_OPTION)
+      (.getAbsolutePath (.getSelectedFile chooser)))))
+
+(defn make-open-f
+  [parent tarea]
+  #(if-let [fpath (choose-file parent true)]
+     (.setText tarea (slurp fpath "utf-8"))))
+
+(defn make-save-f
+  [parent tarea]
+  #(if-let [fpath (choose-file parent false)]
+     (io/spit fpath (.getText tarea))))
+
 (defn main
   "Main function, if exit? then after closing window application will exit."
   ([exit?]
@@ -152,31 +198,39 @@
 						JFrame/DISPOSE_ON_CLOSE))
 		   (.setSize 700 600))
 	   input-area (make-tarea)
-	   braille-area (make-tarea false)
-	   morse-area (make-tarea false)
+	   braille-area (make-tarea)
+	   morse-area (make-tarea)
 	   outs-split (doto (JSplitPane. JSplitPane/VERTICAL_SPLIT)
+			(.setResizeWeight 0.5)
 			(.add (with-scrollbars braille-area))
 			(.add (with-scrollbars morse-area)))
 	   main-split (doto (JSplitPane. JSplitPane/HORIZONTAL_SPLIT)
+			(.setResizeWeight 0.5)
 			(.add (with-scrollbars input-area))
 			(.add outs-split))
 	   toolbar (doto (JToolBar.)
 		     (.setFloatable false)
-		     (.add (make-button "Open" #()))
-		     (.add (make-button "Save" #()))
+		     (.add (make-button "Help" #(help frame)))
+		     (.add (make-button "Open" (make-open-f frame input-area)))
+		     (.add (make-button "Save" (make-save-f frame input-area)))
 		     (.addSeparator)
-		     (.add (make-button "Morse!" (make-convert-f
-						  input-area morse morse-area)))
-		     (.add (make-button "Braille!" (make-convert-f
+		     (.add (make-button "Braille" (make-convert-f
 						    input-area braille braille-area)))
-		     (.add (make-button "All!" (make-convert-fs input-area
+		     (.add (make-button "Morse" (make-convert-f
+						  input-area morse morse-area)))
+		     (.add (make-button "Both" (make-convert-fs input-area
 								morse morse-area
 								braille braille-area)))
 		     (.addSeparator)
-		     (.add (make-button "Save Braille" #()))
-		     (.add (make-button "Save Morse" #())))
+		     (.add (make-button "Decode Braille" (make-convert-f
+						    braille-area unbraille braille-area)))
+		     (.add (make-button "Decode Morse" (make-convert-f
+						  morse-area unmorse morse-area)))
+		     (.addSeparator)
+		     (.add (make-button "Save Braille" (make-save-f frame braille-area)))
+		     (.add (make-button "Save Morse" (make-save-f frame morse-area))))
 	   cpane (doto (.getContentPane frame)
-		   (.setLayout (BorderLayout. 5 5))
+		   (.setLayout (BorderLayout.))
 		   (.add toolbar BorderLayout/NORTH)
 		   (.add main-split BorderLayout/CENTER))]
        (.setVisible frame true)))
