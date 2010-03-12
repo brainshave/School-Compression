@@ -266,6 +266,9 @@ Autor: Szymon Witamborski, santamon@gmail.com"
 								morse morse-area
 								braille braille-area)))
 		     (.addSeparator)
+		     (.add (make-button "A" #(.setText input-area (.toUpperCase (.getText input-area)))))
+		     (.add (make-button "a" #(.setText input-area (.toLowerCase (.getText input-area)))))
+		     (.addSeparator)
 		     (.add (make-button "Decode Braille" (make-convert-f
 							  braille-area unbraille braille-area)))
 		     (.add (make-button "Decode Morse" (make-convert-f
