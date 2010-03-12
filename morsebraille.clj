@@ -103,6 +103,13 @@
 	       (map #(some braille-data-inv (list (str %1 %2) %2))
 		    ss (rest ss)))))
 
+(defn statistics
+  [[orignal-text braille-text morse-text :as params]]
+  (let [[orc brc moc :as cs] (map count params)]
+    {:braile (/ brc orc)
+     :morse (/ moc orc)}))
+
+
 ;; GUI
 
 (defn make-button
@@ -118,7 +125,7 @@
   ([editable?]
      (doto (JTextArea.)
        (.setFont (Font. Font/MONOSPACED Font/PLAIN 14))
-       ;(.setLineWrap true)
+					;(.setLineWrap true)
        (.setEditable editable?)))
   ([] (make-tarea true)))
 
@@ -143,7 +150,25 @@
 (defn help [parent]
   (JOptionPane/showMessageDialog
    parent
-   "Please explore all functions in this toolbar.
+   "Funkcje programu:
+  Kodowanie Braille'a:
+  - tekst wynikowy jest podzielony po 10 znaków kodu w jednej linii,
+    automatyczne zawijanie linii w edytorze było zbyt wolne;
+  - funkcja 'Decode Braille' odkodowuje Braille'a
+    - nie jest przeprowadzane sprawdzanie czy nawias jest zamykający czy otwierający.
+  Kodowanie Morse'a:
+  - zachowywany jest podział linii z pliku wejściowego;
+  - analogicznie istnieje funkcja 'Decode Morse'.
+  Statystyki:
+  - funkcja 'Stats' oblicza średnią ilość bajtów w poszczególnych kodach
+    przypadających na jeden bajt pliku wejściowego.
+
+Dla większych plików kodowanie/dekodowanie może trwać nawet kilkanaście sekund.
+
+Myślę, że typowe użycie programu złoży się z użycia trzech przycisków:
+  Load (załadowanie pliku),
+  Both (zakodowanie w obu systemach)
+  i Stats (wyświetlenie podsumowania).
 
 Autor: Szymon Witamborski, santamon@gmail.com"
    "Info/Help"
@@ -183,6 +208,23 @@ Autor: Szymon Witamborski, santamon@gmail.com"
   #(if-let [fpath (choose-file parent false)]
      (io/spit fpath (.getText tarea))))
 
+(defn make-stats-f
+  [parent input-area braille-area morse-area]
+  #(let [in-count (count (.getText input-area))
+	 br-c (count (.getText braille-area))
+	 mo-c (count (.getText morse-area))
+	 br-av (/ br-c in-count)
+	 mo-av (/ mo-c in-count)]
+     (JOptionPane/showMessageDialog
+      parent
+      (str in-count " original characters\n"
+	   br-c " Braille characters\n"
+	   mo-c " Morse characters\n\n"
+	   "For one original byte we got:\n"
+	   (float br-av) " Braille bytes (" br-av ")\n"
+	   (float mo-av) " Morse bytes (" mo-av ")"))))
+
+
 (defn main
   "Main function, if exit? then after closing window application will exit."
   ([exit?]
@@ -209,22 +251,25 @@ Autor: Szymon Witamborski, santamon@gmail.com"
 			(.add outs-split))
 	   toolbar (doto (JToolBar.)
 		     (.setFloatable false)
-		     (.add (make-button "Help" #(help frame)))
+		     (.add (make-button "Info" #(help frame)))
 		     (.add (make-button "Open" (make-open-f frame input-area)))
 		     (.add (make-button "Save" (make-save-f frame input-area)))
+		     (.add (make-button "Stats" (make-stats-f frame input-area
+							      braille-area
+							      morse-area)))
 		     (.addSeparator)
 		     (.add (make-button "Braille" (make-convert-f
-						    input-area braille braille-area)))
+						   input-area braille braille-area)))
 		     (.add (make-button "Morse" (make-convert-f
-						  input-area morse morse-area)))
+						 input-area morse morse-area)))
 		     (.add (make-button "Both" (make-convert-fs input-area
 								morse morse-area
 								braille braille-area)))
 		     (.addSeparator)
 		     (.add (make-button "Decode Braille" (make-convert-f
-						    braille-area unbraille braille-area)))
+							  braille-area unbraille braille-area)))
 		     (.add (make-button "Decode Morse" (make-convert-f
-						  morse-area unmorse morse-area)))
+							morse-area unmorse morse-area)))
 		     (.addSeparator)
 		     (.add (make-button "Save Braille" (make-save-f frame braille-area)))
 		     (.add (make-button "Save Morse" (make-save-f frame morse-area))))
