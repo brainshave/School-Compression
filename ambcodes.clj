@@ -59,6 +59,9 @@ when two words have suffix that is a word in code"
   (take (inc (rand-int max-len))
 	(repeatedly #(rand-int 2))))
 
+(defn rand-word-fixed-len [len]
+  (repeatedly len #(rand-int 2)))
+
 (defn next-word [word]
   (if (== (first word) 0)
     (conj (rest word) 1)
@@ -79,31 +82,19 @@ Stops after max-tries"
 	     :default (with-meta alphabet {:tries tries}))))
   ([n] (stupid-generator n (int (* n 3/4)) (* n n n))))
 
-(defn new-alphabet2 [n]
-  (loop [code #{} word (next-word ())]
-    (if (== (count code) n)
-      code
-      (let [new-code (conj code word)
-	    new-word (next-word word)]
-	(if (unambiguous? new-code)
-	  (recur new-code new-word)
-	  (recur (rest code) new-word))))))
-
-(defn new-alphabet [n max-len]
-  (loop [code #{} suffixes #{} word (rand-word max-len) i (int 0)]
-    (cond (== i n) code
-	  (code word) (recur code suffixes (rand-word max-len) i)
-	  (unambiguous? (conj code word)) (recur (conj code word)
-						 suffixes
-						 (rand-word max-len)
-						 (inc i))
-	  true (recur code suffixes (rand-word max-len) i))))
-
-
-(comment
-	  true (let [new-code (conj code word)
-		     new-suffixes (find-suffixes new-code suffixes)]
-		 (if (unambiguous? new-code) ;(= :same-words new-suffixes)
-		   (recur new-code (into suffixes new-suffixes) (rand-word max-len) (inc i))
-		   (recur code suffixes (rand-word max-len) i) ; take another word
-		   )))
+(defn smart-generator
+  ([n len strategy]
+     (loop [code #{}
+	    word (rand-word len)]
+       (cond (== n (count code)) code
+	     (code word) (recur code (rand-word len))
+	     :default
+	     (let [new-code (conj code word)
+		   amb (ambiguous? new-code)]
+	       (if (vector? amb)
+		 (recur (disj new-code (strategy amb))
+			(rand-word len))
+		 (recur new-code
+			(rand-word len)))))))
+  ([n strategy] (smart-generator n (int (* n 3/4)) strategy)))
+     
