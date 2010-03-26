@@ -67,6 +67,8 @@ when two words have suffix that is a word in code"
     (conj (rest word) 1)
     (conj word 0)))
 
+(def cardinal-words (iterate next-word '(0)))
+
 (defn rand-alphabet [n max-len]
   (repeatedly n #(rand-word max-len)))
 
@@ -101,6 +103,34 @@ Stops after max-tries"
 		 n (repeatedly #(rand-word (int (* n 3/4))))
 		 strategy)))
 
-(defmacro only-time [exp]
-  `(do (time ~exp) nil))
+(defmacro time-only [exp]
+  `(do (time (dorun ~exp)) nil))
 
+(defmacro with-time
+  ""
+  [exp]
+  `(let [time# (System/nanoTime)
+	 val# ~exp
+	 meta# (meta val#)]
+     (with-meta val#
+       (assoc meta# :nano-time (- (System/nanoTime) time#)))))
+       
+(defn average-len [code]
+  (let [sum (reduce + (map count code))]
+    (/ sum (count code))))
+
+(defn test-strategy [t n strategy]
+  (let [codes (repeatedly t #(with-time (smart-generator n strategy)))
+	times (map #(:nano-time (meta %)) codes)
+	avgtime (/ (reduce + times) t)
+	lengths (map average-len codes)
+	avglen (/ (reduce + lengths) t)]
+     {:avgtime (double avgtime)
+      :avglen (double avglen)}))
+
+(defn test-cardinal [n strategy]
+  (let [code (with-time (smart-generator n cardinal-words strategy))
+	time (:nano-time ^code)
+	avglen (average-len code)]
+    {:avgtime (double time) ; not really average...
+     :avglen (double avglen)}))
