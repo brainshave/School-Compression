@@ -63,44 +63,6 @@ when two words have suffix that is a word in code"
 			      (find-suffixes code new-suffixes)))))))))
       
       
-(defn unambiguous?-old
-  "Is given code unambiguous?"
-  [code]
-  (if-not (apply distinct? code)
-    false
-    (loop [suffixes (find-suffixes code)]
-      (let [new-suffixes (find-suffixes code suffixes)]
-	;(println suffixes \tab new-suffixes)
-	(cond (= :same-words new-suffixes) false
-	      (every? suffixes new-suffixes) true
-	      (empty? new-suffixes) true
-	      true (recur (into suffixes new-suffixes)))))))
-
-(defn unambiguous?
-  [code]
-  (if-not (not-any? (fn [[_ v]] (> v 1)) ;; is every word unique, return first
-		                         ;; doubled word
-		    (seq/frequencies code))
-    
-    (let [code (make-chars-set code)
-	  ]
-      (if-not (apply distinct? code)
-	false
-	(loop [suffixes (find-suffixes code)])))))
-  
-  
-
-(defn find-suffixes-old
-  ([code suffixes]
-     (let [words (for [c code s suffixes]
-		   (suffix c s))]
-       (if (not-any? #(= :same-words %) words)
-	 (into #{} (filter-not-nil words))
-	 :same-words)))
-  ([code] (into #{} (filter-not-nil
-		     (for [c1 code c2 code :when (not= c1 c2)]
-		       (suffix c1 c2))))))
-
 
 
 (defn rand-word [max-len]
