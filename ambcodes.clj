@@ -44,19 +44,42 @@
   (ffirst (filter (fn [[_ v]] (> v 1))
 		  (seq/frequencies code))))
 
-(defn ambiguous? [code]
-  (if-let [rep (first-repetition code)]
-    rep
-    (loop [code (make-chars-set code)
-	   suffixes #{}]
-      (let [new-suffixes (find-suffixes code suffixes)]
-	)))) ;; TODO
-      
-      
-
-(defn unambiguous?-old2
+(defn ambiguous?
+  "Return first ambiguous word (if doubled) or [word1 word2 suffix]
+when two words have suffix that is a word in code"
   [code]
-  (if-not (not-any? (fn [[_ v]] (> v 1))
+  (if-let [repetition (first-repetition code)]
+    repetition
+    (let [code (make-chars-set code)]
+      (loop [suffixes #{}
+	     candidates (find-suffixes code)]
+	(let [amb (first (filter vector? candidates))]
+	  (println suffixes \tab candidates \tab amb)
+	  (cond amb amb ;; return first ambiguity
+		(every? suffixes candidates) false
+		(empty? candidates) false
+		true (let [new-suffixes (into suffixes candidates)]
+		       (recur new-suffixes
+			      (find-suffixes code new-suffixes)))))))))
+      
+      
+(defn unambiguous?-old
+  "Is given code unambiguous?"
+  [code]
+  (if-not (apply distinct? code)
+    false
+    (loop [suffixes (find-suffixes code)]
+      (let [new-suffixes (find-suffixes code suffixes)]
+	;(println suffixes \tab new-suffixes)
+	(cond (= :same-words new-suffixes) false
+	      (every? suffixes new-suffixes) true
+	      (empty? new-suffixes) true
+	      true (recur (into suffixes new-suffixes)))))))
+
+(defn unambiguous?
+  [code]
+  (if-not (not-any? (fn [[_ v]] (> v 1)) ;; is every word unique, return first
+		                         ;; doubled word
 		    (seq/frequencies code))
     
     (let [code (make-chars-set code)
@@ -78,18 +101,7 @@
 		     (for [c1 code c2 code :when (not= c1 c2)]
 		       (suffix c1 c2))))))
 
-(defn unambiguous?-old
-  "Is given code unambiguous?"
-  [code]
-  (if-not (apply distinct? code)
-    false
-    (loop [suffixes (find-suffixes code)]
-      (let [new-suffixes (find-suffixes code suffixes)]
-	;(println suffixes \tab new-suffixes)
-	(cond (= :same-words new-suffixes) false
-	      (every? suffixes new-suffixes) true
-	      (empty? new-suffixes) true
-	      true (recur (into suffixes new-suffixes)))))))
+
 
 (defn rand-word [max-len]
   (take (inc (rand-int max-len))
