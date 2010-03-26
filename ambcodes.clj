@@ -23,19 +23,12 @@
   ([code suffixes]
      (distinct
       (filter-not-nil
-       (for [c code s suffixes]
+       (for [c code s suffixes :when (not= c s)]
 	 (let [new-suffix (suffix c s)]
 	   (if (code new-suffix)
 	     [c s new-suffix]
 	     new-suffix))))))
-  ([code]
-     (distinct
-      (filter-not-nil
-       (for [c1 code c2 code :when (not= c1 c2)]
-	 (let [new-suffix (suffix c1 c2)]
-	   (if (code new-suffix)
-	     [c1 c2 new-suffix]
-	     new-suffix)))))))
+  ([code] (find-suffixes code code)))
 
 (defn make-chars-set [code]
   (into #{} (map seq code)))
@@ -50,7 +43,7 @@ when two words have suffix that is a word in code"
   [code]
   (if-let [repetition (first-repetition code)]
     repetition
-    (let [code (make-chars-set code)]
+    (let [code (make-chars-set code)] ; converting to chars sets just in case
       (loop [suffixes #{}
 	     candidates (find-suffixes code)]
 	(let [amb (first (filter vector? candidates))]
@@ -58,9 +51,9 @@ when two words have suffix that is a word in code"
 	  (cond amb amb ;; return first ambiguity
 		(every? suffixes candidates) false
 		(empty? candidates) false
-		true (let [new-suffixes (into suffixes candidates)]
-		       (recur new-suffixes
-			      (find-suffixes code new-suffixes)))))))))
+		:default (let [new-suffixes (into suffixes candidates)]
+			   (recur new-suffixes
+				  (find-suffixes code new-suffixes)))))))))
       
       
 
