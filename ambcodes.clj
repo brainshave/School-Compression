@@ -83,18 +83,24 @@ Stops after max-tries"
   ([n] (stupid-generator n (int (* n 3/4)) (* n n n))))
 
 (defn smart-generator
-  ([n len strategy]
+  ([n words strategy]
      (loop [code #{}
-	    word (rand-word len)]
+	    word (first words)
+	    words (rest words)]
        (cond (== n (count code)) code
-	     (code word) (recur code (rand-word len))
+	     (code word) (recur code (first words) (rest words))
 	     :default
 	     (let [new-code (conj code word)
 		   amb (ambiguous? new-code)]
 	       (if (vector? amb)
 		 (recur (disj new-code (strategy amb))
-			(rand-word len))
+			(first words) (rest words))
 		 (recur new-code
-			(rand-word len)))))))
-  ([n strategy] (smart-generator n (int (* n 3/4)) strategy)))
-     
+			(first words) (rest words)))))))
+  ([n strategy] (smart-generator
+		 n (repeatedly #(rand-word (int (* n 3/4))))
+		 strategy)))
+
+(defmacro only-time [exp]
+  `(do (time ~exp) nil))
+
