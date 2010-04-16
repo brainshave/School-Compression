@@ -1,0 +1,8058 @@
+Kodowanie znaków w dokumencie: UTF-8.
+-----
+Publikacja zrealizowana w ramach projektu Wolne Lektury (http://wolnelektury.pl/). Reprodukcja cyfrowa wykonana przez
+Bibliotekê Narodow¹ z egzemplarza pochodz¹cego ze zbiorów BN. Ten utwór nie jest chroniony prawem autorskim i znajduje
+siê w domenie publicznej, co oznacza, ¿e mo¿esz go swobodnie wykorzystywaæ, publikowaæ i rozpowszechniaæ.
+-----
+
+
+
+William Shakespeare
+
+Hamlet
+
+Królewicz duñski
+
+
+
+
+
+
+OSOBY
+
+KLAUDIUSZ — król duñski
+HAMLET — syn poprzedniego, a synowiec teraŸniejszego króla
+POLONIUSZ — szambelan
+HORACY — przyjaciel Hamleta
+LAERTES — syn Poloniusza
+WOLTYMAND, KORNELIUSZ, ROZENKRANC, GILDENSTERN, OZRYK — dworzanie
+
+KSI¥DZ
+MARCELLUS, BERNARDO — oficerowie
+
+FRANCISKO — ¿o³nierz
+RAJNOLD — s³uga Poloniusza
+ROTMISTRZ
+POSE£
+DUCH ojca Hamleta
+FORTYNBRAS — ksi¹¿ê norweski
+GERTRUDA — królowa duñska, matka Hamleta
+OFELIA — córka Poloniusza
+Panowie, damy, oficerowie, ¿o³nierze, aktorowie, grabarze, majtkowie, pos³owie i inne osoby.
+
+
+
+Rzecz siê odbywa w Elzynorze.
+
+
+
+
+
+AKT PIERWSZY
+
+
+SCENA PIERWSZA
+
+
+Taras przed zamkiem.
+
+Francisko na warcie. Bernardo zbli¿a siê ku niemu.
+
+
+BERNARDO
+Kto tu?
+
+
+FRANCISKO
+Nie, pierwej ty sam mi odpowiedz;
+Stój, wymieñ has³o!
+
+
+BERNARDO
+„Niech Bóg chroni króla.”
+
+
+FRANCISKO
+Bernardo?
+
+
+BERNARDO
+Ten sam.
+
+
+FRANCISKO
+Bardzo akuratnie
+Stawiacie siê na czas, panie Bernardo.
+
+
+BERNARDO
+Tylko co bi³a dwunasta. IdŸ, spocznij,
+Francisko.
+
+
+FRANCISKO
+Wdziêcznym wam za zluzowanie,
+Bom zzi¹b³ i g³upio mi na sercu.
+
+
+BERNARDO
+Mia³-¿eœ
+Spokojn¹ wartê?
+
+
+FRANCISKO
+Ani mysz nie przesz³a.
+
+
+BERNARDO
+Dobranoc. Jeœli napotkasz Marcella
+I Horacego, z którymi tej nocy
+Stra¿ mam odbywaæ, powiedz, niech siê œpiesz¹.
+
+
+Horacy i Marcellus wchodz¹.
+
+
+FRANCISKO
+Zda mi siê, ¿e ich s³yszê. — Stój! kto idzie?
+
+
+MARCELLUS
+„Lennicy króla.”
+
+
+HORACY
+„Przyjaciele kraju.”
+
+
+FRANCISKO
+A zatem dobrej nocy.
+
+
+MARCELLUS
+B¹dŸ zdrów, stary.
+Kto ciê zluzowa³?
+
+
+FRANCISKO
+Bernardo. Dobranoc.
+odchodzi
+
+
+MARCELLUS
+Hola! Bernardo!
+
+
+BERNARDO
+Ho! czy to Horacy
+Z tob¹, Marcellu?
+
+
+HORACY
+Niby on.
+
+
+BERNARDO
+Witajcie.
+
+
+HORACY
+I có¿? Czy owa postaæ i tej nocy
+Da³a siê widzieæ?
+
+
+BERNARDO
+Ja nic nie widzia³em.
+
+
+MARCELLUS
+Horacy mówi, ¿e to przywidzenie.
+I nie chce wierzyæ wieœci o tym strasznym,
+Dwa razy przez nas widzianym zjawisku;
+Uprosi³em go przeto, aby z nami
+Przepêdzi³ czêœæ tej nocy dla sprawdzenia
+Œwiadectwa naszych oczu i zbadania
+Tego widziad³a, je¿eli znów przyjdzie.
+
+
+HORACY
+Nic z tego; rêczê, ¿e nie przyjdzie.
+
+
+BERNARDO
+Usi¹dŸ
+I œcierp, ¿e jeszcze raz zaszturmujemy
+Do twego ucha, które tak jest mocno
+Obwarowane przeciw opisowi
+Tego, czegoœmy przez dwie noce byli
+Œwiadkami.
+
+
+HORACY
+Dobrze, usi¹dŸmy; Bernardo!
+Opowiedz, jak to by³o.
+
+
+BERNARDO
+Przesz³ej nocy,
+Gdy owa jasna gwiazda na zachodzie
+Tê sam¹ stronê nieba oœwieca³a,
+Gdzie teraz b³yszczy, i zamkowy zegar
+Bi³ pierwsz¹, Marcel i ja ujrzeliœmy...
+
+
+MARCELLUS
+Przestañ; spojrzyjcie tam: nadchodzi znowu.
+
+
+Duch siê ukazuje.
+
+
+BERNARDO
+Zupe³nie postaæ nieboszczyka króla.
+
+
+MARCELLUS
+Horacy, przemów doñ, uczony jesteœ.
+
+
+BERNARDO
+Mo¿e-¿ byæ wiêksze podobieñstwo? powiedz.
+
+
+HORACY
+Prawda; s³upiejê z trwogi i zdumienia.
+
+
+BERNARDO
+Zdawa³oby siê, ¿e chce, aby który
+Z nas doñ przemówi³.
+
+
+MARCELLUS
+Przemów doñ, Horacy.
+
+
+HORACY
+Ktoœ ty, co nocnej pory nadu¿ywasz
+I œmiesz przyw³aszczaæ sobie tê wspania³¹
+Wojenn¹ postaæ, któr¹ pogrzebiony
+Duñski monarcha za ¿ycia przybiera³?
+Zaklinam ciê na Boga: odpowiadaj.
+
+
+MARCELLUS
+To mu siê nie podoba.
+
+
+BERNARDO
+Patrz, odchodzi.
+
+
+HORACY
+Stój! mów; zaklinam ciê: mów.
+
+
+Duch znika.
+
+
+MARCELLUS
+Ju¿ go nie ma.
+
+
+BERNARDO
+I có¿, Horacy? Poblad³eœ, dr¿ysz ca³y.
+Powiesz-¿e jeszcze, ¿e to urojenie?
+Co myœlisz o tym?
+
+
+HORACY
+Bóg œwiadkiem, ¿e nigdy
+Nie by³bym temu wierzy³, gdyby nie to
+Tak jawne, dotykalne przeœwiadczenie
+W³asnych mych oczu.
+
+
+MARCELLUS
+Nie jest-¿e to widmo
+Podobne, powiedz, do zmar³ego króla?
+
+
+HORACY
+Jak ty do siebie. Tak¹ w³aœnie zbrojê
+Mia³ wtedy, kiedy Norwe¿czyka pobi³:
+Tak samo, pomnê, marszczy³ czo³o wtedy,
+Kiedy po bitwie zaciêtej na lodach
+Rozbi³ tabory Polaków. Rzecz dziwna!
+
+
+MARCELLUS
+Tak to dwa razy punkt o tej-¿e samej
+Godzinie przesz³o marsowymi kroki
+To widmo mimo naszych posterunków.
+
+
+HORACY
+Co by to w gruncie mog³o znaczyæ, nie wiem;
+Atoli wedle kalibru i skali
+Mojego s¹du, jest to prognostykiem
+Jakichœ szczególnych wstrz¹œnieñ w naszym kraju.
+
+
+MARCELLUS
+Si¹dŸcie i niech mi powie, kto œwiadomy,
+Na co te ci¹g³e i tak œcis³e warty
+Poddanych w kraju noc w noc niepokoj¹?
+Na co to lanie dzia³ i skupywanie
+Po obcych targach narzêdzi wojennych?
+Ten ruch w warsztatach okrêtowych, kêdy
+Trud robotnika nie zna odró¿nienia
+Miêdzy niedziel¹ a reszt¹ tygodnia?
+Co powoduje ten gwa³towny poœpiech,
+Daj¹cy dniowi noc za towarzyszkê?
+Objaœni-¿ mi to kto?
+
+
+HORACY
+Ja ci objaœniê.
+Przynajmniej wieœci chodz¹ w taki sposób:
+Ostatni duñski monarcha, którego
+Obraz dopiero co nam siê ukaza³,
+By³, jak wiadomo, zmuszony do boju
+Przez norweskiego króla, Fortynbrasa,
+Zazdroszcz¹cego mu jego potêgi.
+Mê¿ny nasz Hamlet (jako taki bowiem
+S³ynie w tej stronie znajomego œwiata)
+Po³o¿y³ trupem tego Fortynbrasa,
+Który na mocy aktu, pieczêciami
+Zatwierdzonego i uœwiêconego
+Wojennym prawem, by³ obowi¹zany
+Czêœci swych krajów ust¹piæ zwyciêzcy,
+Tak jak nawzajem nasz król, na zasadzie
+Klauzuli tego¿ samego uk³adu,
+By³by by³ musia³ odpowiedni¹ porcjê
+Swych dzier¿aw oddaæ na wieczne dziedzictwo
+Fortynbrasowi, gdyby ten by³ przemóg³.
+Owó¿ syn tego, panie, Fortynbrasa,
+Awanturniczym pobudzony sza³em,
+Zgromadzi³ teraz zebran¹ po ró¿nych
+K¹tach Norwegii, za strawê i jurgielt,
+T³uszczê bezdomnych wagabundów w celu,
+Który bynajmniej nie tr¹ci tchórzostwem,
+A który, jak to nasz rz¹d odgaduje,
+Nie na czym innym siê zasadza, jeno
+Na odebraniu nam si³¹ orê¿a
+W drodze przemocy wy¿ rzeczonych krain,
+Które utraci³ by³ jego poprzednik;
+I to, jak mi siê zdaje, jest przyczyn¹
+Owych uzbrojeñ, powodem czat naszych
+I Ÿród³em tego wrzenia w ca³ym kraju.
+
+
+BERNARDO
+I ja tak samo s¹dzê; tym ci bardziej,
+¯e to zjawisko w wojennym przyborze
+Odwiedza nasze czaty i przybiera
+Na siebie postaæ nieboszczyka króla,
+Który tych wojen by³ i jest sprê¿yn¹.
+
+
+HORACY
+Znak to dla oczu ducha p³odny w groŸbê.
+Gdy Rzym na szczycie sta³ swojej potêgi,
+Krótko przed œmierci¹ wielkiego Juliusza
+Otworzy³y siê groby i umarli
+B³¹dzili jêcz¹c po ulicach Rzymu;
+Widziane by³y ró¿ne dziwowiska:
+Jako to gwiazdy z ogonem, deszcz krwawy,
+Plamy na s³oñcu i owa wilgotna
+Gwiazda, rz¹dz¹ca pañstwami Neptuna,
+Zmierzch³a, jak gdyby na s¹d ostateczny.
+I otó¿ takie same poprzedniki
+Smutnych wypadków, które jako goñce
+Biegn¹ przed losem albo s¹ prologiem
+Wró¿b przyjœæ maj¹cych, nieba i podziemia
+Zsy³aj¹ teraz i naszemu pañstwu.
+
+Duch powraca.
+
+Patrzcie! znów idzie. Zast¹piê mu drogê,
+Choæbym mia³ zdrowiem przyp³aciæ. Stój, maro!
+Mo¿esz-li wydaæ g³os albo przynajmniej
+DŸwiêk jakikolwiek przystêpny dla ucha:
+To mów!
+Jest-li czyn jaki do spe³nienia, zdolny
+Dopomóc tobie, a mnie przynieœæ zaszczyt:
+To mów!
+Masz-li œwiadomoœæ losów tego kraju,
+Które, wprzód znaj¹c, mo¿na by odwróciæ:
+To mów!
+Albo-li mo¿e za ¿ycia pogrzeb³eœ
+W nieprawy sposób zgromadzone skarby,
+Za co wy, duchy, bywacie, jak mówi¹,
+Skazane nieraz tu³aæ siê po œmierci.
+
+Kur pieje.
+
+Mów! Stój! Mów! — zabie¿ mu drogê, Marcellu!
+
+
+MARCELLUS
+Mam-¿e nañ natrzeæ halabard¹?
+
+
+HORACY
+Natrzyj.
+Jeœli nie stanie.
+
+
+BERNARDO
+Tu jest!
+
+
+HORACY
+Tu jest!
+
+
+Duch znika.
+
+
+MARCELLUS
+Znikn¹³.
+Krzywdzim tê postaæ tak majestatyczn¹,
+Chc¹c j¹ przemoc¹ zatrzymaæ; powietrze
+Tylko chwytamy i czcza nasza groŸba
+Z³oœliwym tylko jest ur¹gowiskiem.
+
+
+BERNARDO
+Chcia³ coœ podobno mówiæ, gdy kur zapia³.
+
+
+HORACY
+Wtem nagle wzdrygn¹³ siê jak winowajca
+Na g³os strasznego apelu. S³ysza³em,
+¯e kur, ten trêbacz zwiastuj¹cy ranek,
+Swoim donoœnym, przeraŸliwym g³osem
+Przebudza bóstwo dnia, i na to has³o
+Wszelki duch, czy to b³¹dz¹cy na ziemi,
+Czy w wodzie, w ogniu czy w powietrzu, œpiesznie
+Wraca, sk¹d wyszed³; a ¿e to jest prawd¹,
+Dowodem w³aœnie to, coœmy widzieli.
+
+
+MARCELLUS
+Zadr¿a³ i rozwia³ siê, skoro kur zapia³,
+Mówi¹, ¿e ranny ten ptak w owej porze,
+Kiedy œwiêcimy narodzenie Pana,
+Po ca³ych nocach zwyk³ œpiewaæ i wtedy
+¯aden duch nie œmie wyjœæ z swego siedliska:
+Noce s¹ zdrowe, gwiazdy nieszkodliwe,
+Z³e œpi, ustaj¹ czarodziejskie wp³ywy,
+Tak œwiêty jest ten czas i dobroczynny.
+
+
+HORACY
+S³ysza³em i ja o tym i po czêœci
+Sam dajê temu wiarê. Ale patrzcie,
+Ju¿ dzieñ w ró¿anym p³aszczu strz¹sa rosê
+Na owym wzgórku wschodnim. ZejdŸmy z warty.
+Moja zaœ rada, abyœmy niezw³ocznie
+O tym, czegoœmy tu œwiadkami byli,
+Uwiadomili m³odego Hamleta;
+Bo prawie pewien jestem, ¿e to widmo,
+Milcz¹ce dla nas, przemówi do niego.
+Czy siê zgadzacie na to, co nam zrobiæ
+Zarówno serce, jak powinnoœæ ka¿e?
+
+
+MARCELLUS
+Jak najzupe³niej, i wiem nawet, gdzie go
+Na osobnoœci zdybiemy dziœ z rana.
+
+
+Wychodz¹.
+
+
+
+
+
+SCENA DRUGA
+
+
+Sala audiencjonalna w zamku.
+
+Król, Królowa, Hamlet, Poloniusz, Laertes, Woltymand, Korneliusz, panowie i orszak.
+
+
+KRÓL
+Jakkolwiek œwie¿o tkwi w naszej pamiêci
+Zgon kochanego, drogiego naszego
+Brata Hamleta, jakkolwiek by przeto
+Sercu naszemu godzi³o siê w ciê¿kim
+¯alu pogr¹¿yæ, a ca³emu pañstwu
+Zawrzeæ siê w jeden fa³d kiru, o tyle
+Jednak rozwaga czyni gwa³t naturze,
+¯e pomn¹c o nim nie zapominamy
+O sobie samych. Dlatego — z zatrut¹,
+¯e tak powiemy, od smutku radoœci¹,
+Z pogod¹ w jednym, a ³z¹ w drugim oku,
+Z bukietem w rêku, a jêkiem na ustach,
+Na równi wa¿¹c wesele i boleœæ —
+Po³¹czyliœmy siê ma³¿eñskim wêz³em
+Z t¹ niegdyœ siostr¹ nasz¹, a nastêpnie
+Dziedziczk¹ tego wojennego pañstwa.
+Co wszak¿e czyni¹c, nie post¹piliœmy
+Wbrew œwiatlejszemu waszemu uznaniu,
+Które swobodnie objawione da³o
+Temu krokowi sankcje. Dziêki za to. —
+A teraz wiedzcie, ¿e m³ody Fortynbras,
+Czyli to nasz¹ lekcewa¿¹c wartoœæ,
+Czyli to s¹dz¹c, ¿e z œmierci¹ drogiego
+Brata naszego w królestwie tym znajdzie
+Nie³ad i bezrz¹d, i na tym jedynie
+Buduj¹c p³onn¹ nadziejê korzyœci,
+Nie zaniedbuje nagliæ nas przez pos³ów
+O zwrot tych krain, które prawomocnie,
+Za spraw¹ œwiêtej pamiêci Hamleta,
+Brata naszego, z r¹k jego rodzica
+Przesz³y na w³asnoœæ Danii. Tyle o nim.
+Teraz-¿e o nas i o celu, w jakim
+Tu siê zeszliœmy. Wzywamy tym pismem
+Stryja m³odego Fortynbrasa, dzisiaj
+Króla Norwegii, który, z si³ opad³y,
+Ob³o¿nie chory, mo¿e i nie s³ysza³
+O tych zabiegach swojego synowca,
+Aby powstrzyma³ go od dalszych kroków
+W tej sprawie, aby mu wzbroni³ zbierania
+Wojsk i zaci¹gów z³o¿onych wszak z jego
+Wiernych poddanych. Wam zaœ, Korneliuszu
+I Woltymandzie, poruczamy zanieœæ
+To pismo, ³¹cznie z pozdrowieniem naszym,
+W³adcy Norwegii, nie upowa¿niaj¹c
+Was do wchodzenia z nim w nic wiêcej nad to,
+Co treœæ powy¿szych s³ów naszych zakreœla.
+Bywajcie nam wiêc zdrowi i niech poœpiech
+Chwali gorliwoœæ wasz¹.
+
+
+KORNELIUSZ I WOLTYMAND
+Jak we wszystkim,
+Tak i w tym staraæ siê bêdziem jej dowieœæ.
+
+
+KRÓL
+Nie w¹tpiê o tym. Bywajcie¿ nam zdrowi.
+
+Korneliusz i Woltymand wychodz¹.
+
+Mia³eœ nas o coœ prosiæ, Laertesie;
+Jaki¿ jest przedmiot tej proœby? Mów œmia³o.
+Nie traci pró¿no s³ów, kto siê udaje
+Ze s³usznym ¿¹daniem do monarchy Danii.
+Czegó¿ byœ pragn¹³, czego bym nie gotów
+Spe³niæ wprzód jeszcze, ni¿eliœ zapragn¹³?
+G³owa nie bli¿ej jest pokrewna sercu,
+Rêka nie skorsza ku przys³udze ustom
+Jak tron nasz ojcu twemu, Laertesie,
+Czegó¿ wiêc ¿¹dasz?
+
+
+LAERTES
+Pozwolenia waszej
+Królewskiej moœci na powrót do Francji,
+Sk¹d chêtnie wprawdzie tu przyby³em, aby
+Z³o¿yæ powinny ho³d przy koronacji
+Waszej królewskiej moœci, ale teraz,
+Gdym ju¿ dope³ni³ tego obowi¹zku,
+¯yczenia moje i myœli, wyznajê,
+Ci¹gn¹ miê znowu do Francji; ku czemu
+O przychylenie siê i przebaczenie
+Kornie œmiem wasz¹ królewsk¹ moœæ b³agaæ.
+
+
+KRÓL
+Có¿ na to ojciec waszmoœci? Przystaje-¿
+Na to, Poloniuszu?
+
+
+POLONIUSZ
+Usilnymi proœby
+Póty ko³ata³ do mojego serca,
+A¿em do ¿yczeñ jego mimochêtnie
+Przy³o¿y³ pieczêæ zezwolenia. Racz mu
+Wasza królewska moœæ nie broniæ jechaæ.
+
+
+KRÓL
+JedŸ wiêc, rozrz¹dzaj wed³ug woli czasem
+I ³ask¹ nasz¹. Do ciebie siê teraz
+Zwracam, kochany synowcze Hamlecie,
+Synu mój.
+
+
+HAMLET
+na stronie
+Trochê wiêcej ni¿ synowcze,
+A mniej ni¿ synu.
+
+
+KRÓL
+Jaki¿ tego powód,
+¯e czarne chmury wci¹¿ ciê otaczaj¹?
+
+
+HAMLET
+I owszem, panie, jestem wystawiony
+Bardzo na s³oñce.
+
+
+KRÓLOWA
+Kochany Hamlecie,
+Zrzuæ tê ponur¹ barwê i przyjaŸnie
+Wypogodzonym okiem spójrz na Daniê;
+Przestañ powieki ustawicznie spuszczaæ
+W ziemiê, o drogim ojcu rozmyœlaj¹c.
+Co ¿yje, musi umrzeæ; dziœ tu goœci,
+A jutro w progi przechodzi wiecznoœci;
+To pospolita rzecz.
+
+
+HAMLET
+W istocie, pani,
+Zbyt pospolita.
+
+
+KRÓLOWA
+Gdy wszystkim jest wspólna,
+Czemu¿ siê tobie zdaje tak szczególna?
+
+
+HAMLET
+Zdaje siê, pani! bynajmniej, jest raczej;
+U mnie nic ¿adne „zdaje siê” nie znaczy,
+Niczym sam przez siê ten oczom widzialny
+Czarnej ¿a³oby strój konwencjonalny;
+Wietrzne z trudnoœci¹ wydawane tchnienie,
+Obficie z oczu ciek¹ce strumienie,
+¯a³oœæ na widok stawiana obliczem,
+Min¹, gestami — to wszystko jest niczem.
+To tylko zdaje siê, bo potajemnie
+Mo¿na byæ obcym temu; ale we mnie
+Jest coœ, co w ramê oznak siê nie mieœci,
+W tê larwê ¿alu, liberiê boleœci.
+
+
+KRÓL
+Godzien pochwa³y, Hamlecie, ten smutek,
+Którym oddajesz czeœæ pamiêci ojca;
+Lecz wiedz, ¿e ojciec twój mia³ tak¿e ojca
+I ¿e go tak¿e utraci³ tak samo
+Jak tamten swego. Dobry syn powinien
+Jakiœ czas boleæ po œmierci rodzica;
+Lecz uporczywie trwaæ w utyskiwaniach
+Jest to bezbo¿ny okazywaæ upór,
+Sprzeciwiaj¹cy siê wyrokom niebios;
+Jest to niemêskie okazywaæ serce,
+Niesforny umys³ i p³och¹ rozwagê.
+Bo skoro wiemy, ¿e coœ jest zwyczajnym,
+Jak ka¿da inna rzecz najpowszedniejsza,
+Na có¿, stawiaj¹c opór koniecznoœci,
+Braæ to do serca? WstydŸ siê, jest to grzechem
+Przeciw naturze, przeciw niebu, przeciw
+Zmar³emu nawet; jest to na ostatek
+Wbrew rozumowi, który od skonania
+Pierwszego z ludzi a¿ do œmierci tego,
+Którego œwie¿¹ op³akujem stratê,
+Ci¹gle i ci¹gle wo³a: Tak byæ musi!
+Rzuæ wiêc, prosimy ciê, te p³onne ¿ale
+I pomnij, ¿e masz w nas drugiego ojca,
+Niechaj siê dowie œwiat, ¿eœ ty najbli¿szym
+Naszego tronu i naszego serca;
+Co siê zaœ tyczy twojego zamiaru
+Wrócenia nazad do szkó³ wittenberskich
+Jest on ¿yczeniom naszym wrêcz przeciwny;
+Przeto wzywamy ciê, abyœ siê zgodzi³
+Na pozostanie tu pod czu³¹ piecz¹
+Naszego oka, jako nasz najmilszy
+Dworzanin, krewny i syn.
+
+
+KRÓLOWA
+O, Hamlecie,
+Nie daj siê matce prosiæ nadaremnie;
+Pozostañ z nami, porzuæ myœl jechania
+Do Wittenbergi.
+
+
+HAMLET
+Ze wszystkich si³ moich
+Bêdê-æ pos³usznym, pani.
+
+
+KRÓL
+To mi piêkna,
+Co siê nazywa, synowska odpowiedŸ!
+PójdŸ, ukochana ¿ono, ta uprzejma,
+Nieprzymuszona powolnoœæ Hamleta
+Rozpromieni³a mi serce; dlatego
+Ka¿dy wzniesiony dziœ na zamku toast
+MoŸdzierze wzbij¹ w ob³oki i niebo,
+Wtórz¹c radosnym królewskim wiwatom,
+Odpowie ziemi równym grzmotem. IdŸmy.
+
+
+Król, Królowa i wszyscy prócz Hamleta wychodz¹.
+
+
+HAMLET
+Bogdaj to trwa³e, zbyt wytrwa³e cia³o
+Stopnia³o, w lotn¹ parê siê rozwia³o!
+Lub bogdaj Ten, tam w niebie, nie by³ kar¹
+Zagrozi³ samobójcy! Bo¿e! Bo¿e!
+Jak nudnym, nêdznym, lichym i ja³owym
+Zda mi siê ca³y obrót tego œwiata!
+To nie pielony ogród, samym tylko
+Bujnie krzewi¹cym siê chwastem poros³y.
+O wstydzie! ¿e te¿ mog³o przyjœæ do tego!
+Parê miesiêcy dopiero, jak umar³!
+Nie, nie, i tego nie ma — taki dobry,
+Taki anielski król, naprzeciw tego
+Istny Hyperion naprzeciw satyra;
+A tak do matki mojej przywi¹zany,
+¯e nie móg³ œcierpieæ nawet, aby lada
+Przyostry powiew dotkn¹³ siê jej twarzy.
+Ona zaœ — trzeba-¿, abym to pamiêta³! —
+Wiesza³a mu siê u szyi tak chciwie,
+Jakby w niej ros³a ¿¹dza pieszczot w miarê
+Zaspokajania jej. I w miesi¹c potem...
+O, precz z t¹ myœl¹!... S³aboœci, nazwisko
+Twoje: kobieta. — W jeden marny miesi¹c,
+Nim jeszcze zdar³a te trzewiki, w których
+Sz³a za biednego mego ojca cia³em,
+Zalana ³zami jako Niobe — patrzcie! —
+Bo¿e mój! zwierzê, bezrozumne zwierzê
+D³u¿ej by czu³o ¿al — zostaje ¿on¹
+Mojego stryja, brata mego ojca,
+Lecz który tak jest do brata podobny
+Jak ja do Herkulesa. W jeden miesi¹c,
+Nim jeszcze s³ony osad ³ez nieszczerych
+Z zaczerwienionych powiek jej ust¹pi³,
+Zosta³a ¿on¹ innego! Tak prêdko,
+Tak lekko skoczyæ w kazirodne ³o¿e!
+Nie jest to dobrym ani wyjœæ nie mo¿e
+Na dobre. Ale pêkaj, serce moje,
+Bo usta milczeæ musz¹.
+
+
+Horacy, Bernardo i Marcellus wchodz¹.
+
+
+HORACY
+Przyjm pozdrowienie nasze, drogi ksi¹¿ê.
+
+
+HAMLET
+Mi³o mi widzieæ panów w dobrym zdrowiu.
+Wszak to Horacy! albo zapomnia³em,
+Jak siê sam zowiê.
+
+
+HORACY
+Ten sam i jak zawsze
+Królewiczowskiej moœci biedny s³uga.
+
+
+HAMLET
+Dobry przyjaciel raczej; weŸ to miano,
+A mnie daj tamto. Có¿ ciê z Wittenbergi
+Sprowadza? — Wszak to Marcellus?
+
+
+MARCELLUS
+Tak, panie.
+
+
+HAMLET
+Bardzom rad widzieæ pana. Dobry wieczór.
+Ale na serio, powiedz mi, Horacy,
+Co ciê przywiod³o z Wittenbergi?
+
+
+HORACY
+Sk³onnoœæ
+Do pró¿niackiego ¿ycia, moœci ksi¹¿ê.
+
+
+HAMLET
+Tego by nie œmia³ mi powiedzieæ nawet
+Twój nieprzyjaciel i sam te¿ Ÿle czynisz,
+Chc¹c ucho moje przymusiæ do wiary
+W w³asne zeznanie twoje przeciw tobie.
+Wiem, ¿eœ nie pró¿niak; jaki¿ wiêc byæ mo¿e
+Cel przebywania twego w Elzynorze?
+Nauczysz siê tu piæ têgo.
+
+
+HORACY
+Przyby³em
+Na pogrzeb ojca twego, moœci ksi¹¿ê.
+
+
+HAMLET
+Nie ¿artuj ze mnie, szkolny towarzyszu;
+Przyby³eœ raczej na œlub matki mojej.
+
+
+HORACY
+W istocie, prêdko nast¹pi³ po tamtym.
+
+
+HAMLET
+Oszczêdnoœæ, bracie, oszczêdnoœæ! Przygrzane
+Resztki przysmaków z pogrzebowej stypy
+Da³y traktament na ucztê weseln¹.
+O mój Horacy, wola³bym by³ ujrzeæ
+Najzawziêtszego mego wroga w niebie
+Ni¿ do¿yæ tego dnia. Mój biedny ojciec!...
+Zda mi siê, ¿e go widzê.
+
+
+HORACY
+Gdzie?!
+
+
+HAMLET
+Przed duszy
+Mojej oczyma.
+
+
+HORACY
+Widzia³em go niegdyœ;
+By³ to król, jakich ma³o.
+
+
+HAMLET
+Cz³owiek, powiedz;
+Chocia¿by wszystko w tym fa³szywym œwiecie
+By³o tym, czym siê na pozór wydaje,
+Jeszcze by drugi taki siê nie znalaz³.
+
+
+HORACY
+Zda mi siê, ¿e go widzia³em tej nocy.
+
+
+HAMLET
+Widzia³eœ? kogo?
+
+
+HORACY
+Króla, ojca waszej
+Ksi¹¿êcej moœci.
+
+
+HAMLET
+Króla? mego ojca?!
+
+
+HORACY
+Zawieœ na chwilê zdumienie, o panie,
+I bacznym uchem racz wys³uchaæ tego
+Nadzwyczajnego doniesienia, które,
+Zgodnie z œwiadectwem tych dwóch zacnych ludzi,
+Mam ci uczyniæ.
+
+
+HAMLET
+Mów, na mi³oœæ bosk¹!
+
+
+HORACY
+Przez dwie ju¿ noce po sobie id¹ce,
+Wœród g³uchej ciszy pó³nocnej, ci¿ sami
+Oficerowie, Marcel i Bernardo,
+Stra¿ odbywaj¹c przy zamku, miewaj¹
+Nastêpuj¹ce widzenie:
+Postaæ podobna do œwiêtej pamiêci
+Ojca twojego, panie, uzbrojona
+Jak najkompletniej od stóp a¿ do g³owy,
+Staje przed nimi, uroczystym krokiem
+Przechodzi mimo, z wolna i powa¿nie;
+Trzykroæ przeci¹ga przed ich zdumia³ymi
+I struchla³ymi oczyma tak blisko,
+¯e ich nieledwie bu³aw¹ dotyka;
+Oni zaœ stoj¹ jak wryci i, jakby
+Zgalareceni przera¿eniem, nie œmi¹
+Przemówiæ do niej ani s³owa. Maj¹c
+Wieœæ o tym sobie przez nich udzielon¹
+Jak najtajemniej, uda³em siê z nimi
+Nastêpnej nocy samotrzeæ na wartê;
+I rzeczywiœcie o tym samym czasie,
+W taki sam sposób, co do joty zgodnie
+Z przywiedzionymi szczegó³ami, przysz³o
+Widziad³o. Zna³em ojca twego, panie:
+Te rêce mniej s¹ do siebie podobne.
+
+
+HAMLET
+Gdzie siê to dzia³o?
+
+
+HORACY
+Na tarasie, panie.
+
+
+HAMLET
+Nie przemówi³-¿eœ do tego zjawiska?
+
+
+HORACY
+I owszem, ale ¿adnej odpowiedzi
+Nie otrzyma³em. Raz tylko podnios³o
+G³owê i zda³o siê chcieæ coœ powiedzieæ;
+Ale w tej chwili zapia³ kur poranny,
+Na g³os którego zerwa³o siê nagle
+I znik³o nam sprzed oczu.
+
+
+HAMLET
+Osobliwe!
+
+
+HORACY
+Jak ¿yw tu stojê, moœci ksi¹¿ê, jest to
+Rzetelna prawda i mieliœmy sobie
+Za obowi¹zek donieœæ o tym waszej
+Ksi¹¿êcej moœci.
+
+
+HAMLET
+Zaprawdê, to widmo
+Niespokojnoœci miê nabawia. Macie-¿
+Tej nocy wartê?
+
+
+WSZYSCY TRZEJ
+Mamy, moœci ksi¹¿ê.
+
+
+HAMLET
+By³o wiêc uzbrojone?
+
+
+WSZYSCY TRZEJ
+Tak jest, panie.
+
+
+HAMLET
+Od stóp do g³owy?
+
+
+WSZYSCY TRZEJ
+Od czaszki do kostek.
+
+
+HAMLET
+Nie widzieliœcie wiêc jego oblicza?
+
+
+HORACY
+I owszem: mia³o przy³bicê wzniesion¹.
+
+
+HAMLET
+GroŸnie-¿ na twarzy wygl¹da³o?
+
+
+HORACY
+Smutno
+Bardziej ni¿ gniewnie.
+
+
+HAMLET
+Blado czy rumiano?
+
+
+HORACY
+O, bardzo blado.
+
+
+HAMLET
+I wzrok w was wlepia³o?
+
+
+HORACY
+Nieporuszenie.
+
+
+HAMLET
+Szkoda, ¿em tam nie by³.
+
+
+HORACY
+By³byœ by³, panie, os³upia³.
+
+
+HAMLET
+Byæ mo¿e,
+Byæ mo¿e. D³ugo-¿ bawi³o?
+
+
+HORACY
+Tak d³ugo,
+Jak d³ugo by ktoœ przy œrednim poœpiechu
+Sto musia³ liczyæ.
+
+
+MARCELLUS I BERNARDO
+O, d³u¿ej.
+
+
+HORACY
+Nie wtedy,
+Kiedy ja by³em.
+
+
+HAMLET
+Siw¹-¿ mia³o brodê?
+
+
+HORACY
+Zupe³nie tak¹, jak¹ u zmar³ego
+Króla widzia³em: czarn¹, posrebrzon¹.
+
+
+HAMLET
+Bêdê dziœ z wami na warcie: byæ mo¿e,
+I¿ przyjdzie znowu.
+
+
+HORACY
+Przyjdzie niezawodnie.
+
+
+HAMLET
+Skoro przybiera postaæ mego ojca,
+Muszê z nim mówiæ, choæby ca³e piek³o,
+Rozwar³szy paszczê, milczeæ mi kaza³o.
+Co do was, moi panowie, jeœliœcie
+Tê okolicznoœæ dot¹d zataili,
+Trzymajcie¿ j¹ i nadal pod zamkniêciem,
+I co b¹dŸ zdarzy siê tej nocy, bierzcie
+Wszystko na rozum, ale nie na jêzyk;
+Nagrodzê wam tê dobroæ. B¹dŸcie zdrowi.
+Pomiêdzy jedenast¹ a dwunast¹
+Zejdziem siê na tarasie.
+
+
+WSZYSCY TRZEJ
+S³udzy waszej
+Ksi¹¿êcej moœci.
+
+
+HAMLET
+B¹dŸcie przyjació³mi,
+Tak jak ja jestem waszym. Do widzenia.
+
+Horacy, Marcellus, Bernardo wychodz¹.
+
+Duch mego ojca! uzbrojony! Coœ tu
+Z³ego siê œwiêci, coœ tu krzywo idzie,
+Oby ju¿ by³a noc! tymczasem jednak
+Milcz, serce moje! Zbrodnie i spod ziemi
+Wychodz¹, aby staæ siê widomemi.
+wychodzi
+
+
+
+
+
+SCENA TRZECIA
+
+
+Pokój w domu Poloniusza.
+
+Laertes i Ofelia.
+
+
+LAERTES
+Ju¿ rzeczy moje zniesione na pok³ad;
+B¹dŸ zdrowa, siostro; a gdy wiatr przyjaŸnie
+Zadmie od brzegu i który z okrêtów
+Zdejmie kotwicê, nie zasypiaj wtedy,
+Lecz donoœ mi o sobie.
+
+
+OFELIA
+W¹tpisz o tym?
+
+
+LAERTES
+Co siê zaœ tyczy Hamleta i pustych
+Jego zalotów, uwa¿aj je jako
+Mami¹cy pozór, kaprys krwi gor¹cej;
+Jako fio³ek m³odocianej wiosny,
+Wczesny, lecz w¹t³y, luby, lecz nietrwa³y,
+Woñ, kilka tylko chwil upajaj¹c¹,
+Nic wiêcej.
+
+
+OFELIA
+Wiêcej nic?
+
+
+LAERTES
+Nie myœl inaczej.
+Natura ludzka, kiedy siê rozwija,
+Nie tylko roœnie co do form zewnêtrznych;
+Jak w buduj¹cej siê œwi¹tyni — s³u¿ba
+Duszy i ducha zwiêksza siê w niej tak¿e.
+Byæ mo¿e, i¿ on ciebie teraz kocha,
+¯e czystoœæ jego chêci jest bez plamy;
+Ale zwa¿ywszy jego stopieñ, pomnij,
+¯e jego wola nie jest jego w³asn¹.
+On sam jest rodu swego niewolnikiem;
+Nie mo¿e, jako podrzêdni, wybieraæ
+Dla siebie tylko, od jego wyboru
+Zale¿y bowiem bezpieczeñstwo, dobro
+Ca³ego pañstwa; przeto te¿ i jego
+Wybór koniecznie musi byæ zale¿ny
+Od ¿yczeñ i od przyzwolenia tego
+Wielkiego cia³a, którego jest g³ow¹.
+Je¿eli zatem mówi, ¿e ciê kocha,
+Rozwadze twojej przystoi mu wierzyæ
+O tyle tylko, o ile on zgodnie
+Ze stanowiskiem przez siê zajmowanym
+Bêdzie móg³ s³owa swojego dotrzymaæ,
+To jest, o ile powszechny g³os Danii
+Przystanie na to. Uwa¿, jaka hañba
+Grozi twej s³awie, jeœli ³atwowiernie
+Poszeptom jego podasz ucho, serce
+Sobie uwiêzisz i skarb niewinnoœci
+Otworzysz jego zapêdom bez wodzy.
+Strze¿ siê, Ofelio, strze¿ siê, luba siostro;
+I stój w odwodzie twej sk³onnoœci, z dala
+Od niebezpieczestw i napaœci pokus.
+Wstydliwe dziewczê za wiele ju¿ wa¿y,
+Gdy przed ksiê¿ycem wdziêki swe ods³ania;
+Na sam¹ cnotê pada rdza obmowy;
+Robak zbyt czêsto toczy dzieci wiosny,
+Nim jeszcze p¹czki zd¹¿y³y otworzyæ;
+I kiedy rosa wil¿y m³odoœæ ho¿¹,
+Wp³ywy z³oœliwych miazm najbardziej gro¿¹.
+Strze¿ siê wiêc; tarcz¹ najlepsz¹ w tej próbie
+Niedowierzanie, nawet samej sobie.
+
+
+OFELIA
+Treœæ tej nauki postawiê na stra¿y
+Mojego serca. Nie idŸ jednak, bracie,
+Za œladem owych fa³szywych doradców,
+Którzy nam strom¹ i ciernist¹ œcie¿kê
+Cnoty wskazuj¹, a sami tymczasem
+Krocz¹ kwiecistym szlakiem b³êdów, w³asnych
+Rad niepamiêtni.
+
+
+LAERTES
+B¹dŸ o mnie spokojna
+I b¹dŸ mi zdrowa. Lecz oto nasz ojciec.
+
+Polonius wchodzi.
+
+Podwójne b³ogos³awieñstwo, podwójne
+Szczêœcie przynosi: szczêœliwe spotkanie,
+Które mi zdarza sposobnoœæ ku temu.
+
+
+POLONIUSZ
+Laertes jeszcze tu? Dalej na okrêt!
+Wiatr wzdyma ¿agle, czekaj¹ na ciebie,
+Raz jeszcze dajê ci b³ogos³awieñstwo
+Na drogê.
+k³adzie rêkê na g³owê synowi
+WeŸ je i wraŸ sobie w pamiêæ
+Tych kilka przestróg: Nie b¹dŸ skorym myœli
+Wprowadzaæ w s³owa, a zamiarów w czyny.
+B¹dŸ popularnym, ale nigdy gminnym.
+Przyjació³, których doœwiadczysz, a których
+Wybór oka¿e siê byæ ciebie godnym,
+Przykuj do siebie ¿elaznymi klamry,
+Ale nie plugaw sobie r¹k uœciskiem
+D³oni pierwszego lepszego socjusza.
+Strze¿ siê zatargów, jeœli zaœ w nie zajdziesz,
+Tak siê w nich znajduj, aby twój przeciwnik
+Nadal siê ciebie strzec musia³. Miej zaw¿dy
+Ucho otworem, ale rzadko kiedy
+Otwieraj usta. Chwytaj zdania drugich,
+Ale s¹d w³asny zatrzymuj przy sobie.
+Noœ siê kosztownie, o ile ci na to
+Mieszek pozwoli, ale bez przesady;
+Wytwornie, ale nie wybrednie; czêsto
+Bowiem ubranie zdradza grunt cz³owieka
+I pod tym wzglêdem Francuzi szczególniej
+S¹ pe³ni taktu. Nie po¿yczaj drugim
+Ani od drugich; bo po¿yczkê dan¹
+Tracim najczêœciej razem z przyjacielem,
+A bran¹ psujem rz¹d potrzebny w domu.
+S³owem, rzetelnym b¹dŸ sam wzglêdem siebie,
+A jako po dniu noc z porz¹dku idzie,
+Tak za tym pójdzie, ¿e i wzglêdem drugich
+Bêdziesz rzetelnym. B¹dŸ zdrów, niech ciê moje
+B³ogos³awieñstwo utwierdzi w tej mierze.
+
+
+LAERTES
+Z pokor¹ ¿egnam ciê, ojcze i panie.
+
+
+POLONIUSZ
+IdŸ ju¿; czas nagli, wszystko w pogotowiu.
+
+
+LAERTES
+B¹dŸ zdrowa, siostro, i pamiêtaj na to,
+Com ci powiedzia³.
+
+
+OFELIA
+Zamknê³am to w sercu,
+A ty masz klucz do niego.
+
+
+LAERTES
+B¹dŸ mi zdrowa.
+wychodzi
+
+
+POLONIUSZ
+Có¿ to on tobie powiedzia³, Ofelio?
+
+
+OFELIA
+Coœ, co tyczy³o siê ksiêcia Hamleta.
+
+
+POLONIUSZ
+W porê mi o tym wspominasz. S³ysza³em,
+¯e on ciê czêsto nawiedza³ w tych czasach
+I ¿e znajdowa³ z twojej strony przystêp
+£atwy i chêtny. Je¿eli tak by³o
+(A udzielono mi o tym wiadomoœæ
+Jako przestrogê), muszê ci powiedzieæ,
+¯e siê nie cenisz tak, jakby przysta³o
+Dba³ej o s³awê córce Poloniusza.
+Jakie¿ wy macie stosunki? Mów prawdê.
+
+
+OFELIA
+Oœwiadczy³ mi siê, ojcze, z sw¹ sk³onnoœci¹.
+
+
+POLONIUSZ
+Z sk³onnoœci¹? Hm, hm! Mówisz jak dzierlatka
+Niedoœwiadczona w rzeczach niebezpiecznych.
+Wierzysz-li tym tak zwanym oœwiadczeniom?
+
+
+OFELIA
+Nie wiem, co myœleæ mam, mój ojcze.
+
+
+POLONIUSZ
+Nie wiesz?
+To ja ci powiem: Masz myœleæ, ¿eœ dziecko,
+Gdy oœwiadczenia te bez poœwiadczenia
+Rozs¹dku bierzesz za dobr¹ monetê.
+Nie radzê ci siê z nim œwiadczyæ, inaczej
+(¯e tej igraszki s³ów jeszcze u¿yjê)
+Doœwiadczysz nastêpstw niedobrych.
+
+
+OFELIA
+Wynurza³
+Mi swoj¹ mi³oœæ bardzo obyczajnie.
+
+
+POLONIUSZ
+Tak, tak, bo czyniæ to jest obyczajem.
+
+
+OFELIA
+I s³owa swoje stwierdzi³ najœwiêtszymi,
+Jakie byæ mog¹, przysiêgami.
+
+
+POLONIUSZ
+Plewy
+Na m³ode wróble! Wiem ja, gdy krew kipi,
+Jak wtedy dusza hojn¹ jest w k³adzeniu
+Przysi¹g na usta. Nie bierz tych wybuchów
+Za ogieñ, wiêcej z nich œwiat³a ni¿ ciep³a,
+A i to œwiat³o gaœnie w oka mgnieniu.
+B¹dŸ odt¹d trochê sk¹psza w przystêpnoœci
+I wiêcej sobie wa¿ rozmowê swoj¹
+Ni¿ wyzywanie drugich do rozmowy.
+Co siê zaœ ksiêcia Hamleta dotyczy,
+Bacz na to, ¿e on jeszcze m³odzieniaszek
+I ¿e mu wiêcej jest wolno, ni¿ tobie
+Mo¿e byæ wolno kiedykolwiek. S³owem,
+Nie ufaj jego przysiêgom, bo one
+S¹ jak kuglarze, czym innym, ni¿ szaty
+Ich pokazuj¹: orêdownicami
+Bezbo¿nych chuci, bior¹cymi pozór
+Œwiêtoœci, aby tym ³acniej usidliæ
+Naiwne serca. Krótko mówi¹c, nie chcê,
+Abyœ od dziœ dnia czas swój marnowa³a
+Na zadawanie siê z ksiêciem Hamletem.
+Pamiêtaj, nie chcê tego. Mo¿esz odejœæ.
+
+
+OFELIA
+Bêdê-æ pos³uszn¹, panie.
+
+
+Wychodz¹.
+
+
+
+
+
+SCENA CZWARTA
+
+
+Taras zamkowy.
+
+Wchodz¹ Hamlet, Horacy i Marcellus.
+
+
+HAMLET
+Ostry wiatr wieje; przejmuj¹ce zimno.
+
+
+HORACY
+W istocie: bardzo szczypi¹ce powietrze.
+
+
+HAMLET
+Która godzina?
+
+
+HORACY
+Dwunasta dochodzi.
+
+
+MARCELLUS
+Dwunasta bi³a ju¿.
+
+
+HORACY
+Ju¿? Nie s³ysza³em.
+Zbli¿a siê zatem czas, o którym widmo
+Zwyk³o siê jawiæ.
+
+Odg³os tr¹b i wystrza³ów za scen¹.
+
+Co to znaczy, panie?
+
+
+HAMLET
+To znaczy, ¿e król czuwa z czar¹ w rêku,
+Zgrajê opilców dworskich przepijaj¹c;
+Ka¿dy zaœ taki sygna³ tr¹b i kot³ów
+Jest triumfalnym has³em nowej miary
+Przezeñ spe³nionej.
+
+
+HORACY
+Czy to taki zwyczaj?
+
+
+HAMLET
+Zwyczaj zaiste; moim jednak zdaniem,
+Lubom tu zrodzon i z tym oswojony,
+Chlubniej by³oby taki zwyczaj ³amaæ
+Ni¿ zachowywaæ. Te biby na zabój
+W poœmiech i wzgardê tylko nas podaj¹
+U innych ludów: beczkami nas mieni¹
+I trzodzie chlewnej w³aœciwy przydomek
+Hañbi nazwisko nasze. W rzeczy samej,
+Choæbyœmy zreszt¹ byli bez zarzutu,
+To jedno ju¿ by star³o z naszych czynów
+Zaszczytn¹ cechê ich wnêtrznej wartoœci.
+I pojedynczym ludziom siê to zdarza:
+Niejeden skutkiem naturalnych przywar —
+Czyli to rodu (czemu nic nie winien,
+Bo któ¿ obiera sobie pochodzenie),
+Czy to jakiegoœ krwi usposobienia,
+Które czêstokroæ rwie tamy rozumu,
+Czy to na³ogu przeciwnego formom
+Przyzwoitoœci — niejeden, powiadam,
+Upoœledzony w taki sposób jak¹
+Szczególn¹ wad¹, b¹dŸ to organicznie,
+B¹dŸ przypadkowo — choæby jego cnoty
+By³y sk¹din¹d jako kryszta³ czyste
+I mnogie, jako byæ mog¹ w cz³owieku —
+T¹ jedn¹ skaz¹ zara¿ony bêdzie
+W opinii ludzi. Jedna drachma z³ego
+Niweczy wszelkie szlachetne pierwiastki.
+
+
+Duch wchodzi.
+
+
+HORACY
+Widzisz go, panie.
+
+
+HAMLET
+Anio³owie Pana
+Zastêpów, miejcie miê w swojej opiece!
+B³ogos³awionyœ ty czy potêpiony,
+Tchniesz-li tchem niebios czy wyziewem piekie³.
+Masz-li zamiary zgubne czy przyjazne,
+Przychodzisz w takiej postaci, ¿e muszê
+Wydobyæ z ciebie g³os. Hamlecie, królu,
+Ojcze mój, w³adco Danii, odpowiadaj!
+Nie pozostawiaj miê w nieœwiadomoœci;
+Powiedz, dlaczego œwiête koœci twoje,
+Na wieki w trumnie z³o¿one, przebi³y
+Œmiertelny ca³un; dlaczego grobowiec,
+W który widzielim ciê zstêpuj¹cego,
+Podniós³ swe ciê¿kie marmurowe wieko,
+¯eby ciê zwróciæ ziemi? Co to znaczy?
+¯e ty, trup, znowu w kompletnym rynsztunku
+Podksiê¿ycowy ten padó³ odwiedzasz,
+Czyni¹c noc straszn¹ i nas, niedo³ê¿nych
+Synów tej ziemi, wstrz¹saj¹c myœlami,
+Przechodz¹cymi metê naszych pojêæ?
+O, powiedz, co to jest! Co za cel tego?
+Czego chcesz od nas?
+
+
+HORACY
+Daje ci znak, panie,
+Abyœ z nim poszed³, jakby chcia³ sam na sam
+Pomówiæ z tob¹.
+
+
+MARCELLUS
+Jak uprzejmym gestem
+Wzywa ciê, panie, w ustronniejsze miejsce.
+Nie idŸ z nim jednak.
+
+
+HORACY
+Nie chodŸ, moœci ksi¹¿ê.
+
+
+HAMLET
+Chce ze mn¹ mówiæ: pójdê.
+
+
+HORACY
+Nie czyñ tego,
+£askawy panie.
+
+
+HAMLET
+Czegó¿ bym siê lêka³?
+To ¿ycie szpilki z³amanej niewarte,
+A dusza moja, jak on, nieœmiertelna.
+Patrz, znowu na mnie kiwa... Pójdê za nim.
+
+
+HORACY
+A gdyby on ciê zaprowadzi³, panie,
+Nad przepaœæ, na brzeg owej groŸnej ska³y,
+Która siê stromo spuszcza w morsk¹ otch³añ,
+I tam przedzierzgn¹³ siê w inne postacie,
+Jeszcze straszniejsze, które by ci mog³y
+Odj¹æ, o panie, przytomnoœæ umys³u
+I w ob³¹kanie ciê wprawiæ? Zwa¿ tylko!
+Ju¿ samo tamto miejsce bez ¿adnego
+Innego wp³ywu budzi rozpaczliwe
+Usposobienie w ka¿dym, kto spostrze¿e
+Morze na tyle s¹¿ni tu¿ pod sob¹
+I s³yszy jego huk.
+
+
+HAMLET
+Wci¹¿ na mnie kiwa.
+IdŸ ju¿, idŸ; pójdê z tob¹.
+
+
+MARCELLUS
+Zostañ, panie.
+
+
+HAMLET
+Puœæcie mnie!
+
+
+HORACY
+Wstrzymaj siê, panie, pozostañ!
+
+
+HAMLET
+Los mój mnie wo³a i najmniejsz¹ ¿y³kê
+Mojego cia³a czyni tak potê¿n¹
+Jak najsilniejszy nerw lwa nemejskiego.
+
+Duch nie przestaje kiwaæ.
+
+Ci¹gle mnie wzywa! Puœæcie mnie!
+wyrywaj¹c siê
+Na Boga!
+W upiora zmieniê tego, co mnie d³u¿ej
+Wstrzymywaæ bêdzie. — IdŸ, œpieszê za tob¹.
+
+
+Duch i Hamlet wychodz¹.
+
+
+HORACY
+Imaginacja w sza³ go wprawia.
+
+
+MARCELLUS
+IdŸmy
+W trop za nim; tu nie w porê pos³uszeñstwo.
+
+
+HORACY
+IdŸmy. Na czym¿e siê to skoñczy?
+
+
+MARCELLUS
+Widno
+Jest coœ chorobliwego w pañstwie duñskim.
+
+
+HORACY
+Niebo zaradzi temu.
+
+
+MARCELLUS
+Spieszmy za nim.
+
+
+Wychodz¹.
+
+
+
+
+
+
+SCENA PI¥TA
+
+
+Oddalona czêœæ tarasu.
+
+Wchodz¹ Duch i Hamlet.
+
+
+HAMLET
+Gdzie mnie prowadzisz? Mów; nie pójdê dalej.
+
+
+DUCH
+S³uchaj mnie.
+
+
+HAMLET
+S³ucham.
+
+
+DUCH
+Zbli¿a siê godzina,
+O której w srogie, siarczyste p³omienie
+Muszê powróciæ znowu.
+
+
+HAMLET
+Biedny duchu!
+
+
+DUCH
+Nie lituj siê nade mn¹, ale bacznym
+Uchem ogarnij to, co ci mam odkryæ.
+
+
+HAMLET
+Mów, powinnoœci¹ moj¹ s³uchaæ ciebie.
+
+
+DUCH
+Jak niemniej zemœciæ siê, gdy mnie wys³uchasz.
+
+
+HAMLET
+Zemœciæ siê?
+
+
+DUCH
+Jestem duchem twego ojca,
+Skazanym tu³aæ siê noc¹ po œwiecie,
+A przez dzieñ jêczeæ w ogniu, póki wszystek
+Ka³ pope³nionych za ¿ywota grzechów
+Nie wypali siê we mnie. Gdybym miejsca
+Mojej pokuty sekret móg³ wyjawiæ,
+Takie bym rzeczy ci opisa³, których
+Najmniejszy szczegó³ rozdar³by ci duszê,
+M³od¹ krew twoj¹ zmrozi³, oczy twoje
+Jak gwiazdy z posad wydoby³, zwiniête,
+G³adkie kêdziory twoje wyprostowa³
+Tak, ¿e ich ka¿dy w³os stan¹³by dêbem
+Jako na je¿u kolce; ale takich
+Podañ nie znosi ludzkie ucho. S³uchaj,
+O, s³uchaj, s³uchaj, jeœli choæ cokolwiek
+Kocha³eœ twego ojca.
+
+
+HAMLET
+Przebóg!
+
+
+DUCH
+Pomœcij
+Œmieræ jego, dzie³o ohydnego mordu!
+
+
+HAMLET
+Mordu?
+
+
+DUCH
+Tak, mordu; wszelki mord ohydny,
+Lecz ten by³ nadzwyczajny, nies³ychany.
+
+
+HAMLET
+Dlaboga, wymieñ go, wymieñ czym prêdzej,
+Abym na skrzyd³ach chy¿ych jak modlitwa
+Lub myœl kochanka pod¹¿y³ ku zemœcie.
+
+
+DUCH
+Zdajesz siê pe³en dobrych chêci, by³byœ
+Te¿ nikczemniejszy ni¿ najlichsze ziele,
+Wegetuj¹ce nad brzegami Lety,
+Gdybyœ pozosta³ na to obojêtny.
+S³uchaj wiêc, s³uchaj, Hamlecie. Puszczono
+Rozg³os, ¿e podczas mego snu w ogrodzie
+W¹¿ mnie uk¹si³; takim to sk³amanym
+Powodem œmierci mej zwiedziono Daniê;
+Dowiedz siê bowiem, szlachetny m³odzieñcze,
+¯e ów w¹¿, który zabi³ twego ojca,
+Nosi dziœ jego koronê.
+
+
+HAMLET
+O nieba!
+Stryj! Nie zawiod³y mnie przeczucia moje.
+
+
+DUCH
+Ten to bezwstydny, cudzo³o¿ny potwór
+Zdradnymi dary, czarami wymowy
+(Przeklête dary, przeklêta wymowa,
+Która tak mo¿e z³udziæ!) ku sromocie
+Potrafi³ sk³oniæ wolê mojej niby
+Cnotliwej ¿ony. O Hamlecie! có¿ to
+By³ za upadek! Ode mnie, którego
+Mi³oœæ statecznie chodzi³a d³oñ w d³oni
+Z œlubn¹ przysiêg¹, w objêcia nêdznika,
+Którego dary przyrodzone by³y
+Naprzeciw moich tak liche!
+Lecz jako cnota pozostaje czyst¹,
+Choæby j¹ sproœnoœæ w postaci niebianki
+Usi³owa³a skusiæ, tak z³a ¿¹dza,
+Choæby j¹ ³¹czy³ œlub z anio³em nawet,
+Prêdko uprzykrzy sobie œwiête ³o¿e
+I rzuci siê na bar³óg.
+Ale doœæ tego! Ju¿ powietrze ranne
+Czuæ mi siê daje; muszê koñczyæ: kiedym
+Raz po po³udniu jak zwykle w ogrodzie
+Bezpiecznie zasn¹³, wkrad³ siê stryj twój z flaszk¹
+Zawieraj¹c¹ blekotowe krople
+I wla³ mi w ucho ten zabójczy rozczyn,
+Którego si³a tak jest nieprzyjazna
+Ludzkiej naturze, ¿e jak ¿ywe srebro
+Przebiega nagle wszystkie drogi, wszystkie
+Kana³y cia³a i jako sok kwaœny
+Wlany do mleka œcina wnet i zgêszcza
+Wszystk¹ krew zdrow¹. Tak by³o i z moj¹;
+I wraz plugawy tr¹d, jak u £azarza,
+Wyst¹pi³ na mnie i brzydk¹ skorup¹
+Pokry³ mi ca³e cia³o.
+Tak to œpi¹c, rêk¹ brata pozbawiony
+Zosta³em ¿ycia, ber³a i ma³¿onki,
+Skoszony w samym kwiecie moich grzechów:
+Bez namaszczenia, bez przygotowania,
+Bez porachunku z sob¹ wyprawiony
+Zdaæ porachunek z win jeszcze nie zmytych.
+O, to okropne! okropne! okropne!
+Masz-li iskierkê czucia, nie œcierp tego;
+Nie pozwól, aby ³o¿e w³adców Danii
+By³o ohydnym gniazdem wszeteczeñstwa.
+Jakkolwiek jednak czyn ten pomœciæ zechcesz,
+Nie kalaj swojej duszy, nie czyñ przeciw
+Matce zamachów; pozostaw j¹ niebu
+I owym cierniom, które w g³êbi ³ona
+Wystêpnych siedz¹; zrobi¹ one swoje.
+B¹dŸ zdrów, œwiec¹cy robaczek oznajmia,
+¯e ranek ju¿ jest bliski; w¹t³e bowiem
+Œwiate³ko jego znacznie ju¿ poblad³o;
+¯egnam ciê, ¿egnam ciê; pamiêtaj o mnie.
+znika
+
+
+HAMLET
+O wy niebieskie potêgi! O ziemio!
+Có¿ wiêcej? Mam¿e piek³o jeszcze wezwaæ?
+Nie, o nie! Krzep siê, krzep siê, serce moje!
+Prê¿cie siê nerwy! Pamiêtaæ o tobie?
+O biedny duchu, stanie ci siê zadoœæ.
+Dopóki tylko w tej znêkanej g³owie
+Pamiêæ ¿yæ bêdzie. Pamiêtaæ o tobie?
+Wraz pamiêæ moja z tablic swych wykreœli
+Wszelkie powszednie, tuzinkowe myœli;
+Ksi¹¿kow¹ m¹droœæ, obrazy, wra¿enia,
+P³ody m³odoœci lub zastanowienia,
+Wszystko, co zwi¹zek ma z przysz³ym mym bytem;
+To, coœ mi zleci³, to tylko wyrytem
+W ksiêdze mojego mózgu pozostanie;
+Tak mi dopomó¿, wiekuisty Panie!
+O wiaro³omna niewiasto! O ³otrze,
+Uœmiechaj¹cy siê, bezczelny ³otrze!
+Muszê to sobie zapisaæ, ¿e mo¿na
+Nosiæ na ustach uœmiech i byæ ³otrem —
+W Danii przynajmniej
+wyjmuje pugilares i zapisuje
+Tak; siedŸ tu, stryjaszku,
+Teraz-¿e, duszo moja, pilnuj has³a,
+A tym jest: ¯egnam ciê, pamiêtaj o mnie!
+Przysi¹g³em mu byæ wiernym.
+
+
+HORACY
+za scen¹
+Królewiczu!
+
+
+MARCELLUS
+podobnie¿
+Ksi¹¿ê Hamlecie!
+
+
+HORACY
+Chroñ go, Panie!
+
+
+HAMLET
+Amen!
+
+
+MARCELLUS
+Hop, hop, hop, moœci ksi¹¿ê!
+
+
+HAMLET
+Hop, hop, ch³opcze!
+Tu, tu, mój ptaszku!
+
+
+Horacy i Marcellus wchodz¹.
+
+
+HORACY
+I có¿?
+
+
+MARCELLUS
+I có¿, panie?
+
+
+HAMLET
+Dziwy!
+
+
+HORACY
+Opowiedz nam to, panie.
+
+
+HAMLET
+W³aœnie!
+¯ebyœcie potem roztr¹bili.
+
+
+HORACY
+Ja¿ bym
+Móg³ to uczyniæ?
+
+
+MARCELLUS
+O, ani ja pewnie!
+
+
+HAMLET
+Có¿ wy powiecie na to? Któ¿ by s¹dzi³?
+Ale bêdziecie milczeæ?
+
+
+HORACY I MARCELLUS
+Jak Bóg w niebie!
+
+
+HAMLET
+Nie ma na ca³¹ Daniê nikczemnika,
+Który by nie by³ kompletnym ladaco.
+
+
+HORACY
+Do objawienia nam tego nie trzeba,
+¯eby a¿ duchy wychodzi³y z grobów.
+
+
+HAMLET
+W istocie, macie s³usznoœæ. Owó¿ tedy
+Nie pozostaje nam teraz nic wiêcej,
+Jeno bez ¿adnych dalszych korowodów
+Uœcisn¹æ sobie d³onie i pójœæ z Bogiem.
+Wy idŸcie, gdzie wam ka¿e iœæ interes
+Lub sk³onnoœæ — ka¿dy bowiem na tym œwiecie
+Ma jak¹œ sk³onnoœæ lub interes; ja zaœ
+W prostocie mojej pójdê siê pomodliæ.
+
+
+HORACY
+To s¹ czcze tylko s³owa, moœci ksi¹¿ê.
+
+
+HAMLET
+Przykro mi, ¿eœcie obra¿eni; z serca
+W istocie, z serca przykro.
+
+
+HORACY
+Moœci ksi¹¿ê,
+Nie ma tu ¿adnej obrazy.
+
+
+HAMLET
+I owszem.
+Zaprawdê mówiê wam, jest tu obraza,
+I wielka. Co siê tyczy tego ducha,
+Jest to duch dobry; poprzestañcie na tym;
+Co zaœ pomiêdzy nim a mn¹ tu zasz³o,
+Ciekawoœæ swoj¹ w tej mierze przyt³umcie
+Ca³¹ mo¿liw¹ doz¹ rezygnacji.
+A teraz, moi mili przyjaciele,
+W imiê przyjaŸni, w imiê kole¿eñstwa,
+Zróbcie mi jedn¹ grzecznoœæ.
+
+
+HORACY
+Jak¹, panie?
+
+
+HAMLET
+Nie mówcie, coœcie widzieli tej nocy.
+
+
+HORACY I MARCELLUS
+Nie powiem, panie.
+
+
+HAMLET
+Przysi¹¿cie mi na to.
+
+
+HORACY
+Na honor, nic nie powiem.
+
+
+MARCELLUS
+I ja tak¿e,
+Na honor.
+
+
+HAMLET
+Na ten miecz raczej przysi¹¿cie.
+
+
+MARCELLUS
+Ju¿eœmy, panie, przysiêgli.
+
+
+HAMLET
+Przysi¹¿cie
+Na ten miecz, na ten miecz, mówiê.
+
+
+DUCH
+spod ziemi
+Przysi¹¿cie!
+
+
+HAMLET
+Ha, to ty! Stamt¹d odzywasz siê, stary?
+S³yszycie tego kipra tam w piwnicy?
+Przysi¹¿cie-¿!
+
+
+HORACY
+Na có¿ mamy przysi¹c, panie?
+
+
+HAMLET
+¯e o tym, coœcie widzieli, nikomu
+Nigdy a nigdy nie powiecie s³owa.
+Przysi¹¿cie-¿ na ten miecz!
+
+
+DUCH
+spod ziemi
+Przysi¹¿cie!
+
+
+HAMLET
+Znowu?
+Hic et ubique? Odmieñmy wiêc miejsce.
+PójdŸcie tu, moi panowie, po³ó¿cie
+Na moim mieczu palce i przysi¹¿cie,
+¯e o tym, coœcie s³yszeli, nikomu
+Nic nie powiecie.
+
+
+DUCH
+spod ziemi
+Przysi¹¿cie!
+
+
+HAMLET
+Ha, krecie!
+Tak prêdko umiesz szybowaæ pod ziemi¹?
+Wyborny z ciebie minier! No, panowie.
+
+
+HORACY
+Na Boga, to s¹ rzeczy niepojête!
+
+
+HAMLET
+Chcia³-¿e byœ wszystko poj¹æ? O Horacy,
+Wiêcej jest rzeczy na ziemi i w niebie,
+Ni¿ siê ich œni³o waszym filozofom.
+PójdŸcie tu, i jak pierwej w imiê Boga,
+Przysi¹¿cie, ¿e jakkolwiek bym siê kiedy
+Wydawa³ dzikim, dziwacznym w obejœciu —
+Byæ bowiem mo¿e, ¿e mi siê na przysz³oœæ
+Wyda stosownym przybraæ tak¹ postaæ —
+¯e, mówiê, widz¹c mnie takim,
+¯aden z was ani potrz¹saniem g³owy,
+Ani wzruszeniem ramion, ani wreszcie
+Jakimikolwiek w¹tpliwymi s³owy,
+Jako to: „Hm, hm, wiem ja”; albo: „Móg³bym,
+Gdybym chcia³”; albo: „Gdybym by³ gadu³¹”;
+Albo: „S¹ tacy, co by mogli” — zgo³a,
+Niczym dwuznacznym nie da siê domyœliæ,
+¯e wie coœ o mnie. Poprzysi¹¿cie-¿ na to,
+Jeœli pragniecie, aby siê nad wami
+W nieszczêœciu Pan Bóg zmi³owa³.
+
+
+DUCH
+spod ziemi
+Przysi¹¿cie!
+
+
+HAMLET
+Ukój siê, ukój, rozdra¿niony duchu!
+Pomnijcie¿ na wasz œlub, mili panowie,
+A przez co tylko taki biedny cz³owiek
+Jak Hamlet, bêdzie wam zdolny okazaæ
+Swoj¹ ¿yczliwoœæ, to was nie ominie.
+Teraz rozejdŸmy siê. — Œwiat wyszed³ z formy
+I mnie-¿ to trzeba wracaæ go do normy!
+
+
+Wychodz¹.
+
+
+
+
+
+AKT DRUGI
+
+
+
+
+
+SCENA PIERWSZA
+
+
+Pokój w domu Poloniusza.
+
+Poloniusz i Rajnold.
+
+
+POLONIUSZ
+Rajnoldzie, oddasz mu waszmoœæ to pismo
+I te pieni¹dze.
+
+
+RAJNOLD
+Nie omieszkam, panie.
+
+
+POLONIUSZ
+Zanim siê jednak doñ udasz, Rajnoldzie,
+M¹drze byœ zrobi³, a¿ebyœ poprzednio
+O jego sprawowaniu siê wywiedzia³.
+
+
+RAJNOLD
+Tak te¿ myœla³em, panie.
+
+
+POLONIUSZ
+Dobrze-œ myœla³,
+Bardzo-œ roztropnie myœla³. Przede wszystkim
+Wypytasz mi siê najdok³adniej, jacy
+S¹ Duñczykowie w Pary¿u; jak który
+I z czego ¿yje: gdzie bywa i jakie
+Z kim ma stosunki; gdy zaœ skutkiem takich
+Krêtobadawczych, manowcowych pytañ
+Dojdziesz, ¿e oni znaj¹ mego syna,
+Wtedy przyst¹pisz do materii o nim
+Bli¿ej ni¿eli w poprzednich pytaniach.
+Powiesz na przyk³ad, udaj¹c, jakobyœ
+Zna³ go z daleka: „Znam jego familiê,
+Jego przyjació³, a w czêœci i jego”;
+Rozumiesz mnie, Rajnoldzie?
+
+
+RAJNOLD
+Najzupe³niej.
+
+
+POLONIUSZ
+„I jego w czêœci, wprawdzie — dodaæ mo¿esz —
+Niewiele, jest-li on wszak¿e tym samym,
+O którym myœlê, wietrznik to, rozpustnik,
+Sk³onny do tego i tego”. Zwal wtedy,
+Co ci siê ¿ywnie podoba, na niego;
+Jednak¿e nic takiego, co by mog³o
+Szwank przynieœæ jego s³awie; tego strze¿ siê.
+Takie jedynie przypisz mu wybryki,
+Jakie z m³odoœci¹ i krewkoœci¹ w parze
+Zazwyczaj chodz¹.
+
+
+RAJNOLD
+Wiêc, na przyk³ad, hazard?
+
+
+POLONIUSZ
+Tak, albo pochop do zwad, kl¹tw, pijatyk,
+Gachostwa wreszcie: tak daleko mo¿esz
+Posun¹æ swoje k³amstwa.
+
+
+RAJNOLD
+Ale¿, panie,
+To by ju¿ jego s³awie szwank przynios³o.
+
+
+POLONIUSZ
+Bynajmniej, jeœli tylko bêdziesz umia³
+Wzi¹æ siê do rzeczy. Nie trzeba ci dawaæ
+Do zrozumienia, ¿e on w ¿¹dzach swoich
+Jest rozpasany, tego nie chcê; wytknij
+Jego usterki tak subtelnie, ¿eby
+One siê zda³y tylko nadu¿yciem
+Wolnoœci, duszy ognistej wybuchem,
+Ob³êdem wrz¹cej krwi, s³owem, pustot¹
+W³aœciw¹ wszystkim m³odym.
+
+
+RAJNOLD
+Rad bym wiedzieæ,
+£askawy panie...
+
+
+POLONIUSZ
+Do czego to wszystko?
+
+
+RAJNOLD
+Tak, panie.
+
+
+POLONIUSZ
+Zaraz ci powiem: mój zamiar
+Uzasadniony i, jak siê spodziewam,
+Niep³onn¹ skutku daj¹cy rêkojmiê.
+Skoro na mego syna z³o¿ysz waszmoœæ
+Te drobne chyby, niby skazy, którym
+Ulega ka¿da rzecz, gdy siê wyrabia,
+Wtedy, je¿eli tylko ten, którego
+Za jêzyk ci¹gn¹æ bêdziesz, kiedykolwiek
+M³odzieñca w mowie bêd¹cego widzia³
+Jednej z powy¿szych praktyk oddanego,
+Ten ktoœ, b¹dŸ pewien, przywtórzy ci zaraz
+W ten sposób: „Moœci dobrodzieju”, albo:
+„Mój mi³y panie”, albo: „Widzisz, waæpan” —
+Stosownie do zwyczaju miejscowego
+Lub w miarê swojej atencji.
+
+
+RAJNOLD
+Rozumiem.
+
+
+POLONIUSZ
+Skoro zaœ to ci powie, powie potem...
+Có¿em to dalej mia³ mówiæ? Do licha,
+Mia³em powiedzieæ coœ, na czym¿em stan¹³?
+
+
+RAJNOLD
+Na tym podobno, ¿e ktoœ mi przywtórzy.
+
+
+POLONIUSZ
+¯e ci przywtórzy, aha! tak wiêc tedy
+Ten ktoœ przywtórzy ci pewnie w ten sposób:
+„Znam tego pana, widzia³em go wczoraj”,
+Albo: „Owego dnia, wtedy a wtedy,
+Z tym a z tym, i w istocie gra³ wysoko”;
+Albo: „Pok³óci³ siê”, albo: „Mia³ w czubku”,
+Albo: „Widzia³em, jak wchodzi³ do domu
+Podejrzanego”, i tak dalej. Tak to
+Na wêdê fa³szu z³owisz karpia prawdy.
+Tak to rozumni, zrêczni ludzie, boczkiem,
+Rzemiennym dyszlem zachodz¹c, umiej¹
+Trafiæ do celu: i tak samo waszmoœæ,
+Wed³ug wskazówki i instrukcji, jak¹
+Ci udzieli³em, poweŸmiesz jêzyka
+O moim synu. Wiesz ju¿, o co idzie?
+
+
+RAJNOLD
+Wiem, panie.
+
+
+POLONIUSZ
+JedŸ wiêc, niech ciê Bóg prowadzi!
+
+
+RAJNOLD
+Dziêkujê...
+
+
+POLONIUSZ
+Zreszt¹ sam œledŸ jego kroki.
+
+
+RAJNOLD
+Dope³niê tego.
+
+
+POLONIUSZ
+A niech mi siê æwiczy
+W muzyce.
+
+
+RAJNOLD
+Dobrze, panie.
+wychodzi
+
+
+Wchodzi Ofelia.
+
+
+POLONIUSZ
+B¹dŸ zdrów, waszmoœæ.
+Co ci to jest, Ofelio? Co siê sta³o?
+
+
+OFELIA
+Ach, panie, takem strasznie siê przelêk³a.
+
+
+POLONIUSZ
+Czego? dlaboga?
+
+
+OFELIA
+Siedzia³am przy krosnach
+W moim pokoju, gdy wtem ksi¹¿ê Hamlet,
+Z odkryt¹ g³ow¹, rozpiêty, w obwis³ych
+Brudnych poñczochach, blady jak koszula,
+Chwiej¹cy siê na nogach, z tak okropnym
+Wyrazem twarzy, jakby siê wydosta³
+Z piek³a i jego zgrozê chcia³ obwieœciæ,
+Stan¹³ przede mn¹.
+
+
+POLONIUSZ
+Czyli¿by z mi³oœci
+Oszala³?
+
+
+OFELIA
+Nie wiem, ale siê obawiam.
+
+
+POLONIUSZ
+Có¿ ci powiedzia³?
+
+
+OFELIA
+Uj¹³ mnie za rêkê,
+Nie mówi¹c s³owa, i silnie j¹ trzyma³;
+Cofn¹³ siê potem na d³ugoœæ ramienia
+I, drug¹ rêkê przytkn¹wszy do czo³a,
+W twarz moj¹ wlepi³ oczy tak badawczo,
+Jak gdyby j¹ chcia³ narysowaæ. D³ugo
+Tak sta³, nareszcie, lekko potrz¹saj¹c
+Moim ramieniem i kiwaj¹c g³ow¹,
+Wyda³ tak ciê¿kie, ¿a³osne westchnienie,
+¯e siê zdawa³o, i¿ mu piersi pêkn¹
+I ¿ycie z niego uleci. Odst¹pi³
+Wtedy ode mnie i powolnym krokiem
+Szed³ z odwrócon¹ g³ow¹ poza siebie,
+Kieruj¹c siê ku drzwiom. Przeszed³ w ten sposób
+Przez ca³y pokój, bez pomocy oczu,
+I wyszed³, ci¹gle wpatruj¹c siê we mnie.
+
+
+POLONIUSZ
+Muszê natychmiast udaæ siê do króla;
+S¹ to objawy gwa³towne mi³oœci,
+Która siê trawi w sobie i prowadzi
+Do rozpaczliwych kroków, tak jak ka¿da
+Inna namiêtnoœæ trapi¹ca ród ludzki;
+Bolejê nad tym. Mo¿eœ tymi czasy
+Przykre mu jakie s³owo powiedzia³a?
+
+
+OFELIA
+Nie, panie; tylko, tak jak rozkaza³eœ,
+Odes³a³am mu listy i wzbroni³am
+Dalszych odwiedzin.
+
+
+POLONIUSZ
+To go w sza³ wprawi³o.
+Bolejê nad tym, ¿em jego sk³onnoœci
+Dok³adniej, pilniej nie zbada³. Myœla³em,
+¯e on ciê durzy, przywieœæ chce o zgubê.
+Przeklinam teraz moj¹ podejrzliwoœæ.
+Zdaje siê, ¿e nam, starym, jest w³aœciwe
+Przebieraæ miarê w przezornoœci, tak jak
+Nawzajem m³odym ma³o jej posiadaæ.
+Biegnê do króla; zatajenie tego
+Wiêcej ni¿ rozg³os zrz¹dziæ mo¿e z³ego.
+PójdŸ.
+
+
+Wychodz¹.
+
+
+
+
+
+SCENA DRUGA
+
+
+Sala w zamku.
+
+Król, Królowa, Rozenkranc, Gildenstern i orszak.
+
+
+KRÓL
+Witaj, Rozenkranc, witaj, Gildensternie!
+Poœpiechu, z jakim was tu wezwaliœmy,
+Nie sama tylko chêæ widzenia panów
+By³a przyczyn¹, ale i potrzeba
+Waszej pomocy. Wiecie ju¿ o dziwnym
+Przeistoczeniu siê Hamleta, mówiê
+Przeistoczeniu, bo nic w nim tak wewn¹trz,
+Jak i na zewn¹trz nie jest tym, czym by³o.
+Co by innego jak œmieræ ojca mog³o
+Do tego stopnia wywieœæ go za obrêb
+Jego natury, nie pojmujê wcale.
+Proszê was przeto, was, coœcie z nim wzroœli
+I z bliska z jego wiekiem i myœlami
+S¹siadujecie, abyœcie czas jakiœ
+Raczyli u nas zostaæ, by Hamleta
+Trochê rozerwaæ, a przy tej okazji
+Zbadaæ powody obcego nam smutku,
+Na który, gdyby sta³ siê nam wiadomym,
+ZnaleŸlibyœmy mo¿e jakiœ œrodek.
+
+
+KRÓLOWA
+Czêsto on o was wspomina³, panowie,
+I wiem, ¿e nie ma na œwiecie dwóch ludzi
+Bardziej mu ni¿ wy mi³ych. Jeœli w dowód
+¯yczliwych chêci i uczuæ uprzejmych
+Zechcecie trochê czasu tu przepêdziæ
+I wesprzeæ nasze nadzieje, mo¿ecie
+Liczyæ na tak¹ wdziêcznoœæ z naszej strony,
+Jaka przystoi monarchom.
+
+
+ROZENKRANC
+Obojgu
+Waszym królewskim moœciom s³u¿y prawo,
+Z mocy najwy¿szej ich w³adzy nad nami,
+Wolê sw¹ w rozkaz przyoblekaæ raczej
+Ni¿ w proœbê.
+
+
+GILDENSTERN
+Bêdziem jednak¿e pos³uszni
+I dobrowolnie na rozkazy waszych
+Królewskich moœci u stóp ich sk³adamy
+Nasze us³ugi.
+
+
+KRÓL
+Dziêki ci za to, Rozenkranc, i tobie,/ 
+Kochany Gildensternie.
+
+
+KRÓLOWA
+Dziêki ci za to, Gildenstern, i tobie,
+Kochany Rozenkranc. IdŸcie natychmiast
+Do mego syna.
+do dworzan
+Niech tam który wska¿e
+Tym panom, gdzie jest Hamlet.
+
+
+GILDENSTERN
+Oby nieba
+Nie uczyni³y naszych usi³owañ
+Bezowocnymi!
+
+
+KRÓLOWA
+Daj to, dobry Bo¿e!
+
+
+Rozenkranc, Gildenstern i jeden z dworzan wychodz¹.
+
+Wchodzi Poloniusz.
+
+
+POLONIUSZ
+Panie! Wys³ane do Norwegii pos³y
+Szczêœliwie s¹ ju¿ w tej chwili z powrotem.
+
+
+KRÓL
+Zawsze-œ by³ waæpan ojcem dobrych nowin.
+
+
+POLONIUSZ
+B¹dŸ przekonany, mi³oœciwy panie,
+¯e obowi¹zki moje wzglêdem Boga
+I mego w³adcy, tak samo jak duszê,
+Trzymam w porz¹dku. Jako, zdaje mi siê
+(Je¿eli tylko ten mózg nie zszed³ na bok
+Z drogi trafnoœci, któr¹ zwyk³ by³ kroczyæ),
+¯e ostatecznie nie jest mi ju¿ obcym,
+Sk¹d bierze Ÿród³o szaleñstwa Hamleta.
+
+
+KRÓL
+Mów; o tym chcemy wiedzieæ przede wszystkim.
+
+
+POLONIUSZ
+Daj, panie, pierwej pos³uchanie pos³om;
+Wieœæ moja bêdzie na wety po uczcie.
+
+
+KRÓL
+Zrób-¿e im zaszczyt i sam ich tu wprowadŸ.
+
+Wychodzi Poloniusz.
+
+On utrzymuje, kochana Gertrudo,
+¯e odkry³ powód tej zmiany Hamleta.
+
+
+KRÓLOWA
+Nie jest nim, moim zdaniem, nic innego,
+Tylko œmieræ ojca i nasz rych³y zwi¹zek.
+
+
+Poloniusz wraca, a wraz z nim wchodz¹ Korneliusz i Woltymand.
+
+
+KRÓL
+Dojdziemy tego. Witajcie, panowie.
+Có¿ nam œle przez was nasz brat, król norweski?
+
+
+WOLTYMAND
+Najuprzejmiejszych pozdrowieñ zamianê.
+Na prze³o¿enie nasze kaza³ zaraz
+Wstrzymaæ zaci¹gi swojego synowca,
+Które mu zda³y siê byæ wymierzone
+Przeciw Polakom, które jednak, bli¿ej
+Poznawszy, znalaz³ zwróconymi przeciw
+Waszej królewskiej moœci. Rozj¹trzony
+Takim niegodnym korzystaniem z jego
+PóŸnego wieku i niemocy, kaza³
+Zatrzymaæ goñcom Fortynbrasa, który
+Z pokor¹ stawi³ siê i, wys³uchawszy
+Napomnieñ stryja, przysi¹g³ wobec niego,
+¯e póki ¿ycia nigdy przeciw waszej
+Królewskiej moœci nie wzniesie orê¿a:
+Czym ucieszony starzec trzy tysi¹ce
+Koron intraty rocznej mu przeznaczy³
+I owe wojska, przezeñ zwerbowane,
+U¿yæ pozwoli³ mu przeciw Polakom.
+Nam zaœ dorêczy³ ten list, którym prosi
+podaje papier 
+Wasz¹ królewsk¹ moœæ o pozwolenie
+Przejœcia tym wojskom przez duñskie dzier¿awy,
+Przy zapewnieniu im bezpieczeñstw, w liœcie
+Tym wymienionych.
+
+
+KRÓL
+Poprzestajem na tym.
+W wolniejszym czasie przejrzymy to pismo,
+Pomyœlim nad nim, odpowiemy na nie.
+Tymczasem waszmoœæ panom dziêkujemy
+Za ich skuteczne trudy. IdŸcie spocz¹æ.
+Bêdziemy dzisiaj wieczerzali razem;
+Mi³o nam widzieæ was z powrotem.
+
+
+Woltymand i Korneliusz wychodz¹.
+
+
+POLONIUSZ
+To siê
+Dobrze powiod³o. Mi³oœciwy panie
+I mi³oœciwa pani, chcieæ okreœliæ,
+Czym jest majestat, czym powinnoœæ s³ugi,
+Dlaczego dzieñ jest dniem, a noc jest noc¹,
+A czas jest czasem, by³oby to jedno,
+Co chcieæ zmarnowaæ dzieñ, noc i czas drogi.
+Z tego powodu, ile ¿e treœciwoœæ
+Jest dusz¹ mowy, a rozwlek³oœæ cia³em
+I powierzchownym tylko bawide³kiem,
+Chcê byæ treœciwym. Cny wasz syn oszala³,
+Oszala³, mówiê; œciœle bowiem bior¹c,
+Szaleñstwo czym¿e jest, jeœli nie stanem
+Cz³owieka szalonego?
+
+
+KRÓLOWA
+Wiêcej treœci
+W mniej sztucznych frazach.
+
+
+POLONIUSZ
+Przysiêgam, o pani,
+¯e siê bynajmniej o sztukê nie silê.
+Syn wasz oszala³, jest to prawda; prawda,
+¯e to nieszczêœcie, i nieszczêœcie wzajem,
+¯e to jest prawda. Otó¿ siê sklei³a/ 
+Dziwna figura jakaœ retoryczna.
+Bodaj to! Licho zabierz sztuczne frazy!
+Stan¹³em tedy na tym, ¿e dostojny
+Syn wasz sfiksowa³; dobrze; idzie teraz
+O wyœledzenie przyczyn tej fiksacji,
+Która, nie bêd¹c fikcj¹, ju¿ tym samym
+Nie mo¿e nie mieæ przyczyn; to rzecz pewna;
+W jaki zaœ sposób pewna i o ile,
+Rozwa¿cie pañstwo sami.
+Mam córkê; mam j¹, poniewa¿ jest moja.
+Ta tedy dziewka, pomna obowi¹zku
+I rozkazowi mojemu powolna,
+Odda³a mi ten œwistek. Pos³uchajcie
+I konkludujcie pañstwo.
+czyta
+„Do niebiañskiego bóstwa mojej duszy, tysi¹cem wdziêków okraszonej Ofelii.” To niestosowne wyra¿enie, trywialne wyra¿enie. Okraszonej — nie jest-¿e wyra¿eniem trywialnym? Ale idŸmy dalej. (czyta) „Twojemu cudnie bia³emu ³onu powierzam tych kilka wyrazów.”
+
+
+KRÓLOWA
+Czy to Hamlet do niej pisa³?
+
+
+POLONIUSZ
+Cierpliwoœci, mi³oœciwa pani; niczego nie zatajê.
+
+czyta
+
+„W¹tp, czy gwiazdy lœni¹ na niebie;
+W¹tp o tym, czy s³oñce wschodzi;
+W¹tp, czy prawdy blask nie zwodzi;
+Lecz nie w¹tp, ¿e kocham ciebie.
+
+O najmilsza Ofelio, nie bieg³ym w rymowaniu; nie umiem skandowaæ westchnieñ moich, ale ¿e ciê bardzo, a bardzo kocham, temu wierz. B¹dŸ zdrow¹. Twój na zawsze, dopóki ta machina pozostanie jego w³asnoœci¹,
+Hamlet”
+
+To mi pos³uszna pokaza³a córka
+I uszom moim odkry³a zarazem,
+Tak co do czasu, miejsca, jak sposobu,
+Wszystkie zaloty jego.
+
+
+KRÓL
+Ale jak¿e
+Ona przyjê³a te jego zaloty?
+
+
+POLONIUSZ
+Có¿ o mnie myœlisz, moœci królu?
+
+
+KRÓL
+Myœlê,
+¯eœ waæpan prawy, honorowy cz³owiek.
+
+
+POLONIUSZ
+Takim stara³em siê zawsze okazaæ.
+Có¿ byœ móg³ sobie o mnie myœleæ, panie,
+Gdybym tê mi³oœæ tak namiêtn¹ widzia³
+By³ w jej zarodzie (a mówi¹c nawiasem,
+Dostrzeg³em j¹ by³ pierwej, nim mi o niej
+Donios³a moja córka); có¿ by sobie
+Królowa pani mog³a o mnie myœleæ,
+Gdybym by³ wtedy spokojnie odegra³
+Rolê koperty lub pugilaresu
+Lub serce moje zrobi³ g³uchoniemym
+I gnuœnym okiem patrza³ na tê mi³oœæ?
+Có¿ byœcie pañstwo mogli byli sobie
+O mnie pomyœleæ? Jam sprawy nie zaspa³
+I wnet dziewczynie mojej powiedzia³em:
+„Hamlet jest ksiêciem nad waœcin¹ sferê;
+Nie bêdzie z tego nic.” Da³em jej przy tym
+Surowe upomnienia, aby odt¹d
+Nie przyjmowa³a ani jego wizyt,
+Ani biletów, ani podarunków.
+Tak-em uczyni³; ona us³ucha³a,
+A on, on, krótko mówi¹c, zawiedziony
+W swoich nadziejach, popad³ najprzód w smutek,
+Potem w bezsennoœæ, potem w wstrêt do jad³a,
+Nastêpnie w niemoc, nastêpnie w gor¹czkê,
+I tak stopniami a¿ w szaleñstwo, które
+Trawi go teraz z wielkim naszym ¿alem.
+
+
+KRÓL
+Có¿ mówisz na to?
+
+
+KRÓLOWA
+Hm! to by byæ mog³o.
+
+
+POLONIUSZ
+Czy¿ siê zdarzy³o kiedy, rad bym wiedzieæ,
+Aby tam, gdzie ja powiedzia³em: tak jest,
+W istocie by³o inaczej?
+
+
+KRÓL
+Nie pomnê.
+
+
+POLONIUSZ
+wskazuje na kark i g³owê
+Zdejmcie to z tego, je¿eli tak nie jest.
+Skoro sposobnoœæ pos³u¿y, wykryjê.
+Gdzie siedzi prawda, chocia¿by siê skry³a
+W wnêtrznoœciach ziemi.
+
+
+KRÓL
+Jak¿e byœmy mogli
+Sprawdziæ to?
+
+
+POLONIUSZ
+Wiecie pañstwo, ¿e on czasem
+Przez kilka godzin zwyk³ siê w tej galerii
+Przechadzaæ.
+
+
+KRÓLOWA
+W rzeczy samej zwyk³ to czyniæ.
+
+
+POLONIUSZ
+Tak¹ wiêc porê upatrzywszy kiedy,
+Wprowadzê tutaj moj¹ córkê: wasze
+Królewskie moœcie bêd¹ mog³y wtedy
+Ukryæ siê ze mn¹ owdzie za obiciem
+I byæ œwiadkami ich spotkania. Jeœli
+On jej nie kocha i nie skutkiem tego
+Utraci³ zmys³y, to niech z szambelana
+Zostanê prostym ch³opem albo klech¹.
+
+
+Wchodzi Hamlet czytaj¹c.
+
+
+KRÓLOWA
+Patrzcie, jak smutno biedny ch³opiec z ksi¹¿k¹
+Zbli¿a siê tutaj.
+
+
+POLONIUSZ
+Oddalcie siê, pañstwo,
+B³agam was; ja z nim pomówiê, pozwólcie.
+
+Król i Królowa wychodz¹ ze swym orszakiem.
+
+Jak¿e siê miewa mój ³askawy ksi¹¿ê Hamlet?
+
+
+HAMLET
+Dobrze, dziêki Bogu.
+
+
+POLONIUSZ
+Wiesz-li, kto jestem, panie?
+
+
+HAMLET
+Wiem doskonale: jesteœ rybak.
+
+
+POLONIUSZ
+Zaprawdê, nie jestem nim.
+
+
+HAMLET
+Tym ci gorzej, rad bym, ¿ebyœ by³ tak uczciwym cz³owiekiem.
+
+
+POLONIUSZ
+Uczciwym, moœci ksi¹¿ê?
+
+
+HAMLET
+Tak jest, moœci panie. Byæ uczciwym w dziejach tego œwiata na jedno wychodzi, co byæ wybranym miêdzy tysi¹cami.
+
+
+POLONIUSZ
+Masz wielk¹ s³usznoœæ, moœci ksi¹¿ê.
+
+
+HAMLET
+Je¿eli bowiem s³oñce p³odzi w zdech³ym psie robaki, promienie bóstwa œcierwo ca³uj¹. Czy masz waæpan córkê?
+
+
+POLONIUSZ
+Mam, panie.
+
+
+HAMLET
+Nie pozwalaj jej chodziæ po s³oñcu. Wprawdzie poczêcie jest b³ogos³awieñstwem, ale gdyby twoja córka poczê³a, na pewno byœ jej nie b³ogos³awi³. Miej to na wzglêdzie, mój przyjacielu.
+
+
+POLONIUSZ
+Co przez to rozumiesz, moœci ksi¹¿ê?
+do siebie
+Zawsze mu siê marzy moja córka. A jednak nie pozna³ mnie zrazu, wzi¹³ mnie za rybaka. Daleko z nim ju¿ zasz³o, daleko zasz³o. I mnie, prawdê mówi¹c, za m³odu mi³oœæ przyprowadzi³a do ostatecznoœci podobnych prawie. Muszê go jeszcze raz zagabn¹æ.
+g³oœno
+Có¿ to czytasz, moœci ksi¹¿ê?
+
+
+HAMLET
+S³owa, s³owa, s³owa.
+
+
+POLONIUSZ
+A o treœæ czy mogê spytaæ?
+
+
+HAMLET
+Czyj¹?
+
+
+POLONIUSZ
+Tej ksi¹¿ki, któr¹ ksi¹¿ê czytasz.
+
+
+HAMLET
+Potwarze, mój panie, same potwarze. Ten ³otr satyryk utrzymuje, ¿e starzy ludzie maj¹ siwe brody i zmarszczki na twarzy; ¿e im ambra i kalafonia ciecze z oczu; ¿e maj¹ zupe³ny brak dowcipu obok wielkiego wycieñczenia ³ydek. Lubo ja temu wszystkiemu najsilniej i najpotê¿niej dajê wiarê, przecie¿ nie s¹dzê, aby o tym pisaæ przysta³o; bo waszmoœæ sam sta³byœ siê pewnie jak ja starym, gdybyœ móg³ jak rak w ty³ kroczyæ.
+
+
+POLONIUSZ
+Chocia¿ to wariacja, nie jest jednak¿e bez metody. Mo¿e byœ chcia³ zejœæ, moœci ksi¹¿ê?
+
+
+HAMLET
+Z tego œwiata?
+
+
+POLONIUSZ
+W rzeczy samej, by³oby to zejœciem.
+do siebie
+Jak trafne ma czasem odpowiedzi! Dar ten czêsto bywa udzia³em szalonych, gdy tymczasem przytomni i rozumni nie zawsze s¹ zarówno szczêœliwi. Muszê go ju¿ opuœciæ i niezw³ocznie pomyœleæ o sposobach, jakby siê on i moja córka zejœæ mogli.
+g³oœno
+Mi³oœciwy ksi¹¿ê, zmuszony jestem pozbawiæ wasz¹ moœæ d³u¿szej mojej obecnoœci.
+
+
+HAMLET
+Nie mo¿esz mnie, mój panie, pozbawiæ niczego, czego chêtniej siê nie wyrzek³: wyj¹wszy ¿ycia, wyj¹wszy, wyj¹wszy ¿ycia.
+
+
+POLONIUSZ
+¯egnam ciê, mój ³askawy ksi¹¿ê.
+
+
+HAMLET
+Nudni starzy g³upcy.
+
+
+Rozenkranc i Gildenstern wchodz¹.
+
+
+POLONIUSZ
+Szukacie, panowie, ksiêcia Hamleta? Oto jest.
+wychodzi
+
+
+ROZENKRANC
+do Poloniusza
+Bogu ciê polecamy.
+
+
+GILDENSTERN
+Mi³oœciwy ksi¹¿ê!
+
+
+ROZENKRANC
+Drogi nasz ksi¹¿ê!
+
+
+HAMLET
+Kochani, dobrzy przyjaciele! Jak siê masz, Gildensternie? A, Rozenkranc! Jak siê macie, moi ch³opcy?
+
+
+ROZENKRANC
+Zwyczajnie, jak nic nie znacz¹cy ludzie.
+
+
+GILDENSTERN
+Szczêœliwi przez to, ¿e niezbyt szczêœliwi.
+Czepca Fortuny nie jesteœmy guzem.
+
+
+HAMLET
+Ale i nie podeszw¹ jej trzewików?
+
+
+ROZENKRANC
+Nie, moœci ksi¹¿ê.
+
+
+HAMLET
+A wiêc mieszkacie u jej pasa albo raczej w centrum jej ³ask?
+
+
+GILDENSTERN
+Niby tak, w jej prywatnych apartamentach.
+
+
+HAMLET
+Czyli w apartamentach wstydliwych. S³usznie, Fortuna to nie lada dziewka. I có¿ tam nowego?
+
+
+ROZENKRANC
+Nic, panie, wyj¹wszy, ¿e œwiat spoczciwia³.
+
+
+HAMLET
+Wiêc bliski jest dzieñ s¹du. Ale wiadomoœæ wasza nieprawdziwa. A teraz pytanie bardziej szczegó³owe. Powiedzcie
+mi, w czymeœcie tak przeskrobali Fortunie,¿e was tu do wiêzienia wtr¹ci³a?
+
+
+GILDENSTERN
+Do wiêzienia?
+
+
+HAMLET
+Dania jest wiêzieniem.
+
+
+ROZENKRANC
+Wiêc nim i œwiat jest tak¿e.
+
+
+HAMLET
+O, i wielkim! pe³nym turm, lochów i ciemnic. Dania jest jednym z najgorszych.
+
+
+ROZENKRANC
+Nie myœlimy tak, moœci ksi¹¿ê.
+
+
+HAMLET
+Wiêc dla was nie jest tak¹. W rzeczy samej, nic nie jest z³em ani dobrem samo przez siê, tylko myœl nasza czyni to i owo takim. Dla mnie Dania jest wiêzieniem.
+
+
+ROZENKRANC
+Skutek to chyba, panie, twojej ambicji. Dania jest dla niej za ciasna.
+
+
+HAMLET
+O Bo¿e! ja bym móg³ byæ zamkniêty w ³upinie orzecha i jeszcze bym siê s¹dzi³ panem niezmierzonej przestrzeni, gdybym tylko z³ych snów nie miewa³.
+
+
+GILDENSTERN
+A te sny s¹ w³aœnie wytworem ambicji; istota bowiem ambicji nie jest czym innym, tylko snów cieniem.
+
+
+HAMLET
+Same ju¿ sny nie s¹ czym innym, tylko cieniem.
+
+
+ROZENKRANC
+Zapewne, ambicja zaœ w moich oczach jest tak powietrznej i znikomej natury, ¿e mo¿na j¹ nazwaæ cieniem cienia.
+
+
+HAMLET
+Takim sposobem ¿ebracy s¹ cia³ami, a nasi monarchowie i nadêci bohaterowie cieniami ¿ebraków. Nie poszlibyœmy-¿ do dworu? bo doprawdy nie umiem rozumowaæ.
+
+
+ROZENKRANC I GILDENSTERN
+S³u¿ymy waszej ksi¹¿êcej moœci.
+
+
+HAMLET
+Dajmy pokój temu; nie chcê was liczyæ do rzêdu s³ug moich, bo, zaprawdê, przys³uguj¹ mi siê okropnie. Ale powiedzcie mi, tak po przyjacielsku, co porabiacie w Elzynorze?
+
+
+ROZENKRANC
+Chcieliœmy ciê odwiedziæ, moœci ksi¹¿ê; innego celu nie mamy.
+
+
+HAMLET
+Taki ze mnie nêdzarz, ¿em nawet w podziêki ubogi; dziêkujê wam jednak, chocia¿ to podziêkowanie, wierzcie mi, kochani przyjaciele, niewarte i pó³ szel¹ga. Czy nie posy³ano po was? Przybyliœcie-¿ mnie odwiedziæ z w³asnego popêdu, z dobrej woli? Powiedzcie mi, powiedzcie; b¹dŸcie szczerzy. I có¿?
+
+
+GILDENSTERN
+Có¿ mamy powiedzieæ, moœci ksi¹¿ê?
+
+
+HAMLET
+Co b¹dŸ, byle siê stosowa³o do rzeczy. Posy³ano po was: widzê w waszych oczach pewien rodzaj wyznania, które skromnoœæ wasza na pró¿no usi³uje pokryæ. Wiem, ¿e mi³oœciwy król i mi³oœciwa królowa posy³ali po was.
+
+
+ROZENKRANC
+W jakim¿e by celu, moœci ksi¹¿ê?
+
+
+HAMLET
+Tego-æ siê od was chcê dowiedzieæ. Ale zaklinam was na prawa naszego kole¿eñstwa, na wspó³dŸwiêk m³odych lat naszych, na obowi¹zki naszej statecznej przyjaŸni, na wszystko, co jest najœwiêtsze i na co lepszy mówca lepiej by was ni¿ ja móg³ zakl¹æ, powiedzcie mi rzetelnie, otwarcie: posy³ano-¿ po was czy nie posy³ano?
+
+
+ROZENKRANC
+do Gildensterna
+Có¿ ty na to?
+
+
+HAMLET
+na stronie
+Aha, przyszliœcie mnie wiêc wymacaæ.
+g³oœno
+Je¿eli mi dobrze ¿yczycie, powiedzcie prawdê.
+
+
+GILDENSTERN
+W istocie, posy³ano po nas.
+
+
+HAMLET
+Powiem wam, w jakim celu; tym sposobem domyœlnoœæ moja uprzedzi wasz¹ gadatliwoœæ i dyskretnoœæ wasza nie bêdzie dyskredytowana. Od niejakiego czasu, nie wiem sk¹d, ze szczêtem humor straci³em; zarzuci³em dawne przywyknienia i w tak ponure popad³em usposobienie, ¿e ten piêkny obszar ziemski pustyni¹ mi siê wydaje; to wspania³e sklepienie tam w górze, ten cudnie wisz¹cy firmament, ta majestatyczna przestrzeñ z³otymi obsypana iskrami niczym innym nie jest w moich oczach, jak tylko marnym, zaraŸliwym zbiorem wyziewów. Jak doskona³ym tworem jest cz³owiek! Jak wielkim przez rozum! Jak niewyczerpanym w swych zdolnoœciach! Jak szlachetnym postaw¹ i w poruszeniach! Czynami podobnym do anio³a, pojêtnoœci¹ zbli¿onym do bóstwa! Ozdob¹ on i zaszczytem œwiata. Arcytypem wszech jestestw! A przecie¿ czym¿e jest dla mnie ta kwintesencja prochu? Synowie ziemi nie poci¹gaj¹ mnie ani jej córki, jakkolwiek, s¹dz¹c po waszym uœmiechu, zdajecie siê to przypuszczaæ.
+
+
+ROZENKRANC
+Myœl taka, panie, nie przesz³a mi przez g³owê.
+
+
+HAMLET
+Dlaczegó¿ siê waæpan rozeœmia³eœ, kiedym powiedzia³, ¿e mnie synowie ziemi nie poci¹gaj¹?
+
+
+ROZENKRANC
+Bom sobie pomyœla³, jakie w takim razie przyjêcie znajd¹ aktorowie, którycheœmy w drodze spotkali, a którzy tu d¹¿¹ celem ofiarowania waszej ksi¹¿êcej moœci us³ug swoich.
+
+
+HAMLET
+Ten, co gra króla, godnie bêdzie przyjêty: jego królewska moœæ otrzyma ode mnie pami¹tkê; awanturniczy rycerz bêdzie móg³ do woli u¿yæ tarczy i miecza; kochanek nie bêdzie darmo wzdycha³; melancholik spokojnie odegra swoj¹ rolê; b³azen pobudzi do œmiechu tych, co maj¹ ³echczywe p³uca; a piêkna dama swobodnie wywnêtrzy swe uczucia, jeœli nie bêdzie mia³a wstrêtu do wiersza bez rymu. Có¿ to za aktorowie?
+
+
+ROZENKRANC
+Ci¿ sami, którzy ciê zwykli byli zadowalaæ, moœci ksi¹¿ê; aktorowie tragiczni ze stolicy.
+
+
+HAMLET
+Sk¹d¿e im przysz³o teraz po œwiecie wêdrowaæ? Na miejscu siedz¹c lepiej by wyszli tak pod wzglêdem s³awy, jak korzyœci.
+
+
+ROZENKRANC
+Przyczyn¹ ich wêdrowania by³y, jak siê zdaje, œwie¿o zasz³e innowacje.
+
+
+HAMLET
+S¹-¿ oni jeszcze tak samo lubiani jak wtedy, kiedym by³ w stolicy? Zawsze-¿ liczne maj¹ publicum?
+
+
+ROZENKRANC
+Zaiste, teraz nie bardzo.
+
+
+HAMLET
+Sk¹d¿e to pochodzi? Czy siê opuœcili w sztuce?
+
+
+ROZENKRANC
+Bynajmniej: usi³owania ich postêpuj¹ zawsze równym krokiem; ale wylêg³o siê tam stado dzieci, ma³ych indycz¹t, które piszcz¹ jak opêtane i gwa³towne za to odbieraj¹ oklaski. Te s¹ teraz w modzie i tak dalece oczerniaj¹ teatr ni¿szej klasy (tak nazywaj¹ tamten), ¿e niejeden z rapierem przy boku, boj¹c siê piór gêsich, nie œmie siê ju¿ tam pokazaæ.
+
+
+HAMLET
+S¹-li to dzieci naprawdê? Któ¿ ich utrzymuje? Jak s¹ p³atni? Myœl¹-¿ oni tylko dopóty sztukê uprawiaæ, dopóki nie strac¹ dyszkantu? Nie powiedz¹-¿ wtedy, gdy sami spadn¹ miêdzy ni¿sz¹ klasê (co jest bardzo prawdopodobne, jeœli ich sytuacja siê nie poprawi), ¿e pisz¹cy dla nich krzywdê im wyrz¹dzili, ka¿¹c im wykrzykiwaæ na ich w³asn¹ przysz³oœæ?
+
+
+ROZENKRANC
+B¹dŸ co b¹dŸ, z obu stron niema³o by³o ha³asu i publicznoœæ nie mia³a sobie za grzech pod¿egaæ ich nawzajem do k³ótni. Przez czas jakiœ nie mo¿na by³o grosza na ¿adnej sztuce zarobiæ, je¿eli autorzy i aktorzy za ³by siê w niej nie powiedli.
+
+
+HAMLET
+Czy byæ mo¿e?
+
+
+GILDENSTERN
+Niema³o te¿ ³bów porozbijano.
+
+
+HAMLET
+I smarkacze wziêli górê?
+
+
+ROZENKRANC
+Nie inaczej. Herkules zmuszony by³ kapitulowaæ przed Pigmejczykami.
+
+
+HAMLET
+Nie ma w tym nic dziwnego, boæ mój stryj jest królem duñskim; i ci¿ sami, którzy mu za ¿ycia mego ojca wykrzywiali gêby, daj¹ teraz dwadzieœcia, czterdzieœci, piêædziesi¹t i sto dukatów za jego portret w miniaturze. Do licha! musi w tym byæ coœ nadnaturalnego. Gdyby to filozofia mog³a wyt³umaczyæ?
+
+
+Odg³os tr¹b za scen¹.
+
+
+GILDENSTERN
+Zapewne to aktorowie.
+
+
+HAMLET
+Koledzy, mi³ymi-œcie goœæmi w Elzynorze. Podajcie mi d³onie. Do orszaku goœcinnoœci nale¿y etykieta i ceremonie; winienem was przeto podj¹æ tym trybem: inaczej, moje obejœcie siê z aktorami, które, uprzedzam was, bêdzie siê musia³o okazaæ uprzejme, wyda³oby siê goœcinniejsze ni¿ z wami. Zostaliœcie przyjêci z otwartymi rêkoma, ale mój stryj-ojciec i moja matka-stryjenka zostali oszukani.
+
+
+GILDENSTERN
+Jakim sposobem, drogi ksi¹¿ê?
+
+
+HAMLET
+Szalony jestem tylko przy wietrze pó³nocno-zachodnim; kiedy z po³udnia wieje, umiem odró¿niæ jastrzêbie od czapli.
+
+
+Wchodzi Poloniusz.
+
+
+POLONIUSZ
+Dobre nowiny, panowie, weso³e nowiny!
+
+
+HAMLET
+S³uchaj go, Gildensternie, i ty tak¿e. S³uchajcie z ca³¹ uwag¹. Ten wielki dzieciuch nie wyszed³ jeszcze z pieluch.
+
+
+ROZENKRANC
+Chyba wszed³ w nie powtórnie, bo mówi¹, ¿e starzy ludzie na nowo staj¹ siê dzieæmi.
+
+
+HAMLET
+Prorokujê wam, ¿e przychodzi nam zwiastowaæ aktorów; uwa¿cie tylko. — Masz waæpan s³usznoœæ: by³o to w poniedzia³ek z rana, w rzeczy samej.
+
+
+POLONIUSZ
+Moœci ksi¹¿ê, mam ci oznajmiæ coœ nowego.
+
+
+HAMLET
+Moœci panie, mam ci oznajmiæ coœ nowego. Gdy Roscjusz w Rzymie by³ aktorem...
+
+
+POLONIUSZ
+Aktorowie przybyli, moœci ksi¹¿ê.
+
+
+HAMLET
+Ej¿e? Ej¿e?
+
+
+POLONIUSZ
+Na honor, moœci ksi¹¿ê.
+
+
+HAMLET
+œpiewaj¹c
+Ka¿dy wiêc aktor przyjecha³ na oœle.
+
+
+POLONIUSZ
+S¹ to aktorowie najlepsi w œwiecie, zdatni do wszelkiego rodzaju przedstawieñ: tragicznych, komicznych, historyczno-sielankowych, tragiczno-historycznych, tragiczno-komiczno-historyczno-sielankowych: czy to w scenach ci¹g³ych, czy to w luŸnym poemacie. Seneka nie jest dla nich za ciê¿ki ani Plaut za lekki. Tak w recytowaniu, jak w improwizowaniu nie maj¹ sobie równych.
+
+
+HAMLET
+O Jefte, sêdzio Izraela, jaki¿ to skarb posiad³eœ!
+
+
+POLONIUSZ
+Jaki¿ on skarb posiada³, moœci ksi¹¿ê?
+
+
+HAMLET
+Ba!
+
+Córkê g³adk¹, nic wiêcej,
+Któr¹ wielce mi³owa³.
+
+
+POLONIUSZ
+na stronie
+Zawsze mu siê marzy moja córka.
+
+
+HAMLET
+Nieprawda¿, stary Jefte?
+
+
+POLONIUSZ
+Je¿eli mnie nazywasz Jeftem, moœci ksi¹¿ê, to nie przeczê, i¿ posiadam córkê, któr¹ wielce mi³ujê.
+
+
+HAMLET
+Ale¿ nie to idzie za tym.
+
+
+POLONIUSZ
+Có¿ za tym idzie, moœci ksi¹¿ê?
+
+
+HAMLET
+Ba!
+
+To, co rzekomo
+Bogu wiadomo.
+
+A potem, jak wiesz waæpan,
+
+Staæ siê musia³o,
+Co snadŸ siê sta³o.
+
+Pierwszy dwuwiersz tej pobo¿nej pieœni wiêcej objaœni waæpana, ni¿ ja mogê; bo oto nadchodzi moja rozrywka.
+
+Wchodzi czterech lub piêciu aktorów.
+
+Witam was, moœci panowie, witam. Cieszê siê, ¿e ciê ogl¹dam w dobrym zdrowiu. Witajcie, przyjaciele. O stary, jak¹ ¿eœ sobie brodê wyhodowa³, odk¹d ciê ostatni raz widzia³em! Przyszed³eœ miê tu ni¹ straszyæ? A, to ty, piêkna damo! Szlachetna dziewico, dalipan, od czasu jak ciê ostatni raz widzia³em, zbli¿y³aœ siê ku niebu na ca³¹ wysokoœæ korka. Nie daj Bo¿e, aby g³os twój, jak dukat ober¿niêty, wyszed³ z obiegu! Witajcie nam, wszyscy bez wyj¹tku! Bêdziemy jak francuscy ³owcy rzucaæ siê na wszystko, co ujrzymy. Nie moglibyœmy-¿ us³yszeæ czego zaraz? Dajcie nam próbkê swego talentu: przedeklamujcie co patetycznego.
+
+
+PIERWSZY AKTOR
+Co na przyk³ad, panie?
+
+
+HAMLET
+S³ysza³em ciê raz deklamuj¹cego jeden ustêp, ustêp sztuki, która nigdy gran¹ nie by³a, albo co najwiêcej raz tylko, bo, ile pamiêtam, nie podoba³a siê publicznoœci; by³ to kawior dla jej podniebieñ: moim jednak zdaniem i tych, których s¹d o takich rzeczach równego z moim by³ wzrostu, by³a to sztuka wyborna, dobrze podzielona na sceny, u³o¿ona z równ¹ zrêcznoœci¹, jak naturalnoœci¹. Przypominam sobie kogoœ, co mówi³, ¿e braknie tym wierszom sosu dla dodania smaku osnowie, i osnowy, która by pozwala³a pos¹dziæ autora o uczucie; przyznawa³ jej wszak¿e dobr¹ manierê, jêdrnoœæ w obrobieniu i piêknoœæ, lubo bez wdziêku. W sztuce tej szczególnie lubi³em jeden ustêp, to jest opowiadanie Eneasza: mianowicie owo miejsce, w którym ten bohater opisuje Dydonie œmieræ Priama. Je¿eli je pamiêtasz, to zacznij od tego wiersza: Zaraz, zaraz...
+
+„Okrutny Pirrus, jak ów zwierz hirkañski...”
+
+Nie, nie tak siê zaczyna, ale zawsze od Pirrusa.
+
+„Okrutny Pirrus, którego zbroica,
+Czarna jak jego myœl, podobna by³a
+Do owej nocy, gdy w z³owrogim koniu
+Chytrze ukryty le¿a³, powlók³ teraz
+Straszn¹ sw¹ postaæ dziksz¹ jeszcze barw¹:
+Od stóp do g³owy czerwieni¹ siê odzia³,
+Zbroczon krwi¹ ojców, matek, córek, synów,
+Spiek³y od ¿aru p³on¹cego miasta,
+Które przeklêtym blaskiem przeœwieca³o
+Mordercy swego pana; rozpalony
+Gniewem i ogniem i skrzep³y zarazem
+Od stêg³ej na nim posoki, oczyma
+Jak karbunku³y p³omieniej¹cymi
+Szuka piekielny Pirrus sêdziwego
+Starca Priama.”
+
+— Mów dalej.
+
+
+POLONIUSZ
+Jako ¿ywo, œlicznie deklamujesz, moœci ksi¹¿ê, z doskona³ym akcentem i spadkiem g³osu.
+
+
+PIERWSZY AKTOR
+„Znajduje go wreszcie
+S³abo na Greków nacieraj¹cego.
+Rdzawy miecz jego, zbuntowany przeciw
+Jego ramieniu, niepos³uszny woli,
+P³azem uderza, kêdy spadnie. Z ca³¹
+Przewag¹ si³y rzuca siê na niego
+Pirrus; z wœciek³oœci¹ pró¿ny cios wymierza:
+Lecz sam ju¿ zamach, sam œwist jego stali
+Obala starca: wtedy oto Ilium,
+Jak gdyby chcia³o nowy cios odwróciæ,
+Koronowan¹ p³omieniami g³owê
+Chyli ku ziemi i trzaskiem okropnym
+W niewolê ima Pirrusowe ucho;
+Bo patrzcie! oto zabójczy miecz jego
+Nad mleczn¹ g³ow¹ czcigodnego starca
+Ju¿, ju¿ wzniesiony, zda siê, jakby nagle
+Ugrz¹z³ w powietrzu. Jak kamienny pos¹g
+Bóstwa zag³ady, wa¿¹c siê pomiêdzy
+Czynem i wol¹, stal czas jakiœ Pirrus
+I nie przedsiêbra³ niczego.
+Lecz jako nieraz widzimy przed burz¹
+Ciszê na niebie, spokojnoœæ w ob³okach,
+Wichry uœpione, a na dole ziemiê
+Jak grób milcz¹c¹, wtem przera¿aj¹cy
+Piorun rozdziera chmurê: tak po chwili
+Zbudzona zemsta pod¿ega na nowo
+Zasta³e ramiê Pirrusa i nigdy
+Niemi³osierniej ciê¿ki m³ot cyklopów
+Nie spad³ na Marsa wiecznotrwa³¹ zbrojê,
+Jak teraz krwawy miecz Pirrusa spada
+Na sêdziwego Priama.
+Hañba ci, zmienna Fortuno! Bogowie.
+Wy wszyscy, którzy zasiadacie owdzie,
+W radzie Olimpu, odejmcie jej w³adzê!
+Po³amcie szprychy i dzwona jej ko³a
+I stoczcie kr¹g³¹ piastê z szczytu niebios
+W bezdenn¹ otch³añ piekie³!”
+
+
+POLONIUSZ
+To za d³ugie.
+
+
+HAMLET
+Wiêc razem z twoj¹ brod¹ pójdzie do balwierza. Mów dalej, bracie. Jemu by trzeba jase³ek lub fars plugawych, inaczej zaœnie. Dalej, przejdŸ teraz do Hekuby.
+
+
+PIERWSZY AKTOR
+„Ale kto widzia³ nieszczêsn¹ królowê,
+Jak rozczochrana...”
+
+
+HAMLET
+Jak to, rozczochrana?
+
+
+POLONIUSZ
+To dobre wyra¿enie; rozczochrana królowa jest dobrym wyra¿eniem.
+
+
+PIERWSZY AKTOR
+„Jak rozczochrana, gro¿¹ca p³omieniom
+£ez potokami, bieg³a tu i owdzie,
+Boso, z ³achmanem na tej samej g³owie,
+Któr¹ niedawno jeszcze diadem stroi³;
+Odziana, miasto sukni, przeœcierad³em,
+W chwili pop³ochu schwyconym naprêdce;
+O, kto by to by³ widzia³, ten zmaczanym
+W ¿ó³ci jêzykiem by³by by³ wyzion¹³
+Przeciw Fortunie ostatnie bluŸnierstwa;
+A gdyby by³y j¹ widzia³y nieba
+W tej chwili, kiedy ujrza³a Pirrusa
+Z dzik¹ radoœci¹ siek¹cego mieczem
+Cia³o jej mê¿a, wybuch jej boleœci
+By³by by³ z oczu ich promieniej¹cych
+(Je¿eli tylko rzeczy tego œwiata
+Mog¹ je wzruszyæ) zdrój rosy wycisn¹³
+i wspó³jêk z piersi bogów.”
+
+
+POLONIUSZ
+Patrzcie, jak mu siê twarz zmieni³a i ³zy mu w oczach stanê³y. Skoñcz ju¿, waæpan.
+
+
+HAMLET
+Dosyæ tego, dopowiesz mi resztê niebawem. Moœci panie, zechciej dojrzeæ, aby ci ichmoœcie dobrze byli ugoszczeni. S³yszysz, waæpan? Niech znajd¹ dobre przyjêcie; bo oni s¹ streszczon¹, ¿yw¹ kronik¹ czasu. By³oby lepiej dla waæpana zyskaæ po œmierci niepochlebny napis na nagrobku ni¿ za ¿ycia niekorzystne ich œwiadectwo na scenie.
+
+
+POLONIUSZ
+Moœci ksi¹¿ê, obejdê siê z nimi stosownie do ich zas³ugi.
+
+
+HAMLET
+Do paralusza! znacznie lepiej. Gdybyœmy siê obchodzili z ka¿dym wedle jego zas³ug, któ¿ by unikn¹³ ch³osty! ObchodŸ siê z nimi waæpan odpowiednio do w³asnej; twej zacnoœci i godnoœci. Im mniej kto zas³uguje na wzglêdy, tym wiêcej ma zas³ugi nasza wzglêdem niego uprzejmoœæ. OdprowadŸ ich.
+
+
+POLONIUSZ
+PójdŸcie, panowie.
+wychodzi z kilkoma aktorami
+
+
+HAMLET
+IdŸcie z nim, moi przyjaciele; dacie nam jutro jakie przedstawienie. S³uchaj no, stary, mo¿ecie graæ Zabójstwo Gonzagi?
+
+
+PIERWSZY AKTOR
+Mo¿emy, panie.
+
+
+HAMLET
+To grajcie je jutro. Nie móg³-¿e byœ w potrzebie nauczyæ siê dwunastu do piêtnastu wierszy, które bym napisa³ i wtr¹ci³ do twojej roli?
+
+
+PIERWSZY AKTOR
+Czemu nie, ³askawy panie.
+
+
+HAMLET
+To dobrze. Udaj siê za tamtym jegomoœciem, tylko nie drwij z niego, proszê ciê.
+
+Wychodzi Aktor.
+
+Kochani przyjaciele,
+do Rozenkranca i Gildensterna
+pozwólcie was po¿egnaæ. Do zobaczenia wieczorem.
+
+
+ROZENKRANC I GILDENSTERN 
+¯egnamy ciê, drogi ksi¹¿ê.
+wychodz¹
+
+
+HAMLET
+Bóg z wami! Otó¿ nareszcie sam jestem.
+O, jaki¿ ze mnie g³¹b, jaki ciemiêga!
+Czyli¿ to nie jest zgroz¹, ¿e ten aktor,
+Niby w wzruszeniu, w parodii uczucia,
+Do tego stopnia móg³ nagi¹æ sw¹ duszê
+Do swoich pojêæ, ¿e za jej zrz¹dzeniem
+Twarz mu poblad³a, z oczu ³zy pociek³y,
+Oblicze jego, g³os, ruch, ca³a postaæ
+Zastosowa³a siê do jego myœli?
+I gwoli komu¿ to? gwoli Hekubie!
+Có¿ z nim Hekuba, on z ni¹ ma wspólnego,
+¯eby a¿ p³aka³ nad jej losem? Có¿ by
+Ten cz³owiek czyni³, gdyby mia³ podobny
+Mojemu powód i bodziec do wrzenia?
+Zala³by ³zami ca³¹ scenê, rozdar³
+Uszy s³uchaczy ra¿¹cymi s³owy,
+W wystêpnych rozpacz wzbudzi³, dreszcz w niewinnych.
+Zmiesza³ prostaczków i sparali¿owa³
+Ich wzrok pospo³u ze s³uchem.
+A ja, ospa³y niedo³êga, drzemiê
+Jak Maciek, œwiêtej niepamiêtny sprawy,
+I ani usty uj¹æ siê nie umiem
+Za tego króla, na którego w³oœci
+I drogim ¿yciu dokonany zosta³
+Najohydniejszy rozbój. Jest-¿em tchórzem?
+Któ¿ mi zarzuci pod³oœæ? Któ¿ mnie mo¿e
+Wzi¹æ za kark, za nos powieœæ, w twarz mi plun¹æ,
+Wyrzuciæ w oczy k³amstwo? Któ¿ to mo¿e?
+A jednak
+Zas³ugiwa³bym na to, bo w istocie
+Muszê mieæ chyba wnêtrznoœci go³êbia
+I brak zupe³ny ¿ó³ci, nadaj¹cej
+Gorycz poczucia krzywdy, kiedym jeszcze
+Nie napasa³ dot¹d stada sêpów œcierwem
+Tego nêdznika. O bezwstydny ³otrze!
+Zakamienia³y, krwawy, sproœny ³otrze!
+Bodaj-¿em! Mnie-¿ to przystoi, synowi,
+Jedynakowi zamordowanego
+Drogiego ojca, od nieba i piek³a
+Powo³anemu do zemsty, jak baba
+Marnymi s³owy dawaæ folgê sercu
+I na przekleñstwach czas trawiæ jak prosta,
+Karczemna dziewka?!
+Fuj! fuj! Gdzie¿ moja g³owa? Powiadaj¹,
+¯e zatwardziali z³oczyñcy, obecni
+Na przedstawieniu okropnych widowisk,
+Tak silnym zdjêci bywali wra¿eniem,
+¯e sami swoje wyznawali zbrodnie:
+Mord bowiem, choæby ust nie mia³, cudowny
+Ma organ mowy. Ka¿ê tym aktorom
+Coœ podobnego do sceny zabójstwa
+Ojca mojego odegraæ przed stryjem;
+Patrzeæ mu bêdê w oczy, œledziæ bêdê
+Najmniejszy jego ruch: je¿eli zadrgnie,
+Wiem, co mam czyniæ. Ten duch, com go widzia³,
+Móg³ byæ szatanem (bo szatan przybiera,
+Jak¹ chce postaæ) i nadu¿ywaj¹c
+Mojej s³aboœci i smêtnoœci (taki
+Bowiem stan duszy bardzo mu dogodny),
+Ci¹gnie mnie mo¿e w przepaœæ? Chcê pewniejszej
+Ni¿ ta rêkojmi. Zamierzona sztuka
+Bêdzie probierzem, którym, jak na wêdê,
+Sumienie króla na wierzch wydobêdê.
+wychodzi
+
+
+
+
+
+AKT TRZECI
+
+
+
+
+
+SCENA PIERWSZA
+
+
+Pokój w zamku.
+
+Król, Królowa, Poloniusz, Ofelia, Rozenkranc i Gildenstern
+
+
+KRÓL
+I nie mogliœcie wyrozumieæ ¿adnym
+Zwrotem rozmowy, sk¹d to rozprzê¿enie,
+Które mu pokój zak³óca tak dzikim
+I niebezpiecznym rodzajem maniactwa?
+
+
+ROZENKRANC
+Przyznaje, ¿e siê czuje rozstrojony;
+Lecz przez co, w ¿aden sposób wyznaæ nie chce.
+
+
+GILDENSTERN
+Nie znaleŸliœmy go bynajmniej sk³onnym
+Do wywnêtrzania siê; zrêcznym dziwactwem
+Trzyma³ nas, owszem, z daleka od siebie,
+Kiedyœmy chcieli z niego coœ wyci¹gn¹æ.
+
+
+KRÓLOWA
+Jak¿e was przyj¹³?
+
+
+ROZENKRANC
+Bardzo grzecznie.
+
+
+GILDENSTERN
+Ale
+Nie bez przymusu.
+
+
+ROZENKRANC
+Sk¹py by³ w pytaniach,
+A w odpowiedziach odbiega³ od rzeczy.
+
+
+KRÓLOWA
+Nasunêliœcie-¿ mu jak¹ rozrywkê?
+
+
+ROZENKRANC
+Traf zrz¹dzi³, ¿eœmy spotkali na drodze
+Trupê aktorów: wspomnieliœmy o tym
+Ksiêciu i to go trochê ucieszy³o.
+Ci aktorowie ju¿ siê tu znajduj¹
+I, jak s³ysza³em, otrzymali rozkaz
+Grania mu dzisiaj.
+
+
+POLONIUSZ
+Tak jest w rzeczy samej
+I mnie on zleci³ prosiæ najpokorniej
+Wasze królewskie moœcie, by raczy³y
+Byæ obecnymi na tym widowisku.
+
+
+KRÓL
+Z najwiêksz¹ chêci¹. Serdeczniem rad, ¿e siê
+Do tego sk³ania. Wci¹¿ go utrzymujcie,
+Moi panowie, w tym usposobieniu
+I podniecajcie w nim gust do takiego
+Rodzaju zabaw.
+
+
+ROZENKRANC I GILDENSTERN
+Uczynim to, panie.
+wychodz¹
+
+
+KRÓL
+Oddal siê tak¿e, kochana Gertrudo.
+U³o¿yliœmy rzecz tak, aby Hamlet,
+Niby przypadkiem, zszed³ siê tu z Ofeli¹.
+Ja i jej ojciec (bêdzie to szpiegostwo
+Godziwe) tak siê tu ulokujemy,
+Abyœmy widz¹c, niewidzialni sami,
+O tym spotkaniu z bliska mogli s¹dziæ
+I z zachowania siê jego wnioskowaæ,
+Czy to mi³oœci wp³yw, czy nie mi³oœci
+Tak go udrêcza.
+
+
+KRÓLOWA
+Jestem ci pos³uszna,
+Mój mê¿u. Da³by Bóg, luba Ofelio,
+Aby potêga twoich wdziêków by³a
+B³ogim powodem tej zmiany Hamleta:
+Wtedy szlachetnoœæ twoja, mam nadziejê,
+Na dawn¹ by go sprowadzi³a drogê,
+Ku zaszczytowi was obojga.
+
+
+OFELIA
+Pragnê,
+Aby tak by³o, mi³oœciwa pani.
+
+
+Królowa wychodzi.
+
+
+POLONIUSZ
+Ofelio, chodŸ tu sobie. Najjaœniejszy,
+My siê umieœcim tam.
+do Ofelii
+Czytaj tê ksi¹¿kê,
+Aby ten pozór zajêcia ubarwi³
+Twoj¹ samotnoœæ. Tak to my, grzesznicy,
+Rzekomo œwiêt¹ min¹, uczynkami
+Buduj¹cymi pocukrzamy nieraz
+Samego diab³a.
+
+
+KRÓL
+na stronie
+Prawda! Jak¿e srodze
+Bicz tych wyrazów ch³oszcze mi sumienie!
+Twarz nierz¹dnicy, ró¿em upiêkszona,
+Nie tak jest szpetna obok tej pow³oki
+Jak czyn mój obok pokostu s³ów moich.
+O, ciê¿kie-¿ moje brzemiê!
+
+
+POLONIUSZ
+Ju¿ nadchodzi.
+Œpieszmy na miejsce, mi³oœciwy panie.
+
+
+Król i Poloniusz wychodz¹. Hamlet wchodzi.
+
+
+HAMLET
+Byæ albo nie byæ to wielkie pytanie.
+Jest-li w istocie szlachetniejsz¹ rzecz¹
+Znosiæ pociski zawistnego losu
+Czy te¿ stawiwszy czo³o morzu nêdzy,
+Przez opór wybrn¹æ z niego? — Umrzeæ — zasn¹æ —
+I na tym koniec. — Gdybyœmy wiedzieli,
+¯e raz zasn¹wszy, zakoñczym na zawsze
+Boleœci serca i owe tysi¹czne
+W³aœciwe naszej naturze wstrz¹œnienia,
+Kres taki by³by celem na tej ziemi
+Najpo¿¹dañszym. Umrzeæ — zasn¹æ. — Zasn¹æ!
+Mo¿e œniæ? — w tym sêk ca³y, jakie bowiem
+W tym œnie œmiertelnym marzenia przyjœæ mog¹,
+Kiedy zrzucimy z siebie wiêzy cia³a,
+To zastanawia nas: i toæ to czyni
+Tak d³ugowieczn¹ niedolê; bo któ¿ by
+Œcierpia³ pogardê i zniewagi œwiata,
+Krzywdy ciemiê¿cy, obelgi dumnego,
+Lekcewa¿onej mi³oœci mêczarnie,
+Odw³okê prawa, butê w³adz i owe
+Upokorzenia, które nieustannie
+Cichej zas³ugi staj¹ siê udzia³em,
+Gdyby od tego kawa³kiem ¿elaza
+Móg³ siê uwolniæ? Któ¿ by dŸwiga³ ciê¿ar
+Nudnego ¿ycia i poci³ siê pod nim,
+Gdyby obawa czegoœ poza grobem,
+Obawa tego obcego nam kraju,
+Sk¹d nikt nie wraca, nie w¹tli³a woli
+I nie kaza³a nam pêdziæ dni raczej
+W z³em ju¿ wiadomym ni¿ uchodz¹c przed nim
+Popadaæ w inne, którego nie znamy.
+Tak to rozwaga czyni nas tchórzami;
+Przedsiêbiorczoœci ho¿a cera blednie
+Pod wp³ywem wahañ i zamiary pe³ne
+Jêdrnoœci, zbite z wytkniêtej kolei,
+Trac¹ nazwisko czynu. — Ha! co widzê?
+Piêkna Ofelia! — Nimfo, w mod³ach swoich
+Pomnij o moich grzechach.
+
+
+OFELIA
+Jak¿e zdrowie
+Waszej ksi¹¿êcej moœci od dni tylu?
+
+
+HAMLET
+Dobre; pokornie dziêkujê waæpannie.
+
+
+OFELIA
+Mam jeszcze od was, panie, kilka drobnych
+Pami¹tek, dawno zwróciæ je pragnê³am:
+Odbierzcie je dziœ, proszê.
+
+
+HAMLET
+Jako ¿ywo!
+Jam nigdy w ¿yciu nic nie da³ waæpannie.
+
+
+OFELIA
+Wiesz dobrze, moœci ksi¹¿ê, ¿eœ to czyni³,
+I upominki swoje ubarwia³eœ
+Takimi s³owy, które wszelkiej rzeczy
+Wartoœæ podnosz¹. Woñ ich ulecia³a:
+WeŸ je na powrót, panie, w oczach bowiem
+Ka¿dej szlachetnie myœl¹cej osoby
+Najdro¿sze dary lichymi siê staj¹,
+Gdy dawca martwi. Oto s¹.
+
+
+HAMLET
+Cha-cha-cha! Jest-¿eœ uczciwa?
+
+
+OFELIA
+Moœci ksi¹¿ê!
+
+
+HAMLET
+Jest-¿eœ piêkna?
+
+
+OFELIA
+Co znacz¹ te pytania?
+
+
+HAMLET
+To, ¿e je¿eli jesteœ uczciwa i piêkna, uczciwoœæ twoja nie powinna mieæ nic do czynienia z piêknoœci¹.
+
+
+OFELIA
+Jak to, panie? Mo¿e-¿ piêknoœæ z czym lepszym chodziæ w parze ni¿ z uczciwoœci¹?
+
+
+HAMLET
+Zapewne, tylko ¿e potêga piêknoœci prêdzej obróci uczciwoœæ w rajfurkê, ni¿ wp³yw uczciwoœci potrafi piêknoœæ na swoje kopyto przerobiæ. By³o to niegdyœ paradoksem, ale w nowszych czasach okazuje siê pewnikiem. Kocha³em dawniej waæpannê.
+
+
+OFELIA
+W rzeczy samej, dawa³eœ mi to ksi¹¿ê do zrozumienia.
+
+
+HAMLET
+Nie trzeba ci by³o tak rozumieæ; bo cnota nie daje siê w stary nasz pieñ wszczepiæ tak, ¿ebyœmy tr¹ciæ nim przestali. Nie kocha³em ciê wcale.
+
+
+OFELIA
+Tym bardziej wiêc zosta³am zawiedziona.
+
+
+HAMLET
+IdŸ waæpanna do klasztoru; na co ci mno¿yæ grzeszników? Ja sam jako tako jestem uczciwy, a przecie¿ móg³bym sobie zarzuciæ takie rzeczy, ¿e lepiej by by³o, gdyby mnie by³a matka na œwiat nie wyda³a. Jestem nadzwyczajnie dumny, mœciwy, chciwy w³adzy; wiêcej mam przywar ni¿ w³adz umys³owych do ich poznania, ni¿ wyobraŸni do dania o nich wyobra¿enia i czasu do okazania ich w postêpkach. Czego siê takie figury t³uc maj¹ pomiêdzy ziemi¹ i niebem? Jesteœmy arcyhultaje, wszyscy bez wyj¹tku; ¿adnemu z nas nie ufaj. IdŸ prosto do klasztoru. Gdzie¿ waæpanny ojciec?
+
+
+OFELIA
+W domu, moœci ksi¹¿ê.
+
+
+HAMLET
+Zamknij-¿e go na klucz, aby nigdzie indziej nie gra³ roli b³azna, tylko we w³asnym domu. B¹dŸ zdrowa.
+
+
+OFELIA
+na stronie
+Panie, zmi³uj siê nad nim!
+
+
+HAMLET
+Je¿eli za m¹¿ pójœæ chcesz, dam ci w posagu tê przestrogê: Chocia¿byœ jak œnieg by³a czysta, jak lód nieskalana, przecie¿ nie ujdziesz obmowy. Wst¹p do klasztoru. Adieu. Albo je¿eli koniecznie potrzebowaæ bêdziesz wyjœæ za m¹¿, to wyjdŸ za g³upca, bo rozs¹dni ludzie wiedz¹ bardzo dobrze, jakie z nich czynicie potwory. IdŸ czym prêdzej do klasztoru. Adieu.
+
+
+OFELIA
+na stronie
+O nieba, wesprzyjcie go sw¹ ³ask¹!
+
+
+HAMLET
+S³ysza³em te¿ o malowaniu siê waszym: nie doœæ wam jednej twarzy otrzymanej od Boga, dorabiacie sobie drug¹; sztafirujecie siê, krygujecie, cedzicie s³owa, przedrzeŸniacie boskie stworzenia i swawolê pokrywacie p³aszczykiem naiwnoœci. Precz, precz! nie chcê ju¿ patrzeæ na to: to mnie we wœciek³oœæ wprawia. Wara odt¹d mê¿czyznom ¿eniæ siê; ci, co siê ju¿ po¿enili, jednego wyj¹wszy, niech ¿yj¹ zdrowi, reszta pozostaæ winna tak, jak jest. Do klasztoru! Do klasztoru!
+wychodzi
+
+
+OFELIA
+O, jak szlachetny duch zwichniêty zosta³!
+Dworaka, wodza, mêdrca ton, miecz, umys³;
+Kwiat oczekiwañ potê¿nego pañstwa,
+Wzór ukszta³cenia, zwierciad³o poloru,
+Cel zwracaj¹cej siê uwagi œwiata:
+Wszystko to, wszystko wniwecz obrócone!
+I ja, ze wszystkich kobiet najnêdzniejsza,
+Com ssa³a nektar s³odkich jego œlubów,
+Skazanam teraz widzieæ tê wspania³¹,
+Wybran¹ duszê, jak spêkany dzwonek,
+Chrapliwe tylko wydaj¹c¹ dŸwiêki;
+To czyste Ÿród³o bogatej m³odoœci
+Zm¹cone sza³em. O, czemu¿ musia³am
+Ujrzeæ, co widzê, widzieæ, co widzia³am!
+
+
+Wchodz¹ Król i Poloniusz.
+
+
+KRÓL
+Mi³oœæ! Nie takie s¹ jej symptomata.
+To, co on mówi³, choæ trochê bez zwi¹zku,
+Cechy szaleñstwa nie nosi³o wcale.
+Ponura jego smêtnoœæ wysiaduje
+Coœ z³owrogiego, co wylêg³e z jajka
+Mog³oby staæ siê zgubne. Pragn¹c przeto
+Zapobiec z³emu, po œwie¿ym namyœle,
+Postanowi³em wys³aæ go niezw³ocznie
+Do Anglii celem niby za¿¹dania
+Przynale¿nego mu haraczu. Mo¿e
+Ta podró¿, widok ró¿nych miejsc i rzeczy,
+Potrafi z jego serca wyrugowaæ
+To coœ, woko³o czego jego myœli,
+Bij¹c siê ci¹gle i skrycie nurtuj¹c,
+Tak go z w³aœciwych wyrywaj¹ karbów.
+Có¿ waæpan na to?
+
+
+POLONIUSZ
+Mo¿e to byæ dobre;
+Rozumiem jednak zawsze, ¿e prawdziwym
+J¹drem i Ÿród³em tej jego choroby
+Jest bezwzajemna mi³oœæ. No, Ofelio,
+Nie potrzebujesz nam objawiaæ tego,
+Co-æ mówi³ ksi¹¿ê Hamlet, boœmy sami
+Wszystko s³yszeli. Uczyñ, co chcesz, panie;
+Je¿eli jednak uznasz to stosownym,
+Niech po skoñczonym dzisiaj widowisku
+Królowa matka w poufnej rozmowie
+Prosi go, aby jej zwierzy³ swój smutek.
+Niechaj z nim mówi bez ogródki; ja zaœ,
+Jeœli siê na to zgodzi wasza wielkoœæ,
+Przy³o¿ê ucho do tego sam na sam.
+Nie wydobêdzie-li nic z niego, wtedy
+Œlij go do Anglii, panie, albo zamknij,
+Gdzie m¹droœæ twoja wska¿e.
+
+
+KRÓL
+Dobra rada:
+Szalonych mo¿nych pilnie strzec wypada.
+wychodz¹
+
+
+
+
+SCENA DRUGA
+
+
+Wielka sala tam¿e.
+
+Wchodzi Hamlet z kilkoma aktorami.
+
+
+HAMLET
+Proszê ciê, wyrecytuj ten kawa³ek tak, jak ja ci go przepowiedzia³em, g³adko, bez wysilenia. Ale je¿eli masz wrzeszczeæ, tak jak to czyni¹ niektórzy nasi aktorowie, to niech lepiej moje wiersze deklamuje miejski pacho³ek. Nie siecz te¿ za bardzo rêk¹ powietrza w taki sposób: b¹dŸ raczej ruchów swoich panem; wœród najwiêkszego bowiem potoku i, ¿e tak powiem, wiru namiêtnoœci, trzeba ci zachowaæ umiarkowanie, zdolne nadaæ wewnêtrznej twojej burzy pozór spokoju. Nie posiadam siê z oburzenia s³ysz¹c, jak siaki taki barczysty gbur w peruce w ga³gany obraca uczucie, prawdziwy z niego ³ach robi, by zadowoliæ uszy narodku, który po najwiêkszej czêœci kocha siê tylko w niezrozumia³ych gestach i wrzawie. Oæwiczyæ bym rad kaza³ takiego chama, by siê bardziej hamowa³, gdy gra Heroda albo Termaganta. Proszê ciê, chroñ siê tego.
+
+
+PIERWSZY AKTOR
+Zapewniam wasz¹ wysokoœæ.
+
+
+HAMLET
+Nie b¹dŸ te¿ z drugiej strony za miêkki; niech w³asna twoja rozwaga przewodnikiem ci bêdzie. Zastosuj akcjê do s³ów, a s³owa do akcji, maj¹c przede wszystkim to na wzglêdzie, abyœ nie przekroczy³ granic natury; wszystko bowiem, co przesadzone, przeciwne jest intencjom teatru, którego przeznaczeniem, jak dawniej tak i teraz, by³o i jest s³u¿yæ niejako za zwierciad³o naturze, pokazywaæ cnocie w³asne jej rysy, z³oœci ¿ywy jej obraz, a œwiatu i duchowi wieku postaæ ich i piêtno. Owó¿ przeholowanie tego celu lub niedosiêgniêcie mo¿e wprawdzie rozœmieszyæ prostaczków, ale znaj¹cym siê na rzeczy musi pójœæ w niesmak, nagana zaœ jednego z tych ostatnich, na szali waszych zas³ug przewa¿yæ musi poklask ca³ego t³umu pierwszych. Widzia³em ja aktorów i znaleŸli siê tacy, co ich chwalili, g³oœno nawet aktorów, którzy (bogobojnie mówi¹c) ani z mowy, ani z ruchów nie byli podobni do chrzeœcijan ani do pogan, ani do ludzi, a rzucali siê i ryczeli tak, i¿ pomyœla³em sobie, ¿e chyba jaki najemnik natury sfabrykowa³ ludzkoœæ; tak bezecnie j¹ naœladowali.
+
+
+
+PIERWSZY AKTOR
+Pochlebiamy sobie, ¿eœmy siê tego pozbyli cokolwiek.
+
+
+HAMLET
+O, pozb¹dŸcie siê tego ze szczêtem. Tym zaœ, co u was graj¹ b³aznów, zaka¿cie jak najsurowiej prawiæ co b¹dŸ wiêcej nad to, co stoi w ich roli; s¹ bowiem miedzy nimi tacy, co siê namawiaj¹ do œmiechu, aby w pewnej liczbie ja³owych spektatorów tak¿e œmiech wzbudziæ, i to w³aœnie w chwili, kiedy przypada jaki szczegó³ sztuki zas³uguj¹cy na uwagê. To niegodziwoœæ, dowodz¹ca politowania godnej pró¿noœci w b³aŸnie, który tak czyni. IdŸcie i b¹dŸcie w pogotowiu.
+
+Aktorowie wychodz¹.
+
+Wchodz¹ Poloniusz, Rozenkranc i Gildenstern.
+
+No i có¿, moœci panie? Czy król chce spo¿yæ ten kês widowiska?
+
+
+POLONIUSZ
+Jego królewska moœæ przybêdzie, królowa jejmoœæ tak¿e, i to zaraz.
+
+
+HAMLET
+Powiedz-¿e, waæpan, aktorom, niech siê œpiesz¹.
+
+Poloniusz wychodzi.
+
+A panowie-¿ to nie dopomo¿ecie ich znagliæ do poœpiechu?
+
+
+ROZENKRANC I GILDENSTERN
+I owszem, moœci ksi¹¿ê.
+wychodz¹
+
+
+HAMLET
+Hola, Horacy!
+
+
+Horacy wchodzi.
+
+
+HORACY
+Co rozka¿esz, panie?
+
+
+HAMLET
+Horacy, tyœ najsprawiedliwszy z ludzi,
+Z którymi kiedykolwiek przestawa³em.
+
+
+HORACY
+O panie!
+
+
+HAMLET
+Nie myœl, ¿e ci chcê pochlebiæ.
+Czegó¿ bym móg³ siê spodziewaæ od ciebie,
+Który nic nie masz, krom rzeœkoœci ducha,
+Ku wy¿ywieniu siê i ku okryciu?
+Któ¿ by pochlebia³ biednym! Niechaj w cukrze
+Sma¿ony jêzyk li¿e g³upi¹ pychê, 
+Niech siê zawiasy kolan uginaj¹
+Tam, gdzie ³aszenie siê zdobywa korzyœæ.
+S³uchaj: od chwili kiedy dusza moja
+Mog³a byæ pani¹ swojego wyboru
+I ludzi jednych przenosiæ nad drugich,
+Od owej chwili ju¿ ciê ona sobie
+Upodoba³a; boœ ty, wiele cierpi¹c,
+Takim by³ zawsze, jakbyœ nic nie cierpia³;
+Boœ ty Fortunie zarówno by³ wdziêczny
+Za jej umizgi i przeœladowania;
+A b³ogos³awion, w kim krew z przekonaniem
+Tak s¹ zmieszane, i¿ on palcom losu
+Nie s³u¿y za flet do wydania dŸwiêków
+Wedle kaprysu. O, daj mi cz³owieka,
+Nie bêd¹cego ¿¹dz swych niewolnikiem,
+A w g³êbi mego serca go umieszczê,
+W sercu samego¿ serca, tak jak ciebie. 
+Za wiele tego ju¿ podobno. W sztuce,
+Która niebawem ma byæ przedstawiona,
+Jest jedna scena zbli¿ona do tego,
+Com ci o œmierci mego ojca zwierzy³.
+Gdy siê ta scena pertraktowaæ bêdzie,
+Zwróæ, proszê, ca³¹ potêgê uwagi
+Na mego stryja. Jeœli jego wina
+Podczas tej sceny sama siê nie zdradzi,
+Ów niby zacny duch by³ potêpieñcem,
+A moje myœli tak czarne jak sadza
+W kuŸni Wulkana. Nie spuszczaj go z oczu,
+Ja mój wzrok tak¿e pilnie w twarz mu wryjê,
+A potem zlejem nasze spostrze¿enia
+W stanowcz¹ formê wniosku.
+
+
+HORACY
+Dobrze, panie;
+Je¿eli skradnie co mojej bacznoœci
+I ujdzie ca³y, zap³acê tê kradzie¿.
+
+
+HAMLET
+Ju¿ id¹; muszê znowu zostaæ g³upcem.
+Dalej na miejsce!
+
+
+Marsz. Odg³os tr¹b.
+
+Król, Królowa, Poloniusz, Ofelia, Rozenkranc, Gildenstern i inne osoby wchodz¹.
+
+
+KRÓL
+Jak¿e siê miewa nasz syn, Hamlet?
+
+
+HAMLET
+Wybornie, ¿yjê jak kameleon powietrzem nadzianym obietnicami; kap³onów nie moglibyœcie lepiej tuczyæ.
+
+
+KRÓL
+Nie mam co zrobiæ z t¹ odpowiedzi¹. Te s³owa nie do mnie nale¿¹.
+
+
+HAMLET
+Ani do mnie ju¿ teraz.
+do Poloniusza
+Waæpan grywa³eœ kiedyœ na uniwersytecie, je¿eli siê nie mylê?
+
+
+POLONIUSZ
+Tak jest, moœci ksi¹¿ê, i mia³em s³awê dobrego aktora.
+
+
+HAMLET
+A có¿eœ pan przedstawia³?
+
+
+POLONIUSZ
+Przedstawia³em Juliusza Cezara i zosta³em zabity na Kapitolu. Brutus mnie zabi³.
+
+
+HAMLET
+Có¿ to za brutalstwo by³o z jego strony, ¿eby tak kapitalne cielê tam zabijaæ! — Czy aktorowie ju¿ w pogotowiu?
+
+
+ROZENKRANC
+Czekaj¹, panie, na twe rozkazy.
+
+
+KRÓLOWA
+PójdŸ tu, kochany Hamlecie, si¹dŸ przy mnie.
+
+
+HAMLET
+Wybacz, kochana matko, tu jest metal silniej poci¹gaj¹cy.
+
+
+POLONIUSZ
+do Króla
+S³ysza³eœ, panie?
+
+
+HAMLET
+do Ofelii
+Mogê-¿, o pani, lec na twoim ³onie?
+
+
+OFELIA
+Nie, moœci ksi¹¿ê.
+
+
+HAMLET
+To jest na twoim ³onie g³owê wspar³szy?
+
+
+OFELIA
+Mo¿esz, ksi¹¿ê.
+
+
+HAMLET
+k³ad¹c siê u jej nóg
+S¹dzisz-li, ¿em mia³ w myœli co innego?
+
+
+OFELIA
+Ja nic nie s¹dzê.
+
+
+HAMLET
+To by by³ pomys³ nie lada po³o¿yæ siê miêdzy nogami dziewczyny.
+
+
+OFELIA
+Co takiego?
+
+
+HAMLET
+Nic.
+
+
+OFELIA
+Ksi¹¿ê dziœ jesteœ wesó³.
+
+
+HAMLET
+Kto? ja?
+
+
+OFELIA
+Nie inaczej.
+
+
+HAMLET
+O, jestem tylko twoim weso³kiem. Có¿ zreszt¹ cz³owiek ma czyniæ, je¿eli nie weseliæ siê? Oto na przyk³ad moja matka, patrz, pani, jak promieniej¹co wygl¹da, chocia¿ mój ojciec zmar³ przed dwiema godzinami.
+
+
+OFELIA
+Przed dwa razy dwoma miesi¹cami, moœci ksi¹¿ê.
+
+
+HAMLET
+Tak to ju¿ dawno? Niech¿e siê diabe³ czarno nosi, ja przywdziejê sobole. Dlaboga? Od dwóch miesiêcy zmar³y i jeszcze nie zapomniany? Jest wiêc nadzieja, ¿e pamiêæ wielkich ludzi zdo³a przetrwaæ ich ¿ywot przez pó³ roku; notabene, je¿eli ufunduj¹ koœcio³y; w przeciwnym razie niech siê nie skar¿¹, je¿eli ich spotka los tego konika, któremu na nagrobku napisano: „Konik zdech³, wiêc go w miech.”
+
+Odg³os tr¹b. Po czym nastêpuje pantomima. Para królewskich ma³¿onków w czu³ej komitywie wchodzi na scenê. Królowa œciska króla i on j¹ nawzajem, klêka przed nim z wyrazem najtkliwszego przywi¹zania; on j¹ podnosi i g³owê na jej piersi sk³ania; k³adzie siê potem na kwiecistej darni i zasypia. Ona, widz¹c go uœpionego, odchodzi. Po niejakiej chwili ukazuje siê jakiœ cz³owiek, zbli¿a siê do œpi¹cego, zdejmuje mu z g³owy koronê, ca³uje j¹, wlewa potem w ucho królowi truciznê i wychodzi. Królowa powraca, znajduje króla nie¿ywego i bardzo rozpacza. Zabójca w towarzystwie dwóch czy trzech niemych osób wchodzi znowu i niby tak¿e lamentuje. Wynosz¹ trupa. Zabójca sk³ada przed królow¹ dary i oœwiadcza jej swoj¹ mi³oœæ. Ona okazuje zrazu wstrêt i niechêæ, w koñcu jednak podaje mu rêkê. Wychodz¹.
+
+
+OFELIA
+Co to by³o, moœci ksi¹¿ê?
+
+
+HAMLET
+To by³ hultajski bigos, a oznacza zbrodniê.
+
+
+OFELIA
+Zapewne ta pantomima zawiera³a w sobie treœæ sztuki?
+
+
+Wchodzi Prolog.
+
+
+HAMLET
+Dowiemy siê od tego jegomoœcia. Aktorowie nie umiej¹ trzymaæ jêzyka za zêbami; musz¹ wszystko wypaplaæ.
+
+
+OFELIA
+Czy on nam odkryje znaczenie tego?
+
+
+HAMLET
+Niezawodnie, tak jak wszystko, co byœ mu pani odkry³a. Nie wstydŸ siê tylko pokazaæ mu, co masz do pokazania, a on siê nie powstydzi powiedzieæ ci, co to znaczy.
+
+
+OFELIA
+Ladaco z waœci, ladaco. Bêdê patrzeæ na sztukê.
+
+
+PROLOG
+Cni panowie i cne damy,
+Dla was i dla naszej dramy
+Kornie was o wzgl¹d b³agamy.
+
+
+HAMLET
+Prolog-li to czy dewiza na sygnet?
+
+
+OFELIA
+To by³o krótkie.
+
+
+HAMLET
+Jak mi³oœæ kobiety.
+
+
+Wchodz¹ Król aktor i Królowa aktorka.
+
+
+KRÓL AKTOR
+„Trzydzieœci razy Feba rumaki obieg³y
+Kr¹g Tellury i przestwór Neptuna rozleg³y
+I trzydzieœci kroæ razy dwanaœcie na przemian
+Zap³on¹³ i zblad³ miesi¹c nad g³owami ziemian,
+Odk¹d nam Amor serca, Hymen z³¹czy³ d³onie
+Wêz³em, który siê chyba rozwi¹¿e po zgonie.
+
+
+KRÓLOWA AKTORKA
+Obyœmy drugie tyle zmian luny i s³oñca
+Zliczyli, nim mi³oœci do¿yjemy koñca!
+Lecz ach! ju¿ od pewnego czasu niezbadana
+W zdrowiu, w humorze twoim, panie, zasz³a zmiana.
+Lêkam siê... niechaj jednak te niewieœcie trwogi
+Nie przyczyniaj¹-æ cierpieñ, o mê¿u mój drogi.
+Obawy u p³ci naszej z mi³oœci siê rodz¹
+Jak ta lub nie istniej¹, lub miarê przechodz¹.
+Czym moja mi³oœæ, tego liczne-œ mia³ objawy;
+W jakim zaœ stopniu mi³oœæ, w takim i obawy.
+Gdzie wielka mi³oœæ, lada w¹tpliwoœæ przera¿a,
+I z zwiêkszeniem siê obaw mi³oœæ siê pomna¿a.
+
+
+KRÓL AKTOR
+Tak, najmilsza, opuszczê ciê, i to nied³ugo,
+Coraz ju¿ si³y sk¹psz¹ darz¹ miê pos³ug¹;
+Ty zostaniesz; ¿yæ bêdziesz na tym piêknym œwiecie
+Szanowana, kochana, i mo¿e ci splecie
+Wieniec drugi ma³¿onek.
+
+
+KRÓLOWA AKTORKA
+O, wstrzymaj te s³owa!
+Zbrodni¹ by w moim ³onie by³a myœl takowa.
+Obym przy drugim mê¿u by³a potêpion¹!
+Taka tylko drugiego mo¿e zostaæ ¿on¹,
+Co zabi³a pierwszego.”
+
+
+HAMLET
+To pio³un.
+
+
+KRÓLOWA AKTORKA
+„Pod³e tylko chucie
+Klej¹ powtórne zwi¹zki, lecz nigdy uczucie.
+Zabójczyni pierwszego powtórnie go zg³adza,
+Gdy nowego ma³¿onka w ³o¿e swe wprowadza. 
+
+
+KRÓL AKTOR
+¯e myœlisz tak, jak mówisz, najzupe³niej wierzê;
+Nieraz jednak cz³ek ³amie to, co przedsiêbierze.
+Zamiar jest niewolnikiem wy³¹cznym pamiêci.
+Nagle zrodzony, ale s³abej konsystencji;
+Krzepko wisi, jak owoc nieŸrza³y u drzewa.
+Lecz gdy zmiêknie, przed czasem lada wiatr go zwiewa
+Nie dziw, ¿e nie pomnimy wyp³acaæ na dobie
+D³ugu, któryœmy winni tylko samym sobie.
+To, co postanawiamy w chwili uniesienia,
+Z uniesieniem minionym w parê siê zamienia;
+Zbytnia gwa³townoœæ, czy to radoœci, czy smutku,
+Sama w³asne swe chêci wydziedzicza z skutku,
+Gdzie radoœæ pusta, smutek przechodzi w rozpacze,
+Tam po chwili cieszy siê smutek, radoœæ p³acze.
+Œwiat ten nie wiekuisty ni siê kto zdumiewa,
+¯e z przesileniem szczêœcia i mi³oœæ omdlewa;
+Kwestia to bowiem jeszcze mieszcz¹ca zawi³oœæ,
+Czy mi³oœæ jedna szczêœcie, czy te¿ szczêœcie mi³oœæ?
+Mo¿ny run¹³, pierzchaj¹ wraz czcicieli zgraje;
+Biedny wzniós³ siê, aliœci wróg d³oñ mu podaje.
+Zdaje siê wiêc, ¿e mi³oœæ szczêœciu jest s³u¿ebna,
+Ma przyjació³, komu ich mi³oœæ niepotrzebna,
+A kto w potrzebie niby przyjaciela wzywa,
+Gotowego w nim sobie wroga wychowywa.
+S³owem, skoñczy³bym na tym, od czego zacz¹³em,
+Chêæ i moc nasza tak s¹ odrêbnym ¿ywio³em,
+¯e najczêœciej upada to, co cz³ek zamierzy,
+Myœl nasza do nas, cel jej nie do nas nale¿y.
+Tak i ta myœl, ¿e z drugim nie bêdziesz z³¹czona,
+Skona w tobie, gdy pierwszy twój ma³¿onek skona.
+
+
+KRÓLOWA AKTORKA
+Niech mi niebo odmówi œwiat³a, ziemia wody,
+Noc nie da odpoczynku, dzieñ nie da swobody!
+W rozpacz niech wszelka moja zmieni siê pociecha,
+Los tylko wiêŸnia w lochu niech mi siê uœmiecha:
+Wszystko to, co rumieniec przeistacza w bladoœæ,
+Niech bêdzie mym udzia³em, gdy uczujê radoœæ.
+Tu i tam niech ponoszê kaŸñ co chwila now¹,
+Jeœli ¿on¹ zostanê, raz zostawszy wdow¹!”
+
+
+HAMLET
+do Ofelii
+Gdyby tê przysiêgê mia³a z³amaæ...
+
+
+KRÓL AKTOR
+„Œlub to straszliwy. — Luba, opuœæ miê na chwilê:
+Myœli mi siê mieszaj¹; mo¿e snem zasilê
+Znêkane cia³o.
+zasypia
+
+
+KRÓLOWA AKTORKA
+Niech ciê ko³ysze sen b³ogi
+I wszelkie z³o omija z dala nasze progi!”
+wychodzi
+
+
+HAMLET
+do Królowej
+Jak ci siê, pani, podoba ta sztuka?
+
+
+KRÓLOWA
+Zdaje mi siê, ¿e ta dama przyrzeka za wiele.
+
+
+HAMLET
+O, ale dotrzyma s³owa.
+
+
+KRÓL
+Czy znasz waæpan treœæ tej sztuki? Nie mieœci-¿ ona w sobie nic zdro¿nego?
+
+
+HAMLET
+Nic zgo³a; oni tylko ¿artuj¹, truj¹ ¿artem; nic zdro¿nego w œwiecie.
+
+
+KRÓL
+Jaki¿ ta sztuka ma tytu³?
+
+
+HAMLET
+„£apka na myszy.” Sk¹d zaœ taki? Przez przenoœniê. Przedstawia ona morderstwo dokonane w Wiedniu. Zamordowany ksi¹¿ê nazywa³ siê Gonzago, a jego ¿ona Baptysta. Arcyszelmowska to sprawka, jak zaraz obaczymy. Ale co nam do tego? Wasza królewska moœæ i my wszyscy mamy spokojne sumienie, nie mo¿e nas to dotkn¹æ. Niech siê drapie, kto ma liszaj; nasza skóra zdrowa.
+
+Wchodzi Lucjan.
+
+To jest niejaki Lucjan, synowiec króla.
+
+
+OFELIA
+Objaœniasz, moœci ksi¹¿ê, tak dobrze jak chór staro¿ytny.
+
+
+HAMLET
+Móg³bym byæ poœrednikiem miêdzy pani¹ a jej kochankiem, gdybym tylko by³ œwiadkiem waszych igraszek.
+
+
+OFELIA
+Kol¹cy masz dowcip, moœci ksi¹¿ê.
+
+
+HAMLET
+Odpokutowa³abyœ, pani, niejednym jêkiem stêpienie mi kolca.
+
+
+OFELIA
+Coraz to lepiej i zarazem gorzej.
+
+
+HAMLET
+Tak w³aœnie traktujecie swych mê¿ów. Dalej, morderco;
+Zrzuæ tw¹ przeklêt¹ larwê i zaczynaj:
+Ju¿ kruk krakaniem
+Do zemsty daje has³o.
+
+
+LUCJAN
+„Myœl czarna, rêka pewna, p³yn dzielny, czas sprzyja.
+Nie tamuje zamiaru obecnoœæ niczyja.
+Szary wyskoku, w pó³noc z zbójczych zió³ zebrany,
+Po trzykroæ pod Hekaty kl¹tw¹ gotowany,
+W³adzê tw¹ czarodziejsk¹, straszn¹ w swym rozwiciu
+Oka¿ niezw³ocznie na tym zdrowym jeszcze ¿yciu.”
+wlewa truciznê w ucho œpi¹cemu
+
+
+HAMLET
+Truje go w jego w³asnym ogrodzie dla zagrabienia jego pañstwa. Nazwisko tamtego jest Gonzago; rzecz autentyczna i we w³oskim tekœcie wybornie opisana. Teraz zobaczymy, jakim sposobem morderca pozyskuje mi³oœæ ¿ony Gonzagi.
+
+
+OFELIA
+Król powstaje.
+
+
+HAMLET
+Jak to? Strwo¿ony fa³szywym alarmem?
+
+
+KRÓLOWA
+Co ci jest, panie?
+
+
+POLONIUSZ
+Niech skoñcz¹ widowisko!
+
+
+KRÓL
+Œwiat³a! WychodŸmy.
+
+
+POLONIUSZ
+Œwiat³a! œwiat³a! œwiat³a!
+
+
+Wszyscy wychodz¹ prócz Hamleta i Horacego.
+
+
+HAMLET
+Niech ryczy z bólu ranny ³oœ,
+Zwierz zdrów przebiega knieje,
+Ktoœ nie œpi, aby spaæ móg³ ktoœ.
+To s¹ zwyczajne dzieje.
+
+Powiedz mi, waæpan, czy ta komedia, z dodatkiem lasu piór na g³owie i pary prowansalskich ró¿ u dziurawych trzewików, nie powinna by (jeœli resztka mojego szczêœcia mnie zawiedzie) zapewniæ mi udzia³u w jakiej trupie aktorów? Hê?
+
+
+HORACY
+Po³owê udzia³u.
+
+
+HAMLET
+Ale¿ ca³y.
+Wiedz bowiem, mi³y mój Damonie,
+¯e z raju dziœ tu step;
+Gdzie wczora Jowisz by³ na tronie,
+Tam dziœ panuje — pustka.
+
+
+HORACY
+Mog³eœ dorymowaæ, moœci ksi¹¿ê.
+
+
+HAMLET
+O Horacy! S³owa tego ducha z³ota warte. Czy widzia³eœ?
+
+
+HORACY
+NajwyraŸniej.
+
+
+HAMLET
+Kiedy by³a mowa o otruciu?...
+
+
+HORACY
+Uwa¿a³em dobrze.
+
+
+HAMLET
+Cha! cha! — Nie ma tam gdzie jakiego grajka? Hej!
+Bo skoro król komedii nie lubi, pewnikiem
+Król jegomoœæ komedii nie jest lubownikiem.
+A co, s¹ grajkowie?
+
+
+Wchodz¹ Rozenkranc i Gildenstern.
+
+
+GILDENSTERN
+Moœci ksi¹¿ê, niech nam wolno bêdzie powiedzieæ jedno s³owo.
+
+
+HAMLET
+Ile ich jest w s³owniku.
+
+
+GILDENSTERN
+Moœci ksi¹¿ê, król...
+
+
+HAMLET
+Có¿ król porabia, moœci panie?
+
+
+GILDENSTERN
+Od wyjœcia st¹d bardzo zaniemóg³.
+
+
+HAMLET
+Z przepicia?
+
+
+GILDENSTERN
+Z wzburzenia ¿ó³ci.
+
+
+HAMLET
+Troskliwoœæ pañska by³aby siê by³a okaza³a trafniejsza udaj¹c siê w takim razie do doktora. Bo gdybym ja mu zapisa³ na przeczyszczenie, mog³oby mu to jeszcze bardziej ¿ó³æ wzburzyæ.
+
+
+GILDENSTERN
+Racz, ³askawy panie, zamkn¹æ sw¹ mowê w pewne szranki i nie odskakiwaæ tak dziko od celu, w jakim przychodzim.
+
+
+HAMLET
+Jestem ju¿ potulny: mów, waæpan.
+
+
+GILDENSTERN
+Królowa, matka waszej ksi¹¿êcej moœci, w najg³êbszym roz¿aleniu przysy³a nas do ciebie, panie.
+
+
+HAMLET
+Mi³o mi panów powitaæ.
+
+
+GILDENSTERN
+Nie, moœci ksi¹¿ê, te grzecznoœci nie w porê. Jeœli siê waszej ksi¹¿êcej moœci podoba daæ nam zdrow¹ odpowiedŸ, wype³nimy polecenie jego matki; w przeciwnym razie, przebaczenie waszej ksi¹¿êcej moœci i oddalenie siê nasze bêdzie jedynym owocem naszego tu przybycia.
+
+
+HAMLET
+Nie mogê, doprawdy.
+
+
+GILDENSTERN
+Czego, moœci ksi¹¿ê?
+
+HAMLET
+Daæ panom zdrowej odpowiedzi, bom chory na g³owê: na jak¹ wszak¿e bêdê siê móg³ zdobyæ, tak¹ im s³u¿yæ bêdê albo raczej matce mojej. Dlatego przyst¹pmy wprost do rzeczy, bez korowodów. Mówicie wiêc, panowie, ¿e moja matka...
+
+
+ROZENKRANC
+Nie tai tego, ¿e postêpowanie waszej ksi¹¿êcej moœci w podziw j¹ i zdumienie wprawia.
+
+
+HAMLET
+O dziwny synu, który tak mo¿esz zdumiewaæ matkê twoj¹! A czy nie ma tam czasem jakiego postscriptum pod tym macierzyñskim podziwem? Powiedzcie no, panowie.
+
+
+ROZENKRANC
+¯yczeniem jej jest, abyœ siê ksi¹¿ê z ni¹ widzia³ w jej gabinecie, nim siê udasz na spoczynek.
+
+
+HAMLET
+Bêdê jej pos³uszny, choæby by³a dziesiêæ razy moj¹ matk¹. Czy macie, panowie, co wiêcej do powiedzenia?
+
+
+ROZENKRANC
+Moœci ksi¹¿ê, by³ czas, ¿eœ miê lubi³.
+
+
+HAMLET
+Na Bakcha i Merkurego! i teraz jeszcze.
+
+
+ROZENKRANC
+£askawy ksi¹¿ê, co ciê udrêcza? Dobrowolnie zamykasz drzwi swobodzie, ukrywaj¹c troski swoje przed przyjacielem.
+
+
+HAMLET
+Nie mam widoków, mój panie.
+
+
+ROZENKRANC
+Jak to? kiedy sam król zapewnia waszej ksi¹¿êcej moœci nastêpstwo duñskiego tronu!
+
+
+HAMLET
+Tak, ale znasz pan przys³owie: dosta³ koñ owsa... koniec trochê niesmaczny
+
+Muzykanci wchodz¹.
+
+Otó¿ i gêdŸba. Pozwól no mi, bracie, swego fletu.
+bior¹c Gildensterna na stronê
+Dlaczego tak tropisz woko³o mnie, jak gdybyœ miê chcia³ w lisi¹ jamê zapêdziæ?
+
+
+GILDENSTERN
+O panie! Jeœli miê ¿arliwoœæ uczyni³a za œmia³ym, przywi¹zanie moje s³usznie mo¿esz nazwaæ nieokrzesanym.
+
+
+HAMLET
+Nie rozumiem tego dobrze. Zagraj no, proszê, na tym flecie.
+
+
+GILDENSTERN
+Nie umiem, moœci ksi¹¿ê.
+
+
+HAMLET
+Proszê ciê.
+
+
+GILDENSTERN
+Nie umiem doprawdy.
+
+
+HAMLET
+Jak mnie kochasz.
+
+
+GILDENSTERN
+Nie potrafiê z niego wydobyæ g³osu, moœci ksi¹¿ê.
+
+
+HAMLET
+To tak ³atwo przecie jak k³amaæ. Przebieraj po tych dziurkach palcami, w³ó¿ ten koniec w usta i zadmij, a wydobêdziesz ton najdŸwiêczniejszy. Patrz, tu s¹ klapy.
+
+
+GILDENSTERN
+Ale ja ich u¿yæ nie umiem do wydania jakiej b¹dŸ melodii, nie znam siê na tym.
+
+
+HAMLET
+Patrz-¿e teraz, za jakiego mnie masz bajbardzo. Chcia³byœ graæ na mnie, wmawiasz w siebie, ¿e znasz mój mechanizm? Chcia³byœ wyrwaæ ze mnie rdzeñ mej tajemnicy, wycisn¹æ ze mnie ca³¹ skalê tonów, od najni¿szej nuty a¿ do dyszkantu; a w tym tu marnym instrumencie tyle jest g³osu, tyle harmonii, jednak¿e nie mo¿esz go sk³oniæ do przemówienia. Có¿ u kata! I czy s¹dzisz, ¿e na mnie ³atwiej zagraæ ni¿ na flecie? Miej miê, za jaki chcesz, instrument: przed¹æ, rozstroiæ miê potrafisz, ale zagraæ na mnie — nigdy.
+
+Wchodzi Poloniusz.
+
+Witam waæpana dobrodzieja.
+
+
+POLONIUSZ
+Moœci ksi¹¿ê, królowa jejmoœæ ¿yczy sobie z wasz¹ ksi¹¿êc¹ moœci¹ pomówiæ,i to zaraz.
+
+
+HAMLET
+Czy widzisz tam waæpan tê chmurê z kszta³tu podobn¹ do wielb³¹da?
+
+
+POLONIUSZ
+W rzeczy samej, istny wielb³¹d.
+
+
+HAMLET
+Zdaje mi siê, ¿e jest podobniejsza do ³asicy.
+
+
+POLONIUSZ
+Prawda, z boku podobniejsza do ³asicy.
+
+
+HAMLET
+Albo raczej do wieloryba.
+
+
+POLONIUSZ
+Bardzo podobna do wieloryba.
+
+
+HAMLET
+No, to dobrze; zaraz pójdê do matki. Z tymi g³upcami trzeba by zg³upieæ naprawdê. Zaraz idê.
+
+
+POLONIUSZ
+Œpieszê to powiedzieæ.
+
+
+HAMLET
+„Zaraz”, ³atwo da siê powiedzieæ. Zostawcie mnie, przyjaciele.
+
+Wychodz¹ Rozenkranc, Gildenstern i Horacy.
+
+Teraz jest w³aœnie czarodziejska, straszna
+Godzina nocy, w której siê podnosz¹
+Groby i same piek³a wyziewaj¹
+Na œwiat zarazê. O, teraz bym gotów
+Piæ krew i takie rzeczy wykonywaæ,
+Na których widok dzieñ by zblad³; lecz teraz
+Mam iœæ do matki. O serce, nie zaprzecz
+Naturze mojej! Niech nigdy w to ³ono
+Nie znajdzie wstêpu neronowa dusza!
+Niech bêdê srogim, ale nie wyrodnym!
+Sztylety w ustach mam, ale nie w d³oni!
+Niechaj mój jêzyk bêdzie w tym spotkaniu
+Ob³udny wzglêdem serca i jakkolwiek
+S³owa nie bêd¹ miotaæ siê i sro¿yæ,
+Pieczêci, duszo, nie daj doñ przy³o¿yæ!
+wychodzi
+
+
+
+
+
+SCENA TRZECIA
+
+
+Pokój tam¿e.
+
+Król, Rozenkranc i Gildenstern.
+
+
+KRÓL
+Nie mo¿na mu dowierzaæ, nie by³oby
+Nawet roztropnie, gdybyœmy mu d³u¿ej
+Wodze szaleñstwa puszczaæ dali. B¹dŸcie
+Wiêc w pogotowiu, skoro odbierzecie
+Zlecenia ju¿ siê przygotowuj¹ce,
+Natychmiast jedŸcie z nim do Anglii. Dobro
+Naszego pañstwa nie pozwala cierpieæ
+Takiej bliskoœci hazardu, na który
+Jego wybryki z ka¿d¹ chwil¹ bardziej
+Nas wystawiaj¹.
+
+
+GILDENSTERN
+Bêdziem w pogotowiu.
+Œwiêta i bogobojna to troskliwoœæ
+Waszej królewskiej moœci, bo tu idzie
+O zachowanie bezpieczeñstwa tylu
+Tysiêcy ludzi, które pod jej ber³em
+¯yj¹ szczêœliwie.
+
+
+ROZENKRANC
+Ka¿dy pojedynczy,
+Prywatny ¿ywot ju¿ jest w obowi¹zku
+Wszelkimi si³y i z ca³¹ dzielnoœci¹
+Chroniæ i broniæ siebie od uszczerbku:
+O ile¿ wiêcej taki byt, na którym
+Polega ¿ycie milionów! Nie koñczy
+Nigdy majestat sam jeden dni swoich;
+Jak spadaj¹cy potok ch³onie z sob¹
+Wszystko, co by³o w pobliskoœci. Jest on
+Niby potê¿nym ko³em przytwierdzonym
+Do szczytu góry, przy którego dzwonach
+Olbrzymich wisz¹ krocie przyczepionych
+Drobiazgów; jeœli to ko³o siê stoczy,
+Wraz ka¿da z owych podrzêdnych jednostek
+Chy¿o mknie w przepaœæ. Nigdy bez wspó³dŸwiêku
+Jêków ogólnych król nie wyda³ jêku.
+
+
+KRÓL
+Œpiesznie gotujcie siê do tej podró¿y.
+Trzeba nam spêtaæ ten postrach, co teraz
+Za bardzo hula.
+
+
+GILDENSTERN I ROZENKRANC
+Bêdziem siê œpieszyli.
+wychodz¹
+
+
+Wchodzi Poloniusz.
+
+
+POLONIUSZ
+Ma przyjœæ niebawem do pokoju matki;
+Ja za obiciem stanê i wys³ucham,
+Co siê tam bêdzie dzia³o. Pewny jestem,
+¯e mu królowa jejmoœæ zmyje g³owê;
+Trzeba atoli, jak to bardzo m¹drze
+Wasza królewska moœæ zauwa¿y³a,
+Aby krom matki, bo matki z natury
+S¹ stronne, jeszcze drugi jaki œwiadek
+By³ tam obecny. Idê wiêc i zanim
+Wasza królewska moœæ pójdzie do ³ó¿ka,
+Bêdê z powrotem, by zdaæ sprawê z tego,
+Czego siê dowiem.
+
+
+KRÓL
+Dziêkujê-æ, mój drogi.
+
+Wychodzi Poloniusz.
+
+O, ka³ mej zbrodni cuchnie a¿ w niebiosa!
+Najstarsza kl¹twa na niej ciê¿y, stygmat
+Bratniego mordu! Nie mogê siê modliæ,
+Chocia¿ pragnienie dorównywa chêci;
+Moc winy mojej kruszy moc mej woli,
+I jako cz³owiek rozdwojon w dzia³aniu,
+Stojê wahaj¹c siê, co mam wprzódy zacz¹æ,
+I nic nie czyniê. Jak to? choæby nawet
+Ta d³oñ przeklêta by³a od krwi bratniej
+Dwakroæ tak brudna, czyli¿ mi³osierne
+Nieba nie maj¹ d¿d¿u do jej obmycia,
+Aby zbiela³a jak œnieg? Na có¿ ³aska,
+Jeœli nie na to, by przebaczaæ winnym?
+Czym¿e s¹ mod³y, je¿eli nie ow¹
+Podwójn¹ si³¹, zdoln¹ nas podeprzeæ,
+Gdy mamy upaœæ lub podnieœæ na nowo,
+Kiedy upadniem? Wzniosê przeto oczy;
+B³¹d mój ju¿ min¹³. Lecz, ach! jaki rodzaj
+Modlitwy mo¿e byæ dla mnie pomocny?
+Przebacz mi moje ohydne morderstwo!
+To byæ nie mo¿e; boæ jeszcze posiadam
+To wszystko, co miê wiod³o do morderstwa:
+Koronê, w³adzê, ¿onê brata. Mo¿e-¿
+Byæ rozgrzeszonym, kto dzier¿y plon grzechu?
+W praktykach tego zepsutego œwiata
+Zdarza siê zbrodni poz³ocon¹ rêk¹
+Usuwaæ na bok sprawiedliwoœæ; nieraz
+Widziano nawet prawo przekupione
+Owocem gwa³tu; ale tam tak nie jest:
+Tam nie pop³aca szalbierstwo; tam czyny
+Nago siê jawi¹ i cz³owiek, stawiony
+Naprzeciw swoich przestêpstw oko w oko,
+Musi je wyznaæ. Có¿ mi wiêc zostaje?
+Spróbowaæ, czego ¿al doka¿e? Czegó¿
+On nie doka¿e? Lecz czegó¿ doka¿e,
+Gdy winowajca nie mo¿e ¿a³owaæ?
+O straszna dolo! serce jak œmieræ czarne!
+Spêtana duszo, która, usi³uj¹c
+Byæ wolna, coraz okropniej siê wik³asz!
+PrzyjdŸcie mi w pomoc, o wy anio³owie!
+Zegnijcie siê, kolana! i ty, stal¹
+Okute serce, zmiêknij jako nerwy
+Nowo narodzonego niemowlêcia!
+Jeszcze siê wszystko da naprawiæ.
+klêka
+
+
+Wchodzi Hamlet.
+
+
+HAMLET
+Modli siê; teraz móg³bym to uczyniæ;
+Teraz uczyniê. Ale tym sposobem
+Pójdzie do nieba; i to¿ bêdzie zemst¹?
+Trzeba siê nad tym zastanowiæ. Nêdznik
+Zabija mego ojca i ja za to,
+Ja, syn jedyny zamordowanego,
+Posy³am tego¿ nêdznika do nieba.
+To by nagrod¹ by³o, a nie zemst¹.
+On go tyrañsko zg³adzi³, w sennej dobie,
+W stanie sytoœci, w maju jego grzechów;
+Jak tam rachunek jego stoi, Bogu
+Wiadomo; s¹dz¹c atoli po ludzku,
+le z nim byæ musi. I ja-¿ bym siê zemœci³,
+Gdybym go zabi³ teraz, kiedy skruch¹
+Oczyszcza duszê, przygotowanego,
+Opatrzonego w podró¿ z tego œwiata?
+Nie. Czekaj, mieczu, sposobniejszej pory.
+Kiedy pijany bêdzie, we œnie, w gniewie
+Albo wœród uciech kazirodnych: kiedy
+Graæ lub kl¹æ bêdzie, lub co b¹dŸ innego
+Czyniæ, co wcale nie pachnie zbawieniem;
+Wtedy go ugodŸ tak, ¿eby a¿ nogi
+Zadar³ ku niebu, aby jego dusza
+Tak wtedy by³a przeklêta i czarna
+Jak piek³o, w które pójdzie. Matka czeka,
+Ten tylko kordia³ œmieræ twoj¹ odwleka.
+wychodzi
+
+
+KRÓL
+powstaj¹c
+S³owa wzlatuj¹, myœl w prochu siê grzebie;
+Ach! s³ów bez myœli nie przyjmuj¹ w niebie.
+wychodzi
+
+
+
+
+
+SCENA CZWARTA
+
+
+Inny pokój tam¿e.
+
+Królowa i Poloniusz.
+
+
+POLONIUSZ
+Przyjdzie wnet. Mów z nim, pani, bez ogródki,
+Powiedz mu, ¿e siê ju¿ przebra³a miarka
+Jego wybryków, ¿e wasza dostojnoœæ
+Za d³ugo stoisz ju¿ jako parawan
+Pomiêdzy nim a ogniem. Tu siê skryjê;
+Tylko z nim ostro.
+
+
+HAMLET
+za scen¹
+Matko, o Matko!...
+
+
+KRÓLOWA
+Nie turbuj siê, waæpan;
+Zgromiê go nale¿ycie. WyjdŸ, ju¿ idzie.
+
+
+Poloniusz kryje siê. Hamlet wchodzi.
+
+
+HAMLET
+Jestem wiêc, matko, czego ¿¹dasz?
+
+
+KRÓLOWA
+Hamlecie, bardzo-œ zmartwi³ twego ojca.
+
+
+HAMLET
+Matko, zmartwi³aœ bardzo mego ojca.
+
+
+KRÓLOWA
+Przestañ, odpowiedŸ twoja bezrozumna.
+
+
+HAMLET
+Przestañ; pytanie twe bezbo¿ne.
+
+
+KRÓLOWA
+Có¿ to
+Znaczy, Hamlecie?
+
+
+HAMLET
+Czego ¿¹dasz, matko?
+
+
+KRÓLOWA
+Czy mnie ju¿ nie znasz?
+
+
+HAMLET
+O, znam, na krucyfiks!
+Jesteœ królow¹, ¿on¹ twego szwagra,
+Obyœ nie by³a ni¹. Jesteœ m¹ matk¹.
+
+
+KRÓLOWA
+Muszê wiêc kogo innego przywo³aæ,
+Co siê rozmówi z tob¹.
+
+
+HAMLET
+Siadaj, pani;
+Nie wyjdziesz st¹d, na krok siê st¹d nie ruszysz,
+Póki nie stawiê przed tob¹ zwierciad³a,
+W którym siê przejrzysz z gruntu.
+
+
+KRÓLOWA
+Co chcesz czyniæ?
+Nie chcesz miê zabiæ przecie. Hej! ratunku!
+
+
+POLONIUSZ
+za obiciem
+Ratunku!
+
+
+HAMLET
+dobywaj¹c szpady
+Có¿ to? szczur? Bij, zabij szczura!
+Ten sztych dukata wart.
+zadaje pchniêcie przez obicie
+
+
+POLONIUSZ
+za obiciem
+Zabity jestem!
+pada i umiera
+
+
+KRÓLOWA
+Nieszczêsny, có¿eœ uczyni³?
+
+
+HAMLET
+Sam nie wiem.
+Czy to król?
+podnosi obicie i wyci¹ga Poloniusza
+
+
+KRÓLOWA
+Co za czyn zapamiêta³y!
+
+
+HAMLET
+Zapamiêta³y czyn! W istocie, matko;
+Tak samo prawie, jak zg³adzaæ ze œwiata
+Króla, a potem iœæ za jego brata.
+
+
+KRÓLOWA
+Jak zg³adzaæ króla?
+
+
+HAMLET
+Takem wyrzek³, pani.
+do Poloniusza
+B¹dŸ zdrów, us³u¿no-wœcibski, biedny g³upcze!
+Wzi¹³em ciê za lepszego; znieœ tw¹ dolê;
+Widzisz, ¿e czasem Ÿle byæ zbyt gorliwym. —
+Nie ³am r¹k, pani; si¹dŸ i œcierp, ¿e raczej
+Ja serce twoje teraz ³amaæ bêdê;
+I skruszê je, na Boga, jeœli nie jest
+Z nieprze³omnego metalu i jeœli
+Przeklêty na³óg nie zrobi³ go wa³em
+Przeciw wszelkiemu wp³ywowi uczucia.
+
+
+KRÓLOWA
+Có¿em ja pope³ni³a, ¿e siê wa¿ysz
+Tak obel¿yw¹ mow¹ na mnie targaæ?
+
+
+HAMLET
+Czyn, który kazi wdziêk i kwiat skromnoœci,
+Cnotê w ob³udê zmienia; zdziera ró¿ê
+Z ho¿ego czo³a niewinnej mi³oœci
+I sadza na nim wrzody; który œwiête
+Ma³¿eñskie œluby czyni fa³szywymi,
+Jako zaklêcia gracza, a religiê
+Czcz¹ gr¹ wyrazów. P³oni siê twarz nieba
+I wiecznie trwa³y ten gmach chorobliw¹
+Przybiera postaæ wobec tego czynu
+Jak gdyby w wiliê dnia s¹dnego.
+
+
+KRÓLOWA
+Przebóg!
+Jaki¿ to czyn tak grzmi¹cy zarzut œci¹ga?
+
+
+HAMLET
+Spójrz, pani, na ten portret i na tamten,
+Na ten konterfekt dwóch rodzonych braci.
+Patrz, ile wdziêku mieœci to oblicze:
+Czo³o Jowisza, Hyperiona w³osy;
+Wzrok Marsa groŸny i rozkazuj¹cy;
+Postawa godna Merkurego, kiedy
+Na niebotyczny szczyt góry zstêpuje.
+Wszystko tu tak jest pe³ne, tak skoñczone,
+Jakby dla dania pierwowzoru mê¿a
+Ka¿dy bóg swoj¹ pieczêæ by³ przy³o¿y³
+Na tym cz³owieku: to by³ twój ma³¿onek.
+Patrz teraz owdzie, to twój m¹¿ dzisiejszy;
+Jak zaœniedzia³y k³os, zara¿aj¹cy
+Zdrowego brata. Masz-li, pani, oczy,
+¯eœ mog³a rzuciæ to górne pastwisko
+Dla paszy na tym bagnie? Gdzie masz oczy?
+Nie mo¿esz tego t³umaczyæ mi³oœci¹,
+Bo w twoim wieku krew nie war, pokornie
+S³ucha rozwagi, a jaka¿ rozwaga
+Mog³aby kazaæ przenieœæ to nad tamto?
+Masz, pani, zmys³y, to pewna, boæ przecie
+Nie jesteœ martwa; ale i to pewna,
+¯e zmys³y te s¹ zwichniête; bo tu by
+Nawet szalony nie zb³¹dzi³ w wyborze;
+Bo nigdy jeszcze ¿adne ob³¹kanie
+Do tego stopnia nie stêpi³o zmys³ów,
+Aby im jakiœ organ nie pozosta³
+Do namacania tak wielkiej ró¿nicy.
+Jaki¿, u licha, bies przy ciuciubabce
+Tak ciê zaœlepi³? Wzrok bez dotykania,
+Czucie bez wzroku, s³uch bez r¹k i oczu,
+Wêch bez wszystkiego innego, ba, nawet
+Naju³omniejsza czêœæ zdrowego zmys³u
+Tak by nie mog³a siê zmyliæ. O wstydzie!
+Gdzie twój rumieniec? Piekielny rokoszu,
+Jeœli ty mo¿esz p³omieñ twój rozniecaæ
+W ³onie matrony, to zaiste cnocie
+Wrz¹cej m³odoœci staæ siê trzeba woskiem
+I stopnieæ w w³asnym ogniu. Niech siê przeciw
+Atakom pokus odt¹d srom nie zbroi,
+Skoro l¹d p³onie tak ¿ywo i rozum
+¯¹dz jest faktorem.
+
+
+KRÓLOWA
+O, przestañ, Hamlecie!
+Ty oczy moje zwracasz w g³¹b mej duszy;
+Widzê w niej czarne, szpetne plamy, których
+Zmyæ nie potrafiê.
+
+
+HAMLET
+Ha! tak ¿yæ w bar³ogu
+Kazirodnego ³o¿a, gniæ w sproœnoœci,
+Z œmietnika rozkosz ch³eptaæ!...
+
+
+KRÓLOWA
+Przestañ, przestañ!
+Ka¿de twe s³owo razi mnie jak sztylet
+Przestañ, Hamlecie luby!
+
+
+HAMLET
+Zbój i podlec;
+Nikczemnik niewart setnej czêœci setki
+Twego pierwszego mê¿a; rzezimieszek,
+Który z wystawy œci¹gn¹³ drogi diadem
+I w kieszeñ schowa³...
+
+
+KRÓLOWA
+Przestañ.
+
+
+Duch wchodzi.
+
+
+HAMLET
+Król z postawy,
+Z szmat i okrawek...
+Os³oñcie miê opiekuñczymi skrzyd³y,
+Œwiête zastêpy niebios! Czego ¿¹dasz,
+Szanowna maro?
+
+
+KRÓLOWA
+Niestety! Oszala³.
+
+
+HAMLET
+Co ciê sprowadza? Przychodzisz-li zgromiæ
+Opiesza³ego syna, ¿e tak gnuœnie
+Czas marnotrawi, w odw³okê puszczaj¹c
+Spe³nienie twego strasznego rozkazu?
+O, mów!
+
+
+DUCH
+Pamiêtaj na twe przyrzeczenie,
+Przychodzê po to tylko, ¿ebym wzmocni³
+Zw¹tlone nieco przedsiêwziêcie twoje,
+Ale patrz, w jakim stanie twoja matka!
+O, stañ pomiêdzy ni¹ a jej sumieniem
+Odbywaj¹cym walkê; wyobraŸnia
+Najsilniej dzia³a w s³abym ciele. Przemów
+Do niej, Hamlecie.
+
+
+HAMLET
+Co ci jest, o pani?
+
+
+KRÓLOWA
+Niestety, raczej ty powiedz, co tobie,
+¯e tak upornie oczy w pró¿niê wlepiasz
+I z bezcielesnym rozmawiasz powietrzem?
+Dziko z twych oczu strzela wnêtrzny p³omieñ;
+I g³adkie w³osy twoje, jak ¿o³nierze
+Zbudzeni ze snu alarmem, powstaj¹
+I wyprê¿one stoj¹. O mój synu,
+Skrop tê trawi¹c¹ ciê gor¹czkê ch³odem
+Zastanowienia. W co siê tak wpatrujesz?
+
+
+HAMLET
+W niego! tam! w niego! Patrz, jaki on blady!
+Ach! jego postaæ, jego sprawa zdolna
+By³aby wzruszyæ g³azy. Nie patrz na mnie!
+Bo od ¿a³osnych tych spojrzeñ rozmiêknie
+Têgoœæ mej woli i wbrew zamiarowi
+Nie krew pocieknie, ale ³zy.
+
+
+KRÓLOWA
+Do kogo
+Zwracasz te s³owa?
+
+
+HAMLET
+Czy nic tam nie widzisz?
+
+
+KRÓLOWA
+Nic zgo³a, chocia¿ wszystko, co jest, widzê.
+
+
+HAMLET
+I nic nie s³yszysz?
+
+
+KRÓLOWA
+Nic oprócz nas dwojga.
+
+
+HAMLET
+Patrz! tam! Nie widzisz go? Ju¿ siê oddala!
+Mój ojciec! On to, w tej¿e samej szacie,
+W któr¹ za ¿ycia lubi³ siê przybieraæ.
+Patrz, ju¿ jest blisko drzwi; ju¿ jest za progiem.
+
+
+Duch wychodzi.
+
+
+KRÓLOWA
+P³ód to chorobliwego mózgu twego.
+W tworzeniu tego rodzaju widziade³
+Gor¹czka bardzo jest bieg³a.
+
+
+HAMLET
+Gor¹czka!
+Puls mój spokojnie bije i do taktu,
+Tak jak twój, pani. W tym, co powiedzia³em,
+Nie by³o nic od rzeczy. Chcesz dowodu,
+To ci powtórzê ka¿de moje s³owo,
+A tego przecie wariat nie potrafi.
+O matko, matko! przez mi³oœæ zbawienia,
+Nie k³adŸ pochlebnej maœci na tw¹ duszê
+T¹ myœl¹, ¿e to nie sumienie twoje,
+Ale szaleñstwo moje przemawia³o.
+Ona by tylko zaci¹gnê³a b³on¹
+I zabliŸni³a miejsca owrzodzone,
+Ale zepsuta materia dlatego
+Nie przestawa³aby wewn¹trz nurtowaæ.
+Wyspowiadaj siê niebu, ¿a³uj tego,
+Co przesz³o, chroñ siê tego, co przyjœæ mo¿e,
+I nie pokrywaj chwastu mierzw¹, aby
+Rós³ bujniej. Przebacz mi tê moj¹ cnotê:
+Bo w dychawicznym biegu tego œwiata
+Przychodzi cnocie przepraszaæ wystêpek,
+Korzyæ siê przed nim i nieledwie ¿ebraæ
+O pozwolenie zrobienia mu dobrze.
+
+
+KRÓLOWA
+Hamlecie, na pó³ rozdar³eœ mi serce.
+
+
+HAMLET
+O, rzuæ precz, pani, czêœæ jego poœledni¹
+I zacznij z drug¹ tym czyœciejsze ¿ycie.
+Dobranoc... tylko nie wespó³ z mym stryjem,
+Po¿ycz choæ cnoty, je¿eli jej nie masz.
+Na³óg, ten potwór, imaj¹cy zmys³y
+W szatañskie pêta, jest jednak anio³em
+Przez to, ¿e prawym, szlachetnym popêdom
+U¿ycza tak¿e szat, które wci¹gn¹wszy
+Nietrudno nosiæ. Wstrzymaj siê dziœ, pani,
+A umartwienie to uczyniæ ³atwym
+Jutrzejsze, dalsze jeszcze ³atwiejszymi!
+Bo przywyknienie zdolne jest nieledwie
+Odmieniæ stempel natury i albo
+Wciela szatana, albo go cudown¹
+Si³¹ wypêdza. Jeszcze raz dobranoc.
+A gdy zapragniesz byæ b³ogos³awiona,
+I ja poproszê-æ o b³ogos³awieñstwo. —
+Co siê dotyczy tego jegomoœcia,
+wskazuj¹c na Poloniusza
+W istocie, ¿al mi go; lecz widno nieba
+Dla ukarania nas zobopólnego
+Ch³osty miê swojej zrobi³y narzêdziem.
+Pogrzeb mu sprawiê i odp³acê godnie
+Œmieræ mu zadan¹. — Dobranoc tymczasem.
+Mi³oœæ to moj¹ tak zatwardza duszê;
+Chc¹c byæ ³agodnym, okrutnym byæ muszê.
+A! jeszcze parê s³ów.
+
+
+KRÓLOWA
+Có¿ mam uczyniæ?
+
+
+HAMLET
+Nic, pani, wcale; owszem, nie masz czyniæ
+Tego, co-æ powiem, abyœ uczyni³a;
+Gdy ciê pijany król wezwie do ³o¿a,
+Nazwie sw¹ kotk¹, z pieszczot w twarz uszczypnie,
+Wtedy za parê ckliwych poca³unków
+Albo ³askotek niecnych jego palców
+Odkryj mu wszystko, coœ tu us³ysza³a;
+Powiedz mu, ¿em ja w gruncie nie szalony,
+Tylko szalony przez podstêp. To by³by
+Czyn buduj¹cy; bo która¿ królowa,
+Piêkna, roztropna, dobrych obyczajów,
+Coœ podobnego mog³aby zataiæ
+Przed nietoperzem, wyg¹, koczkodanem?
+Pytam siê, która? Nie, wbrew rozumowi
+I wbrew dyskrecji otwórz kosz na dachu,
+Wypuœæ zeñ ptaki, jako ma³pa w bajce,
+A potem sama w kosz wlaz³szy, dla próby,
+Ruñ na z³amanie karku.
+
+
+KRÓLOWA
+B¹dŸ przekonany, ¿e je¿eli s³owa
+S¹ tchnieñ, a tchnienia ¿ycia wynik³oœci¹,
+Nie mam doœæ ¿ycia do wydania w s³owach
+Tego wszystkiego, co mi powiedzia³eœ.
+
+
+HAMLET
+Muszê do Anglii jechaæ, czy wiesz, pani?
+
+
+KRÓLOWA
+Niestety! zapomnia³am; tak, podobno.
+
+
+HAMLET
+Ju¿ s¹ gotowe listy i dwóch moich
+Kole¿ków — którym ufam tak jak ¿mijom —
+Ma je wzi¹æ. Misja ich polega na tym,
+¯eby mi wskazaæ, gdzie raki zimuj¹.
+¯yczê im szczêœcia; idzie tu albowiem
+O to, a¿eby in¿yniera w³asn¹
+Jego petard¹ wysadziæ w powietrze;
+A to sêk bêdzie w³aœnie, bo ja g³êbiej
+O parê s¹¿ni podkopiê ich minê
+I puszczê ich a¿ pod ksiê¿yc.
+Bodaj to, kiedy siê przy jednym dziele
+Z dwóch stron przeciwnych zejd¹ dwa fortele. —
+Dobranoc, matko. Trzeba mi st¹d sprz¹tn¹æ
+Tê bry³ê miêsa. Coœ teraz pan radca
+Cichy, powa¿ny, on, co by³ przed chwil¹
+Uosobion¹, g³oœn¹ krotofil¹.
+PójdŸ, waszmoœæ, musim skoñczyæ z sob¹ sprawê.
+Dobranoc, matko.
+wychodzi wlok¹c cia³o Poloniusza
+
+
+
+
+
+AKT CZWARTY
+
+
+
+
+
+SCENA PIERWSZA
+
+
+Ten sam pokój, co w koñcu aktu poprzedniego.
+
+Królowa, Rozenkranc i Gildenstern, po chwili wchodzi Król.
+
+
+KRÓL
+Tych g³uchych jêków, tych przeci¹g³ych westchnieñ
+Musi byæ powód; winniœmy go dociec.
+Gdzie syn twój, pani?
+
+
+KRÓLOWA
+do Rozenkranca i Gildensterna
+Odst¹pcie na chwilê.
+
+Tamci odchodz¹.
+
+Ach, panie, có¿-em widzia³a tej nocy!
+
+
+KRÓL
+Có¿-eœ widzia³a, Gertrudo? Mów: co siê
+Dzieje z Hamletem?
+
+
+KRÓLOWA
+Szaleje jak morze
+I wicher, kiedy w zawody spór wiod¹,
+Kto z nich silniejszy. Us³yszawszy szelest
+Poza obiciem, w niepohamowanym
+Zapêdzie doby³ szpady i wo³aj¹c:
+„Szczur!”, przebi³ szpad¹ owdzie ukrytego
+Nieszczêœliwego starca.
+
+
+KRÓL
+Co za wœciek³oœæ!
+Tak samo by siê by³o sta³o ze mn¹,
+Gdybym by³ tam siê znalaz³. Wolnoœæ jego
+Zagra¿a wszystkim, mnie i tobie samej.
+Niestety! jakie¿ zadoœæuczynienie
+Wymazaæ zdo³a ten krwawy postêpek?
+Moja to, moja wina, bo przezornoœæ
+Nakazywa³a mi wczeœnie wzi¹æ w kluby,
+Poskromiæ tego m³odego szaleñca;
+Ale kocha³em go, tak go kocha³em,
+¯em nie chcia³ wejrzeæ w tê smutn¹ koniecznoœæ;
+I jak ktoœ brzydk¹ dotkniêty chorob¹,
+Chc¹c j¹ zataiæ, pozwoli³em z³emu
+Dojœæ a¿ do rdzenia ¿ycia. Gdzie¿ on poszed³?
+
+
+KRÓLOWA
+Z³o¿yæ w ustroniu cia³o zabitego,
+Przy czym szaleñstwo jego, jako ruda
+Drogiego kruszcu zmieszanego z pod³ym,
+Szlachetn¹ stronê ukaza³o: p³aka³
+Nad tym, co zrobi³.
+
+
+KRÓL
+WyjdŸmy st¹d, Gertrudo,
+Prêdzej ni¿ s³oñce szczyty gór oz³oci,
+Musi on wsi¹œæ na okrêt: nam zaœ trzeba
+Ca³ej powagi i zrêcznoœci u¿yæ
+Na ubarwienie i uniewinnienie
+Tego niecnego czynu. — Gildensternie!
+
+Wchodz¹ Rozenkranc i Gildenstern.
+
+IdŸcie i weŸcie z sob¹ jeszcze kogo.
+Hamlet w szaleñstwie zabi³ Poloniusza
+I gdzieœ go powlók³ z tego tu pokoju.
+IdŸcie, wynajdŸcie go, przemówcie grzecznie
+I ka¿cie cia³o zanieœæ do kaplicy.
+Spieszcie siê, proszê was.
+
+Wychodz¹ Rozenkranc i Gildenstern.
+
+PójdŸmy, Gertrudo,
+Zgromadzim naszych najlepszych przyjació³
+I odkryjemy im tak to, co zasz³o,
+Jak to, co czyniæ zamierzamy. Mo¿e
+Takim sposobem potwarz, której poszept
+Z jednego krañca œwiata do drugiego
+Szparko jak dzia³o do tarczy przenosi
+Zatruty pocisk, minie nas i tylko
+Nieczu³e zrani powietrze. PójdŸ, luba!
+Trapi i trwo¿y mnie ta ciê¿ka próba.
+
+
+
+
+
+SCENA DRUGA
+
+
+
+
+
+Inny pokój tam¿e.
+
+Wchodzi Hamlet.
+
+
+HAMLET
+Bezpiecznie schowany.
+
+
+ROZENKRANC
+za scen¹
+Hamlecie! Ksi¹¿ê Hamlecie!
+
+
+HAMLET
+Ale cicho; có¿ to za ha³as? ktoœ wo³a³ Hamleta; a! oni.
+
+
+Wchodz¹ Rozenkranc i Gildenstern.
+
+
+ROZENKRANC
+Przychodzim ciê zapytaæ, moœci ksi¹¿ê,
+Gdzieœ podzia³ trupa?
+
+
+HAMLET
+Z³¹czy³em go z prochem,
+Z którym najbli¿sze mia³ powinowactwo.
+
+
+ROZENKRANC
+Racz nam powiedzieæ, panie, gdzie on le¿y,
+Byœmy go mogli przenieœæ do kaplicy.
+
+
+HAMLET
+Nie s¹dŸcie tego.
+
+
+ROZENKRANC
+Czego, moœci ksi¹¿ê?
+
+
+HAMLET
+A¿ebym umia³ byæ panem waszej tajemnicy, a swojej w³asnej nie umia³. Poza tym kiedy pytanie czyni g¹bka, jak¹¿ odpowiedŸ ma daæ syn królewski?
+
+
+ROZENKRANC
+Masz-li mnie, ksi¹¿ê, za g¹bkê?
+
+
+HAMLET
+Nie inaczej; za g¹bkê, która wci¹ga w siebie królewskie fawory, nagrody i ³aski. Ale takie istoty wyœwiadczaj¹ ostatecznie samemu¿ królowi przys³ugê. Trzyma on je w gêbie jak ma³pa i cmoka, aby je po³kn¹³ potem. Skoro zapotrzebuje tego, co waœæ zbierzesz, doœæ mu ciê bêdzie œcisn¹æ, a wnet nasi¹k³a g¹bka znowu bêdzie sucha.
+
+
+ROZENKRANC
+Nie rozumiem tego, moœci ksi¹¿ê.
+
+
+HAMLET
+Tym lepiej. Gdy o ³ajdactwie mowa, na dobie têpa g³owa.
+
+
+ROZENKRANC
+Moœci ksi¹¿ê, trzeba, ¿ebyœ nam powiedzia³ koniecznie, gdzie jest cia³o, i poszed³ z nami do króla.
+
+
+HAMLET
+Cia³o jest w posiadaniu króla, ale król nie jest w posiadaniu cia³a; król jest czymœ.
+
+
+GILDENSTERN
+Jak to czymœ?
+
+
+HAMLET
+Niczym. ProwadŸcie mnie do niego. Lis do nory wszyscy za nim.
+
+
+Wychodz¹.
+
+
+
+
+
+SCENA TRZECIA
+
+
+Inny pokój tam¿e.
+
+Król w towarzystwie kilku panów.
+
+
+KRÓL
+Kaza³em szukaæ go i znaleŸæ cia³o.
+Jak niebezpieczne jest pozostawienie
+Tego m³odzieñca na wolnoœci, sami
+Widzimy teraz, niestety, zbyt jasno.
+Nie nam tu jednak wypada surowe
+Stosowaæ œrodki. On ma zachowanie
+U ludu, który nie bierze na rozum,
+Ale na oko; gdzie zaœ to ma miejsce,
+Tam zwykle bywa wa¿ona na szali
+Nie wina, ale kara winowajcy.
+Trzeba dlatego, a¿eby to nag³e
+Jego wys³anie wyda³o siê krokiem
+Od dawna u³o¿onym! Z³e gwa³towne
+Gwa³townym tylko leczy siê lekarstwem
+Lub ¿adnym.
+
+Wchodzi Rozenkranc.
+
+I có¿?
+
+
+ROZENKRANC
+Gdzie z³o¿one cia³o,
+Wydobyæ z niego nie mogliœmy, panie.
+
+
+KRÓL
+Gdzie¿ on jest?
+
+
+ROZENKRANC
+Czeka na rozkazy waszej
+Królewskiej moœci w przyleg³ym pokoju.
+Pod stra¿¹.
+
+
+KRÓL
+Niechaj wejdzie.
+
+
+ROZENKRANC
+Gildensternie,
+WprowadŸ tu ksiêcia.
+
+
+Wchodz¹ Hamlet i Gildenstern.
+
+
+KRÓL
+Hamlecie, gdzie Poloniusz?
+
+
+HAMLET
+Na kolacji.
+
+
+KRÓL
+Na kolacji? gdzie?
+
+
+HAMLET
+Nie tam, gdzie on je, ale tam, gdzie jego jedz¹. Zebra³ siê w³aœnie ko³o niego kongres politycznych robaków. W gastronomii nie ma, panie, wiêkszego potentata jak robak. Tuczymy wszelkie istoty dla karmienia siebie, siebie zaœ tuczymy dla robaków. T³usty król i chudy pacho³ek s¹ to tylko ró¿ne potrawy, dwa dania na jeden stó³, i basta.
+
+
+KRÓL
+Niestety!
+
+
+HAMLET
+Rybak mo¿e wsadziæ na wêdê robaka, który jego królewsk¹ moœæ po¿ywa³, i spo¿yæ rybê, która tego robaka zjad³a.
+
+
+KRÓL
+Co przez to rozumiesz?
+
+
+HAMLET
+Nic; to tylko pokazuje, jakim sposobem król mo¿e odbyæ podró¿ przez wnêtrznoœci char³aka.
+
+
+KRÓL
+Gdzie Poloniusz?
+
+
+HAMLET
+W niebie. Ka¿ go tam szukaæ; a je¿eli go pos³owie twoi tam nie znajd¹, poszukaj go sam w innym miejscu. To pewna jednak, ¿e je¿eli go nie znajdziecie w tym miesi¹cu, poczujecie go w nastêpnym na schodach prowadz¹cych do galerii.
+
+
+KRÓL
+do kilku osób z orszaku
+IdŸcie go tam poszukaæ.
+
+
+HAMLET
+Bêdzie czeka³, a¿ przyjdziecie.
+
+
+Wychodzi kilka osób z orszaku.
+
+
+KRÓL
+Hamlecie, w³asne twoje bezpieczeñstwo,
+Którego pragniem, tak jak op³akujem
+To, coœ uczyni³, wymaga, a¿ebyœ
+Czyn ten niezw³ocznym op³aci³ wyjazdem.
+Gotuj siê przeto; okrêt ju¿ pod ¿aglem,
+Wiatr sprzyja; orszak twój czeka i wszystko
+Wskazuje-æ drogê do Anglii.
+
+
+HAMLET
+Do Anglii?
+
+
+KRÓL
+Tak jest, Hamlecie.
+
+
+HAMLET
+Dobrze.
+
+
+KRÓL
+Bêdzie dobrze,
+Hamlecie; gdybyœ widzia³ moje chêci!
+
+
+HAMLET
+Widzê cherubina, który je widzi. Do Anglii zatem! IdŸmy, panowie. B¹dŸ zdrowa, kochana matko.
+
+
+KRÓL
+Jam przywi¹zany twój ojciec, Hamlecie.
+
+
+HAMLET
+Matko! Ojciec i matka tyle znacz¹ co m¹¿ i ¿ona, a m¹¿ i ¿ona s¹ jednym cia³em; a wiêc, matko! Dalej, do Anglii!
+wychodzi
+
+
+KRÓL
+IdŸcie w trop za nim. Zwabcie go czym prêdzej
+Na okrêt; niechaj odp³ynie dziœ jeszcze,
+Przygotowane ju¿ i przewidziane
+Wszystko, co bêdzie wam potrzebne. Spieszcie,
+Spieszcie, nie trac¹c czasu.
+
+Wychodz¹ Rozenkranc i Gildenstern.
+
+A ty, Anglio,
+Jeœli ci przyjaŸñ moja po¿¹dana
+(O czym nie w¹tpiê, boœ œwie¿o uczu³a
+Moj¹ potêgê, i goj¹c dotychczas
+Blizny zadane duñskim mieczem, trwo¿ne
+Niesiesz nam ho³dy), Anglio, nie wa¿ lekce
+Wszechw³adnej woli mojej, która w listach,
+Zaklinaj¹cych ciê o tê przys³ugê,
+WyraŸnie ¿¹da od ciebie niezw³ocznej
+Œmierci Hamleta. Wype³nij to, Anglio,
+Bo on mi trawi krew jak zaród suchot,
+Z którego ty mnie masz uleczyæ. Póki
+To siê nie stanie, póty w ¿adnej doli
+Nic mnie nie znêci i nie zadowoli.
+wychodzi
+
+
+
+
+
+SCENA CZWARTA
+
+
+Równina w Danii.
+
+Wchodzi Fortynbras z wojskiem.
+
+
+FORTYNBRAS
+Moœci rotmistrzu, idŸ, pozdrów ode mnie
+Duñskiego króla; powiedz mu, ¿e wskutek
+Przyrzeczeñ, jakie od niego otrzyma³,
+Fortynbras prosi go o glejt do przejœcia
+Przez duñskie kraje. Wiesz, gdzie siê zejœæ mamy.
+Je¿eli jego królewska moœæ bêdzie
+Mia³a co do nas, to mu przyjdziem oddaæ
+Nale¿n¹ czo³obitnoœæ. Tak mu powiedz.
+
+
+ROTMISTRZ
+Oznajmiê mu to, panie.
+
+
+FORTYNBRAS
+Naprzód! z wolna!
+wychodzi z wojskiem
+
+
+Wchodz¹ Hamlet, Rozenkranc i Gildenstern.
+
+
+HAMLET
+Czyje to wojska, rotmistrzu?
+
+
+ROTMISTRZ
+Norweskie.
+
+
+HAMLET
+Gdzie one id¹?
+
+
+ROTMISTRZ
+Ku granicom Polski.
+
+
+HAMLET
+Kto ma nad nimi dowództwo?
+
+
+ROTMISTRZ
+Synowiec
+Starego króla, Fortynbras.
+
+
+HAMLET
+Czy pochód
+Ich ma na celu podbój ca³ej Polski
+Lub pewnej czêœci tylko?
+
+
+ROTMISTRZ
+Prawdê mówi¹c
+I bez dodatków, idziemy zagarn¹æ
+Marny kês ziemi, z którego krom s³awy
+¯aden nam inny nie przyjdzie po¿ytek.
+Za parê mendli dukatów nie chcia³bym
+Wzi¹æ go w dzier¿awê, i pewnie by wiêcej
+Nie przyniós³ ani nam, ani Polakom,
+Gdyby by³ w czynsz puszczony.
+
+
+HAMLET
+W takim razie
+Polacy pewnie broniæ go nie bêd¹.
+
+
+ROTMISTRZ
+Ju¿ tam s¹ ze swym wojskiem.
+
+
+HAMLET
+Warto-¿ traciæ
+Parê tysiêcy dusz i dziesiêæ razy
+Tyle dukatów za taki psi ogon?
+Jest to, zaprawdê, œlepy wrzód pokoju
+I pomyœlnoœci, który wewn¹trz pêka
+I ani znaku nie daje na zewn¹trz,
+Dlaczego cz³owiek umiera. Dziêkujê-æ,
+Moœci rotmistrzu.
+
+
+ROTMISTRZ
+Bóg z wami, panowie.
+wychodzi
+
+
+ROZENKRANC
+Pójdziemy-¿ dalej, moœci ksi¹¿ê?
+
+
+HAMLET
+Zaraz
+S³u¿yæ wam bêdê. IdŸcie trochê naprzód.
+
+Wychodz¹ Rozenkranc i Gildenstern.
+
+Jak¿e mnie wszystko oskar¿a i wszystko
+Leniwej zemœcie mej bodŸca dodaje!
+Czym¿e jest cz³owiek, je¿eli najwy¿szym
+Jego zadaniem i dobrem na ziemi
+Jest tylko spanie i jad³o? Bydlêciem,
+Szczerym bydlêciem. Ten, co nas obdarzy³
+Tak dzieln¹ w³adz¹ myœlenia, ¿e mo¿e
+I wstecz, i naprzód pogl¹daæ, nie na to
+Da³ nam tê zdolnoœæ, ten udzia³ boskoœci
+Rozumem zwany, aby w nas ja³owo
+Le¿a³ i butwia³. Jest-li to wiêc skutkiem
+Zwierzêcej, byd³a godnej niepamiêci,
+Czy trwo¿liwego i drobiazgowego
+Przewidywania, które œciœle bior¹c,
+Zawsze ma w sobie trzy czêœci tchórzostwa,
+A tylko jedn¹ m¹droœci. Doprawdy,
+Nie mogê tego poj¹æ, ¿e a¿ dot¹d
+Mówiê do siebie: trzeba to uczyniæ,
+I koñczê na tym, kiedy mi do czynu
+Nie brak powodów, woli, si³ i œrodków.
+Przyk³ady, wielkie jak œwiat, stoj¹ przecie
+Przede mn¹; choæby to wojsko tak liczne
+I tak zasobne, pod wodz¹ takiego
+M³odego ksiêcia, który, zapalony
+Szlachetn¹ ¿¹dz¹ s³awy, lekcewa¿y
+Ukryt¹ szalê wypadków i chêtnie,
+Co jest doczesne i przemijaj¹ce,
+Na sztych wystawia hazardom, zag³adzie,
+Za co? za marn¹ ³upinê orzecha.
+Prawdziwie wielkim byæ to nie wojowaæ
+O byle g³upstwo bez wielkiej przyczyny,
+Lecz wielkomyœlnie o ŸdŸb³o nawet walczyæ,
+Gdzie honor ka¿e. I có¿ ja wart jestem,
+Ja, który ojca zgon, zhañbienie matki
+Œpi¹co przepuszczam? gdy oto ze wstydem
+Widzê przed sob¹ blisk¹ œmieræ dwudziestu
+Tysiêcy ludzi, którzy dla chimery,
+Dla widma s³awy, w grób id¹ jak w ³ó¿ko,
+Aby wywalczyæ nikczemn¹ piêdŸ ziemi,
+Na której nie ma doœæ miejsca do walki
+Ani doœæ darni, by skry³a mogi³y
+Tych, co polegn¹. B¹dŸ odt¹d za¿art¹,
+O wolo moja, albo wzgardy wart¹!
+wychodzi
+
+
+
+
+
+SCENA PI¥TA
+
+
+
+Elzynor. Pokój w zamku.
+
+Wchodz¹ Królowa i Horacy.
+
+
+KRÓLOWA
+Nie chcê jej widzieæ.
+
+
+HORACY
+Natarczywie prosi
+O mo¿noœæ wnijœcia; stan jej budzi litoœæ.
+
+
+KRÓLOWA
+Có¿ jej jest?
+
+
+HORACY
+Ci¹gle wspomina o ojcu;
+S³ysza³a, mówi, ¿e œwiat krzywo idzie;
+Wzdycha i chwyta siê za serce; lada
+Fraszka j¹ dra¿ni; s³owa jej bez zwi¹zku
+Nie okreœlaj¹ niczego, jednak¿e
+Zastanawiaj¹; podnosi je s³uchacz
+I zszywa pod³ug kroju w³asnych myœli;
+Ka¿dy zaœ wyraz jej, obok wyrazu
+Jej twarzy, ruchów i postawy, takie
+Czyni wra¿enie, ¿e mo¿na by myœleæ,
+I¿ jest w nim jakaœ myœl, tylko zawi³a
+I bardzo smutna.
+
+
+KRÓLOWA
+Muszê z ni¹ pomówiæ;
+Mog³aby bowiem z³ym ludziom daæ powód
+Do niebezpiecznych przypuszczeñ. Niech wnijdzie.
+
+Horacy wychodzi.
+
+Chora ma dusza ka¿d¹ rzecz powszedni¹
+Z³owrogich nastêpstw s¹dzi przepowiedni¹,
+Jak g³upio w trwodze wystêpek przesadza,
+¯e dr¿¹c przed zdrad¹ sam siê prawie zdradza.
+
+
+Horacy wprowadza Ofeliê.
+
+
+OFELIA
+Gdzie jest ozdoba majestatu Danii?
+
+
+KRÓLOWA
+Czego chcesz, luba Ofelio?
+
+
+OFELIA
+œpiewa
+
+Po czym ja ciê poznam teraz,
+O kochanku mój?
+P³aszcz pielgrzymi, kij, sanda³y,
+Twój-¿e to jest strój?
+
+
+KRÓLOWA
+Niestety, kochane dziewczê, co znaczy ten œpiew?
+
+
+OFELIA
+Czy tak? nie, pani; pos³uchaj tylko:
+
+œpiewa
+
+On zmar³, znik³ z naszego grona;
+Zmar³, opuœci³ nas;
+U nóg jego darñ zielona,
+W g³owach zimny g³az.
+
+Och! Och!
+
+
+KRÓLOWA
+Ale¿, Ofelio.
+
+
+OFELIA
+Proszê ciê, pani, s³uchaj,
+œpiewa
+Ca³un jego, jak œnieg bia³y.
+
+
+Król wchodzi.
+
+
+KRÓLOWA
+Ach, patrz, mój mê¿u.
+
+
+OFELIA
+œpiewa
+
+Na ca³unie kwiat;
+Choæ go ³zy nie op³aka³y,
+Na mogi³ê pad³.
+
+
+KRÓL
+Jak siê masz, œliczna panienko?
+
+
+OFELIA
+Dobrze; Bóg wam zap³aæ. Mówi¹, ¿e sowa by³a córk¹ piekarza. Ach, panie! Wiemy, czym jesteœmy, ale nie wiemy, co siê z nami stanie. Niech wam Bóg pomaga przy wieczerzy!
+
+
+KRÓL
+Marzy jej siê o ojcu.
+
+
+OFELIA
+Nie mówmy ju¿ o tym, proszê; ale jak siê was pytaæ bêd¹, co to znaczy, to powiedzcie:
+
+Dzieñ dobry, dziœ œwiêty Walenty.
+Dopiero co œwitaæ poczyna;
+M³odzieniec snem le¿y ujêty,
+A ho¿a doñ puka dziewczyna.
+Podskoczy³ kochanek, wdzia³ szaty,
+Drzwi rozwar³ przed swoj¹ jedyn¹
+I wesz³a dziewczyna do chaty,
+Lecz z chaty nie wysz³a dziewczyn¹.
+
+
+KRÓL
+Nadobna Ofelio!
+
+
+OFELIA
+Dajmy pokój przysiêgom; zaraz skoñczê:
+
+Bezbo¿noœæ to wielka; Bóg widzi,
+Jak wielka w mê¿czyznach bezbo¿noœæ!
+Cny m³odzian siê tego nie wstydzi,
+Gdy tylko nastrêczy siê mo¿noœæ.
+Wszak nim-eœ cel ¿yczeñ otrzyma³,
+Przysi¹g³eœ siê ze mn¹ o¿eniæ!
+
+To ona mu tak mówi, a on jej odpowiada:
+
+I by³bym by³ s³owa dotrzyma³,
+Lecz trzeba ci by³o siê ceniæ.
+
+
+KRÓL
+Jak dawno ona w tym stanie?
+
+
+OFELIA
+Jeszcze siê wszystko naprawi, mam nadziejê. Tylko cierpliwoœci! Ale nie mogê nie zap³akaæ, pomyœlawszy, ¿e go maj¹ z³o¿yæ w zimn¹ ziemiê. Mój brat dowie siê o tym, a zatem dziêkujê pañstwu za dobr¹ radê. Niech powóz zaje¿d¿a! Dobranoc, panie; dobranoc, œliczne panie, dobranoc, dobranoc.
+wychodzi
+
+
+KRÓL
+IdŸ waæpan za ni¹, niech jej pilnie strzeg¹.
+
+Horacy wychodzi.
+
+Jest to trucizna g³êbokiej boleœci,
+Której œmieræ ojca Ÿród³em. O Gertrudo!
+Gertrudo! ziszcza siê na nas ta prawda,
+¯e kiedy kogo nawiedzaj¹ smutki,
+To nigdy luzem, a zaw¿dy gromadnie.
+Naprzód zabójstwo jej ojca, nastêpnie
+Wyjazd twojego syna, nieszczêsnego
+Sprawcy w³asnego swojego wygnania;
+G³uche szemranie ludu, uprzedzone
+I z³em brzemienne ¿ywi¹cego myœli
+Z powodu œmierci cnego Poloniusza,
+Którego skore pochowanie by³o
+Niedorzecznoœci¹ z naszej strony; teraz
+To biedne dziewczê, wyzute z szlachetnej
+W³adzy rozumu, bez której jesteœmy
+Lalkami tylko albo zwierzêtami;
+Nareszcie, i to jedno tyle wa¿y
+Co tamto wszystko, brat jej potajemnie
+Powraca z Francji, karmi siê zdumieniem,
+Kryje siê w chmurach i nadstawia ucho
+Donosicielom, którzy jadowite
+O œmierci ojca wdmuchuj¹ mu wieœci —
+Wieœci z uszczerbkiem naszym, przeciw którym
+Zastanowienie, ubogie w dowody,
+Nic nie podo³a. O Gertrudo, zbieg ten
+Wypadków, na kszta³t kilkuramiennego
+Narzêdzia œmierci, z wielu stron od razu
+Zabójcz¹ ranê mi zadaje.
+
+
+Zgie³k zewn¹trz.
+
+
+KRÓLOWA
+Przebóg!
+Có¿ to za ha³as?
+
+
+Wchodzi jeden z Dworzan.
+
+
+KRÓL
+Hola! Szwajcarowie!
+Gdzie oni? Niechaj drzwi pilnie obsadz¹.
+Sk¹d ten zgie³k?
+
+
+DWORZANIN
+Chroñ siê, mi³oœciwy królu,
+Ocean, z ³o¿a swojego wybieg³y,
+Nie ch³onie z wiêksz¹ gwa³townoœci¹ nizin,
+Jako Laertes na czele powstañców
+Stra¿ tw¹ powala. Lud go g³osi panem;
+I jakby œwiat by³ dopiero w zawi¹zku,
+Przesz³oœæ zatarta, zapomniany zwyczaj,
+Te s³ów hamulce i wszelkiej swawoli,
+S³ychaæ wo³anie: „Wybierajmy króla!
+Laertes królem!” Czapki, d³onie, usta
+Ze wszech stron wtórz¹ temu okrzykowi:
+„Laertes królem! Wiwat król Laertes!”
+
+
+KRÓLOWA
+Jak ujadaj¹ za fa³szywym wiatrem!
+O, pod trop gonisz, pod³a duñska psiarnio!
+
+
+KRÓL
+Drzwi wy³amano.
+
+
+Laertes wchodzi uzbrojony, za nim Duñczycy.
+
+
+LAERTES
+Gdzie ten król? — Stañcie ówdzie, przyjaciele.
+
+
+DUÑCZYCY
+Pozwól nam tak¿e wejœæ.
+
+
+LAERTES
+Nie wchodŸcie, proszê.
+
+
+DUÑCZYCY
+Bêdziem pos³uszni.
+cofaj¹ siê za drzwi
+
+
+LAERTES
+Dziêkujê wam; stójcie
+Przy drzwiach na stra¿y. — 
+Nienawistny królu.
+Oddaj mi ojca!
+
+
+KRÓLOWA
+Z wolna, Laertesie,
+Zbierz trochê zimnej krwi.
+
+
+LAERTES
+Kropla krwi zimnej
+By³aby we mnie œwiadectwem bêkarctwa,
+Ur¹gowiskiem przeciw memu ojcu,
+Zaka³em, który by piêtno bezwstydu
+Wyry³ na czystym czole matki mojej.
+
+
+KRÓL
+Jaki¿ ciê powód sk³ania, Laertesie,
+Tak buntowniczo przeciw nam powstawaæ?
+Odst¹p, Gertrudo, nie lêkaj siê o nas;
+Taka jest bowiem boskoœæ majestatu,
+¯e zdrada, choæby nie wiedzieæ co chcia³a,
+Têpi o niego swój pocisk. —
+Powiedz mi, Laertesie, co to znaczy? —
+Gertrudo, daj mu pokój. — Mów m³odzieñcze.
+
+
+LAERTES
+Ty sam mów raczej: gdzie mój ojciec?
+
+
+KRÓL
+Umar³.
+
+
+KRÓLOWA
+Ale nie z jego winy.
+
+
+KRÓL
+Daj mu pokój.
+Niech siê wypyta do sytoœci.
+
+
+LAERTES
+Jakim
+Sposobem umar³? Nie dam siê omamiæ.
+Do czarta z uleg³oœci¹! Niechaj w piek³o
+Pójd¹ przysiêgi! Sumienie, powinnoœæ
+Niech w najczarniejszej przepadn¹ otch³ani!
+Ur¹gam potêpieniu. Na to przysz³o,
+¯e oba œwiaty niczym s¹ w mych oczach:
+Wszystko mi obojêtne, bylem tylko
+Sowicie pomœci³ ojca.
+
+
+KRÓL
+Któ¿ ci broni?
+
+
+LAERTES
+Nikt w œwiecie, jeno w³asna moja wola;
+Mo¿noœæ zaœ moj¹ k'temu tak urz¹dzê,
+¯e z ma³¹ garœci¹ œrodków wiele wskóra.
+
+
+KRÓL
+Chcesz-li siê czegoœ pewnego dowiedzieæ
+O œmierci ojca twego, Laertesie?
+Jest-¿e w twej zemœcie zapisana zguba
+Zarówno jego przyjació³ i wrogów?
+Tych, co zyskali, i tych, co stracili?
+
+
+LAERTES
+Niczyja, tylko jego nieprzyjació³.
+
+
+KRÓL
+Chcesz-¿e ich poznaæ?
+
+
+LAERTES
+Przyjacio³om jego
+Szeroko moje otworzê ramiona
+I, jak pelikan dziel¹cy siê ¿yciem,
+Obdzielê ich krwi¹ moj¹.
+
+
+KRÓL
+Teraz mówisz
+Jak nieodrodny syn i prawy szlachcic.
+¯em ja nie winien œmierci twego ojca,
+Owszem, najmocniej ni¹ jestem dotkniêty,
+To siê oka¿e wnet rozwadze twojej
+Tak jasne jak dzieñ oczom.
+
+
+DUÑCZYCY
+za scen¹
+Puœæcie j¹!
+
+
+LAERTES
+Co to jest? Sk¹d ten ha³as?
+
+Ofelia wchodzi, fantastycznie ubrana w k³osy i kwiaty.
+
+O wœciek³oœci!
+Spal mi mózg! Soli ³ez, straw mi zmys³ wzroku!
+Na Boga! Za to twoje ob³¹kanie
+Ciê¿k¹ zap³atê œci¹gnê z jego sprawców,
+Tak, ¿e a¿ szala od jej wagi ca³kiem
+Na dó³ opadnie. O majowa ró¿o!
+Kochane dziewczê, luba siostro, wdziêczna
+Moja Ofelio! Bo¿e! czy podobna,
+Aby dziewczêcy umys³ by³ tak w¹t³y
+Jak ¿ycie starca? Mi³oœæ uszlachetnia
+Naturê ludzk¹, gdy zaœ ta szlachetna,
+Wtedy zamyka najlepsz¹ sw¹ cz¹stkê
+W grobie tych, których kocha³a.
+
+
+OFELIA
+œpiewa
+
+Poch³onê³a go zimna mogi³a,
+Pieszczoty moje, nie ma was ju¿!
+I na grób jego œciek³o ³ez si³a.
+
+B¹dŸ zdrów, mój go³¹bku!
+
+
+LAERTES
+Gdybyœ przy zdrowych zmys³ach chcia³a kogo
+Zagrzaæ do zemsty, wymowniej byœ tego
+Dopi¹æ nie mog³a.
+
+
+OFELIA
+Trzeba wam mówiæ pacierz po nim, skoro mówicie, ¿e ju¿ po nim. Nieprawda¿, jak siê to ³adnie sk³ada? Fa³szywy to s³uga, który uwiód³ córkê swego pana.
+
+
+LAERTES
+Ten nonsens wiêcej wart ni¿ sensownoœæ.
+
+
+OFELIA
+do Laertesa
+Oto rozmaryn na pami¹tkê; proszê ciê, luby, pamiêtaj; a to bratki, ¿ebyœ o mnie myœla³.
+
+
+LAERTES
+Przezorny ob³êdzie! Niezapomnienie ³¹czysz do pamiêci.
+
+
+OFELIA
+do Króla
+Oto koper dla was i orliki.
+do Królowej
+Oto ruta; czêœæ jej wam dajê, a czêœæ sobie zachowam; w niedzielê mo¿emy j¹ nazywaæ zielem ³aski, ale ty swoj¹ rutkê musisz nosiæ trochê inaczej ni¿ ja. Oto stokrotki. Rada bym wam daæ i fio³ków, ale mi wszystkie ze œmierci¹ ojca powiêd³y. Mówi¹, ¿e szczêœliwie skoñczy³.
+œpiewa
+
+Bo luby mój Jasio to skarb mój jedyny.
+
+
+LAERTES
+Têsknotê, smutek, boleœæ, piek³o samo
+Zamienia ona w wdziêk i luboœæ.
+
+
+OFELIA
+œpiewa
+
+Czyli¿ on ju¿ nie powróci?
+Czyli¿ on ju¿ nie powróci?
+Nie, nie, on œpi w grobie:
+Zaœnij i ty sobie.
+Ju¿ on nigdy nie powróci.
+Œnie¿n¹ by³a jego broda,
+W³os na g³owie ca³y mleczny;
+Ju¿ po nim, ju¿ po nim
+Na pró¿no ³zy ronim.
+Bo¿e, daj mu pokój wieczny!
+
+i wszystkim dobrym chrzeœcijanom! Bêdê siê za was modli³a. Bóg z wami!
+wychodzi
+
+
+LAERTES
+Bo¿e! Ty patrzysz na to?
+
+
+KRÓL
+Laertesie,
+Muszê podzieliæ z tob¹ to cierpienie,
+Chyba mi prawa do tego zaprzeczysz,
+Ust¹p tymczasem. Wybierz, kogo zechcesz,
+Spoœród przyjació³ swych najzaufañszych,
+Niech ten rozs¹dzi nas, jeœli miê uzna
+Winnym w tej sprawie b¹dŸ wprost, b¹dŸ poœrednio,
+Natychmiast oddam ci na satysfakcjê
+Tron, pañstwo, ¿ycie, wszystko, co posiadam;
+W przeciwnym razie ty twoj¹ zranion¹
+Duszê cierpliwie porucz naszej pieczy,
+A wtedy razem pomyœlimy nad tym,
+Jakby j¹ spe³na zaspokoiæ.
+
+
+LAERTES
+Zgoda,
+Ta jego nag³a œmieræ, ten cichy pogrzeb,
+Bez ¿adnych oznak, szpady ani herbów,
+Bez ceremonii, bez pompy pogrzebu.
+Wszystko to wo³a na mnie wniebog³osy
+O œcis³e œledztwo.
+
+
+KRÓL
+Sprostasz temu snadnie;
+Gdzie zaœ jest wina, tam niech kara spadnie.
+ChodŸ ze mn¹.
+
+
+Wychodz¹.
+
+
+
+
+
+SCENA SZÓSTA
+
+
+Inny pokój w zamku.
+
+Horacy i jego S³uga.
+
+
+HORACY
+Co to za ludzie, co chc¹ mówiæ ze mn¹?
+
+
+S£UGA
+S¹ to majtkowie, panie; maj¹, mówi¹,
+Listy do pana.
+
+
+HORACY
+Wpuœæ ich.
+
+S³uga wychodzi.
+
+Nie wiem, kto by
+Spomiêdzy ca³ej rzeszy tego œwiata,
+Móg³ pisaæ do mnie, je¿eli nie Hamlet.
+
+Majtkowie wchodz¹.
+
+
+PIERWSZY MAJTEK
+Bóg wam pomagaj, panie.
+
+
+HORACY
+I wam wzajem.
+
+
+PIERWSZY MAJTEK
+Pomo¿e, je¿eli mu siê podoba. Oto list do was, je¿eli tylko miano wasze Horacy, jak nas o tym zapewniono. Odda³ nam go jakiœ pose³ wyprawiony do Anglii.
+
+
+HORACY
+czyta
+
+„Horacy, jak tylko ten list przeczytasz, dopomó¿ oddawcom jego dostaæ siê do króla, maj¹ oni pismo i do niego. Zaledwieœmy przebyli dwa dni na morzu, gdy silnie uzbrojony statek korsarski wyprawi³ na nas ³owy. Poniewa¿ mia³ nad nami w ¿aglach przewagê, zmuszeni byliœmy stawiæ mu czo³o i przyj¹æ bitwê, wœród której wrzenia wskoczy³em na ów statek. W tej¿e chwili piraci oddalili siê od naszego okrêtu i tym sposobem sam jeden zosta³em ich jeñcem. Obeszli siê ze mn¹, jak poczciwym ³otrom przystoi; ale wiedzieli, co czyni¹; muszê siê im za to dobrze wywdziêczyæ. Postaraj siê, aby król odebra³ to, co doñ piszê, i œpiesz do mnie tak chy¿o, jak gdybyœ ucieka³ przed œmierci¹. Mam ci coœ do powiedzenia na ucho, co ciê w oniemienie wprawi, a przecie¿ s³owa bêd¹ tu tylko cieniem rzeczy samej. Ci dobrzy ludziska doprowadz¹ ciê do miejsca, gdzie siê znajdujê. Rozenkranc i Gildenstern peregrynuj¹ do Anglii; o nich tak¿e mam ci wiele do powiedzenia. B¹dŸ zdrów.
+Twój, jak go znasz,
+Hamlet”
+
+ChodŸcie, u³atwiê drogê tamtym listom,
+O ile tylko bêdê móg³ najprêdzej,
+Byœcie tym prêdzej mnie zaprowadzili
+Do tego, co je wam odda³.
+
+
+Wychodz¹.
+
+
+
+
+
+SCENA SIÓDMA
+
+
+Inny pokój tam¿e.
+
+Król i Laertes.
+
+
+KRÓL
+Teraz miê musisz w s¹dzie swym rozgrzeszyæ
+I w sercu swoim umieœciæ przyjaŸnie,
+Skoroœ jawnego nabra³ przekonania,
+¯e ten, co zabi³ twego ojca, godzi³
+Na w³asne moje ¿ycie.
+
+
+LAERTES
+Rzecz widoczna;
+Nie mogê sobie tylko wyt³umaczyæ,
+Dlaczego przeciw tym jego knowaniom,
+Tak karygodnym i wyrodnym razem,
+Nie przedsiêwzi¹³eœ, panie, ¿adnych œrodków,
+Jak ci to w³asne twoje bezpieczeñstwo,
+Monarsza godnoœæ, m¹droœæ, wszystko zgo³a
+Powinno by³o radziæ?
+
+
+KRÓL
+O, z dwóch przyczyn,
+Które ci mo¿e wydadz¹ siê b³ahe,
+Dla mnie s¹ jednak bardzo wa¿ne. Najprzód
+Królowa, matka jego, ¿yje prawie
+Jego widokiem, a ja, niech to bêdzie
+S³aboœæ lub cnota, tak dalece jestem
+Cia³em i dusz¹ do niej przywi¹zany,
+¯e jako gwiazda w jednej tylko sferze
+Kr¹¿¹ca, przez ni¹ siê tylko poruszam.
+Drug¹ przyczyn¹, dla której go jawnie
+Skarciæ nie mog³em, by³a mi³oœæ ludu,
+Która usterki jego topi w sobie.
+I, jako owo Ÿród³o drzewo w kamieñ,
+Zmienia naganê w chwalbê. Strza³y moje
+Za têpe przeciw takiemu wiatrowi,
+By³yby w ³uk mój powróci³y nazad,
+Zamiast dosiêgn¹æ, gdzie bym je by³ pos³a³.
+
+
+LAERTES
+Tak wiêc straci³em najlepszego ojca;
+Siostrê znajdujê pchniêt¹ w g³¹b rozpaczy.
+Siostrê, ach! której szanowne przymioty
+(Je¿eli mo¿na chwaliæ, co minione)
+Wyzywaj¹co jaœnia³y na szczycie
+Widowni wieku. Ale¿ przyjdzie chwila
+Mej zemsty.
+
+
+KRÓL
+Mo¿esz byæ o to spokojny,
+Nie s¹dŸ, a¿ebym by³ z tak miêkkiej gliny,
+I¿bym pozwoli³ siê niebezpieczeñstwu
+Targaæ za brodê i mia³ to za fraszkê.
+Wkrótce ci powiem coœ wiêcej. Kocha³em
+Twojego ojca, kocham te¿ i ciebie:
+To ci powinno daæ do zrozumienia!
+
+Wchodzi Pokojowiec.
+
+Co tam masz?
+
+
+POKOJOWIEC
+Listy od ksiêcia Hamleta:
+Ten do was, panie, a ten do królowej.
+
+
+KRÓL
+Od kogo? Od Hamleta? Któ¿ je przyniós³?
+
+
+POKOJOWIEC
+Jacyœ majtkowie, panie; tak przynajmniej
+Mówi³ mi Klaudio, który je odebra³
+I mnie dorêczy³. Ja ich nie widzia³em.
+
+
+KRÓL
+Zostaw nas; s³uchaj listu, Laertesie.
+
+Wychodzi Pokojowiec, Król czyta.
+
+„Poœpieszam wasz¹ królewsk¹ wielkoœæ uwiadomiæ, ¿em nago na jej ziemiê wysadzony zosta³. Jutro prosiæ bêdê o pozwolenie ujrzenia jego królewskiego oblicza i wtedy, wyb³agawszy sobie najprzód waszej wielkoœci przebaczenie, bêdê mia³ honor zdaæ jej sprawê z wypadku, który spowodowa³ mój nag³y i osobliwszy powrót.
+
+Hamlet”
+
+
+KRÓL
+Co siê to znaczy? Wrócili-¿ i tamci?
+Czyli te¿ to jest tylko jakiœ podstêp?
+
+
+LAERTES
+Nie poznajesz-li, panie, kto to pisa³?
+
+
+KRÓL
+Rêka Hamleta. Nago — i w przypisku
+Stoi: „Sam jeden.” Rozumiesz to waæpan?
+
+
+LAERTES
+Bynajmniej. Ale niech wraca! RaŸnieje
+Chore me serce na myœl, ¿e niebawem
+Bêdê mu w ucho móg³ wt³oczyæ te s³owa:
+„Tyœ to jest tego sprawc¹”.
+
+
+KRÓL
+Skoro tak jest —
+A czy¿by mog³o byæ inaczej? — chcesz-¿e
+Pos³uchaæ mojej rady, Laertesie?
+
+
+LAERTES
+I owszem, panie; pod warunkiem jednak,
+Aby tej rady celem nie by³ pokój.
+
+
+KRÓL
+Twój w³asny tylko. Jeœli on, wstrêt czuj¹c
+Do tej podró¿y i nie³atwo sk³onny
+Znów j¹ przedsiêbraæ, istotnie powróci³,
+Mam ja nañ inny œrodek w pogotowiu,
+Który nie mo¿e chybiæ; œmieræ zaœ jego
+Nie œci¹gnie ani cienia podejrzenia,
+I sama nawet matka jego nazwie
+To dzie³o skutkiem trafu.
+
+
+LAERTES
+RadŸ wiêc, panie.
+Chêtnie-æ pos³usznym bêdê, i tym chêtniej,
+Je¿eli bêdê móg³ byæ wykonawc¹
+Tego pomys³u.
+
+
+KRÓL
+O toæ w³aœnie idzie.
+Od czasu twego wyjazdu szeroko
+Wobec Hamleta mówiono o pewnym
+Talencie, w którym masz byæ celuj¹cy.
+Wszystkie zdolnoœci twoje razem wziête
+Nie obudza³y w nim tyle zazdroœci
+Ile ta jedna, najmniej w moich oczach
+Ceny maj¹ca.
+
+
+LAERTES
+Jaka¿ to jest zdolnoœæ?
+
+
+KRÓL
+B³aha jak wst¹¿ka, któr¹ sobie m³odzie¿
+Zdobi kapelusz, jednak¿e potrzebna;
+Lekki, swobodny strój przystoi bowiem
+Rzeœkiej m³odzie¿y, tak jak ciep³e futro
+I d³uga suknia póŸnemu wiekowi,
+Bo mu przyczynia zdrowia i powagi.
+By³ tu przed paru miesi¹cami pewien
+Normandzki rycerz; widzia³em Francuzów,
+S³u¿y³em nawet kiedyœ miêdzy nimi;
+Mistrze to w konnej jeŸdzie; ale ten by³
+Diab³em wcielonym; przyrasta³ do siod³a
+I tak cudownie za¿ywa³ rumaka,
+¯e koñ i jeŸdziec zdawali siê w jednej
+Formie ulani. Co b¹dŸ o tym kunszcie
+Pomyœleæ mog³em, wszystko ni¿szym by³o
+Od tego, czego ów zuch dokazywa³.
+
+
+LAERTES
+Normandczyk, mówisz, panie?
+
+
+KRÓL
+Tak. Normandczyk.
+
+
+LAERTES
+Lamond! jak ¿yw tu stojê!
+
+
+KRÓL
+Ten sam.
+
+
+LAERTES
+Lamond.
+Od razu go pozna³em. On jest chlub¹,
+Istnym klejnotem swojego narodu.
+
+
+KRÓL
+Ten tedy Lamond szeroko i d³ugo
+Rozwodzi³ siê nad tob¹, Laertesie.
+I tak wynosi³ tw¹ bieg³oœæ i zrêcznoœæ
+W robieniu broni¹, zw³aszcza te¿ rapierem,
+¯e, wnosz¹c z jego opisu, ciekawy
+By³by to widok, gdyby ci kto sprosta³.
+Spomiêdzy jego wspó³ziomków najpierwsi,
+Mówi³, fechmistrze stracili przytomnoœæ,
+Oko i zwinnoœæ w spotkaniu siê z tob¹.
+Opowiadanie to wzbudzi³o tak¹
+Zawiœæ w Hamlecie, ¿e niczego odt¹d
+Nie pragn¹³, jeno twojego powrotu
+I spróbowania siê z tob¹ na ostrze.
+Otó¿ wiêc...
+
+
+LAERTES
+Có¿ wiêc, panie?
+
+
+KRÓL
+Laertesie,
+Kocha³ ¿eœ ojca? albo jest ¿eœ tylko
+Pokrowcem ¿alu, postaci¹ bez serca?
+
+
+LAERTES
+Dlaczego siê mnie, panie, o to pytasz?
+
+
+KRÓL
+Nie przeto, abym w w¹tpliwoœæ podawa³
+Twoj¹ ku niemu mi³oœæ, lecz dlatego,
+I¿ wiem, ¿e mi³oœæ jest dzieciêciem czasu;
+A doœwiadczenie uczy mnie codziennie,
+¯e czas miarkuje jej si³ê i zapa³.
+P³omieñ mi³oœci zaw¿dy mieœci w sobie
+Coœ na kszta³t knota, co moc jego t³umi,
+I w jednostajnym nic nie trwa wigorze;
+Bo wigor, z zbytku krwi dostaj¹c pleury,
+W³asnym nadmiarem zabity zostaje.
+Kto chce, powinien wraz to, co chce, spe³niæ;
+Bo to „chce” zmienne tyle napotyka
+Tam i szkopu³ów, ile jest na œwiecie
+Ramion, jêzyków i przygód, a póŸniej
+Owo „powinien” staje siê niewczesnym
+Westchnieniem, które, nios¹c ulgê, szkodzi.
+Lecz wróæmy w sam rdzeñ wrzodu: Hamlet wraca,
+Có¿ chcesz przedsiêwzi¹æ, aby siê okazaæ
+Nie w s³owach, ale w czynie dobrym synem?
+
+
+LAERTES
+Podci¹æ mu gard³o na œrodku koœcio³a.
+
+
+KRÓL
+Zemsta, zaiste, nie mo¿e znaæ granic
+I ¿adne miejsce uœwiêcaæ mordercy;
+Chceszli siê jednak zemœciæ, Laertesie,
+Zamknij siê na czas jakiœ w swym pokoju.
+Hamlet przybywszy dowie siê, ¿eœ wróci³.
+G³osiæ bêdziemy przed nim twoj¹ zrêcznoœæ
+I s³awê, któr¹ ci zrobi³ ów Francuz,
+W dubelt powleczem werniksem. WyjdŸ wtedy
+I przyjm spotkanie siê z nim, do którego
+Znajdziesz sposobnoœæ. Jego lekkomyœlnoœæ,
+Niepodejrzliwoœæ i szlachetnoœæ sprawi¹,
+¯e nie obejrzy kling, z ³atwoœci¹ zatem,
+Chocia¿by trochê u¿ywszy podstêpu,
+Bêdziesz móg³ wybraæ rapier nie stêpiony
+I umiejêtnym pchniêciem odwetowaæ
+œmieræ ojca.
+
+
+LAERTES
+Zrobiê tak i dla pewnoœci
+Nabalsamujê ostrze mego miecza.
+Naby³em od pewnego szarlatana
+Tak¹ maœæ, ¿e gdy nó¿ w niej umaczany
+Najmniej zadraœnie ¿yj¹c¹ istotê,
+Nie ma pomiêdzy najzbawienniejszymi
+Zio³ami œrodka, który by potrafi³
+Uchroniæ j¹ od œmierci. Tym to jadem
+Miecz mój omaszczê; niech go drasnê tylko,
+I Ju¿ bêdzie po nim.
+
+
+KRÓL
+Rozwa¿my to g³êbiej
+baczmy, jakie nam okolicznoœci
+I czas w tej mierze mog¹ daæ poparcie;
+Bo gdyby to nas mia³o zawieœæ, gdyby
+Plan nasz chybiony mia³ wyp³yn¹æ na wierzch,
+Lepiej by go zaniechaæ. Trzeba zatem,
+Aby ten projekt mia³ w odwodzie drugi,
+Który w potrzebie przyszed³by mu w pomoc.
+Czekaj — pomyœlmy trochê. Uroczysty
+Postawiê zak³ad na kartê twej sztuki;
+A potem — potem... Ha! wiem ju¿, co robiæ.
+Gdy was bój znu¿y, tak ¿e siê a¿ obu
+Czuæ da pragnienie (ostro ¿gaj dlatego),
+I gdy on zechce czego do och³ody,
+Wtedy podadz¹ mu puchar, z którego
+Jeden ³yk, w razie gdyby jakim trafem
+Uszed³ twojego zatrutego ciosu,
+Da nam skuteczny sukurs! Sk¹d ta wrzawa?
+
+Wchodzi Królowa.
+
+Co to jest, droga ma³¿onko?
+
+
+KRÓLOWA
+Nieszczêœcia
+Nawa³em biegn¹ jedne za drugimi.
+Laertes, siostra twoja utonê³a.
+
+
+LAERTES
+Przebóg! Gdzie?
+
+
+KRÓLOWA
+Owdzie nad potokiem stoi
+Pochy³a wierzba, której siwe liœcie
+W lustrze siê czystej przegl¹daj¹ wody.
+Tam ona wi³a fantastyczne wieñce
+Z pokrzyw, stokrotek, jaskrów i pod³u¿nych
+Karmazynowych kwiatów, którym nasi
+Sproœni pasterze szpetn¹ daj¹ nazwê,
+A zaœ dziewice w skromnoœci je zowi¹
+Palcami zmar³ych. Otó¿ chc¹c zawiesiæ
+Jeden z tych wianków na zwis³ej ga³êzi,
+Nie doœæ ostro¿nie wspiê³a siê na drzewo.
+Z³oœliwa ga³¹Ÿ z³ama³a siê pod ni¹.
+I z kwiecistymi trofeami swymi
+Wpad³o w toñ biedne dziewczê. Przez czas jakiœ
+Wzdêta sukienka nios³a j¹ po wierzchu
+Jak nimfê wodn¹ i wtedy, nieboga,
+Jakby nie znaj¹c swego po³o¿enia
+Lub jakby czu³a siê w swoim ¿ywiole,
+Œpiewa³a starych piosenek urywki,
+Ale nied³ugo to trwa³o, bo wkrótce
+Nasi¹k³e szaty poci¹gnê³y z sob¹
+Biedn¹ ofiarê ze sfer melodyjnych
+W zimny mu³ œmierci.
+
+
+LAERTES
+A wiêc utonê³a?
+
+
+KRÓLOWA
+Niestety!
+
+
+LAERTES
+Biedna Ofelio, za wiele
+Masz ju¿ wilgoci, wstrzymam wiêc ³zy moje,
+A jednak jest to rzecz ludzka, natura
+¯¹da praw swoich na przekór wstydowi;
+Gdy te strumienie œciekn¹, zniewieœcia³oœæ
+Wyjdzie wraz z nimi z serca,
+¯egnam ciê, panie, mam w ustach wyrazy,
+Które p³omieniem rade by wybuchn¹æ;
+Ale je gasi to dzieciñstwo.
+wychodzi
+
+
+KRÓL
+IdŸmy
+Za nim, Gertrudo. Ten wypadek mo¿e
+Na nowo za¿ec jego wœciek³oœæ, któr¹
+Z takim mozo³em ledwie uœmierzy³em.
+IdŸmy wiêc za nim.
+
+
+Wychodz¹.
+
+
+
+
+
+AKT PI¥TY
+
+
+
+
+
+SCENA PIERWSZA
+
+
+Cmentarz.
+
+Dwóch Grabarzy z rydlami itd. wchodzi na scenê.
+
+
+PIERWSZY GRABARZ
+Godzi-¿ siê po chrzeœcijañsku grzebaæ kogoœ, co samowolnie szuka zbawienia?
+
+
+DRUGI GRABARZ
+Co siê tam o to pytasz; bierz siê lepiej ¿ywo do kopania. Fizyk by³ przy niej i zakwalifikowa³ j¹ do chrzeœcijañskiego pogrzebu.
+
+
+PIERWSZY GRABARZ
+Jak to byæ mo¿e? Nie utopi³a siê przecie bez przyczynienia siê w³asnego.
+
+
+DRUGI GRABARZ
+Powiadam ci, ¿e tak zeznano.
+
+
+PIERWSZY GRABARZ
+Musia³o byæ przyczynienie siê, a to punkt w³aœnie stanowi. Kiedy siê topiê, w takim razie pope³niam czyn, a czyn siê pope³nia trojako: dzia³aj¹c, wykonywaj¹c i uskuteczniaj¹c. Tak wiêc widzisz, ¿e siê ona utopi³a z umys³u.
+
+
+DRUGI GRABARZ
+Ale¿, pozwól...
+
+
+PIERWSZY GRABARZ
+Gadaj zdrów. Tu p³ynie woda, dajmy na to, a tu stoi cz³owiek, dajmy na to: je¿eli cz³owiek pójdzie do wody i utopi siê, rad nierad, to ju¿ ci nie zaprzeczy temu, ¿e poszed³; ale je¿eli woda przyjdzie do niego i zatopi go, to co innego; wtedy nie mo¿na powiedzieæ, ¿e on siê utopi³. Wierzaj mi, kumie, ¿e kto sam nie jest winien swojej œmierci, ten sam sobie ¿ycia nie skraca.
+
+
+DRUGI GRABARZ
+Czy prawo tak mówi?
+
+
+PIERWSZY GRABARZ
+Ma siê rozumieæ prawo fizyczne.
+
+
+DRUGI GRABARZ
+Chcesz wiedzieæ prawdê? Gdyby to nie by³a dygnitarska córka, nie by³aby po chrzeœcijañsku chowana.
+
+
+PIERWSZY GRABARZ
+Trafi³eœ w sedno. Czy to sprawiedliwie, ¿e panowie dygnitarze wiêksz¹ na tym œwiecie maj¹ zachêtê do topienia siê i wieszania ni¿ ich wspó³bracia w Chrystusie? Podaj mi rydel. Nie ma dawniejszych dygnitarzy ni¿ ogrodnicy, górnicy i grabarze, bo oni id¹ w prostej linii od ojca Adama.
+
+
+DRUGI GRABARZ
+Czy Adam by³ dygnitarzem?
+
+
+PIERWSZY GRABARZ
+A jak¿e? on pierwszy przecie krzy¿ nosi³.
+
+
+DRUGI GRABARZ
+Ej¿e, ej¿e! nie nosi³ ¿adnego.
+
+
+PIERWSZY GRABARZ
+Czyœ waœæ poganin? Tak-¿e Pismo rozumiesz? Pismo powiada, ¿e Adam ziemiê kopa³: kopi¹c, musia³ ci siê schylaæ, a jak¿e by siê móg³ schyliæ nie maj¹c krzy¿a? Zadam ci jeszcze jedno pytanie, a je¿eli mi sprytnie nie odpowiesz, to ciê nazwê...
+
+
+DRUGI GRABARZ
+No, no.
+
+
+PIERWSZY GRABARZ
+Co to za rzemieœlnik, co trwalej buduje ni¿ murarz, cieœla i majster okrêtowy?
+
+
+DRUGI GRABARZ
+Szubienicznik, bo jego budowla przetrzyma tysi¹c lokatorów.
+
+
+PIERWSZY GRABARZ
+Podoba mi siê twój dowcip. W istocie, szubienica wyœwiadcza przys³ugi, ale komu? oto tym, co siê Ÿle zas³uguj¹; a poniewa¿ ty siê Ÿle zas³ugujesz Bogu, twierdz¹c, ¿e szubienica jest trwalsza ni¿ koœció³, powinna ci wiêc szubienica wyœwiadczyæ swoj¹ przys³ugê. Ale wróæmy do rzeczy.
+
+
+DRUGI GRABARZ
+Któ¿ buduje trwalej ni¿ murarz, cieœla i majster okrêtowy?
+
+
+PIERWSZY GRABARZ
+O to w³aœnie idzie.
+
+
+DRUGI GRABARZ
+Zaraz ci powiem.
+
+
+PIERWSZY GRABARZ
+S³ucham.
+
+
+DRUGI GRABARZ
+Do licha, nie mogê jakoœ.
+
+
+Hamlet i Horacy ukazuj¹ siê w pewnej odleg³oœci.
+
+
+PIERWSZY GRABARZ
+Nie ³am sobie ju¿ nad tym mózgownicy; os³a batem nie popêdzisz; a kiedy ciê kto o to jeszcze raz zapyta, to mu powiedz: grabarz. Domy jego roboty przetrwaj¹ do dnia s¹du. IdŸ do szynku i przynieœ mi pó³kwaterek gorza³ki.
+
+Drugi grabarz wychodzi.
+
+Pierwszy grabarz kopie i œpiewa.
+
+Za m³odu — o, gdyby ten wiek móg³ powróciæ!
+Mi³ostki mym by³y ¿ywio³em;
+Pokochaæ, odkochaæ, uœcisn¹æ, porzuciæ
+To u mnie zwyczajnym sz³o ko³em.
+
+
+HAMLET
+Czy ten cz³owiek nie zna natury swego rzemios³a? Œpiewa przy kopaniu grobu.
+
+
+HORACY
+Przyzwyczajenie wyrobi³o w nim ten rodzaj swobody.
+
+
+HAMLET
+Tak to bywa we wszystkim; im mniej siê do czego rêkê przyk³ada, tym delikatniejsze jej czucie.
+
+
+PIERWSZY GRABARZ
+œpiewa
+
+Lecz staroœæ nie radoœæ napad³szy znienacka
+Zwali³a miê swoim obuchem;
+Znik³ kura¿ i rezon, i mina junacka:
+Ni œladu, ¿em kiedyœ by³ zuchem.
+
+wyrzuca czaszkê
+
+
+HAMLET
+Ta czaszka mia³a tak¿e jêzyk i mog³a œpiewaæ. Patrz, jak ni¹ poniewiera ten hultaj; pomiata ni¹, jak gdyby by³a szczêk¹ Kaina, pierwszego mordercy. Mo¿e to czaszka jakiego dyplomaty, co to chcia³ podejœæ Pana Boga, a teraz j¹ podszed³ ten osio³. No nie?
+
+
+HORACY
+Byæ mo¿e.
+
+
+HAMLET
+Albo jakiego dworaka, który móg³ mówiæ: dzieñ dobry, jaœnie wielmo¿ny panie; jak¿e zdrowie waszej ekscelencji? Albo jakiego zausznika, który chwali³ konia swego mecenasa, aby go od niego wy³udziæ? Jak myœlisz?
+
+
+HORACY
+Mog³oby to byæ, moœci ksi¹¿ê.
+
+
+HAMLET
+Taka to kolej rzeczy. A teraz, gdy straci³ szczêkê, musi s³u¿yæ pani Gliœcie i cierpieæ szturchañce zakrystiañskiej ³opaty. Co za radykalna przemiana! Szkoda, ¿e jej nie mo¿emy ogl¹daæ. Czyli¿ utrzymanie tych koœci na to tylko tyle kosztowa³o, aby z czasem grano w nie jak w krêgle? Ból czujê w moich na tê myœl.
+
+
+PIERWSZY GRABARZ
+œpiewa
+
+£o¿e w ziemi i wór zgrzebny
+Na pokrycie koœci;
+Oto ca³y sprzêt potrzebny
+Dla tutejszych goœci.
+
+wyrzuca czaszkê
+
+
+HAMLET
+Masz i drug¹. Nie jest-¿e to czasem czerep adwokata? Gdzie¿ siê podzia³y jego kruczki i wykrêty, jego ewentualnoœci, jego kazualnoœci i matactwa? Jak mo¿e znieœæ, aby go ten grubianin bi³ w ciemiê swoj¹ plugaw¹ motyk¹, i nie wyst¹piæ przeciw niemu z akcj¹ o czynn¹ obelgê? Hm! hm! A mo¿e te¿ to by³ swojego czasu jaki wielki posesjonat, który skupowa³ dobra drog¹ licytacji, subhastacji, komplanacji, transakcji i cesji? Na to¿ mu siê zda³a czysta masa nieruchomoœci, aby sam, stawszy siê nieruchomoœci¹, obróci siê w masê b³ota? Nie zdo³ali-¿ ci, co mu pisali ewicje, ewinkowaæ mu wiêkszej przestrzeni, tylko tak¹ jak¹ wzd³u¿ i wszerz pokryje para fascyku³ów? Kontrakty kupna jego maj¹tków zaledwie by siê w takim obrêbie zmieœci³y; a sam-¿e ich dziedzic nie ma mieæ wiêcej miejsca? Hê?
+
+
+HORACY
+Ani o w³os wiêcej, moœci ksi¹¿ê.
+
+
+HAMLET
+Nie jest-¿e pergamin ze skór baranich!
+
+
+HORACY
+Nie inaczej, i z cielêcych tak¿e.
+
+
+HAMLET
+Barany i cielêta z tych, co w nim bezpieczeñstwa szukaj¹! Muszê pomówiæ z tym cz³owiekiem. Czyj to grób, przyjacielu?
+
+PIERWSZY GRABARZ
+Mój.
+œpiewa
+
+Oto ca³y sprzêt potrzebny
+Dla tutejszych goœci.
+
+
+HAMLET
+Twój, nie przeczê, bo w nim siedzisz.
+
+
+PIERWSZY GRABARZ
+Waspan w nim nie siedzisz, tote¿ on nie waspana; co do mnie, nie siedzê w nim, a jednak jest moim.
+
+
+HAMLET
+Twoim wiêc jest, bo w nim stoisz.
+
+
+PIERWSZY GRABARZ
+Nie stojê w nim; stojê tam pod koœcio³em.
+
+
+HAMLET
+Có¿ to za jegomoœæ ma le¿eæ w tym grobie?
+
+
+PIERWSZY GRABARZ
+¯aden jegomoœæ.
+
+
+HAMLET
+A wiêc kobieta.
+
+
+PIERWSZY GRABARZ
+Kobieta te¿ nie.
+
+
+HAMLET
+Wiêc któ¿ tu bêdzie pochowany?
+
+
+PIERWSZY GRABARZ
+Ktoœ, kto by³ kobiet¹, ale wieczne jej odpoczywanie, bo umar³a.
+
+
+HAMLET
+Ciêty hultaj! Trzeba nam wa¿yæ s³owa, inaczej igraszka ich wystrychnie nas na dudków. Zaprawdê, mój Horacy, œwiat siê sta³ tak dowcipny, od trzech lat to uwa¿am, ¿e ch³op swoim wielkim palcem u nogi nagniotków nabawia dworaka nastêpuj¹c mu na piêty. O jak dawna jesteœ grabarzem?
+
+
+PIERWSZY GRABARZ
+Dniem, w którym zacz¹³em tê profesjê, by³ w³aœnie ten dzieñ roku spomiêdzy wszystkich innych, w którym nieboszczyk nasz król Hamlet pobi³ Fortynbrasa.
+
+
+HAMLET
+Jak¿e to dawno?
+
+
+PIERWSZY GRABARZ
+Nie wiesz, waspan? Ka¿dy smyk u nas wie o tym. By³o to tego dnia, kiedy m³ody Hamlet przyszed³ na œwiat; ten sam, co to zwariowa³ i zosta³ wys³any do Anglii.
+
+
+HAMLET
+Czy tak? A dlaczegó¿ on zosta³ wys³any do Anglii?
+
+
+PIERWSZY GRABARZ
+Dlatego w³aœnie, ¿e zwariowa³. Ma on tam rozum odzyskaæ; ale chocia¿by go nie odzyska³, nie bêdzie tam o to k³opotu.
+
+
+HAMLET
+Dlaczego?
+
+
+PIERWSZY GRABARZ
+Bo tam tego nie dostrzeg¹ nawet; tam wszyscy wariaci, tak jak on.
+
+
+HAMLET
+Skutkiem czego on zwariowa³?
+
+
+PIERWSZY GRABARZ
+Skutkiem pewnej przyczyny.
+
+
+HAMLET
+Jakiej przyczyny?
+
+
+PIERWSZY GRABARZ
+Skutkiem utraty rozumu.
+
+
+HAMLET
+Gdzie¿by to byæ mog³o?
+
+
+PIERWSZY GRABARZ
+Gdzie? Tu w Danii, której ziemiê kopiê od lat trzydziestu.
+
+
+HAMLET
+Jak d³ugo mo¿e kto le¿eæ w ziemi, nim zgnije?
+
+
+PIERWSZY GRABARZ
+Je¿eli nie zgni³ przed œmierci¹ (co siê w tych czasach zdarza, mamy bowiem cia³a, które pod tym wzglêdem nie czekaj¹, a¿ siê je w ziemiê w³o¿y), to mo¿e przele¿eæ jakie osiem albo dziewiêæ lat. Grabarz przele¿y lat dziesiêæ.
+
+
+HAMLET
+Dlaczego ten jeden wiêcej ni¿ drudzy?
+
+
+PIERWSZY GRABARZ
+Bo mu jego rzemios³o tak wygarbowa³o skórê, ¿e kawa³ czasu mo¿e wodê wstrzymaæ: a woda, panie, jest straszliw¹ naszych grzesznych cia³ niszczycielk¹. Oto czaszka, która od dwudziestu trzech lat le¿y w ziemi.
+
+
+HAMLET
+Czyj¹¿ ona by³a?
+
+
+PIERWSZY GRABARZ
+S³awnego wartog³owa. Czyj¹, na przyk³ad, jak myœlicie?
+
+
+HAMLET
+Nie domyœlam siê wcale.
+
+
+PIERWSZY GRABARZ
+Zaraza na niego! Przypominam sobie, jak mi wyla³ na g³owê ca³¹ butlê reñskiego. Ta czaszka, proszê pana, by³a w³asnoœci¹ Yoryka, królewskiego b³azna.
+
+
+HAMLET
+podnosz¹c czaszkê
+Jego?
+
+
+PIERWSZY GRABARZ
+Jego samego.
+
+
+HAMLET
+Pozwól, niech siê jej przyjrzê. Biedny Yoryku! Zna³em go, mój Horacy; by³ to cz³owiek niewyczerpany w ¿artach, niezrównanej fantazji, ma³o tysi¹c razy piastowa³ miê na rêku, a teraz — jak¿e miê jego widok odra¿a i a¿ w gardle œciska! Tu wisia³y owe wargi, które nie wiem jak czêsto ca³owa³em. Gdzie¿ s¹ teraz twoje drwinki, twoje wyskoki, twoje œpiewki, twoje koncepty, przy których ca³y stó³ trz¹s³ siê od œmiechu? Nic-¿e z nich nie pozosta³o na wyszydzenie swych w³asnych, tak teraz wyszczerzonych zêbów? IdŸ-¿e teraz do gotowalni modnej damy i powiedz jej, ¿e chocia¿by siê na cal grubo malowa³a, przecie¿ siê takiej fizjognomii doczeka. PobudŸ j¹ przez to do œmiechu. Proszê ciê, mój Horacy, powiedz mi jedn¹ rzecz.
+
+
+HORACY
+Co, mój ksi¹¿ê?
+
+
+HAMLET
+Czy myœlisz, ¿e Aleksander Wielki tak samo w ziemi wygl¹da?
+
+
+HORACY
+Zupe³nie tak.
+
+
+HAMLET
+I tak samo pachnia³? Brr!
+odrzuca czaszkê
+
+
+HORACY
+Zupe³nie tak, moœci ksi¹¿ê.
+
+
+HAMLET
+Jak nikczemna dola mo¿e siê staæ naszym udzia³em! Nie mog³a-¿ by wyobraŸnia, id¹c w trop za szlachetnym prochem Aleksandra, znaleŸæ go na ostatku zatykaj¹cego dziurê w beczce?
+
+
+HORACY
+Tak braæ rzeczy, by³oby to braæ je za œciœle.
+
+
+HAMLET
+Bynajmniej; mo¿na by go tam przeprowadziæ, rozumuj¹c z umiarem i z wszelkim prawdopodobieñstwem, przyk³ad w taki sposób: Aleksander umar³, Aleksander zosta³ pogrzebiony, Aleksander w proch siê obróci³, proch jest ziemi¹, z ziemi robimy kit i dlaczegó¿ byœmy tym kitem, w który on siê zamieni³, nie mogli zalepiæ beczki piwa?
+
+Potê¿ny Cezar przedzierzgn¹³ siê w glinê,
+Któr¹ przed wiatrem ch³op zatka³ szczelinê.
+Zatrz¹s³szy œwiatem pójœæ na polep chaty,
+To¿ kres wielkoœci, to¿ los potentaty?!
+Lecz cicho — patrz: król tu nadchodzi.
+
+Ksiê¿a procesjonalnie wchodz¹, za nimi nios¹ zw³oki Ofelii, tu¿ za zw³okami postêpuje Laertes i ¿a³obnicy, nastêpnie Król, Królowa i orszak.
+
+Królowa, ca³y dwór. Czyj¿e to pogrzeb?
+I ceremonia skrócona! To znaczy,
+¯e ten, którego zw³oki tak prowadz¹,
+Sam sobie musia³ rozpaczliw¹ d³oni¹
+Odebraæ ¿ycie. Ktoœ to z wy¿szej klasy.
+Odst¹pmy na bok i patrzmy.
+usuwa siê z Horacym na stronê
+
+
+LAERTES
+Jaki¿ obrz¹dek pozostaje?
+
+
+HAMLET
+Jest to
+Laertes, zacny m³odzian. Uwa¿ajmy.
+
+
+LAERTES
+Jaki¿ obrz¹dek jeszcze pozostaje?
+
+
+KSI¥DZ
+Posunêliœmy ten akt tak daleko,
+Jak tylko mandat nam pozwala. Œmieræ jej
+By³a w¹tpliwa i gdyby by³ wy¿szy
+Nakaz nie przemóg³ rygoru przepisów,
+W niepoœwiêconej musia³aby ziemi
+Przele¿eæ do dnia s¹du. Miasto mod³ów
+Spad³yby na ni¹ gruzy i kamienie;
+Tak zaœ zachowa swój dziewiczy wieniec
+I towarzyszyæ jej bêdzie do grobu
+Kwiat i dŸwiêk dzwonów.
+
+
+LAERTES
+Wiêcej nic?
+
+
+KSI¥DZ
+Nic wiêcej.
+Skazilibyœmy obrz¹dek za zmar³ych,
+Gdybyœmy nad ni¹ requiem œpiewali,
+Tak jak to czynim tym, co bogobojnie
+Oddali ducha.
+
+
+LAERTES
+Spuœæcie j¹ do grobu,
+Niechaj z tych piêknych, nieskalanych szcz¹tków
+Fio³ki wykwitn¹! A ty, twardy ksiê¿e,
+Wiedz, ¿e pomiêdzy chórami anio³ów
+Wznosiæ siê bêdzie moja siostra wtedy,
+Gdy ty siê w prochu wiæ bêdziesz.
+
+
+HAMLET
+Ofelia!
+
+
+KRÓLOWA
+sypi¹c kwiaty
+Najmilsza z dziewic, b¹dŸ zdrowa! Myœla³am
+Widzieæ ciê ¿on¹ mojego Hamleta;
+Prêdzej siê w kwiaty spodziewa³am stroiæ
+Twoje ma³¿eñskie ³o¿e ni¿ mogi³ê.
+
+
+LAERTES
+Trzykroæ trzydzieœci razy ciê¿kie „biada”
+Niech na przeklêt¹ g³owê tego spada,
+Kto pod³ym czynem zm¹ci³ twoje zmys³y!
+Nie sypcie jeszcze ziemi, niech siê jeszcze
+Raz jej kochanym widokiem napieszczê!
+wskakuj¹c w grób
+Walcie proch teraz na dwojakie zw³oki,
+A¿ usypiecie kurhan tak wysoki
+Jak Pelion albo pruj¹cy ob³oki
+Podniebny Olimp.
+
+
+HAMLET
+ukazuj¹c siê
+Co to jest za cz³owiek,
+Którego boleœæ brzmi z tak¹ przesad¹?
+Którego objaw ¿alu zatrzymuje
+Gwiazdy w ich biegu i obraca one
+W s³uchaczy os³upia³ych? To ja jestem
+Hamlet, syn Danii.
+wskakuje w grób
+
+
+LAERTES
+Poleæ duszê czartu!
+
+
+HAMLET
+le siê waœæ modlisz. Puœæ mi gard³o, proszê;
+Bo choæ nie jestem prêdki i dra¿liwy,
+Ale mam w sobie coœ niebezpiecznego,
+Czego ci radzê strzec siê. Odejm rêkê.
+
+
+KRÓL
+Hola! Rozdzielcie ich.
+
+
+KRÓLOWA
+Hamlecie, synu!
+
+
+DWORZANIE
+Panowie!
+
+
+HORACY
+Hamuj siê, ³askawy ksi¹¿ê.
+
+
+Dworzanie rozdzielaj¹ ich i obydwaj wychodz¹ z grobu
+
+
+HAMLET
+Walczyæ z nim bêdê o lepsz¹ dopóty,
+Dopóki powiek na wieki nie zawrê.
+
+
+KRÓLOWA
+O co, mój synu?
+
+
+HAMLET
+Kocha³em Ofeliê —
+Tysi¹c by braci z ca³¹ sw¹ mi³oœci¹
+Nie mog³o memu wyrównaæ uczuciu.
+Có¿ byœ ty dla niej uczyni³?
+
+
+KRÓL
+do Laertesa
+To nowy
+Wyskok szaleñstwa.
+
+
+KRÓLOWA
+podobnie¿
+O, miej wzgl¹d na niego!
+
+
+HAMLET
+Mów, do pioruna! Mów, co byœ uczyni³?
+Jesteœ-li gotów p³akaæ, biæ siê, poœciæ?
+Daæ siê rozedrzeæ? rzekê wypiæ do dna?
+Jeœæ krokodyle? I jam tak¿e gotów.
+Przyszed³eœ tutaj jêczeæ, w grób jej skakaæ
+Dla ur¹gania mi? Daj siê z ni¹ razem
+¯ywcem pogrzebaæ, i ja to uczyniê;
+A jeœli prawisz o górach, niech na nas
+Run¹ miliony w³ók ziemi, a¿ kopiec,
+Co z niej powstanie, stercz¹c w g³¹b eteru
+Ossê w brodawkê zmieni. Jeœli umiesz
+szermowaæ gêb¹, i ja to potrafiê.
+
+
+KRÓLOWA
+Sza³ to, któremu chwilowo ulega;
+Gdy go ominie, wraz jak go³êbica,
+Po wylê¿eniu swoich z³otych piskl¹t,
+Potulnie zwiesi g³owê i zamilknie.
+
+
+HAMLET
+Powiedz mi, waæpan, co siê to ma znaczyæ,
+¯e siê obchodzisz ze mn¹ tak niegodnie?
+Jam ci tak sprzyja³! Ale mniejsza o to;
+Choæby Herkules da³ siê i posiekaæ,
+Zawsze kot miauczeæ bêdzie, a pies szczekaæ.
+wychodzi
+
+
+KRÓL
+Horacy, proszê ciê, miej go na oku.
+
+Horacy wychodzi. Król do Laertesa.
+
+Uzbrój cierpliwoœæ tym, co u³o¿one
+Pomiêdzy nami; rzecz siê sama sk³ada.
+Gertrudo, ka¿ tam komu nad nim czuwaæ.
+Grób ten mieæ bêdzie wkrótce ¿ywy pomnik,
+A my spokojnoœæ; lecz nim to siê stanie,
+Cierpliwie nasze prowadŸmy zadanie.
+
+
+Wszyscy wychodz¹.
+
+
+
+
+
+SCENA DRUGA
+
+
+Sala w zamku.
+
+Hamlet i Horacy.
+
+
+HAMLET
+Dosyæ ju¿ o tym; s³uchaj teraz dalej.
+Pamiêtasz dobrze ca³¹ okolicznoœæ?
+
+
+HORACY
+Pamiêtam, moœci ksi¹¿ê.
+
+
+HAMLET
+W duszy mojej
+Wrza³ jakiœ rodzaj walki, skutkiem której
+Ani na chwilê nie zmru¿y³em oka.
+Zdawa³o mi siê, ¿em by³ w po³o¿eniu
+Gorszym ni¿ wiêzieñ przykuty do galer.
+Nagle, i niech siê œwiêci owa nag³oœæ!
+Trzeba ci bowiem wiedzieæ, ¿e nie wszystko
+Bywa po diable, co czynimy nagle.
+¯e, owszem, czasem niezastanowienie
+Lepiej nam s³u¿y ni¿ najumiejêtniej
+Skombinowane plany; co dowodzi,
+¯e jakieœ dobre bóstwo kszta³t nadaje
+Naszym dzia³aniom z gruba obciosanym.
+
+
+HORACY
+To pewna.
+
+
+HAMLET
+Nagle przywdzia³em kapotê
+I wyskoczywszy z kajuty, po macku
+Szuka³em miejsca, gdzie spali; znalaz³em
+Wreszcie mych œpiochów, wyj¹³em im pakiet
+I powróci³em z nim do mego k¹ta.
+Strach tak dalece zrobi³ miê niepomnym
+Na delikatnoœæ, ¿em rozpieczêtowa³
+Dokument, w którym odkry³em, có¿ na to
+Powiesz, Horacy! królewskie szelmostwo:
+Jawne wezwanie, mnóstwem ró¿nych racji
+Naszpikowane, w imiê dobra Danii
+Anglii dobra, z którym siê istnienie
+Takiego jak ja upiora nie zgadza,
+Aby za odebraniem niniejszego,
+Bez ceremonii i bez zw³oki, nawet
+Na wyostrzenie miecza nie czekaj¹c,
+G³owa mi by³a zdjêta.
+
+
+HORACY
+Czy podobna?
+
+
+HAMLET
+Oto dokument; przejrz go w wolnej chwili.
+A teraz, chceszli wiedzieæ, com ja zrobi³?
+
+
+HORACY
+B³agam ciê, panie, powiedz.
+
+
+HAMLET
+Tak wpl¹tany
+W hultajskie sid³a, nie zdo³a³em jeszcze
+Do mego mózgu z prologiem wyst¹piæ,
+Gdy on ju¿ zacz¹³ swoj¹ rolê. Siad³em
+I napisa³em inny list, jak tylko
+Mog³em najpiêkniej. Dawniej, naœladuj¹c
+Przyk³ad uczonych naszych i statystów,
+Za ujmê mia³em sobie piêknie pisaæ
+I zadawa³em sobie wielk¹ pracê
+Nad zapomnieniem tego kunsztu; teraz
+Wyœwiadczy³ mi on kapitalnie wa¿n¹
+Przys³ugê. Chceszli us³yszeæ, co w sobie
+Mój list zawiera³?
+
+
+HORACY
+Pragnê, moœci ksi¹¿ê.
+
+
+HAMLET
+Oto zaklêcia jak najuroczystsze
+Ze strony króla: jeœli Anglia szczerze
+Chce mu daæ dowód ho³downiczej wiary;
+Jeœli stosunki miêdzy nami maj¹
+Kwitn¹æ jak palma; jeœli pokój stale
+Ma nam zaplataæ sw¹ girlandê z k³osów
+I staæ jak koma miêdzy okresami
+Naszej przyjaŸni (takich szumnych „jeœli”
+By³o tam wiêcej), aby w takim razie
+Angielski w³adca wraz po odczytaniu
+I rozpoznaniu treœci tego pisma,
+Nie namyœlaj¹c siê i æwieræ sekundy,
+Oddawców jego, bez spowiedzi nawet,
+Ze œwiata sprz¹tn¹æ kaza³.
+
+
+HORACY
+Jak ¿eœ, panie,
+Zapieczêtowa³ to pismo?
+
+
+HAMLET
+Tu w³aœnie
+Najwidoczniejszy by³ wp³yw Opatrznoœci;
+Mia³em przy sobie sygnet mego ojca,
+R¿niêty zupe³nie tak jak pieczêæ Danii.
+Z³o¿ywszy tedy list na wzór tamtego
+I opatrzywszy stemplem i adresem,
+Niepostrze¿enie wsadzi³em podrzutka
+W miejsce prawego pomiotu. Nazajutrz
+Mieliœmy bitwê morsk¹; wiesz ju¿ resztê.
+
+
+HORACY
+Tak wiêc Rozenkranc i Gildenstern poszli
+Na œmieræ niechybn¹.
+
+
+HAMLET
+Sami-æ jej szukali;
+Sumienie moje spokojne w tej mierze:
+W³asne to wœcibstwo wtr¹ci³o ich w przepaœæ.
+Biada podrzêdnym istotom, gdy wchodz¹
+Pomiêdzy ostrza potê¿nych szermierzy.
+
+
+
+HORACY
+Có¿ to za cz³owiek z tego króla!
+
+
+HAMLET
+Mam-¿e
+Jeszcze siê wahaæ? On mi zabi³ ojca,
+Zhañbi³ mi matkê i niecnie siê wcisn¹³
+Miêdzy elekcjê a moje nadzieje.
+Na ¿ycie moje tak podstêpnie godzi³.
+Nie bêdzie-¿ to czyn najzupe³niej zgodny
+Z s³usznoœci¹ daæ mu odwet tym ramieniem?
+I nie by³o¿by to krzycz¹c¹ rzecz¹
+Pozwoliæ, aby siê taki rak d³u¿ej
+Wpoœród nas szerzy³?
+
+
+HORACY
+Wkrótce mu zapewne
+Donios¹ z Anglii o skutku poselstwa.
+
+
+HAMLET
+Zapewne, trzeba mi przeto siê œpieszyæ.
+¯ycie cz³owieka zdmuchn¹æ jest to tyle
+Co zliczyæ jeden. Przykro mi jednak¿e,
+¯em siê zapomnia³ wzglêdem Laertesa;
+W obrazie bowiem jego losu widzê
+Wierne odbicie mojej w³asnej doli.
+Ceniê go bardzo; s³ysz¹c wszak¿e owe
+Przechwa³ki jego boleœci, nie mog³em
+Byæ panem siebie.
+
+
+HORACY
+Cicho, ktoœ nadchodzi.
+
+
+Wchodzi Ozryk.
+
+
+OZRYK
+Stokroæ szczêœliwa chwila, która nam pozwoli³a wasz¹ ksi¹¿êc¹ moœæ ujrzeæ znowu.
+
+
+HAMLET
+Pokornie dziêkujê waæpanu.
+na stronie do Horacego
+Czy znasz tê muchê wodn¹?
+
+
+HORACY
+Nie, moœci ksi¹¿ê.
+
+
+HAMLET
+Tym lepiej dla zbawienia duszy twojej, bo znaæ go jest wystêpkiem. Ma on pod dostatkiem ziemi, i ¿yznej. Niech bydlê bêdzie panem miêdzy bydlêtami, wraz bêdzie mia³o swój ¿³ób przy królewskim stole. To istny gawron, ale, jak powiadam, hojnie uposa¿ony b³otem.
+
+
+OZRYK
+£askawy ksi¹¿ê, je¿eli wasza ksi¹¿êca moœæ masz czas wolny, mia³bym szczêœcie zakomunikowaæ mu coœ z polecenia jego królewskiej moœci.
+
+
+HAMLET
+Z ca³ym natê¿eniem ducha gotów jestem to coœ odebraæ. Zrób pan w³aœciwy u¿ytek ze swojej czapki: czapka stworzona na g³owê.
+
+
+OZRYK
+Dziêkujê waszej ksi¹¿êcej moœci; bardzo dziœ gor¹co.
+
+
+HAMLET
+Gdzie¿ tam! raczej bardzo zimno; wiatr z pó³nocy.
+
+
+OZRYK
+W istocie, moœci ksi¹¿ê, zimno jakoœ.
+
+
+HAMLET
+Podobno jednak masz waæpan s³usznoœæ; parno jest i gor¹co jak na moje usposobienie.
+
+
+OZRYK
+Nadzwyczajnie, moœci ksi¹¿ê; tak jest parno, ¿e wypowiedzieæ tego nie umiem. £askawy ksi¹¿ê, król jegomoœæ kaza³ mi waszej ksi¹¿êcej moœci oznajmiæ, ¿e wielki na wasz¹ ksi¹¿êc¹ moœæ zak³ad stawi³. Rzecz siê tak ma...
+
+
+HAMLET
+Nie zapominaj-¿e, waæpan, bardzo proszê.
+pokazuje mu, aby w³o¿y³ kapelusz
+
+
+OZRYK
+Nie, moœci ksi¹¿ê; doprawdy, dla w³asnej mojej wygody. Od niejakiego czasu jest tu na dworze Laertes, nieporównany m³odzian, pe³en najwytworniejszych przymiotów, nadzwyczaj mi³y w towarzystwie i dystyngowany w obejœciu. Na honor, jest to, ¿e u¿yjê poetycznego wyra¿enia, istny inwentarz albo kalendarz ukszta³cenia, bo znajdziesz w nim, moœci ksi¹¿ê, kwintesencjê tego wszystkiego, co prawdziwie ukszta³cony cz³owiek znaleŸæ pragnie.
+
+
+HAMLET
+Moœci panie, zalety jego nie cierpi¹ upoœledzenia w ustach waæpana; jakkolwiek wyliczenie ich inwentarzowe nabawi³oby arytmetykê pamiêciow¹ zawrotu g³owy i jeszcze by mog³o rzecz oddaæ tylko in crudo ze wzglêdu na wysoki stopieñ jego og³ady. Co do mnie, sprowadzaj¹c pochwa³y do najprostszych wyrazów mam go za m³odego cz³owieka wielkich nadziei; za zlewek cnót tak rzadkich i szacownych, ¿e bez przesady mówi¹c, podobne do niego jest zwierciad³o, w którym siê przegl¹da; kto zaœ idzie w jego œlady, jest jego cieniem, niczym wiêcej.
+
+
+OZRYK
+Opis waszej ksi¹¿êcej moœci ze wszech miar trafny.
+
+
+HAMLET
+Do czegó¿ to zmierza, mój panie? W jakim¿e celu chuchamy na tê doskona³oœæ naszym u³omnym oddechem?
+
+
+OZRYK
+Jak to, moœci ksi¹¿ê?
+
+
+HORACY
+Czy¿ mo¿na nie rozumieæ ojczystego jêzyka? Ale myœlê, ¿e siê porozumiecie.
+
+
+HAMLET
+Co znaczy wyjechanie na harc z tym panem?
+
+
+OZRYK
+Wasza ksi¹¿êca moœæ mówi o Laertesie?
+
+
+HORACY
+Worek jego ju¿ pró¿ny; wyszypli³ ca³¹ gotówkê dowcipu.
+
+
+HAMLET
+Nie inaczej, o Laertesie.
+
+
+OZRYK
+Widzê, ¿e ksi¹¿ê pan nie jesteœ nieumiejêtny.
+
+
+HAMLET
+Cieszê siê, ¿e pan to widzisz, lubo zaprawdê, niewiele mogê na tym zyskaæ. Có¿ dalej?
+
+
+OZRYK
+Widzê, ¿e ksi¹¿ê pan nie jesteœ nieumiejêtny w ocenianiu znakomitej wy¿szoœci Laertesa.
+
+
+HAMLET
+Nie mogê tego przyznaæ, nie porównawszy siê z nim poprzednio; znaæ bowiem drugich dok³adnie jest to znaæ samego siebie.
+
+
+OZRYK
+Mówiê o jego wy¿szoœci w w³adaniu broni¹, powszechna bowiem opinia uwa¿a go za nieporównanego w tym kunszcie.
+
+
+HAMLET
+W jakim¿e on rodzaju broni tak jest mocny?
+
+
+OZRYK
+Na rapiery i florety.
+
+
+HAMLET
+W dwóch a¿ rodzajach broni tak odrêbnych! Có¿ dalej?
+
+
+OZRYK
+Król jegomoœæ stawi³ w zak³ad szeœæ berberyjskich koni; on zaœ, ile wiem, szeœæ francuskich szpad i pugina³ów, z nale¿¹cymi do nich przyborami, jako to: pendentami, pasami i tak dalej. Spomiêdzy tych rynsztunków trzy s¹ w istocie bardzo ozdobne, pasuj¹ce do rêkojeœci, nader misternie wyrobione i œwie¿ego pomys³u.
+
+
+HAMLET
+Co pan nazywasz rynsztunkami?
+
+
+HORACY
+Wiedzia³em, ksi¹¿ê, ¿e bêd¹ ci potrzebne komentarze, zanim dowiesz siê koñca.
+
+
+OZRYK
+Rynsztunki, moœci ksi¹¿ê, to pendenty.
+
+
+HAMLET
+Wyra¿enie to by³oby bardziej z rzecz¹ spokrewnione, gdybyœmy armaty mogli nosiæ u boku; tymczasem jednak przyjmijmy je za pendenty. Tak wiêc szeœæ berberyjskich koni z jednej strony, a z drugiej szeœæ francuskich ro¿nów z ich przyborami i trzy œwie¿ego pomys³u rynsztunki. To prawdziwie francuski zak³ad przeciw duñskiemu. O có¿ on stawiony?
+
+
+OZRYK
+Król jegomoœæ za³o¿y³ siê, ¿e w spotkaniu z wasz¹ ksi¹¿êc¹ moœci¹ w dwunastu pchniêciach z obojej strony Laertes nie osi¹gnie przewagi trzech trafieñ. Szansa wiêc jego do szansy Laertesa ma siê jak dwanaœcie do dziewiêciu; i zaraz by siê to rozstrzygnê³o, gdybyœ ksi¹¿ê pan raczy³ przychylnie odpowiedzieæ.
+
+
+HAMLET
+A gdybym odpowiedzia³: nie?
+
+
+OZRYK
+Chcia³em powiedzieæ, gdybyœ ksi¹¿ê pan raczy³ osob¹ swoj¹ odpowiedzieæ temu zadaniu.
+
+
+HAMLET
+Bêdê siê tu przechadza³ w tej sali; jest to czas, w którym u¿ywam wytchnienia. Jeœli ten pan ma ochotê, królowi jegomoœci to dogadza, mogê im s³u¿yæ zaraz. Niech przynios¹ florety. Rozegram ten zak³ad na rzecz króla; je¿eli zaœ mi siê nie powiedzie, zyskam tylko na w³asny mój rachunek trochê konfuzji i kontuzji.
+
+
+OZRYK
+Mam-¿e to odnieœæ w tym sposobie?
+
+
+HAMLET
+W tym duchu; z przyozdobieniami, jakie siê panu stosowne wydadz¹.
+
+
+OZRYK
+Polecam waszej ksi¹¿êcej moœci moje us³ugi.
+wychodzi
+
+
+HAMLET
+Uni¿ony, uni¿ony. Dobrze czyni, ¿e siê sam poleca, ¿aden ludzki jêzyk nie czyni³by tego.
+
+
+HORACY
+Ta czajka lata z skorup¹ od jaja na g³owie.
+
+
+HAMLET
+On komplementy stroi³ ju¿ do cycka, nim go ssaæ go zacz¹³. Jest to jedna z baniek tego wietrznego œwiata, wydêta tchnieniem mody i przybrana w konwencyjn¹ szatê; rodzaj szumowiny ró¿norodnych pierwiastków, ³udz¹cej oczy zarówno najciemniejszej, jak najœwiatlejszej opinii; ale dmuchnij tylko, natychmiast pryœnie b¹bel.
+
+Wchodzi Dworzanin.
+
+
+DWORZANIN
+Moœci ksi¹¿ê, jego królewska moœæ przes³a³ waszej ksi¹¿êcej wysokoœci pozdrowienie przez Ozryka, który wróciwszy oznajmi³ mu, ¿e ksi¹¿ê czekasz na niego w tej sali. Przysy³a on mnie teraz z zapytaniem, czy wasza ksi¹¿êca moœæ trwasz w chêci fechtowania siê z Laertesem, czyli te¿ ¿¹dasz zw³oki.
+
+
+HAMLET
+Sta³y jestem w mych postanowieniach, a te s¹ zgodne z ¿yczeniami króla. Jeœli on gotów, moja gotowoœæ nie zostanie w tyle, tak teraz, jak kiedykolwiek, pod warunkiem, ¿e zawsze bêdê do tego równie sposobny jak teraz.
+
+
+DWORZANIN
+Król i królowa, i wszyscy inni nadejd¹ tu niebawem.
+
+
+HAMLET
+W stosown¹ porê.
+
+
+DWORZANIN
+Królowa ¿yczy sobie, abyœ, ksi¹¿ê, przemówi³ kilka uprzejmych s³ów do Laertesa, nim siê z nim spotkasz.
+
+
+HAMLET
+Dobrze mi radzi.
+
+
+Dworzanin wychodzi.
+
+
+HORACY
+Przegrasz ten zak³ad, ksi¹¿ê.
+
+
+HAMLET
+Nie s¹dzê; od czasu jego wyjazdu do Francji nie przestawa³em siê æwiczyæ; wygram przy korzystnych warunkach. Nie uwierzysz jednak, jak mi coœ ciê¿ko na sercu; ale to nic.
+
+
+HORACY
+Drogi ksi¹¿ê.
+
+
+HAMLET
+To dzieciñstwo; jakiœ rodzaj przeczucia, które by mog³o zastraszyæ kobietê.
+
+
+HORACY
+Je¿eli dusza twoja, panie, czuje wstrêt jakowy, b¹dŸ jej pos³uszny. Pójdê ich wstrzymaæ od przybycia tu; powiem, ¿e siê, ksi¹¿ê, nie czujesz usposobiony.
+
+
+HAMLET
+Daj pokój; drwiê z wró¿b. Lichy nawet wróbel nie padnie bez szczególnego dopuszczenia Opatrznoœci. Je¿eli siê to stanie teraz, nie stanie siê póŸniej, je¿eli siê póŸniej nie stanie, stanie siê teraz; je¿eli nie teraz, to musi siê staæ póŸniej; wszystko polega na tym, ¿eby byæ w pogotowiu, poniewa¿ nikt nie wie, co ma utraciæ, có¿ szkodzi, ¿e coœ wczeœniej utraci?
+
+
+Król, Królowa, Laertes, dworzanie i s³udzy z floretami i inne osoby wchodz¹ na scenê.
+
+
+KRÓL
+Synu Hamlecie, weŸ tê d³oñ z r¹k moich.
+³¹czy rêkê Laertesa z rêk¹ Hamleta
+
+
+HAMLET
+Przebacz mi, waæpan, krzywdê-m ci wyrz¹dzi³;
+Lecz przebacz jako honorowy cz³owiek.
+Wszyscy tu wiedz¹ i pan sam wiesz pewnie,
+Jak ciê¿ka trapi miê niemoc umys³u,
+Oœwiadczam przeto, i¿ to, com uczyni³
+W grubiañski sposób ubli¿aj¹cego
+Twojemu sercu, czci twej lub stopniowi,
+Nie by³o niczym innym jak szaleñstwem.
+Czyli¿ to Hamlet skrzywdzi³ Laertesa?
+Nie; Hamlet bowiem nie by³ samym sob¹.
+Skoro wiêc Hamlet nie sam by³ krzywdz¹cym,
+Wiêc Hamlet temu nic nie winien; Hamlet
+Zaprzecza temu. Któ¿ wiêc temu winien?
+Jego szaleñstwo. W takim razie Hamlet
+Sam raczej tak¿e zosta³ pokrzywdzony;
+Szaleñstwo jego by³o jego wrogiem.
+Oby to moje wyparcie siê jawne
+Wszelkiej z³ej wzglêdem waæpana intencji
+Mog³o miê w jego szlachetnym uznaniu
+Tak uniewinniæ, jak gdybym by³ na wiatr
+Wypuœci³ strza³ê, która poza domem
+Trafi³a brata mojego.
+
+
+LAERTES
+Doœæ na tym
+Mojemu sercu, które by miê by³o
+W tym razie g³ównie sk³ania³o do zemsty;
+Wszak¿e stosuj¹c siê do praw honoru,
+Muszê siê z dala mieæ od pojednania,
+Dopóki starsi mê¿owie, uznanej
+W rzeczach honoru powagi,
+Nie upowa¿ni¹ miê do tego kroku
+I nie wyrzekn¹, ¿e s³awy mej ¿adna
+Nie kazi plama. Tymczasem atoli
+Przyjmujê, panie, ofiarê twych uczuæ
+Jako prawdziw¹ i uw³aczaæ onej
+Nie myœlê.
+
+
+HAMLET
+Z serca dziêkujê waæpanu.
+Swobodnie mogê teraz ten braterski
+Zak³ad rozegraæ. Podajcie mi floret.
+
+
+LAERTES
+Podajcie i mnie tak¿e.
+
+
+HAMLET
+Laertesie,
+Bieg³oœæ twa wobec mojego fuszerstwa
+Jak gwiazda b³yszczeæ bêdzie wpoœród nocy.
+
+
+LAERTES
+¯artujesz ze mnie, ksi¹¿ê.
+
+
+HAMLET
+Nie, na honor.
+
+
+KRÓL
+Podaj im, Ozryk, florety. Hamlecie,
+Znasz ju¿ warunki zak³adu?
+
+
+HAMLET
+Znam, panie.
+Wasza królewska moœæ zawarowa³eœ
+For s³abszej stronie.
+
+
+KRÓL
+Nie skutkiem obawy:
+Widzia³em dawniej was obu. Laertes
+Post¹pi³ odt¹d, dlatego for dajê.
+
+
+LAERTES
+Ten jest za ciê¿ki dla mnie, dajcie inny.
+
+
+HAMLET
+Ten mi do rêki. S¹-li to florety
+Równej d³ugoœci?
+
+
+OZRYK
+Równej, moœci ksi¹¿ê.
+
+
+KRÓL
+Postawcie kubki z winem tu na stole.
+Gdy Hamlet zada pierwszy cios lub drugi,
+Lub gdy zwyciêsko odparuje trzeci,
+Niech wtedy dzia³a zagrzmi¹ z wszystkich wa³ów;
+Król spe³ni toast za zdrowie Hamleta
+I w puchar jego wrzuci per³ê, dro¿sz¹
+Ni¿ te, co czterech z rzêdu duñskich królów
+Diadem zdobi³y. Przynieœcie puchary.
+Niech tr¹by kot³om, a kot³y armatom,
+Armaty niebu, a niebiosa ziemi
+Oznajmi¹ grzmi¹cym echem, ¿e król pije
+Na czeœæ Hamleta. Zaczynajcie teraz;
+A wy, sêdziowie, baczcie pilnym okiem.
+
+
+HAMLET
+Dalej wiêc!
+
+
+LAERTES
+Jestem w pogotowiu, panie.
+
+
+Sk³adaj¹ siê.
+
+
+HAMLET
+To raz.
+
+
+LAERTES
+Nie.
+
+
+HAMLET
+Niechaj sêdziowie rozstrzygn¹.
+
+
+OZRYK
+Dotkniêcie by³o jawne.
+
+
+LAERTES
+Dobrze; dalej!
+
+
+KRÓL
+Stójcie! Hej! wina! Ta per³a do ciebie
+Nale¿y, synu; pijê za twe zdrowie.
+Oddajcie puchar ksiêciu.
+
+
+Odg³os tr¹b i huk dzia³.
+
+
+HAMLET
+Poczekajcie:
+Niech siê za³atwiê pierwej z drugim pchniêciem.
+Dalej!
+
+Sk³adaj¹ siê.
+
+To drugi raz; có¿ waæpan na to?
+
+
+LAERTES
+Dotkn¹³eœ, moœci ksi¹¿ê; nie zaprzeczam.
+
+
+KRÓL
+Nasz syn wygrywa.
+
+
+KRÓLOWA
+On t³ustej kompleksji
+I tchu krótkiego. Hamlecie, masz chustkê.
+Obetrzyj sobie czo³o; matka pije
+Za powodzenie twoje.
+
+
+HAMLET
+Dobra matko.
+
+
+KRÓL
+Gertrudo, nie pij.
+
+
+KRÓLOWA
+Chcê piæ. Wybacz, panie.
+
+
+KRÓL
+na stronie
+Zatruty by³ ten kielich; ju¿ za póŸno.
+
+
+HAMLET
+Nie mogê teraz piæ, pani, za chwilê.
+
+
+KRÓLOWA
+Czekaj, obetrê ci twarz.
+
+
+LAERTES
+do Króla
+Teraz, panie,
+Ja go ugodzê.
+
+
+KRÓL
+Pow¹tpiewam o tym.
+
+
+LAERTES
+na stronie
+Lecz jest to niemal wbrew memu sumieniu.
+
+
+HAMLET
+No, Laertesie; ¿arty ze mnie stroisz.
+Proszê ciê, natrzyj z ca³¹ gwa³townoœci¹.
+Bo móg³bym myœleæ, ¿e miê masz za fryca.
+
+
+LAERTES
+Sam tego ¿¹dasz, ksi¹¿ê; dobrze zatem.
+
+
+Sk³adaj¹ siê.
+
+
+OZRYK
+Chybione z obu stron.
+
+
+LAERTES
+Pilnuj siê teraz.
+
+
+Laertes rani Hamleta; po czym w zapale przemieniaj¹ florety i Hamlet rani Laertesa.
+
+
+KRÓL
+Hola, rozdzielcie ich, zbyt siê zaparli.
+
+
+HAMLET
+Nie; jeszcze, jeszcze.
+
+
+Królowa pada.
+
+
+OZRYK
+Patrzcie, co siê dzieje
+Z królow¹.
+
+
+HORACY
+Z obu krew ciecze. O! panie,
+Tyœ ranny.
+
+
+OZRYK
+Jest-¿eœ ranny, Laertesie?
+
+
+LAERTES
+Jak bekas w w³asne z³owi³em siê sid³o;
+S³usznie ofiar¹ padam w³asnej zdrady.
+
+
+HAMLET
+Có¿ to królowej?
+
+
+KRÓL
+Omdla³a z przestrachu,
+Widz¹c ciê rannym.
+
+
+KRÓLOWA
+Nie, nie, ten to napój.
+Ten napój, drogi Hamlecie! ten napój...
+Jestem otruta.
+umiera
+
+
+HAMLET
+O pod³oœci! Hola!
+Pozamykajcie drzwi! Szukajcie zdrajcy!
+
+
+Laertes pada.
+
+
+LAERTES
+Oto tu le¿y. Zgubionyœ, Hamlecie.
+Nie uratuj¹-æ ¿adne leki œwiata;
+I pó³ godziny ¿ycia nie ma w tobie.
+Narzêdzie zdrajcy sam trzymasz w swym rêku.
+Nie przytêpione i zatrute. Wpad³em
+W ten sam dó³, którym wykopa³ pod tob¹.
+Ju¿ nie powstanê, królowa otruta;
+Nie mogê wiêcej mówiæ, król, król winien.
+
+
+HAMLET
+Wiêc i to ostrze zatrute? Trucizno,
+Dokoñcz swojego dzie³a.
+przebija Króla
+
+
+OZRYK I INNI
+Zdrada! Zdrada!
+
+
+KRÓL
+Ratujcie! to nic, nic, draœniêtym tylko.
+
+
+HAMLET
+Wszeteczny, zbójczy, przeklêty Duñczyku,
+Wys¹cz ten kielich. A co? jest w nim per³a?
+IdŸ w œlad za moj¹ matk¹.
+
+
+Król umiera.
+
+
+LAERTES
+Sprawiedliw¹
+Œmieræ poniós³; on to sam jad ten przyrz¹dza³.
+Przebaczmy sobie wzajem, cny Hamlecie,
+Niech duszy twojej nie ciê¿y œmieræ moja
+I mego ojca — ani twoja mojej!
+umiera
+
+
+HAMLET
+Niechaj ci nieba jej nie pamiêtaj¹!
+Zaraz za tob¹ pójdê. O Horacy!
+Umieram. ¯egnam ciê, matko nieszczêsna!
+Wam, co stoicie tu bladzi i dr¿¹cy,
+Tylko jak niemi widzowie tragedii,
+Móg³bym ja, gdybym mia³ czas, wiele rzeczy
+Powiedzieæ, ale œmieræ, ten srogi kapral,
+Stoi nade mn¹. Umieram, Horacy.
+Ty pozostajesz. Wyt³umacz m¹ sprawê
+Tym, co jej z bliska nie znaj¹.
+
+
+HORACY
+Nic z tego,
+Wiêcej mam w sobie krwi rzymskiej ni¿ duñskiej.
+Jeszcze tam trochê jest wina!
+
+
+HAMLET
+Cz³owieku,
+Jeœli masz serce, oddaj mi ten kielich!
+Oddaj, na Boga! Jak upoœledzone
+Imiê by po mnie pozosta³o, gdyby
+Ta tajemnica nie mia³a wyjœæ na jaw!
+O, mój Horacy! Jeœli kiedykolwiek
+W poczciwym sercu twoim mia³em miejsce,
+Wyrzecz siê jeszcze na chwilê zbawienia
+I ponieœ trudy oddychania d³u¿ej
+W zepsutej atmosferze tego œwiata
+Dla objaœnienia moich dziejów.
+
+Marsz w odleg³oœci i wystrza³y.
+
+Có¿ to
+Za zgie³k wojenny?
+
+
+OZRYK
+To m³ody Fortynbras,
+Wracaj¹c z polskiej wojny, daje salwy
+Angielskim pos³om.
+
+
+HAMLET
+¯egnam ciê, Horacy;
+Potêga jadu mroczy zmys³y moje.
+Ju¿ siê angielskich pos³ów nie doczekam!
+Lecz przepowiadam ci, ¿e wybór padnie
+Na Fortynbrasa. Za nim, konaj¹cy,
+G³os dajê; powiedz mu to i opowiedz,
+Co poprzedzi³o. Reszta jest milczeniem.
+umiera
+
+
+HORACY
+Pêk³o cne serce. Dobranoc, mój ksi¹¿ê;
+Niechaj ci do snu nuc¹ chóry niebian!
+
+Marsz za scen¹.
+
+Po co ten odg³os a¿ tu?
+
+
+Fortynbras i pos³owie angielscy z orszakiem swoim wchodz¹.
+
+
+FORTYNBRAS
+Niech zobaczê
+Na w³asne oczy!
+
+
+HORACY
+Có¿ to chcecie widzieæ?
+Chcecie-li ujrzeæ coœ nadzwyczajnego
+Lub ¿a³osnego nad wszelkie wyrazy,
+Przestañcie szukaæ dalej.
+
+
+FORTYNBRAS
+Czy zniszczenie
+Tron tu obra³o sobie? Dumna œmierci,
+Jakie¿ dziœ œwiêto w twym ciemnym królestwie.
+¯eœ tak morderczo za jednym zamachem,
+Tyle ksi¹¿êcych g³ów œciê³a!
+
+
+PIERWSZY POSE£
+Ten widok
+Zbyt jest okropny. SpóŸniony nasz przyjazd.
+G³uche s¹ uszy tego, który mia³ nam
+Daæ pos³uchanie, aby siê dowiedzieæ,
+¯e zadoœæ sta³o siê jego ¿¹daniu
+I ¿e Rozenkranc wespó³ z Gildensternem
+Straceni; któ¿ nam podziêkuje za to?
+
+
+HORACY
+Nie on zapewne, chocia¿by ku temu
+Mia³ odpowiednie warunki ¿ywota;
+Nigdy on bowiem ich œmierci nie pragn¹³.
+Lecz skoro po tych fatalnych wypadkach
+Wy z polskiej wojny, a wy z granic Anglii
+Tak bezpoœrednio przybywacie, ka¿cie-¿,
+Aby te zw³oki wysoko na marach
+Na widok by³y wystawione; mnie zaœ
+Pozwólcie i wszem wobec, i ka¿demu
+Nieœwiadomemu prawdy opowiedzieæ,
+Jak siê to sta³o. Przyjdzie wam us³yszeæ
+O czynach krwawych, wszetecznych, wyrodnych,
+O ch³ostach trafu, przypadkowych mordach,
+O œmierciach skutkiem zdrady lub przemocy,
+O mê¿obójczych planach, które spad³y
+Na wynalazcy g³owê. O tym wszystkim
+Ja wam daæ mogê wieœæ dok³adn¹.
+
+
+FORTYNBRAS
+Pilno
+Nam to us³yszeæ. Niechaj siê w tym celu
+Niezw³ocznie zbierze czo³o waszych mê¿ów.
+Co siê mnie tyczy, z boleœci¹ przyjmujê,
+Co mi przyjazny los zdarza; mam bowiem
+Do tego kraju z dawien dawna prawa,
+Które obecnie muszê poprzeæ.
+
+
+HORACY
+O tym
+Bêdê mia³ tak¿e coœ do powiedzenia,
+Zgodnie z ¿yczeniem tego, co ju¿ nigdy
+Nie wyda g³osu, ale pierwej muszê
+Wype³niæ tamto, aby ob³êd ludzki
+Wiêcej tymczasem klêsk i niefortunnych
+Przygód nie zrz¹dzi³.
+
+
+FORTYNBRAS
+Niech czterech dowódców
+Z³o¿y Hamleta, jako bohatera,
+Na wywy¿szeniu, niew¹tpliwie bowiem
+By³by by³ wzorem królów siê okaza³
+Do¿ywszy ber³a; a gdy orszak cia³o
+Jego nios¹cy postêpowaæ bêdzie,
+Niechaj muzyka i salwy rozg³oœnie,
+Czym by³, zaœwiadcz¹. Podnieœcie te zw³oki.
+Bo nie to miejsce, lecz pobojowisko
+Godne ogl¹daæ takie widowisko.
+Ka¿cie daæ ognia z dzia³.
+
+
+Marsz pogrzebowy. Wychodz¹ unosz¹c zw³oki, po czym huk dzia³ s³yszeæ siê daje.
+
+

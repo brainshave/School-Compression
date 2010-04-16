@@ -1,0 +1,6374 @@
+Kodowanie znaków w dokumencie: UTF-8.
+-----
+Publikacja zrealizowana w ramach projektu Wolne Lektury (http://wolnelektury.pl/). Reprodukcja cyfrowa wykonana przez
+Bibliotekê Narodow¹ z egzemplarza pochodz¹cego ze zbiorów BN. Ten utwór nie jest chroniony prawem autorskim i znajduje
+siê w domenie publicznej, co oznacza, ¿e mo¿esz go swobodnie wykorzystywaæ, publikowaæ i rozpowszechniaæ.
+
+Wersja lektury w opracowaniu merytorycznym i krytycznym (przypisy i motywy) dostêpna jest na stronie http://wolnelektury.pl/katalog/lektura/dziady-dziady-poema-dziady-czesc-iii.
+-----
+
+
+
+
+
+Adam Mickiewicz
+    
+Dziady. Poema
+
+Dziady, czêœæ III
+
+
+
+
+
+*Œwiêtej pamiêci*
+
+
+
+
+
+JANOWI SOBOLEWSKIEMU
+CYPRIANOWI DASZKIEWICZOWI
+FELIKSOWI KO£AKOWSKIEMU
+
+
+
+
+
+spó³uczniom, spó³wiêŸniom, spó³wygnañcom
+za mi³oœæ ku ojczyŸnie przeœladowanym,
+z têsknoty ku ojczyŸnie zmar³ym
+w Archangielsku, na Moskwie, w Petersburgu —
+narodowej sprawy mêczennikom
+
+
+
+poœwiêca Autor
+
+
+
+
+
+
+
+
+[PRZEDMOWA]
+
+Polska od pó³ wieku przedstawia widok z jednej strony tak ci¹g³ego, niezmordowanego i niezb³aganego okrucieñstwa tyranów, z drugiej tak nieograniczonego poœwiêcenia siê ludu i tak uporczywej wytrwa³oœci, jakich nie by³o przyk³adu od czasu przeœladowania chrzeœcijañstwa. Zdaje siê, ¿e królowie maj¹ przeczucie Herodowe o zjawieniu siê nowego œwiat³a na ziemi i o bliskim swoim upadku, a lud coraz mocniej wierzy w swoje odrodzenie siê i zmartwychwstanie.
+
+Dzieje mêczeñskiej Polski obejmuj¹ wiele pokoleñ i niezliczone mnóstwo ofiar; krwawe sceny tocz¹ siê po wszystkich stronach ziemi naszej i po obcych krajach. — Poema, które dziœ og³aszamy, zawiera kilka drobnych rysów tego ogromnego obrazu, kilka wypadków z czasu przeœladowania podniesionego przez Imperatora Aleksandra.
+
+Oko³o roku 1822 polityka Imperatora Aleksandra, przeciwna wszelkiej wolnoœci, zaczê³a siê wyjaœniaæ, gruntowaæ i pewny braæ kierunek. W ten czas podniesiono na ca³y ród polski przeœladowanie powszechne, które coraz stawa³o siê gwa³towniejsze i krwawsze. Wyst¹pi³ na scenê pamiêtny w naszych dziejach senator Nowosilcow. On pierwszy instynktow¹ i zwierzêc¹ nienawiœæ rz¹du rosyjskiego ku Polakom wyrozumowa³ jak zbawienn¹ i polityczn¹, wzi¹³ j¹ za podstawê swoich dzia³añ, a za cel po³o¿y³ zniszczenie polskiej narodowoœci. W ten czas ca³¹ przestrzeñ ziemi od Prosny a¿ do Dniepru i od Galicji do Ba³tyckiego morza zamkniêto i urz¹dzono jako ogromne wiêzienie. Ca³¹ administracj¹ nakrêcono jako jedn¹ wielk¹ Polaków torturê, której ko³o obracali carewicz Konstanty i senator Nowosilcow.
+
+Systematyczny Nowosilcow wzi¹³ naprzód na mêki dzieci i m³odzie¿, aby nadzieje przysz³ych pokoleñ w zarodzie samym wytêpiæ. Za³o¿y³ g³ówn¹ kwaterê katowstwa w Wilnie, w stolicy naukowej prowincji litewsko-ruskich. By³y wówczas miêdzy m³odzie¿¹ uniwersytetu ró¿ne towarzystwa literackie, maj¹ce na celu utrzymanie jêzyka i narodowoœci polskiej, Kongresem Wiedeñskim i przywilejami Imperatora zostawionej Polakom. Towarzystwa te, widz¹c wzmagaj¹ce siê podejrzenia rz¹du, rozwi¹za³y siê wprzód jeszcze, nim ukaz zabroni³ ich bytu. Ale Nowosilcow, chocia¿ w rok po rozwi¹zaniu siê towarzystw przyby³ do Wilna, uda³ przed Imperatorem, ¿e je znalaz³ dzia³aj¹ce; ich literackie zatrudnienia wystawi³ jako wyraŸny bunt przeciwko rz¹dowi, uwiêzi³ kilkaset m³odzie¿y i ustanowi³ pod swoim wp³ywem trybuna³y wojenne na s¹dzenie studentów. W tajemnej procedurze rosyjskiej oskar¿eni nie maj¹ sposobu bronienia siê, bo czêsto nie wiedz¹, o co ich powo³ano: bez zeznania nawet komisja wed³ug woli swojej jedne przyjmuje i w raporcie umieszcza, drugie uchyla. Nowosilcow, z w³adz¹ nieograniczon¹ od carewicza Konstantego zes³any, by³ oskar¿ycielem, sêdzi¹ i katem.
+
+Skasowa³ kilka szkó³ w Litwie, z nakazem, aby m³odzie¿ do nich uczêszczaj¹c¹ uwa¿ano za cywilnie umar³¹, aby jej do ¿adnych pos³ug obywatelskich, na ¿adne urzêdy nie przyjmowano i aby jej nie dozwolono ani w publicznych, ani w prywatnych zak³adach koñczyæ nauk. Taki ukaz, zabraniaj¹cy uczyæ siê, nie ma przyk³adu w dziejach i jest oryginalnym rosyjskim wymys³em. Obok zamknienia szkó³, skazano kilkudziesiêciu studentów do min sybirskich, do taczek, do garnizonów azjatyckich. W liczbie ich byli ma³oletni, nale¿¹cy do znakomitych rodzin litewskich. Dwudziestu kilku, ju¿ nauczycieli, ju¿ uczniów uniwersytetu, wys³ano na wieczne wygnanie w g³¹b Rosji jako podejrzanych o polsk¹ narodowoœæ. Z tylu wygnañców jednemu tylko dot¹d uda³o siê wydobyæ siê z Rosji.
+
+Wszyscy pisarze, którzy uczynili wzmiankê o przeœladowaniu ówczesnym Litwy, zgadzaj¹ siê na to, ¿e w sprawie uczniów wileñskich by³o coœ mistycznego i tajemniczego. Charakter mistyczny, ³agodny, ale niezachwiany Tomasza Zana, naczelnika m³odzie¿y, religijna rezygnacja, braterska zgoda i mi³oœæ m³odych wiêŸniów, kara bo¿a, siêgaj¹ca widomie przeœladowców, zostawi³y g³êbokie wra¿enie na umyœle tych, którzy byli œwiadkami lub uczestnikami zdarzeñ; a opisane zdaj¹ siê przenosiæ czytelników w czasy dawne, czasy wiary i cudów.
+
+Kto zna dobrze ówczesne wypadki, da œwiadectwo autorowi, ¿e sceny historyczne i charaktery osób dzia³aj¹cych skryœli³ sumiennie, nic nie dodaj¹c i nigdzie nie przesadzaj¹c. I po có¿ by mia³ dodawaæ albo przesadzaæ; czy dla o¿ywienia w sercu rodaków nienawiœci ku wrogom? czy dla obudzenia litoœci w Europie? — Czym¿e s¹ wszystkie ówczesne okrucieñstwa w porównaniu tego, co naród polski teraz cierpi i na co Europa teraz obojêtnie patrzy! Autor chcia³ tylko zachowaæ narodowi wiern¹ pami¹tkê z historii litewskiej lat kilkunastu: nie potrzebowa³ ohydzaæ rodakom wrogów, których znaj¹ od wieków; a do litoœciwych narodów europejskich, które p³aka³y nad Polsk¹ jak niedo³ê¿ne niewiasty Jeruzalemu nad Chrystusem, naród nasz przemawiaæ tylko bêdzie s³owami Zbawiciela: «Córki Jerozolimskie, nie p³aczcie nade mn¹, ale nad samymi sob¹».
+
+
+
+
+LITWA
+
+
+
+PROLOG
+    
+/ W Wilnie przy ulicy Ostrobramskiej, w klasztorze ks. ks. Bazylianów, przerobionym na wiêzienie stanu — cela wiêŸnia /
+
+
+
+
+
+
+
+
+
+A strze¿cie siê ludzi, albowiem was bêd¹ wydawaæ do siedz¹cej rady i w bo¿nicach swoich was biczowaæ bêd¹.
+
+Mat. R. X w. 17
+
+
+
+
+
+I do Starostów i do Królów bêdziecie wodzeni na œwiadectwo im i poganom.
+
+w. 18
+
+
+
+
+
+I bêdziecie w nienawiœci u wszystkich dla imienia mego. Ale kto wytrwa a¿ do koñca, ten bêdzie zbawion.
+
+w. 22
+    
+/ Wiêzieñ wsparty na oknie; œpi /
+
+
+ANIO£ STRÓ¯
+
+    Niedobre, nieczu³e dzieciê!
+    Ziemskie matki twej zas³ugi,
+    Proœby jej na tamtym œwiecie
+    Strzeg³y d³ugo wiek twój m³ody
+    Od pokusy i przygody:
+    Jako ró¿a, anio³ sadów,
+    We dnie kwitnie, w noc jej wonie
+    Broni¹ senne dziecka skronie
+    Od zarazy i owadów.
+
+    Nieraz ja na proœbê matki
+    I za pozwoleniem bo¿em
+    Zstêpowa³em do twej chatki,
+    Cichy, w cichej nocy cieniu:
+    Zstêpowa³em na promieniu
+    I stawa³em nad twym ³o¿em.
+
+    Gdy ciê noc uko³ysa³a,
+    Ja nad marzeniem namiêtnym
+    Sta³em jak lilija bia³a,
+    Schylona nad Ÿród³em mêtnym.
+    Nieraz dusza mnie twa zbrzyd³a,
+    Alem w z³ych myœli nacisku
+    Szuka³ dobrej, jak w mrowisku
+    Szukaj¹ ziarnek kadzid³a.
+
+    Ledwie dobra myœl zaœwieci,
+    Bra³em duszê tw¹ za rêkê,
+    Wiod³em w kraj, gdzie wiecznoœæ œwieci,
+    I œpiewa³em jej piosenkê,
+    Któr¹ rzadko ziemskie dzieci
+    S³ysz¹, rzadko i w uœpieniu,
+    A zapomn¹ w odecknieniu.
+    Jam ci przysz³e szczêœcie g³osi³,
+    Na mych rêkach w niebo nosi³,
+    A tyœ s³ysza³ niebios dŸwiêki
+    Jako pjanych uczt piosenki.
+
+    Ja, syn chwa³y nieœmiertelnej,
+    Przybiera³em wtenczas postaæ
+    Obrzyd³ej larwy piekielnej,
+    By ciê straszyæ, by ciê ch³ostaæ;
+    Tyœ przyjmowa³ ch³ostê Boga
+    Jak dziki mêczarnie wroga.
+    I dusza twa w niepokoju,
+    Ale z dum¹ siê budzi³a,
+    Jakby w niepamiêci zdroju
+    Przez noc ca³¹ mêty pi³a.
+    I pami¹tki wy¿szych œwiatów
+    W g³¹b ci¹gn¹³eœ, jak kaskada,
+    Gdy w podziemn¹ przepaœæ wpada,
+    Ci¹gnie liœcie drzew i kwiatów.
+
+    Natenczas gorzko p³aka³em,
+    Oblicze tul¹c w me d³onie;
+    Chcia³em i d³ugo nie œmia³em
+    Ku niebieskiej wracaæ stronie,
+    Bym nie spotka³ twojej matki;
+    Spyta siê: «Jaka nowina
+    Z kuli ziemskiej, z mojej chatki,
+    Jaki sen by³ mego syna?»
+
+
+WIÊZIEÑ
+    
+/ budzi siê strudzony i patrzy w okno — ranek /
+
+Nocy cicha, gdy wschodzisz, kto ciebie zapyta,
+Sk¹d przychodzisz; gdy gwiazdy przed sob¹ rozsiejesz,
+Kto z tych gwiazd tajnie przysz³ej drogi twej wyczyta!
+«Zasz³o s³oñce», wo³aj¹ astronomy z wie¿y,
+Ale dlaczego zasz³o, nikt nie odpowiada;
+Ciemnoœci kryj¹ ziemiê i lud we œnie le¿y,
+Lecz dlaczego œpi¹ ludzie, ¿aden z nich nie bada.
+Przebudz¹ siê bez czucia, jak bez czucia spali —
+Nie dziwi s³oñca dziwna, lecz codzienna g³owa;
+Zmienia siê blask i ciemnoœæ jako stra¿ pu³kowa;
+Ale gdzie¿ s¹ wodzowie, co jej rozkazali?
+
+A sen? — ach, ten œwiat cichy, g³uchy, tajemniczy,
+¯ycie duszy, czy¿ nie jest warte badañ ludzi!
+Któ¿ jego miejsce zmierzy, kto jego czas zliczy!
+Trwo¿y siê cz³owiek œpi¹cy — œmieje siê, gdy zbudzi.
+Mêdrcy mówi¹, ¿e sen jest tylko przypomnienie —
+    Mêdrcy przeklêci!
+
+Czy¿ nie umiem rozró¿niæ marzeñ od pamiêci?
+Chyba mnie wmówi¹, ¿e moje wiêzienie
+    Jest tylko wspomnienie.
+Mówi¹, ¿e senne czucie rozkoszy i kaŸni
+    Jest tylko gr¹ wyobraŸni; —
+G³upi! zaledwie z wieœci wyobraŸni¹ znaj¹
+    I nam wieszczom o niej baj¹!
+Bywa³em w niej, zmierzy³em lepiej jej przestrzenie
+I wiem, ¿e le¿y za jej granic¹ — marzenie.
+Prêdzej dzieñ bêdzie noc¹, rozkosz bêdzie kaŸni¹,
+Ni¿ sen bêdzie pamiêci¹, mara wyobraŸni¹.
+    
+/ k³adzie siê i wstaje znowu — idzie do okna /
+
+Nie mogê spocz¹æ, te sny, to strasz¹, to ³udz¹:
+    Jak te sny miê trudz¹!
+    
+/ drzemie /
+
+
+DUCHY NOCNE
+
+Puch czarny, puch miêkki pod g³owê pod³ó¿my,
+Œpiewajmy, a cicho — nie trwó¿my, nie trwó¿my.
+
+
+DUCH Z LEWEJ STRONY
+
+Noc smutna w wiêzieniu, tam w mieœcie wesele,
+    U sto³ów tam muzyki hucz¹;
+Przy pe³nych kielichach œpiewaj¹ minstrele,
+    Tam noc¹ komety siê w³ócz¹:
+Komety z oczkami i z jasnym warkoczem.
+    
+/ Wiêzieñ usypia /
+
+    Kto po nich kieruje ³ódŸ w biegu,
+Ten zaœnie na fali, w marzeniu uroczem,
+    Na naszym przebudzi siê brzegu.
+
+
+ANIO£
+
+    My uprosiliœmy Boga,
+    By ciê odda³ w rêce wroga.
+    Samotnoœæ mêdrców mistrzyni.
+    I ty w samotnym wiêzieniu,
+    Jako prorok na pustyni,
+    Dumaj o twym przeznaczeniu;
+
+
+CHÓR DUCHÓW NOCNYCH
+
+W dzieñ Bóg nam dokucza, lecz w nocy wesele,
+  W noc póŸn¹ pró¿niaki siê tucz¹,
+I w nocy swobodniej œpiewaj¹ minstrele,
+  Szatany piosenek ich ucz¹.
+
+Kto rann¹ myœl œwiêt¹ przyniesie z koœcio³a,
+  Kto rozmów poczciwych smak czuje,
+Noc-pjawka wyci¹gnie pobo¿n¹ myœl z czo³a,
+  Noc-w¹¿ w ustach smaki zatruje.
+
+Œpiewajmy nad sennym, my, nocy synowie,
+  Us³u¿my, a¿ bêdzie nam s³ug¹.
+Wpadnijmy mu w serce, biegajmy po g³owie,
+  Nasz bêdzie — ach, gdyby spa³ d³ugo!
+
+
+ANIO£
+
+Modlono siê za tob¹ na ziemi i w niebie,
+Wkrótce musz¹ tyrani na œwiat puœciæ ciebie.
+
+
+WIÊZIEÑ
+    
+/ budzi siê i myœli /
+
+Ty, co bliŸnich katujesz, wiêzisz i wyrzynasz,
+I uœmiechasz siê we dnie, i w wieczór ucztujesz;
+Czy ty z rana choæ jeden sen twój przypominasz,
+A jeœliœ go przypomnia³, czy ty go pojmujesz?
+    
+/ drzemie /
+
+
+ANIO£
+
+Ty bêdziesz znowu wolny, my oznajmiæ przyszli.
+
+
+WIÊZIEÑ
+    
+/ budzi siê /
+
+Bêdê wolny? — pamiêtam, ktoœ mi wczora prawi³;
+Nie, sk¹d¿e to, czy we œnie? czy Bóg mi objawi³?
+    
+/ zasypia /
+
+
+ANIO£OWIE
+
+    Pilnujmy tylko, ach, pilnujmy myœli,
+    Miêdzy myœlami bitwa ju¿ stoczona.
+
+
+DUCHY Z LEWEJ STRONY
+
+Podwójmy napaœæ.
+
+
+DUCHY Z PRAWEJ
+
+                        My podwójmy stra¿e.
+    Czy z³a myœl wygra, czy dobra pokona,
+    Jutro siê w mowach i w dzie³ach poka¿e;
+    I jedna chwila tej bitwy wyrzeka
+    Na ca³e ¿ycie o losach cz³owieka.
+
+
+WIÊZIEÑ
+
+Mam byæ wolny — tak! nie wiem, sk¹d przysz³a nowina,
+Lecz ja znam, co byæ wolnym z ³aski Moskwicina.
+£otry zdejm¹ mi tylko z r¹k i nóg kajdany,
+Ale wt³ocz¹ na duszê — ja bêdê wygnany!
+B³¹kaæ siê w cudzoziemców, w nieprzyjació³ t³umie,
+Ja œpiewak, — i nikt z mojej pieœni nie zrozumie
+Nic — oprócz niekszta³tnego i marnego dŸwiêku.
+£otry, tej jednej broni z r¹k mi nie wydar³y,
+Ale mi j¹ zepsuto, prze³amano w rêku;
+¯ywy, zostanê dla mej ojczyzny umar³y,
+I myœl legnie zamkniêta w duszy mojej cieniu,
+Jako dyjament w brudnym zawarty kamieniu.
+    
+/ wstaje i pisze wêglem z jednej strony: /
+
+
+D. O. M.
+
+GUSTAVUS
+OBIIT M. D. CCC. XXIII
+CALENDIS NOVEMBRIS
+    
+/ z drugiej strony: /
+
+
+HIC NATUS EST
+CONRADUS M. D. CCC. XXIII
+CALENDIS NOVEMBRIS
+    
+/ wspiera siê na oknie — usypia /
+
+
+DUCH
+
+Cz³owieku! gdybyœ wiedzia³, jaka twoja w³adza!
+Kiedy myœl w twojej g³owie, jako iskra w chmurze,
+Zab³yœnie niewidzialna, ob³oki zgromadza,
+I tworzy deszcz rodzajny lub gromy i burze;
+Gdybyœ wiedzia³, ¿e ledwie jedn¹ myœl rozniecisz,
+Ju¿ czekaj¹ w milczeniu, jak gromu ¿ywio³y,
+Tak czekaj¹ twej myœli — szatan i anio³y:
+Czy ty w piek³o uderzysz, czy w niebo zaœwiecisz;
+A ty jak ob³ok górny, ale b³êdny, pa³asz
+I sam nie wiesz, gdzie lecisz, sam nie wiesz, co zdzia³asz.
+Ludzie! ka¿dy z was móg³by, samotny, wiêziony,
+Myœl¹ i wiar¹ zwalaæ i podŸwigaæ trony.
+
+
+
+
+AKT I
+
+
+
+SCENA I
+    
+/ Korytarz — stra¿ z karabinami stoi opodal — kilku wiêŸniów m³odych ze œwiecami wychodz¹ z cel swoich — pó³noc /
+
+
+JAKUB
+
+Czy mo¿na? — obaczym siê?
+
+
+ADOLF
+
+                        Stra¿ gorza³kê pije:
+Kapral nasz.
+
+
+JAKUB
+
+                        Która bi³a?
+
+
+ADOLF
+
+                        Pó³noc niedaleko:
+
+
+JAKUB
+
+Ale jak nas runt z³owi, kaprala zasieka.
+
+
+ADOLF
+
+Tylko zgaœ œwiecê; — widzisz — ogieñ w okna bije.
+    
+/ gasz¹ œwiecê /
+
+Runt dzieciñstwo! runt musi do wrót d³ugo pukaæ,
+Daæ has³o i odebraæ, musi kluczów szukaæ: —
+Potem — d³ugi korytarz, — nim nas runt zacapi,
+Rozbie¿ym siê, drzwi zamkn¹, ka¿dy pad³ i chrapi.
+    
+/ Inni wiêŸniowie, wywo³ani z celi, wychodz¹ /
+
+
+¯EGOTA
+
+Dobry wieczór.
+
+
+KONRAD
+
+                        I ty tu!
+
+
+KS. LWOWICZ
+
+                        I wy tu?
+
+
+SOBOLEWSKI
+
+                        I ja tu.
+
+
+FREJEND
+
+A wiecie co, ¯egoto, idziem do twej celi,
+Œwie¿y wiêzieñ dziœ wst¹pi³ do nowicyjatu,
+I ma komin; tam dobry ogieñ bêdziem mieli,
+A przy tym nowoœæ, — dobrze widzieæ nowe œciany.
+
+
+SOBOLEWSKI
+
+¯egoto! a, jak siê masz; — i ty tu, kochany!
+
+
+¯EGOTA
+
+U mnie cela trzy kroki; was taka gromada.
+
+
+FREJEND
+
+Wiecie co, pójdŸmy lepiej do celi Konrada.
+Najdalsza jest, przytyka do muru koœcio³a;
+Nie s³ychaæ stamt¹d, choæ kto œpiewa albo wo³a.
+Myœlê dziœ g³oœno gadaæ i chcê œpiewaæ wiele;
+W mieœcie pomyœl¹, ¿e to œpiewaj¹ w koœciele.
+Jutro jest Narodzenie Bo¿e. — Eh — koledzy,
+Mam i kilka butelek.
+
+
+JAKUB
+
+                        Bez kaprala wiedzy?
+
+
+FREJEND
+
+Kapral poczciwy, i sam z butelek skorzysta,
+Przy tym jest Polak, dawny nasz legijonista,
+Którego car przerobi³ gwa³tem na Moskala.
+Kapral dobry katolik, i wiêŸniom pozwala
+Przepêdziæ wieczór œwiêtej Wigiliji razem.
+
+
+JAKUB
+
+Gdyby siê dowiedzieli, nie usz³oby p³azem.
+    
+/ Wchodz¹ do celi Konrada, nak³adaj¹ ogieñ w kominie i zapalaj¹ œwiecê. — Cela Konrada jak w Prologu /
+
+
+KS. LWOWICZ
+
+I sk¹d¿e siê tu wzi¹³eœ, ¯egoto kochany?
+Kiedy?
+
+
+¯EGOTA
+
+                        Dziœ miê porwali z domu, ze stodo³y.
+
+
+KS. LWOWICZ
+
+I ty by³eœ gospodarz?
+
+
+¯EGOTA
+
+                        Jaki! zawo³any.
+¯ebyœ ty widzia³ moje merynosy, wo³y!
+Ja, co pierwej nie zna³em, co owies, co s³oma,
+Mam s³awê najlepszego w Litwie ekonoma.
+
+
+JAKUB
+
+Wziêto ciê niespodzianie?
+
+
+¯EGOTA
+
+                        Od dawna s³ysza³em
+O jakimœ w Wilnie œledztwie; dom mój blisko drogi.
+Widaæ by³o kibitki lataj¹ce czwa³em
+I co noc nas przera¿a³ poczty dŸwiêk z³owrogi.
+Nieraz gdyœmy wieczorem do sto³u zasiedli
+I ktoœ ¿artem uderzy³ w szklankê no¿a trzonkiem,
+Dr¿a³y kobiety nasze, staruszkowie bledli,
+Myœl¹c, ¿e ju¿ zaje¿d¿a feldjeger ze dzwonkiem.
+Lecz nie wiedzia³em, kogo szukaj¹ i za co,
+Nie nale¿a³em dot¹d do ¿adnego spisku.
+S¹dzê, ¿e rz¹d to œledztwo wynalaz³ dla zysku,
+¯e siê wiêŸniowie nasi porz¹dnie op³ac¹
+I powróc¹ do domu.
+
+
+TOMASZ
+
+                        Tak¹ masz nadziejê?
+
+
+¯EGOTA
+
+Ju¿ci przecie¿ bez winy w Sybir nas nie wyœl¹;
+A jak¹¿ winê nasz¹ znajd¹ lub wymyœl¹?
+Milczycie, — wyt³umaczcie¿, co siê tutaj dzieje,
+O co nas oskar¿ono, jaki powód sprawy?
+
+
+TOMASZ
+
+Powód — ¿e Nowosilcow przyby³ tu z Warszawy.
+Znasz zapewne charakter pana Senatora.
+Wiesz, ¿e ju¿ by³ w nie³asce u imperatora,
+¯e zysk dawniejszych ³upiestw przepi³ i roztrwoni³,
+Straci³ u kupców kredyt i ostatkiem goni³.
+Bo pomimo najwiêkszych starañ i zabiegów
+Nie mo¿e w Polsce spisku ¿adnego wyœledziæ;
+Wiêc postanowi³ œwie¿y kraj, Litwê, nawiedziæ,
+I tu przeniós³ siê z ca³ym g³ównym sztabem szpiegów.
+¯eby zaœ móg³ bezkarnie po Litwie pl¹drowaæ
+I na nowo siê w ³askê samodzier¿cy wkrêciæ,
+Musi z towarzystw naszych wielk¹ rzecz wysnuwaæ
+I nowych wiele ofiar carowi poœwiêciæ.
+
+
+¯EGOTA
+
+Lecz my siê uniewinnim —
+
+
+TOMASZ
+
+                        Broniæ siê daremnie —
+I œledztwo, i s¹d ca³y toczy siê tajemnie;
+Nikomu nie powiedz¹, za co oskar¿ony,
+Ten, co nas skar¿y, naszej ma s³uchaæ obrony;
+On gwa³tem chce nas karaæ — nie unikniem kary.
+Zosta³ nam jeszcze œrodek smutny — lecz jedyny:
+Kilku z nas poœwiêcimy wrogom na ofiary,
+I ci na siebie musz¹ przyj¹æ wszystkich winy.
+Ja sta³em na waszego towarzystwa czele,
+Mam obowi¹zek cierpieæ za was, przyjaciele;
+Dodajcie mi wybranych jeszcze kilku braci,
+Z takich, co s¹ sieroty, starsi, nie¿onaci,
+Których zguba niewiele serc w Litwie zakrwawi,
+A m³odszych, potrzebniejszych z r¹k wroga wybawi.
+
+
+¯EGOTA
+
+Wiêc a¿ do tego przysz³o?
+
+
+JAKUB
+
+                        Patrz, jak siê zasmuci³.
+Nie wiedzia³, ¿e dom mo¿e na zawsze porzuci³.
+
+
+FREJEND
+
+Nasz Jacek musia³ ¿onê zostawiæ w po³ogu,
+A nie p³acze —
+
+
+FELIKS KO£AKOWSKI
+
+                        Ma p³akaæ? owszem — chwa³a Bogu.
+Jeœli powije syna, przysz³oœæ mu wywieszczê —
+Daj mi no rêkê — jestem trochê chiromanta,
+Wywró¿ê tobie przysz³oœæ twojego infanta.
+    
+/ patrz¹c na rêkê /
+
+Jeœli bêdzie poczciwy, pod moskiewskim rz¹dem
+Spotka siê niezawodnie z kibitk¹ i s¹dem;
+A kto wie, mo¿e wszystkich nas znajdzie tu jeszcze —
+Lubiê synów, to nasi przyszli towarzysze.
+
+
+¯EGOTA
+
+Wy tu d³ugo siedzicie?
+
+
+FREJEND
+
+                        Sk¹d¿e datê wiedzieæ?
+Kalendarza nie mamy, nikt listów nie pisze;
+To gorsza, ¿e nie wiemy, póki mamy siedzieæ.
+
+
+SUZIN
+
+Ja mam u okna parê drewnianych firanek
+I nie wiem nawet, kiedy mrok, a kiedy ranek.
+
+
+FREJEND
+
+Ale pytaj Tomasza, patryjarchê biedy;
+Najwiêkszy szczupak, on te¿ pierwszy wpad³ do matni;
+On nas tu wszystkich przyj¹³ i wyjdzie ostatni,
+Wie o wszystkich, kto przyby³, sk¹d przyby³ i kiedy.
+
+
+SUZIN
+
+To pan Tomasz! ja poznaæ nie mog³em Tomasza;
+Daj mi rêkê, zna³eœ miê krótko i niewiele:
+Wtenczas tak by³a droga wszystkim przyjaŸñ wasza
+Otaczali was liczni, bli¿si przyjaciele;
+Nie dojrza³eœ miê w t³umie, lecz ja ciebie zna³em,
+Wiem, coœ zrobi³, coœ cierpia³, ¿ebyœ nas ocali³; —
+Odt¹d bêdê siê z twojej znajomoœci chwali³,
+I w dzieñ zgonu przypomnê — z Tomaszem p³aka³em.
+
+
+FREJEND
+
+Ale dla Boga, po co te ³zy, p³acze, zgroza.
+Patrz — Tomasz, gdy by³ wolny, mia³ na swoim czole
+Wypisano wielkimi literami: «koza».
+Dziœ w wiêzieniu jak w domu, jak w swoim ¿ywiole.
+On by³ na œwiecie jako grzyby kryptogamy,
+Wiêdnia³ i schn¹³ od s³oñca; — wsadzony do lochu,
+Kiedy my, s³oneczniki, bledniejem, zdychamy,
+On rozwija siê, kwitnie i tyje po trochu.
+Ale te¿ wzi¹³ pan Tomasz kuracyj¹ modn¹,
+S³awn¹ teraz na œwiecie kuracyj¹ g³odn¹.
+
+
+¯EGOTA
+    
+/ do Tomasza /
+
+G³odem ciebie morzono?
+
+
+FREJEND
+
+                        Dodawano strawy;
+Ale gdybyœ j¹ widzia³, — widok to ciekawy!
+Doœæ by³o tak¹ straw¹ w pokoju zakadziæ,
+A¿eby myszy wytruæ i œwierszcze wyg³adziæ.
+
+
+¯EGOTA
+
+I jak¿e ty jeœæ mog³eœ!
+
+
+TOMASZ
+
+                        Tydzieñ nic nie jad³em,
+Potem jeœæ próbowa³em, potem z si³ opad³em;
+Potem jak po truciŸnie czu³em bole, k³ucia,
+Potem kilka tygodni le¿a³em bez czucia.
+Nie wiem, ile i jakiem choroby przebywa³,
+Bo nie by³o doktora, co by je nazywa³.
+Wreszcie jam wsta³ jad³ znowu i do si³ przychodzi³,
+I zdaje mi siê, ¿em siê do tej strawy zrodzi³.
+
+
+FREJEND
+    
+/ z wymuszon¹ weso³oœci¹ /
+
+Wierzcie mi, tam za koz¹ same urojenia;
+Kto tu by³, sekret kuchni i mieszkañ przenikn¹³:
+Jeœæ, mieszkaæ, Ÿle czy dobrze — skutek przywyknienia.
+Pyta³ raz Litwin, nie wiem, diab³a czy Piñczuka:
+«Dlaczego siedzisz w b³ocie?» — «Siedzê, bom przywykn¹³».
+
+
+JAKUB
+
+Ale¿ przywykn¹æ, bracie!
+
+
+FREJEND
+
+                        Na tym ca³a sztuka:
+
+
+JAKUB
+
+Ja tu siedzê podobno od oœmiu miesiêcy,
+A tak têskniê jak pierwej, nie mniej —
+
+
+FREJEND
+
+                        I nie wiêcéj?
+Pan Tomasz tak przywykn¹³, ¿e mu powiew zdrowy
+Zaraz piersi obci¹¿a, robi zawrót g³owy.
+On odwykn¹³ oddychaæ, nie wychodzi z celi —
+Jeœli go st¹d wypêdz¹, koza siê op³aci:
+Bo on potem ni grosza na wino nie straci,
+Tylko ³yknie powietrza i wnet siê podchmieli.
+
+
+TOMASZ
+
+Wola³bym byæ pod ziemi¹, w g³odzie i chorobie,
+Znosiæ kije i gorsze niŸli kije — œledztwo,
+Ni¿ tu, w lepszym wiêzieniu, mieæ was za s¹siedztwo. —
+£otry! wszystkich nas w jednym chc¹ zakopaæ grobie.
+
+
+FREJEND
+
+Jak to? wiêc p³aczesz po nas — masz kogo ¿a³owaæ.
+Czy nie mnie? pytam, jaka korzyœæ z mego ¿ycia?
+Jeszcze w wojnie — mam jakiœ talencik do bicia,
+I móg³bym kilku doñcom grzbiety naszpikowaæ.
+Ale w pokoju — có¿ st¹d, ¿e lat sto prze¿yjê
+I bêdê kl¹³ Moskalów, i umrê — i zgnijê.
+Na wolnoœci wiek ca³y by³bym mizerakiem,
+Jak proch, albo jak wino miernego gatunku; —
+Dziœ, gdy wino zatkniêto, proch przybito k³akiem,
+W kozie mam ca³¹ wartoœæ butli i ³adunku.
+Wytchn¹³bym siê jak wino z otwartej konewki;
+Spali³bym jak proch lekko z otwartej panewki.
+Lecz jeœli miê w ³añcuchach st¹d na Sybir wyœl¹,
+Obacz¹ miê Litwini bracia i pomyœl¹:
+Wszakci to krew szlachecka, to m³ódŸ nasza ginie,
+Poczekaj, zbójco caru, czekaj, Moskwicinie!—
+Taki jak ja, Tomaszu, da³by siê powiesiæ,
+¯ebyœ ty jednê chwilê ¿y³ na œwiecie d³u¿éj:
+Taki jak ja — ojczyŸnie tylko œmierci¹ s³u¿y;
+Umar³bym dziesiêæ razy, byle ciê raz wskrzesiæ, —
+Ciebie, lub ponurego poetê Konrada,
+Który nam o przysz³oœci, jak Cygan, powiada. —
+    
+/ do Konrada /
+
+Wierzê, bo Tomasz mówi³, ¿eœ ty œpiewak wielki,
+Kocham ciê, boœ podobny tak¿e do butelki:
+Rozlewasz pieœñ, uczuciem, zapa³em oddychasz,
+Pijem, czujem, a ciebie ubywa — usychasz.
+    
+/ bierze za rêkê Konrada i ³zy sobie ociera /
+    
+/ do Tomasza i Konrada /
+
+Wy wiecie, ¿e was kocham, ale mo¿na kochaæ,
+Nie p³akaæ. Otó¿, bracia, osuszcie ³zy wasze; —
+Bo jak siê raz rozczulê i jak zacznê szlochaæ,
+I herbaty nie zrobiê, i ogieñ zagaszê.
+    
+/ robi herbatê /
+    
+/ Chwila milczenia /
+
+
+KS. LWOWICZ
+
+Prawda, Ÿle przyjmujemy nowego przybysza;
+    
+/ pokazuj¹c ¯egotê /
+
+W Litwie z³y to znak p³akaæ we dniu inkrutowin —
+Czy nie dosyæ w dzieñ milczym! — he? — jak d³uga cisza.
+
+
+JAKUB
+
+Czy nie ma nowin z miasta?
+
+
+WSZYSCY
+
+                        Nowin?
+
+
+KS. LWOWICZ
+
+                        ¯adnych nowin?
+
+
+ADOLF
+
+Jan dziœ chodzi³ na œledztwo, by³ godzinê w mieœcie,
+Ale milczy i smutny; — i jak widaæ z miny,
+Nie ma ochoty gadaæ.
+
+
+KILKU Z WIÊNIÓW
+
+                        No, Janie! Nowiny?
+
+
+JAN SOBOLEWSKI
+    
+/ ponuro /
+
+Niedobre — dziœ— na Sybir — kibitek dwadzieœcie
+WywieŸli.
+
+
+¯EGOTA
+
+                        Kogo? — naszych?
+
+
+JAN
+
+                        Studentów ze ¯mudzi.
+
+
+WSZYSCY
+
+Na Sybir?
+
+
+JAN
+
+                        I paradnie! — by³o mnóstwo ludzi.
+
+
+KILKU
+
+WywieŸli
+
+
+JAN
+
+                        Sam widzia³em.
+
+
+JACEK
+
+                        Widzia³eœ! — i mego
+Brata wywieŸli? — wszystkich?.
+
+
+JAN
+
+                        Wszystkich, — do jednego
+Sam widzia³em. — Wracaj¹c, prosi³em kaprala
+Zatrzymaæ siê; pozwoli³ chwilkê. Sta³em z dala,
+Skry³em siê za s³upami koœcio³a. W koœciele
+W³aœnie msza by³a; — ludu zebra³o siê wiele.
+Nagle lud ca³y run¹³ przeze drzwi nawa³em,
+Z koœcio³a ku wiêzieniu. Sta³em pod przysionkiem,
+I koœció³ tak by³ pusty, ¿e w g³êbi widzia³em
+Ksiêdza z kielichem w rêku i ch³opca ze dzwonkiem.
+Lud otoczy³ wiêzienie nieruchomym wa³em;
+Od bram wiêzienia na plac, jak w wielkie obrzêdy,
+Wojsko z broni¹, z bêbnami sta³o we dwa rzêdy;
+W poœrodku nich kibitki. — Patrzê, z placu sadzi
+Policmejster na koniu; — z miny zgad³byœ ³atwo,
+¯e wielki cz³owiek, wielki tryumf poprowadzi:
+Tryumf Cara pó³nocy, zwyciêzcy — nad dziatw¹. —
+Wkrótce znak dano bêbnem i ratusz otwarty —
+Widzia³em ich: — za ka¿dym z bagnetem sz³y warty,
+Ma³e ch³opcy, znêdznia³e, wszyscy jak rekruci
+Z golonymi g³owami; — na nogach okuci.
+Biedne ch³opcy — najm³odszy, dziesiêæ lat, niebo¿ê,
+Skar¿y³ siê, ¿e ³añcucha podŸwign¹æ nie mo¿e;
+I pokazywa³ nogê skrwawion¹ i nag¹.
+Policmejster przeje¿d¿a, pyta, czego ¿¹da³;
+Policmejster cz³ek ludzki, sam ³añcuch ogl¹da³:
+«Dziesiêæ funtów, zgadza siê z przepisan¹ wag¹». —
+Wywiedli Janczewskiego; — pozna³em, oszpetnia³,
+Sczernia³, schud³, ale jakoœ dziwnie wyszlachetnia³.
+Ten przed rokiem swawolny, ³adny ch³opczyk ma³y,
+Dziœ pogl¹da³ z kibitki, jak z odludnej ska³y
+Ów Cesarz! — okiem dumnym, suchym i pogodnym;
+To zdawa³ siê pocieszaæ spólników niewoli,
+To lud ¿egna³ uœmiechem, gorzkim, lecz ³agodnym,
+Jak gdyby im chcia³ mówiæ: nie bardzo miê boli.
+Wtem zda³o mi siê, ¿e mnie napotka³ oczyma,
+I nie widz¹c, ¿e kapral za sukni¹ miê trzyma,
+Myœli³, ¿em uwolniony; — d³oñ sw¹ uca³owa³,
+I skin¹³ ku mnie, jakby ¿egna³ i winszowa³; —
+I wszystkich oczy nagle zwróci³y siê ku mnie,
+A kapral ci¹gn¹³ gwa³tem, a¿ebym siê schowa³;
+Nie chcia³em, tylkom stan¹³ bli¿ej przy kolumnie.
+Uwa¿a³em na wiêŸnia postawê i ruchy: —
+On postrzeg³, ¿e lud p³acze patrz¹c na ³añcuchy,
+Wstrz¹s³ nog¹ ³añcuch, na znak, ¿e mu niezbyt ciê¿y³. —
+A wtem zaciêto konia, — kibitka runê³a —
+On zdj¹³ z g³owy kapelusz, wsta³ i g³os natê¿y³,
+I trzykroæ krzykn¹³: «Jeszcze Polska nie zginê³a». —
+Wpadli w t³um; — ale d³ugo ta rêka ku niebu,
+Kapelusz czarny jako chor¹giew pogrzebu,
+G³owa, z której w³os przemoc odar³a bezwstydna,
+G³owa niezawstydzona, dumna, z dala widna,
+Co wszystkim sw¹ niewinnoœæ i hañbê obwieszcza
+I wystaje z czarnego tylu g³ów nat³oku,
+Jak z morza ³eb delfina, nawa³nicy wieszcza,
+Ta rêka i ta g³owa zosta³y mi w oku,
+I zostan¹ w mej myœli, — i w drodze ¿ywota
+Jak kompas poka¿¹ mi, powiod¹, gdzie cnota:
+Jeœli zapomnê o nich, Ty, Bo¿e na niebie,
+Zapomnij o mnie. —
+
+
+KS. LWOWICZ
+
+                        Amen za was.
+
+
+KA¯DY Z WIÊNIÓW
+
+                        I za siebie.
+
+
+JAN SOBOLEWSKI
+
+Tymczasem zaje¿d¿a³y inne rzêdem d³ugim
+Kibitki; — ich wsadzano jednego po drugim.
+Rzuci³em wzrok po ludu œciœnionego kupie,
+Po wojsku, — wszystkie twarze poblad³y jak trupie;
+A w takim t³umie taka by³a cichoœæ g³ucha,
+¯em s³ysza³ ka¿dy krok ich, ka¿dy dŸwiêk ³añcucha.
+Dziwna rzecz! wszyscy czuli, jak nieludzka kara:
+Lud, wojsko czuje, — milczy, — tak boj¹ siê cara.
+Wywiedli ostatniego; — zda³o siê, ¿e wzbrania³,
+Lecz on biedny iœæ nie móg³, co chwila siê s³ania³,
+Z wolna schodzi³ ze schodów i ledwie na drugi
+Szczebel st¹pi³, stoczy³ siê i upad³ jak d³ugi;
+To Wasilewski, siedzia³ tu w naszym s¹siedztwie;
+Dano mu tyle kijów onegdaj na œledztwie,
+¯e mu odt¹d krwi kropli w twarzy nie zosta³o.
+¯o³nierz przyszed³ i podj¹³ z ziemi jego cia³o,
+Niós³ w kibitkê na rêku, ale rêk¹ drug¹
+Tajemnie ³zy ociera³; — niós³ powoli, d³ugo
+Wasilewski nie zemdla³, nie zwisn¹³, nie ciê¿a³,
+Ale jak pad³ na ziemiê prosto, tak otê¿a³.
+Niesiony, jak s³up stercza³ i jak z krzy¿a zdjête
+Rêce mia³ nad barkami ¿o³nierza rozpiête;
+Oczy straszne, zbiela³e, szeroko rozwarte; —
+I lud oczy i usta otworzy³; — i razem
+Jedno westchnienie z piersi tysi¹ca wydarte,
+G³êbokie i podziemne jêknê³o doko³a,
+Jak gdyby jêk³y wszystkie groby spod koœcio³a.
+Komenda je zg³uszy³a bêbnem i rozkazem:
+«Do broni — marsz!» — ruszono, a œrodkiem ulicy
+Puœci³a siê kibitka lotem b³yskawicy.
+Jedna pusta; — by³ wiêzieñ, ale niewidomy;
+Rêkê tylko do ludu wyci¹gn¹³ spod s³omy,
+Sin¹, rozwart¹, trupi¹; trz¹s³ ni¹, jakby ¿egna³;
+Kibitka w t³um wjecha³a; — nim bicz t³umy przegna³,
+Stanêli przed koœcio³em; i w³aœnie w tej chwili
+S³ysza³em dzwonek, kiedy trupa przewozili.
+Spojrza³em w koœció³ pusty i rêkê kap³añsk¹
+Widzia³em, podnosz¹c¹ cia³o i krew Pañsk¹,
+I rzek³em: Panie! Ty, co s¹dami Pi³ata
+Przela³eœ krew niewinn¹ dla zbawienia œwiata,
+Przyjm tê spod s¹dów cara ofiarê dziecinn¹,
+Nie tak œwiêt¹ ni wielk¹, lecz równie niewinn¹.
+    
+/ D³ugie milczenie /
+
+
+JÓZEF
+
+Czyta³em ja o wojnach; — w dawnych, dzikich czasach,
+Pisz¹, ¿e tak okropne wojny prowadzono,
+¯e nieprzyjaciel drzewom nie przepuszcza³ w lasach
+I ¿e z drzewami na pniu zasiewy palono.
+Ale car mêdrszy, sro¿ej, g³êbiej Polskê krwawi,
+On nawet ziarna zbo¿a zabiera i d³awi;
+Sam szatan mu metodê zniszczenia t³umaczy.
+
+
+KO£AKOWSKI
+
+I uczniowi najlepsz¹ nagrodê wyznaczy.
+    
+/ Chwila milczenia /
+
+
+KS. LWOWICZ
+
+Bracia, kto wie, ów wiêzieñ mo¿e jeszcze ¿yje;
+Pan Bóg to sam wie tylko i kiedyœ odkryje.
+Ja, jak ksi¹dz, pomodlê siê, i wam radzê szczerze
+Zmówiæ za mêczennika spoczynek pacierze. —
+Kto wie, jaka nas wszystkich czeka jutro dola.
+
+
+ADOLF
+
+Zmów¿e i po Ksawerym pacierz, jeœli wola;
+Wiesz, ¿e on, nim go wziêli, w ³eb sobie wystrzeli³.
+
+
+FREJEND
+
+£ebski! — To z nami uczty weso³e on dzieli³,
+Jak przysz³o dzieliæ biedê, on w nogi ze œwiata.
+
+
+KS. LWOWICZ
+
+NieŸle by i za tego pomodliæ siê brata.
+
+
+JANKOWSKI
+
+Wiesz, ksiê¿e: dalibóg¿e, drwiê ja z twojej wiary:
+Có¿ st¹d, choæbym by³ gorszym ni¿ Turki, Tatary,
+Choæbym zosta³ z³odziejem, szpiegiem, rozbójnikiem,
+Austryjakiem, Prusakiem, carskim urzêdnikiem;
+Jeszcze tak prêdko bo¿ej nie lêkam siê kary; —
+Wasilewski zabity, my tu — a s¹ cary.
+
+
+FREJEND
+
+To¿ chcia³em mówiæ, dobrze, ¿eœ ty za mnie zgrzeszy³; —
+Ale pozwól odetchn¹æ, bom ca³kiem os³upia³
+S³uchaj¹c tych powieœci — cz³ek sp³aka³ siê, zg³upia³.
+Ej, Feliksie, ¿ebyœ ty nas trochê pocieszy³!
+Ty, jeœli zechcesz, w piekle diab³a byœ rozœmieszy³.
+
+
+KILKU WIÊNIÓW
+
+Zgoda, zgoda, Feliksie, musisz gadaæ, œpiewaæ,
+Feliks ma g³os, hej, Frejend, hej, wina nalewaæ.
+
+
+¯EGOTA
+
+Stójcie na chwilê — ja te¿ szlachcic sejmikowy,
+Choæ ostatni przyby³em, nie chcê cicho siedzieæ;
+Józef nam coœ o ziarnkach mówi³, — na te mowy
+Gospodarz winien z miejsca swego odpowiedzieæ.
+Lubo car wszystkie ziarna naszego ogrodu
+Chce zabraæ i zakopaæ w ziemiê w swoim carstwie,
+Bêdzie dro¿yzna, ale nie bójcie siê g³odu;
+Pan Antoni ju¿ pisa³ o tym gospodarstwie.
+
+
+JEDEN Z WIÊNIÓW
+
+Jaki Antoni?
+
+
+¯EGOTA
+
+                        Znacie bajkê Goreckiego?
+A raczej prawdê?
+
+
+KILKU
+
+                        Jak¹? Powiedz nam, kolego.
+
+
+¯EGOTA
+
+Gdy Bóg wygna³ grzesznika z rajskiego ogrodu,
+Nie chcia³ przecie, a¿eby cz³owiek umar³ z g³odu;
+I rozkaza³ anio³om zbo¿e przysposobiæ
+I rozsypaæ ziarnami po drodze cz³owieka.
+Przyszed³ Adam, znalaz³ je, obejrza³ z daleka
+I odszed³; bo nie wiedzia³, co ze zbo¿em robiæ.
+A¿ w nocy przyszed³ diabe³ m¹dry i tak rzecze:
+«Niedaremnie tu Pan Bóg rozsypa³ garœæ ¿yta,
+Musi tu byæ w tych ziarnach jakaœ moc ukryta;
+Schowajmy je, nim cz³owiek ich wartoœæ dociecze».
+Zrobi³ rogiem rów w ziemi i nasypa³ ¿ytem,
+Naplwa³ i ziemi¹ nakry³, i przybi³ kopytem; —
+Dumny i rad, ¿e bo¿e zamiary przenikn¹³,
+Ca³ym gard³em rozœmia³ siê i rykn¹³, i znikn¹³.
+A¿ tu wiosn¹, na wielkie diab³a zadziwienie,
+Wyrasta trawa, kwiecie, k³osy i nasienie.
+O wy! co tylko na œwiat idziecie z pó³noc¹,
+Chytroœæ rozumem, a z³oœæ nazywacie moc¹;
+Kto z was wiarê i wolnoœæ znajdzie i zagrzebie,
+Myœli Boga oszukaæ — oszuka sam siebie.
+
+
+JAKUB
+
+Brawo, Antoni! pewnie Warszawê nawiedzi
+I za tê bajkê znowu z rok w kozie posiedzi.
+
+
+FREJEND
+
+Dobre to — lecz ja znowu do Feliksa wracam.
+Wasze bajki — i co mi to za poezyje,
+Gdzie muszê g³owê trudniæ, niŸli sens namacam;
+Nasz Feliks z piosenkami niech ¿yje i pije!
+    
+/ nalewa mu wino /
+
+
+JANKOWSKI
+
+A Lwowicz co? — on pacierz po umar³ych mówi!
+Pos³uchajcie, zaœpiewam piosnkê Lwowiczowi.
+    
+/ œpiewa /
+
+    Mówcie, jeœli wola czyja,
+    Jezus Maryja.
+    Nim uwierzê ¿e nam sprzyja
+    Jezus Maryja:
+    Niech wprzód ³otrów powybija
+    Jezus Maryja.
+
+    Tam car jak dzika bestyja,
+    Jezus Maryja!
+    Tu Nowosilcow jak ¿mija,
+    Jezus Maryja!
+
+    Póki ca³a carska szyja,
+    Jezus Maryja,
+    Póki Nowosilcow pija,
+    Jezus Maryja,
+    Nie uwierzê, ¿e nam sprzyja
+    Jezus Maryja.
+
+
+KONRAD
+
+S³uchaj, ty! — tych mnie imion przy kielichach wara.
+Dawno nie wiem, gdzie moja podzia³a siê wiara,
+Nie mieszam siê do wszystkich œwiêtych z litaniji,
+Lecz nie dozwolê bluŸniæ imienia Maryi.
+
+
+KAPRAL
+    
+/ podchodz¹c do Konrada /
+
+Dobrze, ¿e Panu jedno to zosta³o imiê —
+Choæ szuler zgrany wszystko wyrzuci z kalety,
+Nie zgra³ siê, póki jedn¹ ma sztukê monety.
+Znajdzie j¹ w dzieñ szczêœliwy, wiêc z kalety wyjmie,
+Wiêc da w handel na procent, Bóg pob³ogos³awi,
+I wiêkszy skarb przed œmierci¹, niŸli mia³, zostawi.
+To imiê, Panie, nie ¿art — wiêc mnie siê zdarzy³o
+W Hiszpaniji, lat temu — o, to dawno by³o,
+Nim car miê tym oszpeci³ mundurem szelmowskim —
+Wiêc by³em w legijonach, naprzód pod D¹browskim,
+A potem wszed³em w s³awny pu³k Sobolewskiego.
+
+
+SOBOLEWSKI
+
+To mój brat!
+
+
+KAPRAL
+
+                        O mój Bo¿e! pokój duszy jego!
+Walny ¿o³nierz — tak — zgin¹³ od piêciu kul razem;
+Nawet podobny Panu. — Otó¿ — wiêc z rozkazem
+Brata Pana jecha³em w miasteczko Lamego —
+Jak dziœ pamiêtam — wiêc tam byli Francuziska:
+Ten gra w koœci, ten w karty, ten dziewczêta œciska —
+Nu¿ beczeæ; — Ka¿dy Francuz, jak podpije, beczy.
+Jak zaczn¹ tedy œpiewaæ wszyscy nic do rzeczy,
+Siwobrode w¹sale takie pieœni t³uste!
+A¿ by³ wstyd mnie m³odemu. — Z rozpusty w rozpustê,
+Dalej bredziæ na œwiêtych; — otó¿ z wiêkszych w wiêksze
+Grzechy laz¹c, nu¿ bluŸniæ na Pannê Najœwiêtszê —
+A trzeba wiedzieæ, ¿e mam patent sodalisa
+I z powinnoœci broniê Maryi imienia —
+Wiêc ja im perswadowaæ: — Stulcie pysk, do bisa!
+Wiêc umilkli, nie chc¹c mieæ ze mn¹ do czynienia. —
+    
+/ Konrad zamyœla siê, inni zaczynaj¹, rozmowê /
+
+Ale no Pan pos³uchaj, co siê st¹d wyœwiêci.
+Po zwadzie poszliœmy spaæ, wszyscy dobrze ciêci —
+A¿ w nocy tr¹bi¹ na koñ — zaczn¹ obóz trwo¿yæ —
+Francuzi nu¿ do czapek, i nie mog¹ w³o¿yæ: —
+Bo nie by³o na co wdziaæ, — bo ka¿dego g³ówka
+By³a œlicznie odciêta no¿em jak makówka.
+Szelma gospodarz porzn¹³ jak kury w folwarku; —;
+Patrzê, wiêc moja g³owa zosta³a na karku;
+W czapce kartka ³aciñska, pismo nie wiem czyje:
+«Vivat Polonus, unus defonsor Mariae».
+Otó¿ widzisz Pan, ¿e ja tym imieniem ¿yjê.
+
+
+JEDEN Z WIÊNIÓW
+
+Feliksie, musisz œpiewaæ; nalaæ mu herbaty
+Czy wina. —
+
+
+FELIKS
+
+                        Jednog³oœnie decyduj¹ braty,
+¯e muszê byæ weso³y. Chocia¿ serce pêka,
+Feliks bêdzie weso³y i bêdzie piosenka.
+    
+/ œpiewa /
+
+    Nie dbam, jaka spadnie kara,
+    Mina, Sybir czy kajdany.
+    Zawsze ja wierny poddany
+    Pracowaæ bêdê dla cara;
+
+    W minach kruszec kuj¹c m³otem,
+    Pomyœlê: ta mina szara
+    To ¿elazo, — z niego potem
+    Zrobi ktoœ topór na cara.
+
+    Gdy bêdê na zaludnieniu,
+    Pojmê córeczkê Tatara;
+    Mo¿e w moim pokoleniu
+    Zrodzi siê Paleñ dla cara.
+
+    Gdy w kolonijach osiêdê,
+    Ogród zorzê, grzêdy skopiê,
+    A na nich co rok siaæ bêdê
+    Same lny, same konopie.
+
+    Z konopi ktoœ zrobi nici —
+    Srebrem obwita niæ szara
+    Mo¿e siê kiedyœ poszczyci,
+    ¯e bêdzie szarf¹ dla cara.
+
+
+CHÓR
+    
+/ œpiewa /
+
+    Zrodzi siê Paleñ dla cara
+    ra — ra — ra — ra — ra — ra —
+
+
+SUZIN
+
+Lecz có¿ to Konrad cicho zasêpiony siedzi,
+Jakby oblicza³ swoje grzechy do spowiedzi?
+Feliksie, on nie s³ysza³ zgo³a twoich pieni;
+Konradzie! — patrzcie — zbladn¹³, znowu siê czerwieni.
+Czy on s³aby?
+
+
+FELIKS
+
+                        Stój, cicho — zgad³em, ¿e tak bêdzie —
+O, my znamy Konrada, co to znaczy, wiemy.
+Pó³noc jego godzina. — Teraz Feliks niemy,
+Teraz, bracia, piosenkê lepsz¹ pos³yszemy.
+Ale muzyki trzeba; — ty masz flet, Frejendzie,
+Graj dawn¹ jego nutê, a my cicho stójmy
+I kiedy trzeba, g³osy do chóru nastrójmy.
+
+
+JÓZEF
+    
+/ patrz¹c na Konrada /
+
+Bracia! duch jego uszed³ i b³¹dzi daleko:
+Jeszcze nie wróci³ — mo¿e przysz³oœæ w gwiazdach czyta,
+Mo¿e siê tam z duchami znajomymi wita,
+I one mu powiedz¹, czego z gwiazd dociek¹.
+Jak dziwne oczy — b³yszczy ogieñ pod powiek¹,
+A oko nic nie mówi i o nic nie pyta;
+Duszy teraz w nich nie ma; b³yszcz¹ jak ogniska
+Zostawione od wojska, które w nocy cieniu
+Na dalek¹ wyprawê ruszy³o w milczeniu —
+Nim zgasn¹, wojsko wróci na swe stanowiska.
+    
+/ Frejend próbuje ró¿nych nut /
+
+
+KONRAD
+    
+/ œpiewa /
+
+  Pieœñ ma by³a ju¿ w grobie, ju¿ ch³odna, —
+    Krew poczu³a — spod ziemi wygl¹da —
+  I jak upiór powstaje krwi g³odna:
+    I krwi ¿¹da, krwi ¿¹da, krwi ¿¹da.
+    Tak! zemsta, zemsta, zemsta na wroga,
+    Z Bogiem i choæby mimo Boga!
+    
+/ Chór powtarza /
+
+  I Pieœñ mówi: ja pójdê wieczorem,
+    Naprzód braci rodaków gryŸæ muszê,
+  Komu tylko zapuszczê k³y w duszê,
+    Ten jak ja musi zostaæ upiorem.
+    Tak! zemsta, zemsta, etc. etc.
+
+  Potem pójdziem, krew wroga wypijem,
+    Cia³o jego rozr¹biem toporem:
+  Rêce, nogi goŸdziami przybijem,
+    By nie powsta³ i nie by³ upiorem.
+
+  Z dusz¹ jego do piek³a iœæ musim,
+    Wszyscy razem na duszy usiêdziem,
+  Póki z niej nieœmiertelnoœæ wydusim,
+    Póki ona czuæ bêdzie, gryŸæ bêdziem.
+    Tak! zemsta, zemsta, etc. etc.
+
+
+KS. LWOWICZ
+
+Konradzie, stój, dla Boga, to jest pieœñ pogañska.
+
+
+KAPRAL
+
+Jak on okropnie patrzy, — to jest pieœñ szatañska.
+    
+/ przestaj¹ œpiewaæ /
+
+
+KONRAD
+    
+/ z towarzyszeniem fletu /
+
+Wznoszê siê! lecê! tam, na szczyt opoki —
+  Ju¿ nad plemieniem cz³owieczem,
+    Miêdzy proroki.
+St¹d ja przysz³oœci brudne ob³oki
+Rozcinam moj¹ Ÿrenic¹ jak mieczem;
+Rêkami jak wichrami mg³y jej rozdzieram —
+Ju¿ widno — jasno — z góry na ludy spozieram —
+Tam ksiêga sybiliñska przysz³ych losów œwiata —
+    Tam, na dole!
+Patrz, patrz, przysz³e wypadki i nastêpne lata,
+  Jak drobne ptaki, gdy or³a postrzeg¹,
+    Mnie, or³a na niebie!
+  Patrz, jak do ziemi przypadaj¹, bieg¹,
+    Jak siê stado w piasek grzebie —
+  Za nimi, hej, za nimi oczy me sokole,
+    Oczy b³yskawice,
+Za nimi szpony moje! — dostrzegê je, schwycê.
+
+Có¿ to? jaki ptak powsta³ i roztacza pióra,
+  Zas³ania wszystkich, okiem miê wyzywa;
+Skrzyd³a ma czarne jak burzliwa chmura,
+A szerokie i d³ugie na kszta³t têczy ³uku.
+    I niebo ca³e zakrywa —
+
+To kruk olbrzymi — ktoœ ty? — ktoœ ty, kruku?
+Ktoœ ty? — jam orze³! — patrzy kruk — myœl moje pl¹cze!
+Ktoœ ty? — jam gromow³ady! —
+Spojrza³ na mnie — w oczy miê jak dymem uderzy³,
+    Myœli moje miesza — pl¹cze —
+
+
+KILKU WIÊNIÓW
+
+Co on mówi! — co — co to — patrz, patrz, jaki blady!
+    
+/ porywaj¹ Konrada /
+
+Uspokój siê…
+
+
+KONRAD
+
+                        Stój! stójcie! — jam siê z krukiem zmierzy³ —
+Stójcie — myœli rozpl¹czê —
+                        Pieœñ skoñczê — skoñczê —
+    
+/ s³ania siê /
+
+
+KS. LWOWICZ
+
+Dosyæ tych pieœni.
+
+
+INNI
+
+                        Dosyæ.
+
+
+KAPRAL
+
+                        Dosyæ — Pan Bóg z nami —
+Dzwonek! — s³yszycie dzwonek? — runt, runt pod bramami!
+Gaœcie ogieñ — do siebie!
+
+
+JEDEN Z WIÊNIÓW
+    
+/ patrz¹c w okno /
+
+                        Bramê odemknêli —
+Konrad os³ab³ — zostawcie — sam, sam jeden w celi!
+    
+/ Uciekaj¹ wszyscy /
+
+
+
+SCENA II. IMPROWIZACJA
+
+
+KONRAD
+    
+/ po d³ugim milczeniu /
+
+Samotnoœæ — có¿ po ludziach, czy-m œpiewak dla ludzi?
+Gdzie cz³owiek, co z mej pieœni ca³¹ myœl wys³ucha,
+Obejmie okiem wszystkie promienie jej ducha?
+Nieszczêsny, kto dla ludzi g³os i jêzyk trudzi:
+Jêzyk k³amie g³osowi, a g³os myœlom k³amie;
+Myœl z duszy leci bystro, nim siê w s³owach z³amie,
+A s³owa myœl poch³on¹ i tak dr¿¹ nad myœl¹,
+Jak ziemia nad po³kniêt¹, niewidzialn¹ rzek¹.
+Z dr¿enia ziemi czy¿ ludzie g³¹b nurtów dociek¹.
+Gdzie pêdzi, czy siê domyœl¹? —
+
+Uczucie kr¹¿y w duszy, rozpala siê, ¿arzy,
+Jak krew po swych g³êbokich, niewidomych cieœniach;
+Ile krwi tylko ludzie widz¹ w mojej twarzy,
+Tyle tylko z mych uczuæ dostrzeg¹ w mych pieœniach.
+
+Pieœni ma, tyœ jest gwiazd¹ za granic¹ œwiata!
+I wzrok ziemski, do ciebie wys³any za goñca,
+Choæ szklanne weŸmie skrzyd³a, ciebie nie dolata,
+Tylko o twojê mleczn¹ drogê siê uderzy;
+    Domyœla siê, ¿e to s³oñca,
+    Lecz ich nie zliczy, nie zmierzy.
+
+Wam, pieœni, ludzkie oczy, uszy, niepotrzebne; —
+    P³yñcie w duszy mej wnêtrznoœciach,
+    Œwieæcie na jej wysokoœciach,
+Jak strumienie podziemne, jak gwiazdy nadniebne.
+Ty Bo¿e, ty naturo! dajcie pos³uchanie. —
+Godna to was muzyka i godne œpiewanie. —
+    Ja mistrz!
+    Ja mistrz wyci¹gam d³onie!
+    Wyci¹gam a¿ w niebiosa i k³adê me d³onie
+Na gwiazdach jak na szklannych harmoniki krêgach.
+    To nag³ym, to wolnym ruchem,
+    Krêcê gwiazdy moim duchem.
+    Milijon tonów p³ynie; w tonów milijonie
+    Ka¿dy ton ja doby³em, wiem o ka¿dym tonie;
+    Zgadzam je, dzielê i ³¹czê,
+    I w têcze, i w akordy, i we strofy pl¹czê,
+Rozlewam je we dŸwiêkach i w b³yskawic wstêgach. —
+
+Odj¹³em rêce, wznios³em nad œwiata krawêdzie,
+I krêgi harmoniki wstrzyma³y siê w pêdzie.
+    Sam œpiewam, s³yszê me œpiewy —
+    D³ugie, przeci¹g³e jak wichru powiewy,
+    Przewiewaj¹ ludzkiego rodu ca³e tonie,
+    Jêcz¹ ¿alem, rycz¹ burz¹,
+    I wieki im g³ucho wtórz¹;
+    A ka¿dy dŸwiêk ten razem gra i p³onie,
+    Mam go w uchu, mam go w oku,
+    Jak wiatr, gdy fale ko³ysze,
+    Po œwistach lot jego s³yszê,
+    Widzê go w szacie ob³oku.
+    Boga, natury godne takie pienie!
+    Pieœñ to wielka, pieœñ-tworzenie.
+    Taka pieœñ jest si³a, dzielnoœæ,
+    Taka pieœñ jest nieœmiertelnoœæ!
+Ja czujê nieœmiertelnoœæ, nieœmiertelnoœæ tworzê,
+Có¿ Ty wiêkszego mog³eœ zrobiæ — Bo¿e?
+Patrz, jak te myœli dobywam sam z siebie,
+    Wcielam w s³owa, one lec¹,
+    Rozsypuj¹ siê po niebie,
+    Tocz¹ siê, graj¹ i œwiec¹;
+    Ju¿ dalekie, czujê jeszcze,
+    Ich wdziêkami siê lubujê,
+    Ich okr¹g³oœæ d³oni¹ czujê,
+    Ich ruch myœl¹ odgadujê:
+    Kocham was, me dzieci wieszcze!
+    Myœli moje! gwiazdy moje!
+    Czucia moje! wichry moje!
+W poœrodku was jak ojciec wœród rodziny stojê,
+    Wy wszystkie moje!
+
+  Depcê was, wszyscy poeci,
+  Wszyscy mêdrce i proroki,
+  Których wielbi³ œwiat szeroki.
+  Gdyby chodzili dot¹d œród swych dusznych dzieci,
+  Gdyby wszystkie pochwa³y i wszystkie oklaski
+  S³yszeli, czuli i za s³uszne znali,
+  I wszystkie s³awy ka¿dodziennej blaski
+  Promieniami na wieñcach swoich zapalali;
+  Z ca³¹ pochwa³ muzyk¹ i wieñców ozdob¹,
+  Zebran¹ z wieków tyla i z pokoleñ tyla,
+  Nie czuliby w³asnego szczêœcia, w³asnej mocy
+  Jak ja dziœ czujê w tej samotnej nocy:
+  Kiedy sam œpiewam w sobie,
+  Œpiewam samemu sobie.
+Tak! — czu³y jestem, silny jestem i rozumny. —
+  Nigdym nie czu³, jak w tej chwili —
+  Dziœ mój zenit, moc moja dzisiaj siê przesili,
+  Dziœ poznam, czym najwy¿szy, czylim tylko dumny;
+  Dziœ jest chwila przeznaczona,
+  Dziœ najsilniej wytê¿ê duszy mej ramiona —
+    To jest chwila Samsona,
+  Kiedy wiêzieñ i œlepy duma³ u kolumny.
+Zrzucê cia³o i tylko jak duch wezmê pióra —
+    Potrzeba mi lotu,
+  Wylecê z planet i gwiazd ko³owrotu,
+Tam dojdê, gdzie granicz¹ Stwórca i natura.
+
+I mam je, mam je, mam — tych skrzyde³ dwoje;
+Wystarcz¹: — od zachodu na wschód je rozszerzê,
+Lewym o przesz³oœæ, prawym o przysz³oœæ uderzê.
+I dojdê po promieniach uczucia — do Ciebie!
+    I zajrzê w uczucia Twoje,
+  O Ty! o którym mówi¹, ¿e czujesz na niebie!
+Jam tu, jam przyby³, widzisz, jaka ma potêga!
+  A¿ tu moje skrzyd³o siêga.
+Lecz jestem cz³owiek, i tam, na ziemi me cia³o;
+Kocha³em tam, w ojczyŸnie serce me zosta³o —
+
+  Ale ta mi³oœæ moja na œwiecie,
+  Ta mi³oœæ nie na jednym spoczê³a cz³owieku
+  Jak owad na ró¿y kwiecie:
+  Nie na jednej rodzinie, nie na jednym wieku.
+  Ja kocham ca³y naród! — obj¹³em w ramiona
+  Wszystkie przesz³e i przysz³e jego pokolenia,
+  Przycisn¹³em tu do ³ona,
+  Jak przyjaciel, kochanek, ma³¿onek, jak ojciec:
+  Chcê go dŸwign¹æ, uszczêœliwiæ,
+  Chcê nim ca³y œwiat zadziwiæ,
+Nie mam sposobu i tu przyszed³em go dociec.
+  Przyszed³em zbrojny ca³¹ myœli w³adz¹,
+  Tej myœli, co niebiosom Twe gromy wydar³a,
+Œledzi³a chód Twych planet, g³¹b morza rozwar³a —
+  Mam wiêcej, tê Moc, której ludzie nie nadadz¹,
+  Mam to uczucie, co siê samo w sobie chowa
+  Jak wulkan, tylko dymi niekiedy przez s³owa.
+I Mocy tej nie wzi¹³em z drzewa edeñskiego,
+Z owocu wiadomoœci z³ego i dobrego;
+Nie z ksi¹g ani z opowiadañ,
+Ani z rozwi¹zania zadañ,
+Ani z czarodziejskich badañ.
+Jam siê twórc¹ urodzi³:
+Stamt¹d przysz³y si³y moje,
+Sk¹d do Ciebie przysz³y Twoje,
+Boœ i Ty po nie nie chodzi³:
+Masz, nie boisz siê straciæ; i ja siê nie bojê.
+Czyœ Ty mi da³, czy wzi¹³em, sk¹d i Ty masz — oko
+Bystre, potê¿ne: w chwilach mej si³y — wysoko
+Kiedy na chmur spojrzê szlaki
+I wêdrowne s³yszê ptaki,
+¯egluj¹ce na ledwie dostrze¿onym skrzydle;
+Zechcê i wnet je okiem zatrzymam jak w sidle —
+Stado pieœñ ¿a³osn¹ dzwoni,
+Lecz póki ich nie puszczê, Twój wiatr ich nie zgoni.
+Kiedy spojrzê w kometê z ca³¹ moc¹ duszy,
+    Dopóki na ni¹ patrzê, z miejsca siê nie ruszy. Tylko ludzie skazitelni,
+    Marni, ale nieœmiertelni,
+  Nie s³u¿¹ mi, nie znaj¹ — nie znaj¹ nas obu,
+    Mnie i Ciebie.
+    Ja na nich szukam sposobu
+    Tu, w niebie.
+Tê w³adzê, któr¹ mam nad przyrodzeniem,
+    Chcê wywrzeæ na ludzkie dusze,
+Jak ptaki i jak gwiazdy rz¹dzê mym skinieniem,
+    Tak bliŸnich rozrz¹dzaæ muszê.
+    Nie broni¹ — broñ broñ odbije,
+    Nie pieœniami — d³ugo rosn¹,
+    Nie nauk¹ — prêdko gnije,
+    Nie cudami — to zbyt g³oœno.
+Chcê czuciem rz¹dziæ, które jest we mnie;
+Rz¹dziæ jak Ty wszystkimi zawsze i tajemnie: —
+    Co ja zechcê, niech wnet zgadn¹,
+    Spe³ni¹, tym siê uszczêœliwi¹,
+    A je¿eli siê sprzeciwi¹,
+    Niechaj cierpi¹ i przepadn¹.
+Niech ludzie bêd¹ dla mnie jak myœli i s³owa,
+Z których, gdy zechcê, pieœni wi¹¿e siê budowa; —
+    Mówi¹, ¿e Ty tak w³adasz!
+Wiesz, ¿em myœli nie popsu³, mowy nie umorzy³;
+Jeœli mnie nad duszami równ¹ w³adzê nadasz,
+Ja bym mój naród jak pieœñ ¿yw¹ stworzy³,
+I wiêksze ni¿li Ty zrobi³bym dziwo,
+    Zanuci³bym pieœñ szczêœliw¹!
+
+Daj mi rz¹d dusz! — Tak gardzê t¹ martw¹ budow¹,
+Która gmin œwiatem zowie i przywyk³ j¹ chwaliæ,
+¯em nie próbowa³ dot¹d, czyli moje s³owo
+Nie mog³oby jej wnet zwaliæ.
+Lecz czujê w sobie, ¿e gdybym m¹ wolê
+Œcisn¹³, natê¿y³ i razem wyœwieci³,
+Mo¿e bym sto gwiazd zgasi³, a drugie sto wznieci³ —
+Bo jestem nieœmiertelny! i w stworzenia kole
+S¹ inni nieœmiertelni; — wy¿szych nie spotka³em —
+Najwy¿szy na niebiosach! — Ciebie tu szuka³em,
+Ja najwy¿szy z czuj¹cych na ziemnym padole.
+Nie spotka³em Ciê dot¹d — ¿eœ Ty jest, zgadujê;
+Niech Ciê spotkam i niechaj Tw¹ wy¿szoœæ uczujê —
+Ja chcê w³adzy, daj mi j¹, lub wska¿ do niej drogê!
+O prorokach, dusz w³adcach, ¿e byli, s³ysza³em,
+I wierzê; lecz co oni mogli, to ja mogê,
+Ja chcê mieæ w³adzê, jak¹ Ty posiadasz,
+Ja chcê duszami w³adaæ, jak Ty nimi w³adasz.
+    
+/ D³ugie milczenie /
+    
+/ z ironi¹ /
+
+Milczysz, milczysz! wiem teraz, jam Ciê teraz zbada³,
+Zrozumia³em, coœ Ty jest i jakeœ Ty w³ada³. —
+K³amca, kto Ciebie nazywa³ mi³oœci¹,
+Ty jesteœ tylko m¹droœci¹.
+Ludzie myœl¹, nie sercem, Twych dróg siê dowiedz¹;
+Myœl¹, nie sercem, sk³ady broni Twej wyœledz¹ —
+    Ten tylko, kto siê wry³ w ksiêgi,
+    W metal, w liczbê, w trupie cia³o,
+    Temu siê tylko uda³o
+    Przyw³aszczyæ czêœæ Twej potêgi.
+    Znajdzie truciznê, proch, parê,
+    Znajdzie blaski, dymy, huki,
+    Znajdzie prawnoœæ, i z³¹ wiarê
+    Na mêdrki i na nieuki.
+    Myœlom odda³eœ œwiata u¿ycie,
+    Serca zostawiasz na wiecznej pokucie,
+    Da³eœ mnie najkrótsze ¿ycie
+    I najmocniejsze uczucie. —
+    
+/ Milczenie /
+
+Czym jest me czucie?
+    Ach, iskr¹ tylko!
+Czym jest me ¿ycie?
+    Ach, jedn¹ chwilk¹!
+Lecz te, co jutro rykn¹, czym s¹ dzisiaj gromy?
+    Iskr¹ tylko.
+Czym jest wieków ci¹g ca³y, mnie z dziejów wiadomy?
+    Jedn¹ chwilk¹.
+Z czego wychodzi ca³y cz³owiek, ma³y œwiatek?
+    Z iskry tylko.
+Czym jest œmieræ, co rozprószy myœli mych dostatek?
+    Jedn¹ chwilk¹.
+Czym by³ On, póki œwiaty trzyma³ w swoim ³onie?
+    Iskr¹ tylko.
+Czym bêdzie wiecznoœæ œwiata, gdy On go poch³onie?
+    Jedn¹ chwilk¹.
+
+
+
+
+
+
+G£OS Z LEWEJ STRONY
+
+Wsi¹œæ muszê
+Na duszê
+Jak na koñ.
+Goñ! goñ
+W cwa³, w cwa³!
+
+
+G£OS Z PRAWEJ
+
+Co za sza³!
+Broñmy go, broñmy,
+Skrzyd³em os³oñmy
+
+
+
+
+
+Chwila i iskra, gdy siê przed³u¿a, rozpala —
+    Stwarza i zwala.
+Œmia³o, œmia³o! tê chwilê rozd³u¿my, rozdalmy,
+Œmia³o, œmia³o! tê iskrê roznieæmy, rozpalmy —
+Teraz — dobrze — tak. Jeszcze raz Ciebie wyzywam,
+Jeszcze po przyjacielsku duszê Ci odkrywam.
+Milczysz, — wszak¿eœ z Szatanem walczy³ osobiœcie?
+    Wyzywam Ciê uroczyœcie.
+Nie gardŸ mn¹, ja nie jeden, choæ sam tu wzniesiony.
+Jestem na ziemi sercem z wielkim ludem zbratan,
+Mam ja za sob¹ wojska, i mocy, i trony;
+    Jeœli ja bêdê bluŸnierca,
+Ja wydam Tobie krwawsz¹ bitwê niŸli Szatan:
+On walczy³ na rozumy, ja wyzwê na serca.
+Jam cierpia³, kocha³, w mêkach i mi³oœci wzros³em;
+Kiedyœ mnie wydar³ osobiste szczêœcie,
+Na w³asnej piersi ja skrwawi³em piêœcie,
+    Przeciw Niebu ich nie wznios³em.
+
+
+
+
+
+
+G£OS
+
+Rumaka
+Przedzierzgnê w ptaka.
+Orlimi pióry
+Do góry!
+W lot!
+
+
+G£OS
+
+Gwiazdo spadaj¹ca!
+Jaki sza³
+W otch³añ ciê str¹ca!
+
+
+
+
+
+Teraz dusz¹ jam w mojê ojczyznê wcielony;
+    Cia³em po³kn¹³em jej duszê,
+    Ja i ojczyzna to jedno.
+    Nazywam siê Milijon — bo za milijony
+    Kocham i cierpiê katusze.
+    Patrzê na ojczyznê biedn¹,
+    Jak syn na ojca wplecionego w ko³o;
+    Czujê ca³ego cierpienia narodu,
+    Jak matka czuje w ³onie bole swego p³odu.
+    Cierpiê, szalejê — a Ty m¹drze i weso³o
+    Zawsze rz¹dzisz,
+    Zawsze s¹dzisz,
+    I mówi¹, ¿e Ty nie b³¹dzisz!
+S³uchaj, jeœli to prawda, com z wiar¹ synowsk¹
+S³ysza³, na ten œwiat przychodz¹c,
+¯e Ty kochasz; — je¿eliœ Ty kocha³ œwiat rodz¹c,
+Jeœli ku zrodzonemu masz mi³oœæ ojcowsk¹; —
+Je¿eli serce czu³e by³o w liczbie zwierz¹t,
+Któreœ Ty w arce zamkn¹³ i wyrwa³ z powodzi; —
+Jeœli to serce nie jest potwór, co siê rodzi
+Przypadkiem, ale nigdy lat swych nie dochodzi; —
+Jeœli pod rz¹dem Twoim czu³oœæ nie jest bezrz¹d,
+Jeœli w milijon ludzi krzycz¹cych «ratunku!”»
+Nie patrzysz jak w zawi³e zrównanie rachunku; —
+Jeœli mi³oœæ jest na co w œwiecie Twym potrzebn¹
+I nie jest tylko Twoj¹ omy³k¹ liczebn¹…
+
+
+
+
+
+
+G£OS
+
+Or³a w hydrê!
+Oczy mu wydrê.
+Do szturmu dalej
+Dymi! pali!
+Ryk! grzmot!
+
+
+G£OS
+
+Z jasnego s³oñca
+Kometo b³êdu!
+Gdzie koniec twego pêdu?
+Bez koñca, bez koñca!
+
+
+
+
+
+Milczysz! — Jam Ci do g³êbi serce me otworzy³,
+Zaklinam, daj mi w³adzê: — jedna czêœæ jej licha,
+Czêœæ tego, co na ziemi osi¹gnê³a pycha,
+Z t¹ jedn¹ cz¹stk¹ ile¿ ja bym szczêœcia stworzy³!
+Milczysz! — nie dasz dla serca, daj¿e dla rozumu. —
+Widzisz, ¿em pierwszy z ludzi i z anio³ów t³umu,
+¯e Ciê znam lepiej niŸli Twoje archanio³y,
+Wart, ¿ebyœ ze mn¹ w³adz¹ dzieli³ siê na po³y —
+Jeœlim nie zgad³, odpowiedz — milczysz! ja nie k³amiê.
+Milczysz i ufasz, ¿e masz silne ramiê —
+Wiedz, ¿e uczucie spali, czego myœl nie z³amie —
+Widzisz to moje ognisko: — uczucie,
+Zbieram je, œciskam, by mocniej pa³a³o,
+Wbijam w ¿elazne woli mej okucie,
+Jak nabój w burz¹ce dzia³o.
+
+
+
+
+
+
+G£OS
+
+Ognia! pal!
+
+
+G£OS
+
+Litoœæ! ¿al!
+
+
+
+
+
+Odezwij siê, — bo strzelê przeciw Twej naturze;
+Jeœli jej w gruzy nie zburzê,
+To wstrz¹snê ca³ym pañstw Twoich obszarem;
+Bo wystrzelê g³os w ca³e obrêby stworzenia:
+Ten g³os, który z pokoleñ pójdzie w pokolenia:
+Krzyknê, ¿eœ Ty nie ojcem œwiata, ale…
+
+
+G£OS DIAB£A
+
+                        Carem!
+    
+/ Konrad staje chwilê, s³ania siê i pada /
+
+
+DUCHY Z LEWEJ STRONY
+
+
+PIERWSZY
+
+Depc, chwytaj!
+
+
+DRUGI
+
+                        Jeszcze dysze.
+
+
+PIERWSZY
+
+                        Omdla³, omdla³, a nim
+Przebudzi siê, dodusim.
+
+
+DUCH Z PRAWEJ STRONY
+
+                        Precz — modl¹ siê za nim.
+
+
+DUCH Z LEWEJ
+
+Widzisz, odpêdzaj¹ nas.
+
+
+PIERWSZY Z LEWEJ
+
+                        Ty bestyjo g³upia!
+Nie pomog³eœ mu s³owo ostatnie wyrzygn¹æ,
+Jeszcze o jeden stopieñ w dumê go podŸwign¹æ!
+Chwila dumy — ta czaszka ju¿ by³aby trupia.
+Byæ tak blisko tej czaszki! i nie mo¿na deptaæ!
+Widzieæ krew w jego ustach, i nie mo¿na ch³eptaæ!
+Najg³upszy z diab³ów, tyœ go wypuœci³ w pó³ drogi.
+
+
+DRUGI
+
+Wróci siê, wróci —
+
+
+PIERWSZY
+
+                        Precz st¹d — bo wezmê na rogi
+I bêdê ciê lat tysi¹c niós³, i w paszczê sam¹
+Szatana wbijê.
+
+
+DRUGI
+
+                        Cha! cha! straszysz, ciociu! mamo!
+Ja dziecko bêdê p³akaæ —
+    
+/ p³acze /
+
+                        Masz —
+    
+/ uderza rogiem /
+
+                        A co, nie chybi³?
+Leæ i nie wy³aŸ z piek³a — aha, do dna przybi³ —
+Rogi me, brawo, rogi —
+
+
+PIERWSZY
+
+                        Sacrédieu!
+
+
+DRUGI
+    
+/ uderza /
+
+                        Masz.
+
+
+PIERWSZY
+
+                        W nogi.
+    
+/ S³ychaæ stukanie i klucz we drzwiach /
+
+
+DRUGI DUCH
+
+Pop, klecha, przyczajmy siê i schowajmy rogi.
+
+
+
+SCENA III
+    
+/ Wchodz¹ Kapral, braciszek bernardyn Piotr, jeden Wiêzieñ /
+
+
+KS. PIOTR
+
+W imiê Ojca i Syna i Œwiêtego Ducha.
+
+
+WIÊZIEÑ
+
+On zapewne os³abia³. — Konradzie! — nie s³ucha.
+
+
+KS. PIOTR
+
+Pokój temu domowi, pokój grzesznikowi!
+
+
+WIÊZIEÑ
+
+Dla Boga, on os³abia³, patrz — miota siê, d¹sa,
+To jest wielka choroba, patrz, on usta k¹sa.
+    
+/ Ks. Piotr modli siê /
+
+
+KAPRAL
+    
+/ do WiêŸnia /
+
+Mój Panie, idŸcie sobie, a nas tu zostawcie.
+
+
+WIÊZIEÑ
+
+Ale dla Boga! pró¿nych modlitew nie prawcie;
+Podejmijcie go z ziemi, po³ó¿my do ³ó¿ka;
+Ksiê¿e Pietrze.
+
+
+KS. PIOTR
+
+                        Tu zostaw.
+
+
+WIÊZIEÑ
+
+                        Oto jest poduszka.
+    
+/ k³adzie Konrada /
+
+E, ja wiem, co to znaczy. — Czasem nañ napada
+Takie szaleñstwo: d³ugo œpiewa, potem gada,
+A jutro zdrów jak ryba. Lecz kto wam powiedzia³,
+¯e on os³abia³?
+
+
+KAPRAL
+
+                        Panie, ot byœ cicho siedzia³.
+Niech brat Piotr pomodli siê nad waszym koleg¹;
+Bo ja wiem, ¿e tu by³o — coœ — tu — niedobrego.
+Gdy runt odszed³, w tej celi ha³as pos³ysza³em,
+Spojrzê dziurk¹ od klucza, a co tu widzia³em,
+To mnie wiedzieæ. Pobieg³em do mojego kmotra,
+Bo on cz³owiek pobo¿ny, do braciszka Piotra —
+Patrz na tego chorego: niedobrze siê dzieje —
+
+
+WIÊZIEÑ
+
+Dalibóg nie pojmujê — nic, i oszalejê.
+
+
+KAPRAL
+
+Oszaleæ? — Ej, Panowie, strze¿cie siê, Panowie!
+U was usta wymowne, wiele nauk w g³owie,
+A patrzcie, g³owa m¹dra w prochu siê tacza³a,
+I z tych ust, tak wymownych, patrzaj — piana bia³a.
+S³ysza³em, co on œpiewa³, ja s³ów nie poj¹³em,
+Lecz by³o coœ u niego w oczach i nad czo³em.
+Wierz mi, ¿e z tym cz³owiekiem niedobrze siê dzieje —
+By³em ja w legijonach, nim wziêto w rekruty,
+Bra³em szturmem fortece, klasztory, reduty;
+Wiêcej dusz wychodz¹cych z cia³a ja widzia³em,
+NiŸli Waæpan przeczyta³ ksi¹¿ek w ¿yciu ca³em.
+A to jest rzecz niema³a widzieæ, jak cz³ek kona.
+Widzia³em ja na Pradze ksiê¿y zarzynanych,
+I w Hiszpaniji ¿ywcem z wie¿y wyrzucanych;
+Widzia³em matek szabl¹ rozrywane ³ona,
+I dzieci konaj¹ce na kozackich pikach,
+I Francuzów na œniegu, i Turków na palu;
+I wiem, co w konaj¹cych widaæ mêczennikach,
+A co w z³odzieju, zbójcy, Turku lub Moskalu.
+Widzia³em rozstrzelanych, co patrzyli œmiele
+W rurê broni, nie chcieli na oczy zas³ony;
+A jak padli na ziemiê, widzia³em w ich ciele
+Strach, co za ¿ycia wstydem i pych¹ wiêziony,
+Wyszed³ z trupa jak owad i pe³za³ woko³o:
+Gorszy strach ni¿ ten, który tchórza w bitwie nêka.
+Taki strach, ¿e doœæ spojrzeæ na zamar³e czo³o,
+Aby widzieæ, ¿e dusza d¹sa siê i lêka,
+Gardzi bólem i cierpi, i wieczna jej mêka.
+A wiêc, mój Panie, myœlê, ¿e twarz umar³ego
+Jest jak patent wojskowy do œwiata przysz³ego,
+I poznasz zaraz, jak on tam bêdzie przyjêty,
+W jakiej randze i stopniu: œwiêty czy przeklêty. —
+A wiêc tego cz³owieka i pieœñ, i choroba.
+I czo³o, i wzrok wcale mi siê nie podoba.
+Otó¿ Waæpan spokojnie idŸ do swojej celi,
+My z bratem Piotrem bêdziem przy chorym siedzieli.
+    
+/ Wiêzieñ odchodzi /
+
+
+KONRAD
+
+Przepaœæ — tysi¹c lat — pusto — dobrze — jeszcze wiêcéj!
+Ja wytrzymam i dziesiêæ tysi¹ców tysiêcy —
+Modliæ siê? — tu modlitwa nie przyda siê na nic —
+I by³a¿ taka przepaœæ bez dna i bez granic? —
+Nie wiedzia³em — a by³a.
+
+
+KAPRAL
+
+                        S³yszysz, jak on szlocha:
+
+
+KS. PIOTR
+
+Synu mój, tyœ na sercu, które ciebie kocha.
+    
+/ do Kaprala /
+
+WyjdŸ st¹d i patrz, a¿eby nikt têdy nie chodzi³
+I póki st¹d nie wyjdê, nikt mi nie przeszkodzi³.
+    
+/ Kapral odchodzi /
+
+
+KONRAD
+    
+/ zrywa siê /
+
+Nie! — oka mi nie wydar³! mam to silne oko,
+Widzê st¹d, i st¹d nawet, choæ ciemno — g³êboko,
+Widzê ciebie, Rollison, — bracie, có¿ to znaczy?
+I tyœ w wiêzieniu, zbity, krwi¹ ca³y zbryzgany,
+I ciebie Bóg nie s³ucha³, i tyœ ju¿ w rozpaczy;
+Szukasz no¿a, próbujesz g³owê t³uc o œciany: —
+«Ratunku!» — Bóg nie daje, ja ci daæ nie mogê,
+Oko mam silne, spojrzê, mo¿e ciê zabijê —
+Nie — ale ci poka¿ê okiem — œmierci drogê.
+Patrz, tam masz okno, wybij, skocz, zleæ i z³am szyjê,
+I ze mn¹ tu leæ w g³êbie, w ciemnoœæ — leæmy na dó³ —
+Otch³añ — otch³añ ta lepsza niŸli ziemi padó³;
+Tu nie ma braci, matek, narodów, — tyranów —
+PójdŸ tu.
+
+
+KS. PIOTR
+
+                        Duchu nieczysty, znam ciê po twym jadzie,
+Znowuœ tu, najchytrzejszy ze wszystkich szatanów,
+Znowu w dom opuszczony leziesz, brzydki gadzie.
+Tyœ wpe³zn¹³ w jego usta, na zgubêœ tu wpe³zn¹³,
+W imiê Pañskie jam ciebie pojma³ i oche³zn¹³.
+Exorciso…
+
+
+DUCH
+
+                        Stój, nie klnij — stój, odst¹p od progu,
+Wyjdê —
+
+
+KS. PIOTR
+
+                        Nie wyjdziesz, a¿ siê upodoba Bogu.
+Lew z pokolenia Judy tu Pan — on zwyciê¿a:
+Sieæ na lwa zastawi³eœ i w twym w³asnym wniku
+Z³owi³eœ siê — Bóg ciebie z³owi³ w tym grzeszniku.
+W jego ustach chcê tobie najsro¿szy cios zadaæ:
+K³amco, ja tobie ka¿ê, musisz prawdê gadaæ.
+
+
+DUCH
+
+Parle-moi donc français, mon pauvre capucin,
+J'ai pu dans le grand monde oublier mon latin.
+Mais étant saint, tu dois avoir le don des langues —
+Vielleicht sprechen Sie deutsch, was murmeln Sie so bang —
+What it is, — Cavalleros, rispondero Io.
+
+
+KS. PIOTR
+
+Ty to z ust jego wrzeszczysz, stujêzyczna ¿mijo,
+
+
+DUCH
+
+Cest juste, dans ce jeu, nous sommes de moitié,
+Il est savant, et moi, diable de mon métier.
+J'étais son précepteur et je m'en glorifie,
+En sais-tu plus que nous? parle — je te défie.
+
+
+KS. PIOTR
+
+W imiê Ojca i Syna i Ducha Œwiêtego.
+
+
+DUCH
+
+Ale stój, stój, mój ksiê¿e, stój, ju¿ dosyæ tego;
+Tylko, ksiê¿uniu, nie mêcz na pró¿no: — czyœ szatan,
+¯eby tak mêczyæ!
+
+
+KS. PIOTR
+
+                        Ktoœ ty?
+
+
+DUCH
+
+                        Lukrecy, Lewiatan,
+Voltaire, Alter Fritz, Legio sum.
+
+
+KS. PIOTR
+
+                        Coœ widzia³?
+
+
+DUCH
+
+                        Zwierza.
+
+
+KS. PIOTR
+
+Gdzie?
+
+
+DUCH
+
+                        W Rzymie.
+
+
+KS. PIOTR
+
+                        Nie s³ucha miê — wróæmy do pacierza.
+    
+/ modli siê /
+
+
+DUCH
+
+Ale s³ucham.
+
+
+KS. PIOTR
+
+                        Gdzieœ widzia³ wiêŸnia?
+
+
+DUCH
+
+                        Mówiê, w Rzymie —
+
+
+KS. PIOTR
+
+K³amiesz.
+
+
+DUCH
+
+                        Ksiê¿e, na honor, na kochanki imiê,
+Mej kochanki czarniutkiej, co tak do mnie wzdycha —
+A wiesz ty, jak siê zowie moja luba? — Pycha.
+Jakiœ ty nieciekawy! —
+
+
+KS. PIOTR
+    
+/ do siebie /
+
+                        Przeciwi¹ siê duchy;
+Upokórzmy siê Panu i zróbmy akt skruchy.
+    
+/ modli siê /
+
+
+DUCH
+
+Ale co tam masz robiæ, ja sam st¹d wyruszê,
+Przyznajê siê, ¿e wlaz³em niezgrabnie w tê duszê.
+Tu mnie kole — ta dusza jest jak skóra je¿a,
+W³o¿y³em j¹ na wywrót, kolcami do kiszek.
+    
+/ Ksi¹dz modli siê /
+
+Aleœ bo i ty majster, choæ prosty braciszek; —
+Os³y, powinni ciebie obraæ za papie¿a.
+G³upstwo stawi¹ w koœciele na przód, jak kolumny,
+A ciebie kryj¹ w k¹tku: œwiecznik, gwiazdê blasku!
+
+
+KS. PIOTR
+
+Tyranie i pochlebco, i pod³y, i dumny,
+¯ebyœ pierœ ugryz³, u nóg wleczesz siê po piasku.
+
+
+DUCH
+    
+/ œmiej¹c siê /
+
+Aha! gniewasz siê, pacierz przerwa³eœ — da capo;
+¯ebyœ sam widzia³, jak ty œmiesznie krêcisz ³ap¹ —
+Istny niedŸwiadek, gdy siê broni od komarów! —
+On trzepie swoje, — no wiêc — dosyæ ju¿ tych swarów;
+Znam twojê moc i chcê siê tobie wyspowiadaæ,
+Bêdê ci o przesz³oœci i przysz³oœci gadaæ. —
+A wiesz ty, co o tobie mówi¹ w ca³ym mieœcie? —
+    
+/ Ksi¹dz modli siê /
+
+A wiesz ty, co to bêdzie z Polsk¹ za lat dwieœcie? —
+A wiesz, dlaczego tobie przeor tak nie sprzyja? —
+A wiesz, w Apokalipsie co znaczy bestyja? —
+Milczy i trzepie — oczy a¿ strach we mnie wlepi³.
+Powiedz, ksiê¿uniu, czegoœ do mnie siê uczepi³?
+Co ja winien, ¿e takie mam odbieraæ ch³osty.
+Czy ja jestem król diab³ów, — wszak ja diabe³ prosty.
+Zwa¿, czy to prawnie s³ugê ukaraæ za pana,
+Wszak¿e ja tu przyszed³em z rozkazu Szatana;
+Trudno mu siê t³umaczyæ, bo z nim nie brat za brat,
+Jestem jako Kreishauptmann, Gubernator, Landrat: —
+Ka¿¹ duszê braæ w areszt, biorê, sadzê w ciemnoœæ;
+Zdarza siê przy tym duszy jaka nieprzyjemnoœæ,
+Ale czy¿ z mojej winy? — jam œlepe narzêdzie;
+Tyran szelma da ukaz, pisze: «Niech tak bêdzie» —
+Czy¿ to mnie mi³o mêczyæ, — mnie samemu mêka. —
+Ach —
+    
+/ wzdycha /
+
+                        jak to Ÿle byæ czu³ym. — Ach, serce mi pêka.
+Wierz mi: gdy pazurami grzesznika odzieram,
+Nieraz ogonem, ah! ah! — ³zy sobie ocieram.
+    
+/ Ksi¹dz modli siê /
+
+A wiesz, ¿e jutro bêdziesz bity jako Haman?
+
+
+KS. PIOTR
+
+In nomine Patris et Filii et Spiritus Sancti, Amen.
+Ego te exorciso, spiritus immunde —
+
+
+DUCH
+
+Ksiê¿e, stój — s³ucham — gadam — stój — jedn¹ sekundê!
+
+
+KS. PIOTR
+
+Gdzie jest nieszczêsny wiêzieñ, co chce zgubiæ duszê? —
+Milczysz — Exorciso te —
+
+
+DUCH
+
+                        Gadam, gadam — muszê.
+
+
+KS. PIOTR
+
+Kogo widzia³eœ?
+
+
+DUCH
+
+                        WiêŸnia.
+
+
+KS. PIOTR
+
+                        Jakiego?
+
+
+DUCH
+
+                        Grzesznika.
+
+
+KS. PIOTR
+
+Gdzie? —
+
+
+DUCH
+
+                        Tam, w drugim klasztorze.
+
+
+KS. PIOTR
+
+                        W jakim?
+
+
+DUCH
+
+                        Dominika.
+Ten grzesznik ju¿ przeklêty, prawem mnie nale¿y.
+
+
+KS. PIOTR
+
+K³amiesz.
+
+
+DUCH
+
+                        On ju¿ umar³y.
+
+
+KS. PIOTR
+
+                        K³amiesz.
+
+
+DUCH
+
+                        Chory le¿y.
+
+
+KS. PIOTR
+
+Exorciso te —
+
+
+DUCH
+
+                        Gadam, gadam, skaczê — œpiewam —
+Tylko nie klnij — jak gadaæ? — dusisz — ledwie ziewam.
+
+
+KS. PIOTR
+
+Mów prawdê.
+
+
+DUCH
+
+                        Grzesznik chory, lata bez pamiêci
+I jutro rano szyjê niezawodnie skrêci.
+
+
+KS. PIOTR
+
+K³amiesz.
+
+
+DUCH
+
+                        Poœwiadczy godny œwiadek, kmotr Belzebub.
+Pytaj go, mêcz — niewinnej duszy mojej nie gub.
+
+
+KS. PIOTR
+
+Jak ratowaæ grzesznika?
+
+
+DUCH
+
+                        Bodajeœ zdech³, klecho,
+Nie powiem.
+
+
+KS. PIOTR
+
+                        Exorciso —
+
+
+DUCH
+
+                        Ratowaæ pociech¹.
+
+
+KS. PIOTR
+
+Dobrze, gadaj wyraŸnie — czego mu potrzeba?
+
+
+DUCH
+
+Mam chrypkê, nie wymówiê.
+
+
+KS. PIOTR
+
+                        Mów!
+
+
+DUCH
+
+                        Mój panie! królu!
+Daj odpocz¹æ
+
+
+KS. PIOTR
+
+                        Mów, czego potrzeba —
+
+
+DUCH
+
+                        Ksiê¿ulu,
+Ja tego nie wymówiê.
+
+
+KS. PIOTR
+
+                        Mów!
+
+
+DUCH
+
+                        He — Wina — Chleba —
+
+
+KS. PIOTR
+
+Rozumiem, Chleba Twego i Krwi Twojej, Panie —
+Pójdê, i daj mi spe³niæ Twoje rozkazanie.
+    
+/ do Ducha /
+
+A teraz zabierz z sob¹ twe z³oœci i b³êdy,
+Sk¹d wszed³eœ i jak wszed³eœ, idŸ tam i tamtêdy.
+    
+/ Duch uchodzi /
+
+
+KONRAD
+
+DŸwigasz miê! — ktoœ ty? — strze¿ siê, sam spadniesz w te do³y.
+Podaje rêkê — leæmy — w górê jak ptak lecê —
+Mile oddycham woni¹ — promieniami œwiecê.
+Któ¿ mi da³ rêkê? — dobrzy ludzie i anio³y;
+Sk¹d¿e litoœæ, wam do mnie schodziæ do tych do³ów?
+Ludzie? — LudŸmi gardzi³em, nie zna³em anio³ów.
+
+
+KS. PIOTR
+
+Módl siê, bo strasznie Pañska dotknê³a ciê rêka:
+Usta, którymiœ wieczny Majestat obrazi³,
+Te usta z³y duch s³owy szkaradnymi skazi³;
+S³owa g³upstwa, najsro¿sza dla m¹drych ust mêka,
+Oby ci policzone by³y za pokutê.
+Obyœ o nich zapomnia³ —
+
+
+KONRAD
+
+                        Ju¿ s¹ tam — wykute.
+
+
+KS. PIOTR
+
+Obyœ, grzeszniku, nigdy sam ich nie wyczyta³,
+Oby ciê o znaczenie ich Bóg nie zapyta³—
+Módl siê; myœl twoja w brudne obleczona s³owa,
+Jak grzeszna, z tronu swego str¹cona królowa,
+Gdy w ¿ebraczej odzie¿y, okryta popio³em,
+Odstoi czas pokuty swojej przed koœcio³em,
+Znowu na tron powróci, strój królewski wdzieje
+I wiêkszym ni¿li pierwej blaskiem zajaœnieje.
+Usn¹³ —
+    
+/ klêka /
+
+                        — Twe mi³osierdzie, Panie, jest bez granic.
+    
+/ pada krzy¿em /
+
+Panie, otom ja s³uga dawny, grzesznik stary,
+S³uga ju¿ spracowany i niezgodny na nic.
+Ten m³ody, zrób go za mnie s³ug¹ Twojej wiary,
+A ja za jego winy przyjmê wszystkie kary.
+On poprawi siê jeszcze, on ws³awi Twe Imiê.
+Módlmy siê, Pan nasz dobry! Pan ofiarê przyjmie.
+    
+/ modli siê /
+    
+/ W bliskim koœciele, za œcian¹, zaczynaj¹ œpiewaæ pieœñ Bo¿ego Narodzenia. Nad Ksiêdzem Piotrem Chór anio³ów na nutê: «Anio³ pasterzom mówi³» /
+
+
+CHÓR ANIO£ÓW
+    
+/ g³osy dziecinne /
+
+    Pokój temu domowi,
+    Spoczynek grzesznikowi.
+    S³ugo! s³ugo pokorny, cichy,
+    Wnios³eœ pokój w dom pychy.
+    Pokój temu domowi.
+
+
+ARCHANIO£ PIERWSZY
+    
+/ na nutê: «Bóg nasz ucieczk¹» /
+
+Panie, on zgrzeszy³, przeciwko Tobie zgrzeszy³ on bardzo.
+
+
+ARCHANIO£ DRUGI
+
+Lecz p³acz¹ nad nim, modl¹ siê za nim Twoi Anieli.
+
+
+ARCHANIO£ PIERWSZY
+
+Tych zdepc, o Panie, tych z³am, o Panie, którzy Twe œwiête s¹dy pogardz¹,
+
+
+ARCHANIO£ DRUGI
+
+Ale tym daruj, co œwiêtych s¹dów Twych nie pojêli.
+
+
+ANIO£
+
+    Kiedym z gwiazd¹ nadziei
+    Lecia³ œwiec¹c Judei,
+    Hymn Narodzenia œpiewali Anieli:
+    Mêdrcy nas nie widzieli,
+    Królowie nie s³yszeli.
+
+    Pastuszkowie spostrzegli
+    I do Betlejem biegli:
+    Pierwsi wieczn¹ m¹droœæ witali,
+    Wieczn¹ w³adzê uznali:
+    Biedni, proœci i mali.
+
+
+ARCHANIO£ PIERWSZY
+
+Pan, gdy ciekawoœæ, dumê i chytroœæ w sercu Anio³ów, s³ug swych, obaczy³,
+Duchom wieczystym, Anio³om czystym, Pan nie przebaczy³.
+Runê³y z niebios, jak deszcz gwiaŸdzisty, Anio³ów t³umy,
+I deszczem lec¹ za nimi co dzieñ mêdrców rozumy.
+
+
+CHÓR ANIO£ÓW
+
+    Pan maluczkim objawia,
+    Czego wielkim odmawia.
+    Litoœæ! litoœæ! nad synem ziemi,
+    On by³ miêdzy wielkiemi,
+    Litoœæ nad synem ziemi.
+
+
+ARCHANIO£ DRUGI
+
+On s¹dów Twoich nie chodzi³ badaæ jako ciekawy,
+Nie dla m¹droœci ludzkiej on bada³, ani dla s³awy.
+
+
+ARCHANIO£ PIERWSZY
+
+On Ciê nie pozna³, on Ciê nie uczci³, Panie nasz wielki!
+On Ciê nie kocha³, on Ciê nie wezwa³, nasz Zbawicielu!
+
+
+ARCHANIO£ DRUGI
+
+Lecz on szanowa³ imiê Najœwiêtszej Twej Rodzicielki.
+On kocha³ naród, on kocha³ wiele, on kocha³ wielu.
+
+
+ANIO£
+
+    Krzy¿ w z³oto oprawiony
+    Zdobi królów korony.
+    Na piersi mêdrców b³yszczy jak zorze,
+    A w duszê wniœæ nie mo¿e:
+    Oœwieæ, oœwieæ ich, Bo¿e!
+
+
+CHÓR ANIO£ÓW
+
+    My tak ludzi kochamy,
+    Tak z nimi byæ ¿¹damy
+    Wygnani od mêdrków i króli,
+    Prostaczek nas przytuli,
+    Nad nim dzieñ, noc œpiewamy.
+
+
+CHÓR ARCHANIO£ÓW
+
+Podnieœ tê g³owê, a wstanie z prochu, niebios dosiê¿e,
+I dobrowolnie padnie, i uczci krzy¿a podnó¿e;
+Wedle niej ca³y œwiat u stóp krzy¿a niechaj polê¿e
+I niech Ciê ws³awi, ¿eœ sprawiedliwy i litoœciwy Pan nasz, o Bo¿e!
+
+
+OBADWA CHÓRY
+
+    Pokój, pokój prostocie,
+    Pokornej, cichej cnocie!
+    S³ugo, s³ugo pokorny, cichy,
+    Wnios³eœ pokój w dom pychy,
+    Pokój grzesznemu sierocie.
+
+
+
+SCENA IV. DOM WIEJSKI PODE LWOWEM
+    
+/ Pokój sypialny — Ewa, m³oda panienka, wbiega, poprawia kwiaty przed obrazem Najœwiêtszej Panny, klêka i modli siê. Wchodzi Marcelina /
+
+
+MARCELINA
+
+Modlisz siê jeszcze dot¹d! — czas spaæ, pó³noc bi³a.
+
+
+EWA
+
+Ju¿em siê za ojczyznê mojê pomodli³a,
+Jak nauczono, i za ojca, i za mamê;
+Zmówmy jeszcze i za nich pacierze te¿ same.
+Choæ oni tak daleko, ale to s¹ dziatki
+Jednej ojczyzny naszej, Polski, jednej matki.
+Litwin, co dziœ tu przyby³, uciek³ od Moskali;
+Strach s³yszeæ, co tam oni z nimi wyrabiali.
+Z³y car kaza³ ich wszystkich do ciemnicy wsadziæ
+I jak Herod chce ca³e pokolenie zg³adziæ.
+Litwin ten bardzo ojca naszego zasmuci³,
+Poszed³ w pole i dot¹d z przechadzki nie wróci³.
+Mama na mszê pos³a³a i obchód ¿a³obny,
+Bo wielu z nich umar³o. — Ja pacierz osobny
+Zmówiê za tego, co te piosenki og³osi³;
+    
+/ pokazuj¹c ksi¹¿k¹ /
+
+I on tak¿e w wiêzieniu, jak nam goœæ donosi³.
+Te piosenki czyta³am; niektóre s¹ piêkne —
+Jeszcze pójdê, przed Matk¹ Najœwiêtsz¹ uklêknê,
+Pomodlê siê za niego; kto wie, czy w tej chwili
+Ma rodziców, ¿eby siê za nim pomodlili.
+    
+/ Marcelina odchodzi /
+    
+/ Ewa modli siê i usypia /
+
+
+ANIO£
+
+Lekko i cicho, jak lekkie sny zleæmy.
+
+
+CHÓR ANIO£ÓW
+
+Braciszka mi³ego sen rozweselmy,
+Sennemu pod g³owê skrzyd³o podœcielmy,
+Oczami, gwiazdami, twarz mu oœwieæmy,
+Œpiewaj¹c i graj¹c latajmy wiankiem,
+Nad czystym, nad cichym naszym kochankiem.
+R¹czêta liliowe za liœcie spleæmy,
+Za ró¿e kwitn¹ce czo³a roznieæmy,
+Spod wst¹¿ek gwiaŸdzistych w³os nasz rozwi¹¿my.
+Rozpuœæmy w promienie, rozlejmy w wonie;
+Kwitn¹cym, pachn¹cym, ¿yj¹cym wiankiem
+Kochanka naszego piersi okr¹¿my,
+Kochanka naszego otulmy skronie.
+Œpiewaj¹c i graj¹c latajmy wiankiem,
+Nad czystym, nad cichym naszym kochankiem.
+
+
+EWA
+
+
+*WIDZENIE*
+
+Deszczyk tak œwie¿y, mi³y, cichy jak rosa,
+I sk¹d ten deszczyk — tak czyste niebiosa,
+    Jasne niebiosa! —
+Krople zielone, kraœne — trawki, równianki,
+    Ró¿e, lilije, wianki
+Obwijaj¹ miê wko³o. — Ach, jaki sen wonny,
+  Sen lekki, s³odki, — oby by³ dozgonny.
+    Ró¿o b³yszcz¹ca, s³oneczna,
+    Lilijo przeczysta, mleczna!
+Ty nie z ziemi: — tam ros³aœ, nad bia³ym ob³okiem.
+Narcyzie, jakim œnie¿nym patrzysz na mnie okiem;
+    A te b³êkitne kwiaty pami¹tek,
+    Jak Ÿrenice niewini¹tek —
+Pozna³am — kwiatki moje — sama polewa³am,
+W moim ogródku wczora nazbiera³am,
+I uwieñczy³am Matki Boskiej skronie,
+Tam nad ³ó¿kiem na obrazku.
+Widzê — to Matka Boska — cudowny blasku!
+Pogl¹da na mnie, bierze wianek w d³onie,
+Podaje Jezusowi, a Jezus dzieciê
+Z uœmiechem rzuca na mnie kwiecie —
+Jak wypiêknia³y kwiatki — jak ich wiele — krocie,
+    A wszystkie w przelocie
+    Szukaj¹ na powietrzu siebie,
+    Moje kochanki!
+    I same plot¹ siê w wianki.
+    Jak tu mnie mi³o, jak w niebie;
+    Jak tu mnie dobrze, mój Bo¿e; —
+Niech miê na zawsze ten wianek otoczy,
+Niech zasnê, umrê, patrz¹c w te ró¿e,
+    W te bia³e narcyzu oczy.
+
+    Ró¿a, ta ró¿a ¿yje
+    Wst¹pi³a w ni¹ dusza,
+    G³ówk¹ lekko rusza,
+    Jaki ogieñ z niej bije.
+To rumieniec ¿yj¹cy — jak zorzy wniœcie.
+Œmieje siê, jak na uœmiech rozwija liœcie,
+Roztula miêdzy liœciem dwoje ust z koralu,
+Mówi, coœ mówi — jak cicho, jak skromnie.
+Co ty, ró¿o, szepcesz do mnie?
+Zbyt cicho, smutnie — czy to g³os ¿alu?
+Skar¿ysz siê, ¿eœ wyjêta z rodzinnej trawki?
+Nie wziê³am ciebie dla mojej zabawki,
+Jam tob¹ skronie Matki Najœwiêtszej wieñczy³a,
+Jam po spowiedzi wczora ³zami ciê poi³a;
+    A z twoich ust koralu
+    Wylatuj¹ promieniem
+    Iskierka po iskierce —
+Czy taka œwiat³oœæ jest twoim pieniem?
+    Czego chcesz, ró¿o mi³a?
+
+
+RÓ¯A
+
+    WeŸ mnie na serce.
+
+
+ANIO£OWIE
+
+Rozwi¹¿my, rozpleæmy anielski wianek.
+
+
+RÓ¯A
+
+Odwijam me skrzyd³a, wyplatam czo³o.
+
+
+ANIO£OWIE
+
+My w niebo do domu leæmy weso³o.
+
+
+RÓ¯A
+
+Ja bêdê j¹ bawi³, nim b³yœnie ranek,
+Na sennym jej sercu z³o¿ê me skronie:
+Jak œwiêty aposto³, Pañski kochanek,
+Na boskim Chrystusa spoczywa³ ³onie.
+
+
+
+SCENA V. CELA KSIÊDZA PIOTRA
+
+
+KS. PIOTR
+    
+/ modli siê le¿¹c krzy¿em /
+
+Panie! czym¿e ja jestem przed Twoim obliczem? —
+    Prochem i niczem;
+Ale gdym Tobie mojê nicoœæ wyspowiada³,
+  Ja, proch, bêdê z Panem gada³.
+
+
+*WIDZENIE*
+
+Tyran wsta³ — Herod! — Panie, ca³a Polska m³oda
+    Wydana w rêce Heroda.
+Co widzê — d³ugie, bia³e, dróg krzy¿owych biegi,
+Drogi d³ugie — nie dojrzeæ — przez puszcze, przez œniegi
+Wszystkie na pó³noc! — tam, tam w kraj daleki,
+    P³yn¹ jak rzeki.
+P³yn¹: — ta droga prosto do ¿elaznej bramy,
+Tamta jak strumieñ wpad³a pod ska³ê, w te jamy,
+A tamtej ujœcie w morzu. — Patrz! po drogach leci
+T³um wozów — jako chmury wiatrami pêdzone,
+    Wszystkie tam w jedn¹ stronê.
+    Ach, Panie! to nasze dzieci,
+    Tam na pó³noc — Panie, Panie!
+    Taki¿ to los ich — wygnanie!
+  I dasz ich wszystkich wygubiæ za m³odu,
+  I pokolenie nasze zatracisz do koñca? —
+Patrz! — ha! — to dzieciê usz³o — roœnie — to obroñca!
+    Wskrzesiciel narodu, —
+  Z matki obcej; krew jego dawne bohatery,
+  A imiê jego bêdzie czterdzieœci i cztery.
+
+Panie! czy przyjœcia jego nie raczysz przyœpieszyæ?
+    Lud mój pocieszyæ? —
+Nie! lud wycierpi. — Widzê ten mot³och — tyrany,
+Zbójcê — bieg¹ — porwali — mój Naród zwi¹zany
+Ca³a Europa wlecze, nad nim siê ur¹ga —
+«Na trybuna³!» — Tam zgraja niewinnego wci¹ga.
+Na trybunale gêby, bez serc, bez r¹k; sêdzie —
+    To jego sêdzie!
+  Krzycz¹: «Gal, Gal s¹dziæ bêdzie»
+Gal w nim winy nie znalaz³ i — umywa rêce,
+A króle krzycz¹: «Potêp i wydaj go mêce;
+Krew jego spadnie na nas i na syny nasze;
+Krzy¿uj syna Maryi, wypuœæ Barabasze:
+Ukrzy¿uj, — on cesarza koronê zniewa¿a,
+Ukrzy¿uj, — bo powiemy, ¿eœ ty wróg cesarza».
+Gal wyda³ — ju¿ porwali — ju¿ niewinne skronie
+Zakrwawione, w szyderskiej, cierniowej koronie,
+Podnieœli przed œwiat ca³y; — i ludy siê zbieg³y —
+Gal krzyczy: «Oto naród wolny, niepodleg³y!»
+
+Ach, Panie, ju¿ widzê krzy¿ — ach, jak d³ugo, d³ugo
+Musi go nosiæ — Panie, zlituj siê nad s³ug¹.
+Daj mu si³y, bo w drodze upadnie i skona —
+Krzy¿ ma d³ugie, na ca³¹ Europê ramiona,
+Z trzech wysch³ych ludów, jak z trzech twardych drzew ukuty. —
+Ju¿ wlek¹; ju¿ mój Naród na tronie pokuty —
+Rzek³: «Pragnê» — Rakus octem, Borus ¿ó³ci¹ poi,
+A matka Wolnoœæ u nóg zap³akana stoi.
+Patrz — oto ¿o³dak Moskal z kopij¹ przyskoczy³
+I krew niewinn¹ mego narodu wytoczy³.
+Có¿eœ zrobi³, najg³upszy, najsro¿szy z siepaczy!
+On jeden poprawi siê, i Bóg mu przebaczy.
+
+Mój kochanek ju¿ g³owê konaj¹c¹ spuœci³,
+Wo³aj¹c: «Panie, Panie, za coœ miê opuœci³!»
+On skona³!
+    
+/ S³ychaæ Chóry anio³ów — daleki œpiew wielkanocnej pieœni — na koniec s³ychaæ: «alleluja! alleluja!» /
+
+Ku niebu, on ku niebu, ku niebu ulata!
+    I od stóp jego wionê³a
+    Bia³a jak œnieg szata —
+Spad³a, — szeroko — ca³y œwiat siê w ni¹ obwin¹³.
+Mój kochanek na niebie, sprzed oczu nie zgin¹³.
+Jako trzy s³oñca b³yszcz¹ jego trzy Ÿrenice,
+I ludom pokazuje przebit¹ prawicê.
+
+Któ¿ ten m¹¿? — To namiestnik na ziemskim padole.
+    Zna³em go, — by³ dzieckiem — zna³em,
+    Jak urós³ dusz¹ i cia³em!
+On œlepy, lecz go wiedzie anio³ pacholê.
+    M¹¿ straszny — ma trzy oblicza,
+    On ma trzy czo³a.
+Jak baldakim rozpiêta ksiêga tajemnicza
+    Nad jego g³ow¹, os³ania lice.
+    Podnó¿em jego s¹ trzy stolice.
+Trzy koñce œwiata dr¿¹, gdy on wo³a;
+I s³yszê z nieba g³osy jak gromy:
+To namiestnik wolnoœci na ziemi widomy!
+On to na s³awie zbuduje ogromy
+    Swego koœcio³a!
+    Nad ludy i nad króle podniesiony;
+Na trzech stoi koronach, a sam bez korony:
+    A ¿ycie jego — trud trudów,
+    A tytu³ jego — lud ludów;
+Z matki obcej, krew jego dawne bohatery,
+  A imiê jego czterdzieœci i cztery.
+    S³awa! s³awa! s³awa!
+    
+/ zasypia /
+
+
+ANIO£OWIE
+    
+/ schodz¹ widomie /
+
+Usn¹³ — Wyjmijmy z cia³a duszê, jak dziecinê
+Senn¹ z kolebki z³otej, i zmys³ów sukienkê
+Lekko zwleczmy; ubierzmy w œwiat³o jak jutrzenkê
+I leæmy. Jasn¹ duszê nieœmy w niebo trzecie,
+Ojcu naszemu z³o¿yæ na kolanach dzieciê;
+Niech uœwiêci sennego ojcowsk¹ pieszczot¹,
+A przed rann¹ modlitw¹ duszê wrócim ¿yciu,
+I znowu w czystych zmys³ów otulim powiciu,
+I znowu z³o¿ym w cia³o, jak w kolebkê z³ot¹.
+
+
+
+SCENA VI
+    
+/ Pokój sypialny wspania³y — Senator obraca siê na ³o¿u i wzdycha — Dwóch Diab³ów nad g³ow¹ /
+
+
+DIABE£ I
+
+    Spi³ siê, a nie chce spaæ,
+    Muszê tak d³ugo staæ,
+    £ajdaku, cicho le¿!
+    Czy go tam kole je¿?
+
+
+DIABE£ II
+
+    Syp mu na oczy mak.
+
+
+DIABE£ I
+
+    Zasn¹³, wpadnê jak zwierz.
+
+
+DIABE£ II
+
+    Jako na wróbla ptak.
+
+
+OBADWAJ
+
+    Duszê do piek³a wlec,
+    Wê¿ami smagaæ, piec.
+
+
+BELZEBUB
+
+    Wara!
+
+
+DWAJ DIAB£Y
+
+                        Coœ ty za kmotr?
+
+
+BELZEBUB
+
+                        Belzebub.
+
+
+DWAJ DIAB£Y
+
+                        No, i có¿?
+
+
+BELZEBUB
+
+    Zwierzyny mi nie p³osz.
+
+
+DIABE£ I
+
+    Ale gdy zaœnie ³otr,
+    Do mnie nale¿y sen?
+
+
+BELZEBUB
+
+    Jak ujrzy noc i ¿ar,
+    Srogoœæ i mnogoœæ kar,
+    Zlêknie siê naszych scen;
+    Przypomni jutro sen,
+    Mo¿e poprawiæ siê,
+    Jeszcze daleko zgon.
+
+
+DIABE£ II
+    
+/ wyci¹gaj¹c szpony /
+
+    Pozwól zabawiæ siê —
+    Co ty o niego dr¿ysz,
+    Gdy poprawi siê on,
+    Ja ka¿ê œwiêciæ siê
+    I wezmê w rêce krzy¿.
+
+
+BELZEBUB
+
+    Jak zbyt nastraszysz raz,
+    Gotów przypomnieæ sen,
+    Gotów oszukaæ nas,
+    Wypuœcisz ptaka z r¹k.
+
+
+DIABE£ I
+    
+/ pokazuj¹c sennego /
+
+    Ale¿ braciszek ten,
+    Ten mój najmilszy syn,
+    Bêdzie¿ on spa³ bez m¹k?
+    Nie chcesz? — ja mêczê sam.
+
+
+BELZEBUB
+
+    £otrze, a znasz mój czyn?
+    Od cara zwierzchnoœæ mam!
+
+
+DIABE£ I
+
+    Pardon — có¿ ka¿esz Waœæ?
+
+
+BELZEBUB
+
+    Mo¿esz na duszê wpaœæ,
+    Mo¿esz j¹ w pychê wzd¹æ,
+    A potem w hañbê pchn¹æ,
+    Mo¿esz w pogardzie wlec
+    I szyderstwami siec,
+    Ale o piekle cyt!
+    My leæmy — fit, fit, fit.
+    
+/ odlatuje /
+
+
+DIABE£ I
+
+    Wiêc ja za duszê cap;
+    Aha, ³ajdaku, dr¿ysz!
+
+
+DIABE£ II
+
+    Tylko j¹ bierz do ³ap
+    Lekko, jak kotek mysz.
+
+
+*WIDZENIE SENATORA*
+
+
+SENATOR
+    
+/ przez sen /
+
+Pismo! — to dla mnie — reskrypt Jego Carskiej Moœci!
+W³asnorêczny, — ha! ha! ha! — rubli sto tysiêcy.
+Order! — gdzie — lokaj, przypnij — tu. Tytu³ ksi¹¿êcy!
+A! — a! — Wielki Marsza³ku; a! — pêkn¹ z zazdroœci:
+    
+/ przewraca siê /
+
+Do Cesarza! — przedpokój — oni wszyscy stoj¹;
+Nienawidz¹ mnie wszyscy, k³aniaj¹ siê, boj¹.
+Marsza³ek — Grand Contrôleur — ledwie poznasz, w masce.
+    Ach, jakie lube szemrania,
+    Doko³a lube szemrania:
+Senator w ³asce, w ³asce, w ³asce, w ³asce, w ³asce.
+Ach, niech umrê, niech umrê œród tego szemrania,
+Jak œród na³o¿nic moich ³askotania!
+    Ka¿dy siê k³ania,
+    Jestem dusz¹ zebrania.
+Patrz¹ na mnie, zazdroszcz¹ — nos w górê zadzieram:
+O rozkoszy! umieram, z rozkoszy umieram!
+    
+/ przewraca siê /
+
+Cesarz! — Jego Imperatorska Moœæ — a! Cesarz wchodzi,
+A! — co? — nie patrzy! zmarszczy³ brwi — spojrza³ ukosem?
+Ach! — Najjaœniejszy Panie — ach! — nie mogê g³osem —
+G³os mi zamar³ — ach, dreszcz, pot, — ach! dreszcz ziêbi, ch³odzi. —
+Ach, Marsza³ek! — co? do mnie odwraca siê ty³em.
+Ty³em, a! senatory, dworskie urzêdniki!
+Ach, umieram, umar³em, pochowany, zgni³em,
+I tocz¹ miê robaki, szyderstwa, ¿arciki.
+Uciekaj¹ ode mnie. Ha! jak pusto! g³ucho.
+Szambelan szelma, szelma! patrz, wyszczyrza zêby —
+Dbrum — ten uœmiech jak paj¹k wlecia³ mi do gêby.
+    
+/ spluwa /
+
+Jaki dŸwiêk! — to kalambur — o brzydka mucho;
+    
+/ opêdza ko³o nosa /
+
+    Lata mi ko³o nosa
+    Jak osa,
+    I epigramy, ¿arciki, przytyki,
+Te szmery, — ach, to œwierszcze wlaz³y mi w ucho:
+    Moje ucho, moje ucho!
+    
+/ wytrz¹sa palcem ucho /
+
+Jaki szmer — kamerjunkry œwiszcz¹ jak puszczyki,
+Damy ogonem skrzecz¹ jak grzechotniki,
+Jaki okropny szmer! œmiechy! wrzaski:
+Senator wypad³ z ³aski, z ³aski! z ³aski, z ³aski.
+    
+/ pada z ³ó¿ka na ziemi¹ /
+
+
+DIAB£Y
+    
+/ zstêpuj¹ widomie /
+
+Teraz duszê ze zmys³ów wydrzem, jak z okucia
+Psa z³ego; lecz nie ca³kiem, na³o¿ym kaganiec,
+Na wpó³ zostawim w ciele, by nie traci³ czucia;
+Drug¹ po³owê wleczmy a¿ na œwiata kraniec,
+Gdzie siê doczesnoœæ koñczy, a wiecznoœæ zaczyna,
+Gdzie z sumnieniem graniczy piekielna kraina;
+I z³e psisko uwi¹¿em tam, na pograniczu:
+Tam pracuj, rêko moja, tam œwistaj, mój biczu.
+Nim trzeci kur zapieje, musim z tej mêczarni
+Wróciæ zmordowanego, skalanego ducha;
+Znowu przykuæ do zmys³ów jako do ³añcucha,
+I znowu w ciele zamkn¹æ jako w brudnej psiarni.
+
+
+
+SCENA VII. SALON WARSZAWSKI
+    
+/ Kilku wielkich Urzêdników, kilku wielkich Literatów, kilka Dam wielkiego tonu, kilku Jenera³ów i Sztabsoficerow; wszyscy incognito pij¹ herbatê przy stoliku — bli¿ej drzwi kilku M³odych ludzi i dwóch Starych Polaków. Stoj¹cy rozmawiaj¹ z ¿ywoœci¹ — towarzystwo stolikowe mówi po francusku, przy drzwiach po polsku /
+
+
+*PRZY DRZWIACH*
+
+
+ZENON NIEMOJEWSKI
+    
+/ do Adolfa /
+
+To i u was na Litwie to¿ samo siê dzieje?
+
+
+ADOLF
+
+Ach, u nas gorzej jeszcze, u nas krew siê leje!
+
+
+NIEMOJEWSKI
+
+Krew?
+
+
+ADOLF
+
+                        Nie na polu bitwy, lecz pod rêk¹ kata,
+Nie od miecza, lecz tylko od pa³ki i bata.
+    
+/ Rozmawiaj¹ ciszej /
+
+
+*PRZY STOLIKU*
+
+
+HRABIA
+
+To bal by³ taki œwietny, i wojskowych wiele?
+
+
+FRANCUZ
+
+Ja s³ysza³em, ¿e by³o pusto jak w koœciele.
+
+
+DAMA
+
+Owszem, pe³no —
+
+
+HRABIA
+
+                        I œwietny?
+
+
+DAMA
+
+                        O tym mówiæ d³ugo.
+
+
+KAMERJUNKIER
+
+S³u¿ono najniezgrabniej, choæ z liczn¹ us³ug¹;
+Nie mia³em szklanki wina, u³amku pasztetu,
+Tak zawalono ca³e wniœcie do bufetu.
+
+
+DAMA I
+
+W sali tañców zgo³a nic nie ugrupowano,
+Jak na raucie angielskim po nogach deptano.
+
+
+DAMA II
+
+Bo to by³ tylko jeden z prywatnych wieczorów.
+
+
+SZAMBELAN
+
+Przepraszam, bal proszony — mam dot¹d bilety.
+    
+/ wyjmuje inwitacje i pokazuje, wszyscy przekonywaj¹ siê /
+
+
+DAMA I
+
+Tym gorzej; pomieszano grupy, toalety,
+Nie mo¿na by³o zgo³a oceniæ ubiorów.
+
+
+DAMA II
+
+Odt¹d jak Nowosilcow wyjecha³ z Warszawy,
+Nikt nie umie gustownie urz¹dziæ zabawy:
+Nie widzia³am piêknego balu ani razu.
+On umia³ ugrupowaæ bal na kszta³t obrazu;
+    
+/ S³ychaæ miêdzy mê¿czyznami œmiech /
+
+
+DAMA I
+
+Œmiejcie siê, Pañstwo, mówcie, co siê wam podoba,
+A by³a to potrzebna w Warszawie osoba.
+
+
+*PRZY DRZWIACH*
+
+
+JEDEN Z M£ODYCH
+
+Cichowski uwolniony?
+
+
+ADOLF
+
+                        Ja znam Cichowskiego.
+W³aœnie by³em, chcia³em siê dowiedzieæ od niego,
+¯eby miêdzy naszymi na Litwie rozg³osiæ.
+
+
+ZENON NIEMOJEWSKI
+
+My powinniœmy z sob¹ ³¹czyæ siê i znosiæ;
+Inaczej, rozdzieleni, wszyscy zginiem marnie.
+    
+/ gadaj¹ ciszej /
+
+
+M£ODA DAMA
+    
+/ przy nich stoj¹ca /
+
+A jakie on okropne wytrzyma³ mêczarnie!
+    
+/ rozmawiaj¹ /
+
+
+*PRZY STOLIKU*
+
+
+JENERA£
+    
+/ do Literata /
+
+Ale przeczytaj wreszcie — daj¿e siê uprosiæ.
+
+
+LITERAT
+
+Ja nie umiem na pamiêæ.
+
+
+JENERA£
+
+                        Zwyk³eœ z sob¹ nosiæ.
+Masz przy sobie pod frakiem — a — widzê ok³adki:
+Damy chc¹ s³yszeæ.
+
+
+LITERAT
+
+                        Damy? — a! — to literatki.
+Wiêcej wierszy francuskich na pamiêæ umiej¹
+NiŸli ja.
+
+
+JENERA£
+    
+/ idzie mówi¹c z Damami /
+
+                        Tylko niechaj Panie siê nie œmiej¹.
+
+
+DAMA
+
+Macie robiæ lekturê? — przepraszam — choæ umiem
+Po polsku, ale polskich wierszy nie rozumiem.
+
+
+JENERA£
+    
+/ do Oficera /
+
+Ma racyjê po czêœci, bo nudne po trochu.
+    
+/ pokazuje na Literata /
+
+Opiewa tysi¹c wierszy o sadzeniu grochu.
+    
+/ do Literata /
+
+Czytaj¿e, jeœli ciebie nie bêdziem s³uchali —:
+To patrz —
+    
+/ pokazuj¹c na drugiego Literata /
+
+                        ten nam gazeciarz swe rymy wypali.
+Œliczna by³aby wszystkim s³uchaczom przys³uga.
+Patrz, jak siê on zaprasza, jak œmieje siê, mruga;
+I usta ju¿ otworzy³ jak zdech³¹ ostrygê,
+I oko zwróci³ wielkie i s³odkie jak figê.
+
+
+LITERAT
+    
+/ do siebie /
+
+Wychodz¹ —
+    
+/ do Jenera³a /
+
+                        D³ugie wiersze, ja bym piersi strudzi³.
+
+
+JENERA£
+    
+/ do Oficera /
+
+Dobrze, ¿e nie chce czytaæ, boby nas zanudzi³.
+
+
+M£ODA DAMA
+    
+/ oddzielaj¹c siê od grupy m³odszej, ode drzwi, do stolika /
+
+A to jest rzecz okropna — s³uchajcie, Panowie!
+    
+/ do Adolfa /
+
+Niechaj Pan tym Ichmoœciom o Cichowskim powie.
+
+
+OFICER WY¯SZY
+
+Cichowski wypuszczony?
+
+
+HRABIA
+
+                        Przesiedzia³ lat tyle
+W wiêzieniu —
+
+
+SZAMBELAN
+
+                        Ja myœli³em, ¿e le¿a³ w mogile.
+    
+/ do siebie /
+
+O takich rzeczach s³uchaæ nie bardzo bezpiecznie,
+A wyjœæ w œrodku powieœci by³oby niegrzecznie.
+    
+/ wychodzi /
+
+
+HRABIA
+
+Wypuszczony? — to dziwna.
+
+
+ADOLF
+
+                        Nie znaleŸli winy.
+
+
+MISTRZ CEREMONII
+
+Któ¿ tu mówi o winach; — s¹ inne przyczyny —
+Kto d³ugo by³ w wiêzieniu, widzia³, s³ysza³ wiele —
+A rz¹d ma swe widoki, ma g³êbokie cele,
+Które musi ukrywaæ. — To jest rzecz rz¹dowa —
+Tajniki polityczne — myœl gabinetowa.
+To siê tak wszêdzie dzieje — s¹ tajniki stanu —
+Ale Pan z Litwy, — a! a! — to jest dziwno Panu.
+Panowie na wsi, to tak chcecie o cesarstwie
+Wiedzieæ wszystko, jak gdyby o swym gospodarstwie.
+    
+/ uœmiecha siê /
+
+
+KAMERJUNKIER
+
+Pan z Litwy, i po polsku? nie pojmujê wcale —
+Ja myœli³em, ¿e w Litwie to wszystko Moskale.
+O Litwie, dalibóg¿e! mniej wiem ni¿ o Chinach —
+Constitutionnel coœ raz pisa³ o Litwinach,
+Ale w innych gazetach francuskich ni s³owa.
+
+
+PANNA
+    
+/ do Adolfa /
+
+Niech Pan opowie, — to rzecz wa¿na, narodowa.
+
+
+STARY POLAK
+
+Zna³em starych Cichowskich, uczciwa rodzina;
+Oni s¹ z Galicyi. S³ysza³em, ¿e syna
+Wziêli i zamorzyli: — mój krewny daleki!
+Nie widzia³em go dawno, — o ludzie! o wieki!
+Trzy pokolenia przesz³y, jak nas przemoc drêczy;
+Mêczy³a ojców naszych, — dzieci, wnuków mêczy!
+
+
+ADOLF
+    
+/ Wszyscy zbli¿aj¹ siê i s³uchaj¹ /
+
+Zna³em go bêd¹c dzieckiem; — by³ on wtenczas m³ody,
+¯ywy, dowcipny, wesó³ i s³awny z urody;
+By³ dusz¹ towarzystwa; gdzie siê tylko zjawi³.
+Wszystkich opowiadaniem i ¿artami bawi³;
+Lubi³ dzieci, i czêsto bra³ miê na kolana,
+U dzieci mia³ on tytu³ «weso³ego pana».
+Pamiêtam w³osy jego, — nieraz rêce moje
+Pl¹ta³em w jasnych w³osów kêdzierzawe zwoje.
+Wzrok pamiêtam, — musia³ byæ weso³y, niewinny,
+Bo kiedy patrzy³ na nas, zdawa³ siê dziecinny;
+I patrz¹c na nas, wabi³ nas do swej Ÿrenicy,
+Patrz¹c nañ, myœleliœmy, ¿eœmy rówiennicy.
+On wtenczas mia³ siê ¿eniæ; — pomnê, ¿e przynosi³
+Dzieciom dary swej przysz³ej i na œlub nas prosi³.
+Potem d³ugo nie przyszed³, i mówiono w domu,
+¯e nie wiedzieæ gdzie znikn¹³, umkn¹³ po kryjomu,
+Szuka rz¹d, ale œladu dot¹d nie wytropi³, —
+Na koniec powiedziano: zabi³ siê, utopi³.
+Policyja dowodem stwierdzi³a domys³y,
+Znaleziono p³aszcz jego nad brzegami Wis³y;
+Przyniesiono p³aszcz ¿onie — pozna³a — on zgin¹³;
+Trupa nie znaleziono — i tak rok przemin¹³.
+Dlaczegó¿ on siê zabi³? — pytano, badano,
+¯a³owano, p³akano; wreszcie — zapomniano.
+
+I minê³o dwa lata. Jednego wieczora
+WiêŸniów do Belwederu wiedziono z klasztora.
+Wieczór ciemny i d¿d¿ysty; — nie wiem, czy przypadkiem,
+Czy umyœlnie ktoœ by³ tej procesyi œwiadkiem;
+Mo¿e jeden z odwa¿nych warszawskich m³odzieñców,
+Którzy œledz¹ pobytu i nazwiska jeñców:
+Warty sta³y w ulicach, g³ucho by³o w mieœcie —
+Wtem ktoœ zza muru krzykn¹³: «WiêŸnie, kto jesteœcie?»
+Sto ozwa³o siê imion; — œród nich dos³yszano
+Jego imiê, i ¿onie nazajutrz znaæ dano.
+Pisa³a i lata³a, prosi³a, b³aga³a,
+Lecz prócz tego imienia — nic nie pos³ysza³a.
+I znowu lat trzy przesz³o bez œladu, bez wieœci.
+Lecz nie wiedzieæ kto szerzy³ w Warszawie powieœci,
+¯e on ¿yje, ¿e mêcz¹, ¿e przyznaæ siê wzbrania
+I ¿e dot¹d nie z³o¿y³ ¿adnego wyznania;
+¯e mu przez wiele nocy spaæ nie dozwolano,
+¯e karmiono œledziami i piæ nie dawano;
+¯e pojono opijum, nasy³ano strachy,
+Larwy; ¿e ³askotano w podeszwy, pod pachy —
+Lecz wkrótce innych wziêto, o innych zaczêli
+Mówiæ; ¿ona p³aka³a, wszyscy zapomnieli.
+
+A¿ niedawno przed domem ¿ony w nocy dzwoni¹ —
+Otworzono: Oficer i ¿andarm pod broni¹,
+I wiêzieñ. — On — ka¿¹ daæ pióra i papieru;
+Podpisaæ, ¿e wrócony ¿ywy z Belwederu.
+Wziêli podpis, i palcem pogroziwszy: «Jeœli
+Wydasz…» — i nie skoñczyli; jak weszli, odeszli.
+To on by³. — Biegê widzieæ, przyjaciel ostrzega:
+«Nie idŸ dzisiaj, bo spotkasz pod wrotami szpiega».
+Idê nazajutrz, w progu policejskie draby;
+Idê w tydzieñ, on sam miê nie przyjmuje, s³aby.
+A¿ niedawno za miastem w pojeŸdzie spotka³em —
+Powiedziano, ¿e to on, bo go nie pozna³em.
+Uty³, ale to by³a okropna oty³oœæ:
+Wydê³a go z³a strawa i powietrza zgni³oœæ;
+Policzki mu nabrzmia³y, po¿ó³k³y i zblad³y,
+W czole zmarszczki pó³ wieku, w³osy wszystkie spad³y.
+Witam, on miê nie pozna³, nie chcia³ mówiæ do mnie,
+Mówiê, kto jestem, patrzy na mnie bezprzytomnie.
+Gdym dawnej znajomoœci szczegó³y powiada³,
+Wtenczas on oczy we mnie utopi³ i bada³.
+Ach! wszystko, co przecierpia³ w swych mêczarniach dziennych,
+I wszystko, co przemyœli³ w swych nocach bezsennych,
+Wszystko pozna³em w jednej chwili z jego oka;
+Bo na tym oku by³a straszliwa pow³oka.
+renice mia³ podobne do kawa³ków szklanych,
+Które zostaj¹ w oknach wiêzieñ kratowanych,
+Których barwa jest szara jak tkanka pajêcza,
+A które, patrz¹c z boku, œwiec¹ siê jak têcza:
+I widaæ w nich rdzê krwaw¹, iskry, ciemne plamy,
+Ale ich okiem na wskroœ przebiæ nie zdo³amy:
+Straci³y przezroczystoœæ, lecz widaæ po wierzchu,
+¯e le¿a³y w wilgoci, w pustkach, w ziemi, w zmierzchu.
+W miesi¹c poszed³em znowu, myœli³em, ¿e zdo³a
+Rozpatrzyæ siê na œwiecie i pamiêæ przywo³a.
+Lecz tyle tysiêcy dni by³ pod œledztwa prób¹,
+Tyle tysiêcy nocy rozmawia³ sam z sob¹,
+Tyle lat go bada³y mêkami tyrany,
+Tyle lat otacza³y s³uch maj¹ce œciany;
+A ca³¹ jego by³o obron¹ — milczenie,
+A ca³ym jego by³y towarzystwem — cienie;
+¯e ju¿ siê nie uda³o weso³emu miastu
+Zg³adziæ w miesi¹c naukê tych lat kilkunastu.
+S³oñce zda mu siê szpiegiem, dzieñ donosicielem,
+Domowi jego stra¿¹, goœæ nieprzyjacielem.
+Jeœli do jego domu przyjdzie kto nawiedziæ,
+Na klamki trzask on myœli zaraz: id¹ œledziæ;
+Odwraca siê i g³owê na rêku opiera,
+Zdaje siê, ¿e przytomnoœæ, moc umys³u zbiera:
+Œcina usta, by s³owa same nie wypad³y,
+Oczy spuszcza, by szpiegi z oczu co nie zgad³y.
+Pytany, myœl¹c zawsze, ¿e jest w swym wiêzieniu,
+Ucieka w g³¹b pokoju i tam pada w cieniu,
+Krzycz¹c zawsze dwa s³owa: «Nic nie wiem, nie powiem!»
+I te dwa s³owa — jego sta³y siê przys³owiem;
+I d³ugo przed nim p³acze na kolanach ¿ona
+I dziecko, nim on bojaŸñ i wstrêt swój pokona.
+
+Przesz³¹ niewolê lubi¹ opiewaæ wiêŸniowie;
+Myœli³em, ¿e on j¹ nam najlepiej opowie,
+Wyda na jaw spod ziemi i spod stra¿y zbirów
+Dzieje swe, dzieje wszystkich Polski bohatyrów: —
+Bo teraz Polska ¿yje, kwitnie w ziemi cieniach,
+Jej dzieje na Sybirze, w twierdzach i wiêzieniach.
+I có¿ on na pytania moje odpowiedzia³?
+¯e o swoich cierpieniach sam ju¿ nic nie wiedzia³,
+Nie pomnia³. — Jego pamiêæ zapisana ca³a
+Jak ksiêga herkulañska pod ziemi¹ spróchnia³a:
+Sam autor zmartwychwsta³y nie umie w niej czytaæ,
+Rzek³ tylko: «Bêd¹ o to Pana Boga pytaæ,
+On to wszystko zapisa³, wszystko mnie opowie».
+    
+/ Adolf ³zy ociera /
+    
+/ D³ugie milczenie /
+
+
+DAMA M£ODA
+    
+/ do Literata /
+
+Czemu to o tym pisaæ nie chcecie, Panowie?
+
+
+HRABIA
+
+Niech to stary Niemcewicz w pamiêtniki wsadzi:
+On tam, s³ysza³em, ró¿ne szparga³y gromadzi.
+
+
+LITERAT I
+
+To historyja!
+
+
+LITERAT II
+
+                        Straszna.
+
+
+KAMERJUNKIER
+
+                        Dalbóg, wyœmienita.
+
+
+LITERAT I
+
+Takich dziejów s³uchaj¹, lecz kto je przeczyta?
+I proszê, jak opiewaæ spó³czesne wypadki;
+Zamiast mitologiji s¹ naoczne œwiadki.
+Potem, jest to wyraŸny, œwiêty przepis sztuki,
+¯e nale¿y poetom czekaæ — a¿ — a¿ —
+
+
+JEDEN  Z M£ODZIE¯Y
+
+                        Póki? —
+Wiele¿ lat czekaæ trzeba, nim siê przedmiot œwie¿y
+Jak figa ucukruje, jak tytuñ ule¿y?
+
+
+LITERAT I
+
+Nie ma wyraŸnych regu³.
+
+
+LITERAT II
+
+                        Ze sto lat.
+
+
+LITERAT I
+
+                        To ma³o!
+
+
+LITERAT III
+
+Tysi¹c, parê tysiêcy —
+
+
+LITERAT IV
+
+                        A mnie by siê zda³o,
+¯e to wcale nie szkodzi, ¿e przedmiot jest nowy,
+Szkoda tylko, ¿e nie jest polski, narodowy.
+Nasz naród siê prostot¹, goœcinnoœci¹ chlubi,
+Nasz naród scen okropnych, gwa³townych nie lubi; —
+Œpiewaæ, na przyk³ad, wiejskich ch³opców zalecanki.
+Trzody, cienie — S³awianie, my lubim sielanki.
+
+
+LITERAT I
+
+Spodziewam siê, ¿e Panu przez myœl nie przejedzie,
+Aby napisaæ wierszem, ¿e ktoœ jada³ œledzie.
+Ja mówiê, ¿e poezji nie ma bez poloru,
+A polor byæ nie mo¿e tam, gdzie nie ma dworu:
+Dwór to s¹dzi o smaku, piêknoœci i s³awie;
+Ach, ginie Polska! dworu nie mamy w Warszawie.
+
+
+MISTRZ CEREMONII
+
+Nie ma dworu! — a to miê dziwi niepoma³u,
+Przecie¿ ja jestem mistrzem ceremonija³u.
+
+
+HRABIA
+    
+/ cicho do Mistrza /
+
+Gdybyœ Namiestnikowi wyrzek³ za mn¹ s³ówko,
+Moja ¿ona by³aby pierwsz¹ pokojówk¹.
+    
+/ g³oœno /
+
+Ale pró¿no, nie dla nas wysokie urzêdy!
+Arystokracja tylko ma u dworu wzglêdy.
+
+
+DRUGI HRABIA
+    
+/ niedawno kreowany z mieszczan /
+
+Arystokracja zawsze swobód jest podpor¹,
+Niech pañstwo przyk³ad z Wielkiej Brytaniji bior¹.
+    
+/ Zaczyna siê k³ótnia polityczna — m³odzie¿ wychodzi /
+
+
+PIERWSZY Z M£ODYCH
+
+A ³otry! — o, to kija!
+
+
+A *** G ***
+
+                        O, to stryczka, haku!
+Ja bym im dwór pokaza³, nauczy³bym smaku.
+
+
+N***
+
+Patrzcie, có¿ my tu poczniem, patrzcie, przyjaciele,
+Otó¿ to jacy stoj¹ na narodu czele.
+
+
+WYSOCKI
+
+Powiedz raczej: na wierzchu. Nasz naród jak lawa,
+Z wierzchu zimna i twarda, sucha i plugawa,
+Lecz wewnêtrznego ognia sto lat nie wyziêbi;
+Plwajmy na tê skorupê i zst¹pmy do g³êbi.
+    
+/ odchodz¹ /
+
+
+
+SCENA VIII. PAN SENATOR
+    
+/ W Wilnie — sala przedpokojowa; na prawo drzwi do sali komisji œledczej, gdzie prowadz¹ wiêŸniów i widaæ ogromne pliki papierów — w g³êbi drzwi do pokojów Senatora, gdzie s³ychaæ muzykê — czas po obiedzie — u okna siedzi Sekretarz nad papierami; dalej nieco na lewo stolik, gdzie graj¹ w wiska — Nowosilcow pije kawê; ko³o niego szambelan Bajkow, Pelikan i jeden Doktor — u drzwi warta i kilku Lokajów nieruchomych /
+
+
+SENATOR
+    
+/ do Szambelana /
+
+Diable! quelle corvée! — przecie¿ po obiedzie.
+La princesse nas z[a]wiod³a i dziœ nie przyjedzie.
+Zreszt¹, en fait des dames, stare, albo g³upie: —
+Gadaæ, imaginez-vous, o sprawach przy supie!
+Je jure, tych patryjotków nie mieæ  ma table,
+Avec leur franc parler et leur ton détestable.
+Figurez-vous — ja gadam o strojach, kasynie,
+A moja kompanija o ojcu, o synie: —
+«On stary, on zbyt m³ody, Panie Senatorze,
+On kozy znieœæ nie mo¿e, Panie Senatorze,
+On prosi spowiednika, on chce widzieæ ¿onê,
+On…» — Que sais-je! — piêkny dyskurs w obiady proszone.
+Il y a de quoi oszaleæ, muszê skoñczyæ sprawê
+I uciec z tego Wilna w kochan¹ Warszawê.
+Monseigneur mnie napisa³ de revenir bientôt,
+On siê beze mnie nudzi, a ja z t¹ ho³ot¹ —
+Je n'en puis plus —
+
+
+DOKTOR
+    
+/ podchodz¹c /
+
+                        Mówi³em w³aœnie, Jaœnie Panie,
+¯e ledwie rzecz zaczêta, i sprawa w tym stanie,
+W jakim jest chory, kiedy lekarz go nawiedzi
+I zrobi anagnosin. Mnóstwo uczniów siedzi,
+Tyle by³o œledzenia, ¿adnego dowodu;
+Jeszczeœmy nie trafili w samo j¹dro wrzodu.
+Có¿ odkryto? wierszyki! ce sont de maux légers,
+Ce sont, mo¿na powiedzieæ, accidents passagers;
+Ale osnowa spisku dot¹d jest tajemn¹,
+I…
+
+
+SENATOR
+    
+/ z uraz¹ /
+
+                        Tajemn¹? — to, widzê, Panu w oczach ciemno!
+I nie dziw, po obiedzie — wiêc, signor Dottore,
+Adio, bona notte — dziêki za perorê!
+Tajemn¹! sam œledzi³em i ma byæ tajemn¹?
+I vous osez, Docteur, mówiæ tak przede mn¹?
+Któ¿ kiedy widzia³ formalniejsze œledztwa?
+    
+/ pokazuj¹c papiery /
+
+Wyznania dobrowolne, skargi i œwiadectwa,
+Wszystko jest, i tu ca³y spisek œwiêtokradzki
+Stoi spisany jasno jak ukaz senacki. —
+Tajemn¹! — za te nudy, owó¿ co mam w zysku.
+
+
+DOKTOR
+
+Jaœnie Panie, excusez, któ¿ w¹tpi o spisku!
+W³aœnie mówi¹ — ¿e…
+
+
+LOKAJ
+
+                        Cz³owiek kupca Kanissyna
+Czeka i jakiœ Panu rejestr przypomina.
+
+
+SENATOR
+
+Rejestr? jaki tam rejestr? — kto?
+
+
+LOKAJ
+
+                        Kupiec Kanissyn,
+Co mu Pan przyjœæ rozkaza³…
+
+
+SENATOR
+
+                        IdŸ¿e precz, sukisyn!
+Widzisz, ¿e ja zajêty.
+
+
+DOKTOR
+    
+/ do Lokajów /
+
+                        A g³upie bestyje!
+Przychodziæ — Pan Senator, widzisz, kawê pije.
+
+
+SEKRETARZ
+    
+/ wstaj¹c od stolika /
+
+On powiada, ¿e jeœli Pan zap³atê zwleka,
+On zrobi proces.
+
+
+SENATOR
+
+                        Napisz grzecznie, niechaj czeka.
+    
+/ zamyœla siê /
+
+A propos — ten Kanissyn — trzeba mu wzi¹æ syna
+Pod œledztwo — Oj, to ptaszek!
+
+
+SEKRETARZ
+
+                        To ma³y ch³opczyna.
+
+
+SENATOR
+
+Oni wszyscy mali, ale patrz w ich serce; —
+Najlepiej ogieñ zgasiæ, dopóki w iskierce.
+
+
+SEKRETARZ
+
+Syn Kanissyna w Moskwie.
+
+
+SENATOR
+
+                        W Moskwie? — a, voyez-vous,
+Emisaryjusz klubów. — Czas zabie¿eæ temu,
+Wielki czas.
+
+
+SEKRETARZ
+
+                        On podobno u kadetów s³u¿y.
+
+
+SENATOR
+
+U kadetów? — voyez-vous, on tam wojsko burzy.
+
+
+SEKRETARZ
+
+Dzieckiem z Wilna wyjecha³.
+
+
+SENATOR
+
+                        Oh! cet incendiaire,
+Ma tu korespondentów.
+    
+/ do Sekretarza /
+
+                        Ce n'est pas ton affaire;
+Rozumiesz! — Hej, dy¿urny! — We dwadzieœcie cztery
+Godzin wys³aæ kibitkê i zabraæ papiery.
+Zreszt¹ ojciec lêkaæ siê nas nie ma przyczyny,
+Jeœli syn dobrowolnie przyzna siê do winy.
+
+
+DOKTOR
+
+W³aœnie jak mia³em honor mówiæ Jaœnie Panu,
+S¹ tam ludzie ró¿nego i wieku, i stanu; —
+To najniebezpieczniejsze jest spisku symptoma,
+A wszystkim rusza pewna sprê¿yna kryjoma,
+Któr¹…
+
+
+SENATOR
+    
+/ z uraz¹ /
+
+                        Kryjoma?
+
+
+DOKTOR
+
+                        Mówiê, tajemnie skrywana,
+Odkryta dziêki przezornoœci Jaœnie Pana.
+    
+/ Senator odwraca siê /
+    
+/ do siebie /
+
+To szatan niecierpliwy, — z tym cz³owiekiem bieda!
+Mam tyle wa¿nych rzeczy; wymówiæ mi nie da.
+
+
+PELIKAN
+    
+/ do Senatora /
+
+Co Pan Senator ka¿e z Rollisonem robiæ?
+
+
+SENATOR
+
+Jakim?
+
+
+PELIKAN
+
+                        Co to na œledztwie musiano go obiæ.
+
+
+SENATOR
+
+Eh bien?
+
+
+PELIKAN
+
+                        On zachorowa³.
+
+
+SENATOR
+
+                        Wiele¿ kijów dano?
+
+
+PELIKAN
+
+By³em przy œledztwie, ale tam nie rachowano —
+Pan Botwinko œledzi³ go.
+
+
+BAJKOW
+
+                        Pan Botwinko; cha, cha —
+O! nieprêdko on koñczy, gdy siê raz rozmacha.
+Ja zarêczam, ¿e on go opatrzy³ nieszpetnie —
+Parions, ¿e mu wyliczy³ najmniej ze trzy setnie.
+
+
+SENATOR
+    
+/ zadziwiony /
+
+Trois cents coups et vivant? trois cents coups, le coquin,
+Trois cents coups sans mourir, — quel dos de jacobin!
+Myœli³em, ¿e w Rosyi la vertu cutanée
+Surpasse tout — ten ³otr ma une peau mieux tannée!
+Je n'y conçois rien! — ha, ha, ha, ha, mon ami!
+    
+/ do graj¹cego w wiska, który czeka na swego kompana /
+
+Polaki nam odbior¹ nasz handel skórami.
+Un honnte soldat en serait mort dix fois!
+Quel rebelle! —
+    
+/ podchodzi do stolika /
+
+                        Dla Pana mam un homme de bois —
+Ch³opiec drewniany; da³ mu sam Botwinko kije.
+Trzysta kijów dzieciêciu — figurez-vous? ¿yje!
+    
+/ do Pelikana /
+
+Nic nie wyzna³?
+
+
+PELIKAN
+
+                        Prawie nic; — zêby tylko zaci¹³,
+Krzyczy, ¿e nie chce skar¿yæ niewinnych przyjació³.
+Ale z tych kilku s³ówek odkrywa siê wiele —
+Widaæ, ¿e ci uczniowie — jego przyjaciele.
+
+
+SENATOR
+
+C’est juste: jaki upór!
+
+
+DOKTOR
+
+                        W³aœnie powiada³em
+Jaœnie Panu, ¿e m³odzie¿ zara¿aj¹ sza³em,
+Ucz¹c ich g³upstw: na przyk³ad, staro¿ytne dzieje!
+Któ¿ nie widzi, ¿e m³odzie¿ od tego szaleje.
+
+
+SENATOR
+    
+/ weso³o /
+
+Vous n'aimez pas l'histoire, — ha, ha, un satirique
+Aurait dit, ¿e boisz siê devenir historique.
+
+
+DOKTOR
+
+I owszem, uczyæ dziejów, niech siê m³odzie¿ dowie,
+Co robili królowie, wielcy ministrowie…
+
+
+SENATOR
+
+C'est juste.
+
+
+DOKTOR
+    
+/ ucieszony /
+
+                        W³aœnie mówiê, widzi Pan Dobrodziéj,
+¯e jest sposób wyk³adaæ dzieje i dla m³odzi.
+Lecz po co zawsze prawiæ o republikanach.
+Zawsze o Ateñczykach, Spartanach, Rzymianach.
+
+
+PELIKAN
+    
+/ do jednego ze swoich towarzyszów, pokazuj¹c Doktora /
+
+Patrz, patrz, jak za nim ³azi pochlebca przeklêty,
+I wœcibi siê mu w ³askê — co to za wykrêty!
+    
+/ podchodzi do Doktora /
+
+Ale có¿ o tym mówiæ, czy to teraz pora;
+Zwa¿ no, czy mo¿na nudziæ pana Senatora.
+
+
+LOKAJ
+    
+/ do Senatora /
+
+Czy Pan rozka¿e wpuœciæ te panie — kobiety —
+Pan wie — co wysiadaj¹ tu co dzieñ z karety —
+Jedna œlepa, a druga —
+
+
+SENATOR
+
+                        Œlepa? któ¿ to ona?
+
+
+LOKAJ
+
+Pani Rollison
+
+
+PELIKAN
+
+                        Matka tego Rollisona.
+
+
+LOKAJ
+
+Co dzieñ tu s¹.
+
+
+SENATOR
+
+                        Odprawiæ by³o —
+
+
+DOKTOR
+
+                        Z Panem Bogiem!
+
+
+LOKAJ
+
+Odprawiamy, lecz siada i skwierczy pod progiem.
+Kazaliœmy braæ w areszt, — ze œlep¹ kobiét¹
+Trudno iœæ, lud siê skupi³, ¿o³nierza wybito.
+Czy mam wpuœciæ?
+
+
+SENATOR
+
+                        E! rady sobie daæ nie umiesz —
+Wpuœciæ, tylko a¿ do pó³ schodów — czy rozumiesz?
+A potem j¹ sprowadziæ — a¿ w dó³ — o tak têgo;
+    
+/ z gestem /
+
+¯eby nas nie nudzi³a wiêcej sw¹ w³óczêg¹.
+    
+/ Drugi Lokaj wchodzi i oddaje list Bajkowowi /
+
+No, czegó¿ stoisz, pójdŸ¿e —
+
+
+BAJKOW
+
+                        Elle porte une lettre.
+    
+/ oddaje list /
+
+
+SENATOR
+
+Któ¿ by to za ni¹ pisa³?
+
+
+BAJKOW
+
+                        La princesse peut-tre.
+
+
+SENATOR
+    
+/ czyta /
+
+Ksiê¿na! sk¹d jej to przysz³o? na kark mi j¹ wpycha.
+Avec quelle chaleur! — Wpuœciæ j¹, do licha.
+    
+/ Wchodz¹ dwie Damy i Ksi¹dz Piotr /
+
+
+PELIKAN
+    
+/ do Bajkowa /
+
+To stara czarownica, mre de ce fripon.
+
+
+SENATOR
+    
+/ grzecznie /
+
+Witam, witam, która¿ z pañ jest pani Rollison?
+
+
+P. ROLLISON
+    
+/ z p³aczem /
+
+— Ja — mój syn! Panie Dobrodzieju…
+
+
+SENATOR
+
+                        Proszê — chwilê,
+Pani masz list, a po có¿ przysz³o tu Pañ tyle?
+
+
+DRUGA DAMA
+
+Nas dwie.
+
+
+SENATOR
+    
+/ do Drugiej /
+
+                        I po có¿ Pani¹ mam tu honor witaæ?
+
+
+DRUGA
+
+Pani Rollison trudno drogi siê dopytaæ,
+Nie widzi. —
+
+
+SENATOR
+
+                        Ha! nie widzi — a to w¹cha mo¿e?
+Bo co dzieñ do mnie trafia.
+
+
+DRUGA
+
+                        Ja tu j¹ przywo¿ê,
+Ona sama i stara, i nie bardzo zdrowa.
+
+
+P. ROLLISONOWA
+
+Na Boga…!
+
+
+SENATOR
+
+                        Cicho.
+    
+/ do Drugiej /
+
+                        Pani któ¿ jesteœ?
+
+
+DRUGA
+
+                        Kmitowa.
+
+
+SENATOR
+
+Lepiej siedŸ w domu i miej o synach staranie,
+Jest na nich podejrzenie.
+
+
+KMITOWA
+    
+/ bladn¹c /
+
+                        Jak to, jak to? Panie!
+    
+/ Senator œmieje siê /
+
+
+P. ROLLISONOWA
+
+Panie! litoœæ — ja wdowa! Panie Senatorze!
+S³ysza³am, ¿e zabili — czy¿ mo¿na, mój Bo¿e!
+Moje dziecko! — Ksi¹dz mówi, ¿e on jeszcze ¿yje;
+Ale go bij¹, Panie! któ¿ dzieci tak bije! —
+Jego zbito — zlituj siê — po katowsku zbito.
+    
+/ p³acze /
+
+
+SENATOR
+
+Gdzie? kogo? — gadaj przecie po ludzku, kobiéto.
+
+
+P. ROLLISONOWA
+
+Kogo? ach, dziecko moje! Mój Panie — ja wdowa —
+Ach, wiele¿ to lat, póki cz³ek dziecko wychowa!
+Mój Jaœ ju¿ drugich uczy³; niech Pan wszystkich spyta,
+Jak on uczy³ siê dobrze. — Ja biedna kobiéta!
+On mnie ¿ywi³ ze swego szczup³ego dochodu —
+Œlepa, on by³ mnie okiem — Panie, umrê z g³odu.
+
+
+SENATOR
+
+Kto poplót³, ¿e go bili, nie wyjdzie na sucho.
+Kto mówi³?
+
+
+P. ROLLISONOWA
+
+                        Kto mnie mówi³? ja mam matki ucho.
+Ja œlepa; teraz w uchu ca³a moja dusza,
+Dusza matki. — Wiedli go wczora do ratusza;
+S³ysza³am —
+
+
+SENATOR
+
+                        Wpuszczono j¹?
+
+
+P. ROLLISONOWA
+
+                        Wypchnêli miê z progu
+I z bramy, i z dziedziñca. Siad³am tam na rogu,
+Pod murem; — mury grube, — przy³o¿y³am ucho —
+Tam siedzia³am od rana. — W pó³noc, w mieœcie g³ucho,
+S³ucham — w pó³noc, tam z muru — nie, nie zwodzê siebie;
+S³ysza³am go, s³ysza³am, jak Pan Bóg na niebie;
+Ja g³os jego s³ysza³am uszami w³asnemi —
+Cichy, jakby spod ziemi, jak ze œrodka ziemi. —
+I mój s³uch wszed³ w g³¹b muru, daleko, g³êboko;
+S³ysza³am, mêczono go —
+
+
+SENATOR
+
+                        Jak w gor¹czce bredzi!
+Ale tam, moja Pani, wielu innych siedzi?
+
+
+P. ROLLISONOWA
+
+Jak to? — czy¿ to nie by³ g³os mojego dzieciêcia?
+Niema owca pozna g³os swojego jagniêcia
+Œród najliczniejszej trzody — ach, to by³ g³os taki! —
+Ach, dobry Panie, ¿ebyœ s³ysza³ raz g³os taki,
+Ty byœ ju¿ nigdy w ¿yciu spokojnie nie zasn¹³!
+
+
+SENATOR
+
+Syn Pani zdrów byæ musi, gdy tak g³oœno wrzasn¹³.
+
+
+P. ROLLISONOWA
+    
+/ pada na kolana /
+
+Jeœli masz ludzkie serce…
+    
+/ Otwieraj¹ siê drzwi od sali — s³ychaæ muzykê, — wbiega Panna ubrana jak na bal /
+
+
+PANNA
+
+                        Monsieur le Sénateur —
+Oh! je vous interromps, on va chanter le choeur
+De «Don Juan»; et puis le concerto de Herz…
+
+
+SENATOR
+
+Herz! choeur! tu tak¿e by³a mowa oko³o serc.
+Vous venez  propos, vous belle comme un coeur.
+Moment sentimental! il pleut ici des coeurs.
+    
+/ do Bajkowa /
+
+¯eby le grand-duc Michel ten kalambur wiedzia³,
+Ma foi, to ju¿ bym dawno w radzie pañstwa siedzia³.
+    
+/ do Panny /
+
+J'y suis — dans un moment.
+
+
+P. ROLLISONOWA
+
+                        Panie, nie rzucaj nas
+W rozpaczy, ja nie puszczê —
+    
+/ chwyta za sukniê /
+
+
+PANNA
+
+                        Faites-lui donc grâce!
+
+
+SENATOR
+
+Diable m'emporte, jeœli wiem, czego chce ta jêdza.
+
+
+P. ROLLISONOWA
+
+Chcê widzieæ syna.
+
+
+SENATOR
+    
+/ z przyciskiem /
+
+                        Cesarz nie pozwala.
+
+
+KS. PIOTR
+
+                        Ksiêdza!
+
+
+P. ROLLISONOWA
+
+Ksiêdza przynajmniej poszlij, syn mój prosi ksiêdza.
+Mo¿e kona; — gdy ciebie p³acz matki nie wzruszy,
+Bój siê Boga, drêcz cia³o, ale nie gub duszy.
+
+
+SENATOR
+
+C'est drôle; — kto te po mieœcie wszystkie plotki nosi,
+Kto WaæPani powiedzia³, ¿e on ksiêdza prosi?
+
+
+P. ROLLISONOWA
+    
+/ pokazuj¹c Ksiêdza Piotra /
+
+Ten ksi¹dz poczciwy mówi³; on tygodni tyle
+Biega, b³aga, lecz nie chc¹ wpuœciæ i na chwilê.
+Spytaj ksiêdza, on powie…
+
+
+SENATOR
+    
+/ patrzcie bystro na Ksiêdza /
+
+                        To on wie? — poczciwy! —:
+No zgoda, zgoda, — dobrze, — Cesarz sprawiedliwy;
+Cesarz ksiê¿y nie wzbrania, owszem sam posy³a,
+Aby do moralnoœci m³odzie¿ powróci³a.
+Nikt jak ja religiji nie ceni, nie lubi —
+    
+/ wzdycha /
+
+Ach, ach, brak moralnoœci, to, to m³odzie¿ gubi.
+Eh bien, ¿egnam wiêc Panie.
+
+
+P. ROLLISONOWA
+    
+/ do Panny /
+
+                        Ach, Panienko droga!
+Wstaw siê ty jeszcze za mn¹, ach, na rany Boga!
+Mój syn ma³y; — rok siedzi o chlebie i wodzie,
+W zimnym, ciemnym wiêzieniu, bez odzie¿y, w ch³odzie.
+
+
+PANNA
+
+Est-il possible?
+
+
+SENATOR
+    
+/ w ambarasie /
+
+                        Jak to, jak to? on rok siedzia³?
+Jak to, imaginez-vous — jam o tym nie wiedzia³!
+    
+/ do Pelikana /
+
+S³uchaj, trzeba tê sprawê najpierwej rozpatrzyæ,
+Jeœli to prawda, uszy komisarzom natrzyæ.
+    
+/ do Rollisonowej /
+
+Soyez tranquille, przyjdŸ tu o siódmej godzinie.
+
+
+P. KMITOWA
+
+Nie p³acz tak, pan Senator nie wie o twym synie,
+Jak siê dowie, obaczysz, mo¿e oswobodzi.
+
+
+P. ROLLISONOWA
+    
+/ uradowana /
+
+Nie wie? — chce wiedzieæ? o, niech mu Pan Bóg nagrodzi.
+Ja to zawsze mówi³am ludziom: — byæ nie mo¿e
+Tak okrutny, jak mówi¹, on stworzenie bo¿e,
+On cz³owiek, jego matka mlekiem wykarmi³a —
+Ludzie œmieli siê; widzisz, jam prawdê mówi³a.
+    
+/ do Senatora /
+
+Tyœ nie wiedzia³! — te ³otry wszystko tobie taj¹.
+Wierz mi, Panie, tyœ ³otrów otoczony zgraj¹;
+Nie ich pytaj, nas pytaj, my wszystko powiemy,
+Ca³¹ prawdê —
+
+
+SENATOR
+    
+/ œmiej¹c siê /
+
+                        No dobrze, o tym pomówiemy,
+Dziœ nie mam czasu, adieu. — Ksiê¿nej powiedz, Pani,
+¯e co mo¿na, to wszystko ka¿ê zrobiæ dla niej.
+    
+/ grzecznie /
+
+Adieu, Madame Kmit, adieu — co mogê, to zrobiê.
+    
+/ do Ksiêdza Piotra /
+
+Waœæ, ksiê¿e, zostañ, parê s³ów mam szepn¹æ tobie.
+    
+/ do Panny /
+
+J'y suis dans un moment.
+    
+/ Wszyscy odchodz¹ prócz dawnych osób /
+
+
+SENATOR
+    
+/ po pauzie do Lokajów /
+
+                        A szelmy, ³ajdaki!
+£otry, stoicie przy drzwiach i porz¹dek taki?
+Skórê wam zedrê, szelmy, s³u¿by was nauczê:
+    
+/ do jednego Lokaja /
+
+S³uchaj — ty idŸ za bab¹ —
+    
+/ do Pelikana /
+
+                        Nie, Panu poruczê.
+Skoro wyjdzie od Ksiê¿nej, daj jej pozwolenie
+Widzieæ syna i prowadŸ a¿ tam — tam, w wiêzienie,
+Potem osobno zamknij, — tak, na cztery klucze.
+C'en est trop — a ³ajdaki, s³u¿by was nauczê!
+    
+/ rzuca siê na krzes³o /
+
+
+LOKAJ
+    
+/ ze dr¿eniem /
+
+Pan kaza³ wpuœciæ —
+
+
+SENATOR
+    
+/ schwytuj¹c siê /
+
+                        Co? co? — ty œmiesz, ty! mnie gadaæ?
+Toœ wyuczy³ siê w Polsce panu odpowiadaæ.
+Stój, stój, ja ciê oduczê. — Wieœæ go do kwatery
+Policmejstra — sto kijów i tygodnie cztery
+Na chleb i wodê —
+
+
+PELIKAN
+
+                        Niech Pan Senator uwa¿y,
+I¿ mimo tajemnicy i czujnoœci stra¿y
+O biciu Rollisona niechêtne osoby
+Wieœæ roznosz¹, i mo¿e wynajd¹ sposoby
+Oczerniæ przed Cesarzem nasze czyste chêci,
+Jeœli siê temu œledztwu prêdko ³eb nie skrêci.
+
+
+DOKTOR
+
+W³aœnie ja rozmyœla³em nad tym, Jaœnie Panie.
+Rollison od dni wielu cierpi pomieszanie;
+Chce sobie ¿ycie odj¹æ, do okien siê rzuca,
+A okna s¹ zamkniête…
+
+
+PELIKAN
+
+                        On chory na p³uca;
+Nie nale¿y w zamknionym powietrzu go morzyæ;
+Rozka¿ê mu wiêc okna natychmiast otworzyæ.
+Mieszka na trzecim piêtrze — powietrza u¿yje…
+
+
+SENATOR
+    
+/ roztargniony /
+
+Wpuszczaæ mi na kark babê, gdy ja kawê pijê;
+Nie dadz¹ chwili —
+
+
+DOKTOR
+
+                        W³aœnie mówiê, Jaœnie Panie,
+¯e potrzeba mieæ wiêksze o zdrowiu staranie.
+Po obiedzie, mówi³em zawsze, niechaj Pan te
+Sprawy od³o¿y na czas: — ça mine la santé.
+
+
+SENATOR
+    
+/ spokojnie /
+
+Eh, mon Docteur, przed wszystkim s³u¿ba i porz¹dek
+Potem, to owszem dobrze na s³aby ¿o³¹dek;
+To ¿ó³æ porusza, a ¿ó³æ fait la digestion.
+Po obiedzie, ja móg³bym voir donner la question,
+Kiedy tak ka¿e s³u¿ba: — en prenant son café,
+Wiesz co, to chwila w³aœnie widzieæ auto-da-fé.
+
+
+PELIKAN
+    
+/ odpychaj¹c Doktora /
+
+Jak¿e Pan z Rollisonem ka¿e decydowaæ?
+Je¿eli on dziœ jeszcze… umrze, to?…
+
+
+SENATOR
+
+                        Pochowaæ;
+I pozwalam, je¿eli zechcesz, balsamowaæ.
+A propos balsam, Bajkow! — tobie by siê zda³o
+Trochê balsamu, bo masz takie trupie cia³o,
+A ¿enisz siê. Czy wiecie, on ma narzeczon¹;
+    
+/ Drzwi z lewej strony odmykaj¹ siê — Lokaj wchodzi — Senator pokazuj¹c drzwi /
+
+Tê panienkê, tam patrzaj, bia³¹ i czerwon¹.
+Fi, pan m³ody, avec un teint si délabré,
+Powinien byœ braæ œlub twój jak Tyber  Capré,
+Nie pojmujê, jak oni mogli pannê zmusiæ
+Piêknymi usteczkami s³owo tak wykrztusiæ.
+
+
+BAJKOW
+
+Zmusiæ? — Parions, ¿e ja z ni¹ za rok siê rozwiodê
+I potem co rok bêdê bra³ ¿oneczki m³ode;
+Bez przymusu; doœæ spojrzeæ na tê lub na ow¹:
+C’est beau ma³ej szlachciance byæ jenera³ow¹.
+Spytaj ksiêdza, je¿eli zap³acze przy œlubie.
+
+
+SENATOR
+
+A propos ksiêdza
+    
+/ do Ksiêdza /
+
+                        pódŸ no, mój czarny cherubie!
+Patrzcie, quelle figure! on ma l'air d'un pote —
+Czy ty widzia³eœ kiedy un regard aussi bte?
+Potrzeba go o¿ywiæ. — Masz rumu kieliszek.
+
+
+KS. PIOTR
+
+Nie pijê.
+
+
+SENATOR
+
+                        No, kap³anie, pij!
+
+
+KS. PIOTR
+
+                        Jestem braciszek.
+
+
+SENATOR
+
+Braciszek czy stryjaszek, sk¹d¿e to Waszeci
+Wiedzieæ, co po wiêzieniach robi¹ cudze dzieci?
+Czy to Waszeæ chodzi³eœ z wieœciami do matki?
+
+
+KS. PIOTR
+
+Ja.
+
+
+SENATOR
+    
+/ do Sekretarza /
+
+                        Zapisz to wyznanie — a oto s¹ œwiadki.
+    
+/ do Ksiêdza /
+
+A sk¹d¿eœ o tym wiedzia³? he? ptaszek nie lada!
+Spostrzeg³ siê, ¿e notuj¹, i nie odpowiada.
+W jakim klasztorze bractwo twe?
+
+
+KS. PIOTR
+
+                        U bernardynów.
+
+
+SENATOR
+
+A u dominikanów pewnie masz kuzynów?
+Bo u dominikanów ten Rollison siedzia³.
+No gadaj¿e, sk¹d ty wiesz, kto ci to powiedzia³?
+S³yszysz! — ja tobie ka¿ê — nie szepc mi po cichu.
+Ja w imieniu Cesarza ka¿ê; s³yszysz, mnichu?
+Mnichu! czy ty s³ysza³eœ o ruskim batogu?
+    
+/ do Sekretarza /
+
+Zapisz, ¿e milcza³.
+    
+/ do Ksiêdza /
+
+                        Wszak ty s³u¿ysz Panu Bogu —
+Znasz ty teologij¹ — s³uchaj, teologu.
+Wiesz ty, ¿e wszelka w³adza od Boga pochodzi,
+Gdy w³adza ka¿e mówiæ, milczeæ siê nie godzi.
+    
+/ Ksi¹dz milczy /
+
+A czy wiesz, mnichu, ¿e ja móg³bym ciê powiesiæ,
+I obaczym, czy przeor potrafi ciê wskrzesiæ.
+
+
+KS. PIOTR
+
+Jeœli kto w³adzê cierpi, nie mów, ¿e jej s³ucha;
+Bóg czasem daje w³adzê w rêce z³ego ducha.
+
+
+SENATOR
+
+Je¿eli ciê powieszê, a Cesarz siê dowie,
+¯em zrobi³ nieformalnie, a wiesz, co on powie?
+«Ej, Senatorze, widzê, ¿e siê ju¿ ty bisisz».
+A ty, mnichu, tymczasem jak wisisz, tak wisisz.
+PódŸ no bli¿ej, ostatni raz ciê bêdê bada³:
+Wyznaj, kto tobie o tym biciu rozpowiada³?
+He? — milczysz — ju¿ od Boga ty siê nie dowiedzia³ —
+Kto mówi³? — co? — Bóg? — anio³? — diabe³?
+
+
+KS. PIOTR
+
+                        Tyœ powiedzia³.
+
+
+SENATOR
+    
+/ obruszony /
+
+«Tyœ?» — mnie mówiæ: tyœ? — tyœ, — ha, mnich!
+
+
+DOKTOR
+
+                        Ha, kapcanie!
+Mówi siê Panu: Jaœnie Oœwiecony Panie.
+    
+/ do Pelikana /
+
+Naucz go tam, jak mówiæ; ten mnich widzê z chlewa;
+Daj mu tak —
+    
+/ pokazuje rêk¹ /
+
+
+PELIKAN
+    
+/ daje Ksiêdzu policzek /
+
+                        Widzisz, oœle, Senator siê gniewa.
+
+
+KSI¥DZ
+    
+/ do Doktora /
+
+Panie, odpuœæ mu, Panie; on nie wie, co zrobi³!
+Ach, bracie, t¹ z³¹ rad¹ tyœ sam siê ju¿ dobi³.
+Dziœ ty staniesz przed Bogiem.
+
+
+SENATOR
+
+                        Co to?
+
+
+BAJKOW
+
+                        On b³aznuje.
+Daj mu jeszcze raz w papê, niech nam prorokuje.
+    
+/ daje mu szczutkê /
+
+
+KS. PIOTR
+
+Bracie, i ty poszed³eœ za jego przyk³adem!
+Policzone dni twoje, pójdziesz jego œladem.
+
+
+SENATOR
+
+Hej, pos³aæ po Botwinkê! zatrzymaæ tu klechê —
+Ja sam bêdê przy œledztwie, bêdziem mieæ uciechê.
+Obaczym, czy on bêdzie milcza³ tak upornie.
+Ktoœ go namówi³.
+
+
+DOKTOR
+
+                        W³aœnie przedstawiam pokornie,
+To jest rzecz umówiona, i te wszystkie spiski
+Kieruje, jak wiem pewnie, Ksi¹¿ê Czartoryski;
+
+
+SENATOR
+    
+/ schwytuje siê za krzes³a /
+
+Que me dites-vous l, mon cher, o Ksi¹¿êciu?
+Impossible —
+    
+/ do siebie /
+
+                        kto wie? — eh! — œledztwo lat dziesiêciu,
+Nim siê Ksi¹¿ê wypl¹cze, jeœli ja go spl¹tam.
+    
+/ do Doktora /
+
+Sk¹d¿e wiesz?
+
+
+DOKTOR
+
+                        Dawno, czynnie, spraw¹ siê zaprz¹tam.
+
+
+SENATOR
+
+I Pan mnie nie mówi³eœ?
+
+
+DOKTOR
+
+                        Jaœnie Pan nie s³ucha³;
+Ja mówi³em, ¿e ktoœ to ten po¿ar rozdmucha³.
+
+
+SENATOR
+
+Ktoœ! ktoœ! ale czy Ksi¹¿ê?
+
+
+DOKTOR
+
+                        Mam œlad oczywisty,
+Mam doniesienia, skargi i przejête listy.
+
+
+SENATOR
+
+Listy Ksiêcia?
+
+
+DOKTOR
+
+                        Przynajmniej jest mowa o Ksiêciu
+W tych listach i o ca³ym jego przedsiêwziêciu,
+I wielu profesorów — a g³ównym ogniskiem
+Jest Lelewel. On tajnie kieruje tym spiskiem.
+
+
+SENATOR
+    
+/ do siebie /
+
+Ach, gdyby jaki dowód! choæby podejrzenie,
+Œlad dowodu, cieñ œladu, choæby cieniów cienie!
+Nieraz ju¿ mi o uszy obi³a siê mowa:
+«To Czartoryski wyniós³ tak Nowosilcowa».
+Obaczym teraz, kto z nas bêdzie móg³ siê chwaliæ,
+Czy ten, co umia³ wynieœæ, czy ten, co obaliæ.
+    
+/ do Doktora /
+
+PójdŸ — que je vous embrasse — a! a! to rzecz inna,
+Ja wraz zgadn¹³em, ¿e to sprawa nie dziecinna:
+Ja wraz zgadn¹³em, ¿e to jest Ksi¹¿êcia sztuka.
+
+
+DOKTOR
+    
+/ poufale /
+
+I Pan zgadn¹³? — zje diab³a, kto Pana oszuka.
+
+
+SENATOR
+    
+/ powa¿nie /
+
+Choæ ja wiem o tym wszystkim, Panie Radco Stanu,
+Jeœli odkryæ dowody uda³o siê Panu,
+Ecoutez, dajê Panu senatorskie s³owo,
+Naprzód pensyjê roczn¹ powiêkszê po³ow¹
+I tê skargê za dziesiêæ lat s³u¿by policzê,
+Potem mo¿e starostwo, dobra kanonicze,
+Order — kto wie, nasz Cesarz wspaniale op³aca,
+Ja go sam bêdê prosi³, — ju¿ to moja praca.
+
+
+DOKTOR
+
+Mnie te¿ to kosztowa³o niema³o zabiegów;
+Ze szczup³ej mojej p³acy op³aca³em szpiegów;
+A wszystko z gorliwoœci o dobro Cesarza.
+
+
+SENATOR
+    
+/ bior¹c go pod rêkê /
+
+Mon cher, idŸ zaraz, weŸmij mego sekretarza.
+Wzi¹æ te wszystkie papiery i opieczêtowaæ;
+    
+/ do Doktora /
+
+Wieczorem bêdziem wszystko razem trutynowaæ.
+    
+/ do siebie /
+
+Ja pracowa³em, œledztwo prowadzi³em ca³e,
+A on z tego odkrycia mia³by zysk i chwa³ê!
+    
+/ zamyœla siê /
+    
+/ do Sekretarza w ucho /
+
+Przyaresztuj Doktora razem z papierami.
+    
+/ do Bajkowa, który wchodzi /
+
+To wa¿na sprawa, musim zatrudniæ siê sami.
+Doktor wymkn¹³ siê z pewnym s³ówkiem nieumyœlnie,
+Zbada³em go, a œledztwo ostatek wyciœnie.
+    
+/ Pelikan, widz¹c wzglêdy Senatora, odprowadza Doktora i k³ania mu siê nisko /
+
+
+DOKTOR
+    
+/ do siebie /
+
+Niedawno miê odpycha³ — ho, ho, Pelikanie!
+I ja go zepchnê, i tak, ¿e ju¿ nie powstanie.
+    
+/ do Senatora /
+
+Zaraz wracam.
+
+
+SENATOR
+    
+/ niedbale /
+
+                        O ósmej ja wyje¿d¿am z miasta.
+
+
+DOKTOR
+    
+/ patrz¹c na zegarek /
+
+Co to? na mym zegarku godzina dwunasta?
+
+
+SENATOR
+
+Ju¿ pi¹ta.
+
+
+DOKTOR
+
+                        Co, ju¿ pi¹ta? — ledwie oczom wierzê.
+Mój indeks na dwunastej, na samym numerze
+Stan¹³ i na dwunastej sam indeksu nosek;
+¯eby choæ o sekundê ruszy³, choæ o w³osek!
+
+
+KS. PIOTR
+
+Bracie, i twój ju¿ zegar stan¹³ i nie ruszy
+Do drugiego po³udnia. — Bracie, myœl o duszy.
+
+
+DOKTOR
+
+Czego ty chcesz?
+
+
+PELIKAN
+
+                        Proroctwo tobie jakieœ burczy.
+Patrz, jak mu oczy b³yszcz¹, istny wzrok jaszczurczy!
+
+
+KS. PIOTR
+
+Bracie, Pan Bóg ró¿nymi znakami ostrzega.
+
+
+PELIKAN
+
+Ten braciszek coœ bardzo wygl¹da na szpiega —
+    
+/ Otwieraj¹ siê drzwi z lewej strony, wchodzi mnóstwo dam wystrojonych, urzêdników, goœci, — za nimi muzyka /
+
+
+P. GUBERNATOROWA
+
+Czy mo¿na?
+
+
+P. SOWIETNIKOWA
+
+C’est indigne!
+
+
+P. JENERA£OWA
+
+                        Ah! mon cher Sénateur,
+Czekamy, posy³amy!
+
+
+P. SOWIETNIKOWA
+
+                        Vraiment, c'est un malheur.
+
+
+WSZYSTKIE
+    
+/ razem /
+
+Wreszcie przysz³yœmy szukaæ.
+
+
+SENATOR
+
+                        Có¿ to? — jaka gala!
+
+
+DAMA
+
+I tu mo¿emy tañczyæ, doœæ obszerna sala.
+    
+/ staj¹ i szykuj¹ siê do tañca /
+
+
+SENATOR
+
+Pardon, mille pardons, j'étais trs occupé:
+Que vois-je, un menuet? parfaitement groupé!
+Cela m'a rappelé les jours de ma jeunesse!
+
+
+KSIÊ¯NA
+
+Ce n'est qu'une surprise.
+
+
+SENATOR
+
+                        Est-ce vous, ma déesse!
+Que j'aime cette danse, une surprise? ah! dieux!
+
+
+KSIÊ¯NA
+
+Vous danserez, j'espre.
+
+
+SENATOR
+
+                        Certes, et de mon mieux.
+    
+/ Muzyka gra menueta z «Don Juana» — z lewej strony stoj¹ czynownicy, czyli urzêdnicy i urzêdniczki — z prawej kilku z m³odzie¿y, kilku m³odych oficerów rosyjskich, kilku starych ubranych po polsku i kilka m³odych dam. — Na œrodku menuet. Senator tañczy z narzeczon¹ Bajkowa; Bajkow z Ksiê¿n¹ /
+
+
+*BAL*
+
+
+*SCENA ŒPIEWANA*
+
+
+*Z PRAWEJ STRONY*
+
+
+DAMA
+
+    Patrz, patrz starego, jak siê wije,
+    Jak sapie, oby skrêci³ szyjê.
+    
+/ do Senatora /
+
+    Jak œlicznie, lekko tañczysz Pan!
+    
+/ na stronê /
+
+    Il crévera dans l'instant.
+
+
+M£ODY CZ£OWIEK
+
+    Patrz, jak on ³asi siê i li¿e,
+    Wczora mordowa³, tañczy dziœ;
+    Patrz, patrz, jak on oczyma strzy¿e,
+    Skacze jak w klatce ryœ.
+
+
+DAMA
+
+    Wczora mordowa³ i katowa³,
+    I tyle krwi niewinnej wyla³;
+    Patrz, dzisiaj on pazury schowa³
+    I bêdzie siê przymila³.
+
+
+*Z LEWEJ STRONY*
+
+
+KOLLESKI REGESTRATOR
+    
+/ do Sowietnika /
+
+    Tañczy Senator, czy widzicie,
+    Ej, Sowietniku, pódŸmy w tan.
+
+
+SOWIETNIK
+
+    Uwa¿aj, czy to przyzwoicie,
+    Byœ ze mn¹ tañczy³ Pan.
+
+
+REGESTRATOR
+
+    Ale tu znajdziem kilka dam.
+
+
+SOWIETNIK
+
+    A nie o to idzie rzecz;
+    Ja sobie wolê tañczyæ sam
+    Ni¿ z tob¹ — pódŸ¿e precz.
+
+
+REGESTRATOR
+
+    Sk¹d¿e to?
+
+
+SOWIETNIK
+
+                        Jestem sowietnikiem.
+
+
+REGESTRATOR
+
+    Ja jestem oficerski syn.
+
+
+SOWIETNIK
+
+    Mój Panie, ja nie tañczê z nikim,
+    Kto ma tak niski czyn.
+    
+/ do Pu³kownika /
+
+    PódŸ, Pu³kowniku, pódŸ¿e w taniec,
+    Widzisz, ¿e tañczy sam Senator.
+
+
+PU£KOWNIK
+
+    Jaki tam gada³ oszarpaniec?
+    
+/ pokazuj¹c Regestratora /
+
+
+SOWIETNIK
+
+    Kolleski Regestrator!
+
+
+PU£KOWNIK
+
+  Ta szuja, istne jakubiny!
+
+
+DAMA
+    
+/ do Senatora /
+
+    Jak œlicznie, lekko tañczysz Pan.
+
+
+SOWIETNIK
+    
+/ z gniewem /
+
+    Jak tu pomiesza³y siê czyny!
+
+
+DAMA
+
+    Il crévera dans l'instant.
+
+
+LEWA STRONA
+    
+/ chórem /
+
+
+DAMY
+
+    Ah! quelle beauté, quelle grâce!
+
+
+MÊ¯CZYNI
+
+    Jaka to œwietnoœæ, przepych jaki!
+
+
+PRAWA STRONA
+    
+/ chórem /
+
+
+MÊ¯CZYNI
+
+    Ach, ³otry, szelmy, ach, ³ajdaki!
+    ¯eby ich piorun trzas³.
+
+
+SENATOR
+    
+/ tañcz¹c, do Gubernatorowej /
+
+    Chcê zrobiæ znajomoœæ Starosty,
+    On piêkn¹ ¿onê, córkê ma;
+    Ale zazdrosny —
+
+
+GUBERNATOR
+    
+/ bieg¹c za Senatorem /
+
+                        To cz³ek prosty;
+    Niech Pan to na nas zda.
+    
+/ podchodzi do Starosty /
+
+    A ¿ona Pañska?
+
+
+STAROSTA
+
+                        W domu siedzi.
+
+
+GUBERNATOR
+
+    A córki?
+
+
+STAROSTA
+
+                        Jedn¹ tylko mam.
+
+
+GUBERNATOROWA
+
+    I córka balu nie odwiedzi?
+
+
+STAROSTA
+
+    Nie!
+
+
+GUBERNATOROWA
+
+                        Pan tu sam?
+
+
+STAROSTA
+
+                        Ja sam.
+
+
+GUBERNATOR
+
+    I ¿ona nie zna Senatora?
+
+
+STAROSTA
+
+    Dla siebie tylko ¿onê mam.
+
+
+GUBERNATOROWA
+
+    Chcia³am wzi¹æ córkê Pañsk¹ wczora.
+
+
+STAROSTA
+
+    Us³u¿noœæ Pani znam.
+
+
+GUBERNATOR
+
+    Tu w menuecie para zbywa,
+    Senator potrzebuje dam.
+
+
+STAROSTA
+
+    Moja córka w parach nie bywa,
+    Jej parê znajdê sam.
+
+
+GUBERNATOROWA
+
+    Mówiono, ¿e tañczy i grywa,
+    Senator chcia³ zaprosiæ sam.
+
+
+STAROSTA
+
+    Widzê, ¿e pan Senator wzywa
+    Na raz po kilka dam.
+
+
+LEWA STRONA
+    
+/ chórem /
+
+    Jaka muzyka, jaki œpiew.
+    Jak piêknie meblowany dom.
+
+
+PRAWA STRONA
+    
+/ chórem /
+
+    Te szelmy z rana pij¹ krew,
+    A po obiedzie rom.
+
+
+SOWIETNIK
+    
+/ pokazuj¹c Senatora /
+
+    Drze ich, to prawda, lecz zaprasza,
+    Takiemu daæ siê drzeæ nie ¿al.
+
+
+STAROSTA
+
+    Po turmach siedzi m³odzie¿ nasza,
+    Nam ka¿¹ iœæ na bal.
+
+
+OFICER ROSYJSKI
+    
+/ do Bestu¿ewa /
+
+    Nie dziw, ¿e nas tu przeklinaj¹,
+    Wszak to ju¿ mija wiek,
+    Jak z Moskwy w Polskê nasy³aj¹
+    Samych ³ajdaków stek.
+
+
+STUDENT
+    
+/ do Oficera /
+
+    Patrz, jak siê Bajkow, Bajkow rucha,
+    Co to za mina, co za ruch!
+    Skacze jak po œmieciach ropucha,
+    Patrz, patrz, jak nad¹³ brzuch.
+    Wyszczerzy³ zêby, nazbyt ³ykn¹³,
+    Patrz, jak otwiera gêbê on,
+    S³uchaj, ach, s³uchaj, Bajkow rykn¹³.
+    
+/ Bajkow nuci /
+    
+/ do Bajkowa /
+
+    Mon Général, quelle chanson!
+
+
+BAJKOW
+    
+/ œpiewa pieœñ Beran¿era /
+
+    Quel honneur, quel bonheur!
+    Ah! monsieur le sénateur!
+    Je suis votre humble serviteur, etc. etc.
+
+
+STUDENT
+
+    Général, ce sont vos paroles?
+
+
+BAJKOW
+
+    Oui.
+
+
+STUDENT
+
+                        Je vous en fais compliment.
+
+
+JEDEN Z OFICERÓW
+    
+/ œmiej¹c siê /
+
+    Ces couplets sont vraiment fort drôles,
+    Quel ton satirique et plaisant!
+
+
+M£ODY CZ£OWIEK
+
+    Pour votre muse sans rivale
+    Je vous ferais académicien.
+
+
+BAJKOW
+    
+/ w ucho, — pokazuj¹c Ksiê¿n¹ /
+
+    Senator dziœ bêdzie rogal.
+
+
+SENATOR
+    
+/ w ucho, — pokazuj¹c narzeczon¹ Bajkowa /
+
+    Va, va, je te coifferai bien.
+
+
+PANNA
+    
+/ tañcz¹c, do Matki /
+
+    Nazbyt ohydni, nazbyt starzy.
+
+
+MATKA
+    
+/ z prawej strony /
+
+    Jeœli ci zbrzydn¹³, to go rzuæ.
+
+
+SOWIETNIKOWA
+    
+/ z prawej strony /
+
+    Jak mojej córeczce do twarzy.
+
+
+STAROSTA
+
+    Jak od nich rumem czuæ.
+
+
+SOWIETNIKOWA DRUGA
+    
+/ do córki stoj¹cej obok /
+
+    Tylko, Zosieñku, podnieœ wzrok.
+    Mo¿e Senator ciê obaczy.
+
+
+STAROSTA
+
+    Je¿eli o mnie siê zahaczy,
+    Dam rêkojeœci¹
+    
+/ bior¹c za karabel¹ /
+
+                        — w bok
+
+
+LEWA STRONA
+    
+/ chórem /
+
+    Ach, jaka œwietnoœæ, przepych jaki!
+    Ah, quelle beauté, quelle grâce!
+
+
+PRAWA STRONA
+
+    Ach, szelmy, ³otry, ach, ³ajdaki!
+    ¯eby ich piorun trzas³.
+
+
+*Z PRAWEJ STRONY MIÊDZY M£ODZIE¯¥*
+
+
+JUSTYN POL
+    
+/ do Bestu¿ewa, pokazuj¹c na Senatora /
+
+    Chcê mu scyzoryk mój w brzuch wsadziæ
+    Lub zamalowaæ w pysk.
+
+
+BESTU¯EW
+
+    Có¿ st¹d, jednego ³otra zg³adziæ
+    Lub obiæ, co za zysk?
+    Oni wyszukaj¹ przyczyny,
+    By uniwersytety znieœæ,
+    Krzykn¹æ, ¿e ucznie jakubiny,
+    I wasz¹ m³odzie¿ zjeœæ.
+
+
+JUSTYN POL
+
+    Lecz on zap³aci za mêczarnie,
+    Za tyle krwi i ³ez.
+
+
+BESTU¯EW
+
+    Cesarz ma u nas liczne psiarnie,
+    Có¿, ¿e ten zdechnie pies.
+
+
+POL
+
+    Nó¿ œwierzbi w rêku, pozwól ubiæ.
+
+
+BESTU¯EW
+
+    Ostrzegam jeszcze raz!
+
+
+POL
+
+    Pozwól przynajmniej go wyczubiæ.
+
+
+BESTU¯EW
+
+    A zgubiæ wszystkich was.
+
+
+POL
+
+    Ach, szelmy, ³otry, ach, zbrodniarze!
+
+
+BESTU¯EW
+
+    Muszê ciebie wywieœæ za próg.
+
+
+POL
+
+    Czy¿ go to za nas nikt nie skarze?
+Nikt siê nie pomœci?
+    
+/ odchodz¹ ku drzwiom /
+
+
+KS. PIOTR
+
+                        — Bóg!
+    
+/ Nagle muzyka siê zmienia i gra ari¹ Komandora /
+
+
+TAÑCZ¥CY
+
+    Co to jest? — co to?
+
+
+GOŒCIE
+
+                        Jaka muzyka ponura!
+
+
+JEDEN
+    
+/ patrz¹c w okna /
+
+Jak ciemno, patrz no, jaka zebra³a siê chmura.
+    
+/ zamyka okno — s³ychaæ z dala grzmot /
+
+
+SENATOR
+
+Có¿ to? Czemu nie graj¹?
+
+
+DYREKTOR MUZYKI
+
+                        Zmylili siê.
+
+
+SENATOR
+
+                        Pa³ki!
+
+
+DYREKTOR
+
+Bo to miano graæ ró¿ne z opery kawa³ki,
+Oni nie zrozumieli, i st¹d zamieszanie.
+
+
+SENATOR
+
+No, no, no — arrangez donc — no, panowie — panie.
+    
+/ S³ychaæ krzyk wielki za drzwiami /
+
+
+PANI ROLLISON
+    
+/ za drzwiami, okropnym g³osem /
+
+Puszczaj miê! Puszczaj.
+
+
+SEKRETARZ
+
+                        Œlepa!
+
+
+LOKAJ
+    
+/ strwo¿ony /
+
+                        Widzi — patrz, jak sadzi
+Po schodach, zatrzymajcie!
+
+
+DRUDZY LOKAJE
+
+                        Kto jej co poradzi!
+
+
+PANI ROLLISON
+
+Ja go znajdê tu, tego pijaka, tyrana!
+
+
+LOKAJ
+    
+/ chce zatrzymaæ — ona obala jednego z nich /
+
+A! patrz, jak obali³a — a! a! opêtana.
+    
+/ uciekaj¹ /
+
+
+PANI ROLLISON
+
+Gdzie ty! — znajdê ciê, mozgi na bruku rozbijê —
+Jak mój syn! Ha, tyranie! syn mój, syn nie ¿yje!
+Wyrzucili go oknem — czy ty masz sumnienie?
+Syna mego tam z góry, na bruk, na kamienie.
+Ha, ty pijaku stary, zbryzgany krwi¹ tylu
+Niewini¹tek, pódŸ! — gdzie ty, gdzie ty, krokodylu?
+Ja ciebie tu rozedrê, jak mój Jaœ, na sztuki. —
+Syn! wyrzucili z okna, z klasztoru, na bruki.
+Me dzieciê, mój jedynak! mój ojciec-¿ywiciel —
+A ten ¿yje, i Pan Bóg jest, i jest Zbawiciel!
+
+
+KS. PIOTR
+
+Nie bluŸñ, kobieto; syn twój zraniony, lecz ¿yje.
+
+
+PANI ROLLISON
+
+¯yje? syn ¿yje? czyje to s¹ s³owa, czyje?
+Czy to prawda, mój ksiê¿e? — Ja zaraz pobieg³am —
+«Spad³» krzycz¹, — biegê — wziêli — i zw³ok nie dostrzeg³am:
+Zw³ok mego jedynaka. — Ja biedna sierota!
+Zw³ok syna nie widzia³am. Widzisz — ta œlepota!
+Lecz krew na bruku czu³am — przez Boga ¿ywego
+Tu czujê — krew tê sam¹, tu krew syna mego,
+Tu jest ktoœ krwi¹ zbryzgany — tu, tu jest kat jego!
+    
+/ Idzie prosto do Senatora — Senator umyka siê — Pani Rollison pada zemdlona na ziemiê — Ks. Piotr podchodzi do niej ze Starost¹ — s³ychaæ uderzenie piorunu /
+
+
+WSZYSCY
+    
+/ zlêknieni /
+
+S³owo sta³o siê cia³em! — To tu!
+
+
+INNI
+
+                        Tu! Tu!
+
+
+KS. PIOTR
+
+                        Nie tu.
+
+
+JEDEN
+    
+/ patrz¹c w okno /
+
+Jak blisko — w sam róg domu uniwersytetu.
+
+
+SENATOR
+    
+/ podchodzi do okna /
+
+Okna Doktora!
+
+
+KTOŒ Z WIDZÓW
+
+                        S³yszysz w domu krzyk kobiéty?
+
+
+KTOŒ NA ULICY
+    
+/ œmiej¹c siê /
+
+Cha — cha — cha — diabli wziêli.
+    
+/ Pelikan wbiega zmieszany /
+
+
+SENATOR
+
+                        Nasz Doktor?
+
+
+PELIKAN
+
+                        Zabity
+Od piorunu. Fenomen ten godzien rozbiorów:
+Oko³o domu sta³o dziesiêæ konduktorów,
+A piorun go w ostatnim pokoju wytropi³,
+Nic nie zepsu³ i tylko ruble srebrne stopi³,
+Srebro le¿a³o w biurku, tu¿ u g³ów Doktora,
+I zapewne s³u¿y³o dziœ za konduktora.
+
+
+STAROSTA
+
+Ruble rosyjskie, widzê, bardzo niebezpieczne.
+
+
+SENATOR
+    
+/ do Dam /
+
+Panie zmiesza³y taniec — jak Panie niegrzeczne.
+    
+/ widz¹c, te ratuj¹ Pani¹ Rollison /
+
+Wynieœcie j¹, wynieœcie — pomóc tej kobiecie.
+Wynieœcie j¹.
+
+
+KS. PIOTR
+
+                        Do syna?
+
+
+SENATOR
+
+                        Wynieœcie, gdzie chcecie.
+
+
+KS. PIOTR
+
+Syn jej jeszcze nie umar³, on jeszcze oddycha,
+Pozwól mnie iœæ do niego.
+
+
+SENATOR
+
+                        IdŸ, gdzie chcesz, do licha!
+    
+/ do siebie /
+
+Doktor zabity, ach! ach! ach! c’est inconcevable!
+Ten ksi¹dz mu przepowiedzia³ — ah! ah! ah! c’est diable!
+    
+/ do kompanii /
+
+No i có¿ w tym strasznego? — wiosn¹ id¹ chmury,
+Z chmury piorun wypada: — taki bieg natury.
+
+
+SOWIETNIKOWA
+    
+/ do mê¿a /
+
+Ju¿ gadajcie, co chcecie, a strach zawsze strachem.
+Ja nie chcê d³u¿ej z wami byæ pod jednym dachem;
+Mówi³am: mê¿u, nie leŸ do tych spraw dziecinnych —
+Pókiœ knutowa³ ¯ydów, chocia¿ i niewinnych,
+Milcza³am — ale dzieci; — a widzisz Doktora?
+
+
+SOWIETNIK
+
+G³upia jesteœ.
+
+
+SOWIETNIKOWA
+
+                        Do domu wracam, jestem chora.
+    
+/ S³ychaæ znowu grzmot — wszyscy uciekaj¹; naprzód lewa, potem prawa strona. — Zostaje Senator, Pelikan, Ks. Piotr /
+
+
+SENATOR
+    
+/ patrz¹c za uciekaj¹cymi /
+
+Przeklêty Doktor! ¿yj¹c nudzi³ miê do md³oœci,
+A jak zdech³, patrzaj, jeszcze rozpêdza mi goœci.
+    
+/ do Pelikana /
+
+Voyez, jak ten ksi¹dz patrzy — voyez, quel oeil hagard;
+To jest dziwny przypadek, un singulier hasard.
+Powiedz no, mój ksiê¿uniu, czy znasz jakie czary,
+Sk¹d przewidzia³eœ piorun? — mo¿e boskie kary?
+    
+/ Ksi¹dz milczy /
+
+Prawdê mówi¹c, ten Doktor troszeczkê przewini³,
+Prawdê mówi¹c, ten Doktor nad powinnoœæ czyni³.
+On aurait fort  dire — kto wie, s¹ przestrogi —
+Mój Bo¿e, czemu prostej nie trzymaæ siê drogi!
+No i có¿, ksiê¿e? — milczy!… milczy i zwiesi³ nos.
+Ale go puszczê wolno: — on dirait bien des choses!…
+    
+/ zamyœla siê /
+
+
+PELIKAN
+
+Cha! cha! cha! jeœli œledztwo jest niebezpieczeñstwem,
+Toæ by nas przecie piorun zaszczyci³ pierwszeñstwem.
+
+
+KS. PIOTR
+
+Opowiem wam dwie dawne, ale pe³ne treœci…
+
+
+SENATOR
+    
+/ ciekawy /
+
+O piorunie? — Doktorze? — mów!
+
+
+KS. PIOTR
+
+                        — dwie przypowieœci.
+Onego czasu w upa³ przyszli ludzie ró¿ni
+Zasn¹æ pod cieniem muru; byli to podró¿ni.
+Miêdzy nimi by³ zbójca, a gdy inni spali,
+Anio³ Pañski zbudzi³ go: «Wstañ, bo mur siê wali».
+On zbójca by³ ze wszystkich innych najz³oœliwszy:
+Wsta³, a mur inne pobi³. On rêce z³o¿ywszy
+Bogu dziêkowa³, ¿e mu ocalono zdrowie.
+A Pañski anio³ stan¹³ przed nim i tak powie:
+«Ty najwiêcej zgrzeszy³eœ! kary nie wyminiesz,
+Lecz ostatni najg³oœniej, najhaniebniej zginiesz».
+
+A druga powieœæ taka. — Za czasu dawnego,
+Pewny wódz rzymski pobi³ króla potê¿nego;
+I kaza³ na œmieræ zabiæ wszystkie niewolniki,
+Wszystkie rotmistrze pu³ków i wszystkie setniki.
+Ale króla samego przy ¿yciu zostawi³,
+Tudzie¿ starosty, tudzie¿ pu³kowniki zbawi³. —
+I mówili do siebie g³upi wiêŸnie owi:
+«Bêdziem ¿yæ, podziêkujmy za ¿ycie wodzowi».
+A¿ jeden ¿o³nierz rzymski, co im pos³ugowa³,
+Rzek³ im: «Zaprawdê wódz was przy ¿yciu zachowa³;
+Bo was przykuje przy swym tryumfalnym wozie
+I bêdzie oprowadza³ po ca³ym obozie,
+I do miasta powiedzie; bo wy z tych jesteœcie,
+Których wodz¹ po Rzymie, onym s³awnym mieœcie,
+Aby lud rzymski krzykn¹³: Patrzcie, co wódz zrobi³,
+On takie króle, takie pu³kowniki pobi³.
+Potem, gdy was w ³añcuchach z³otych oprowadzi,
+Odda was w rêce kata, a kat was osadzi
+Na g³êbokie, podziemne i ciemne wygnanie,
+Kêdy bêdzie p³acz wieczny i zêbów zgrzytanie».
+Tak mówi³ ¿o³nierz rzymski; — do ¿o³nierza tego
+Król gromi¹c rzek³: «Twe s³owa s¹ s³owa g³upiego,
+Czyœ ty kiedy na ucztach z twoim wodzem siedzia³,
+A¿ebyœ jego rady, jego myœli wiedzia³?»
+Zgromiwszy, pi³ i œmia³ siê z swymi wspó³wiêŸniami,
+Ze swymi hetmanami i pu³kownikami.
+
+
+SENATOR
+    
+/ znudzony /
+
+Il bat la campagne… Ksiê¿e, gdzie chcesz, ruszaj sobie.
+Jeœli ciê jeszcze z³owiê, tak skórê oskrobiê,
+¯e ciê potem nie pozna twa matka rodzona
+I bêdziesz mi wygl¹da³ jak syn Rollisona.
+    
+/ Senator odchodzi do swoich pokojów z Pelikanem. Ks. Piotr idzie ku drzwiom i spotyka Konrada, który, prowadzony na œledztwo od dwóch ¿o³nierzy, ujrzawszy Ksiêdza wstrzymuje siê i patrzy nañ d³ugo /
+
+
+KONRAD
+
+Dziwna rzecz, nie widzia³em nigdy tej postaci,
+A znam go, jak jednego z mych rodzonych braci.
+Czy to we œnie! — tak, we œnie, teraz przypomnia³em,
+Ta¿ sama twarz, te oczy, we œnie go widzia³em.
+On to, zda³o siê, ¿e miê wyrywa³ z otch³ani.
+    
+/ do Ksiêdza /
+
+Mój ksiê¿e, choæ jesteœmy ma³o sobie znani,
+Przynajmniej ksi¹dz miê nie znasz: przyjmij dziêkczynienie
+Za ³askê, któr¹ tylko zna moje sumienie.
+Drodzy s¹ i widziani we œnie przyjaciele,
+Gdy prawdziwych na jawie widzim tak niewiele.
+WeŸ, proszê, ten pierœcionek, przedaj; daj po³owê
+Ubogim, drug¹ na mszê za dusze czyscowe;
+Wiem, co cierpi¹, je¿eli czyœciec jest niewol¹;
+Mnie, kto wie, czy ju¿ kiedy s³uchaæ mszy pozwol¹.
+
+
+KS. PIOTR
+
+Pozwol¹ — Za pierœcionek ja ci dam przestrogê.
+Ty pojedziesz w dalek¹, nieznajom¹ drogê;
+Bêdziesz w wielkich, bogatych i rozumnych t³umie,
+Szukaj mê¿a, co wiêcej niŸli oni umie;
+Poznasz, bo ciê powita pierwszy w Imiê Bo¿e.
+S³uchaj, co powie…
+
+
+KONRAD
+    
+/ wpatruj¹c siê /
+
+                        Có¿ to? ty¿eœ?… czy byæ mo¿e?
+Stój na chwilê… dla Boga…
+
+
+KS. PIOTR
+
+                        Bywaj zdrów! nie mogê.
+
+
+KONRAD
+
+Jedno s³owo…
+
+
+¯O£NIERZ
+
+                        Nie wolno! ka¿dy w swojê drogê. —
+
+
+
+SCENA IX. NOC DZIADÓW
+    
+/ Opodal widaæ kaplicê — smêtarz — Guœlarz i Kobieta w ¿a³obie /
+
+
+GUŒLARZ
+
+    Ju¿ id¹ w cerkiew gromady
+    I wkrótce zaczn¹ siê Dziady,
+    Iœæ nam pora, ju¿ noc g³ucha.
+
+
+KOBIETA
+
+    Ja tam nie pójdê, guœlarzu,
+    Ja chcê zostaæ na smêtarzu,
+    Chcê jednego widzieæ ducha:
+    Tego, co przed laty wielu
+    Zjawi³ siê po mym weselu,
+    Co poœród duchów gromady
+    Stan¹³ nagle krwawy, blady,
+    I mnie dzikim okiem ³owi³,
+    I ani s³owa nie mówi³.
+
+
+GUŒLARZ
+
+    On ¿y³ mo¿e, gdym go bada³,
+    Dlatego nie odpowiada³.
+    Bo na duchów zgromadzenie,
+    W tajemnicz¹ noc na Dziady,
+    Mo¿na wzywaæ ¿ywych cienie.
+    Cia³a bêd¹ u biesiady
+    Albo u gry, albo w boju,
+    I zostan¹ tam w pokoju;
+    Dusza zwana po imieniu
+    Objawia siê w lekkim cieniu;
+    Lecz póki ¿yje, ust nie ma,
+    Stoi bia³a, g³ucha, niema.
+
+
+KOBIETA
+
+    Có¿ znaczy³a w piersiach rana?
+
+
+GUŒLARZ
+
+    Widaæ, ¿e w duszê zadana.
+
+
+KOBIETA
+
+    Ja tu sama zgubiê drogê.
+
+
+GUŒLARZ
+
+    Ja tu z tob¹ zostaæ mogê.
+    Tam beze mnie zrobi¹ czary,
+    Jest tam inny guœlarz stary. —
+    Czy s³yszysz te œpiewy w dali?
+    Ju¿ siê tam ludzie zebrali.
+    Pierwsz¹ kl¹twê ju¿ zaklêli,
+    Kl¹twê wianka i k¹dzieli,
+    Wezwali powietrznych duchów.
+    Widzisz tych œwiate³ tysi¹ce,
+    Jakby gwiazdy spadaj¹ce?
+    Ten ognistych ci¹g ³añcuchów?
+    To powietrznych roje duchów.
+    Patrz, ju¿ nad kaplic¹ œwiec¹
+    Pod czarnym niebios obszarem,
+    Jak go³êbie, kiedy lec¹
+    W nocy nad miasta po¿arem,
+    Gdy bia³ymi skrzyde³ puchy
+    Odbijaj¹c ¿ar ogniska,
+    Ptastwo jak stado gwiazd b³yska.
+
+
+KOBIETA
+
+    On nie bêdzie z tymi duchy!
+
+
+GUŒLARZ
+
+    Widzisz, blask z kaplicy bucha,
+    Teraz klêli ognia w³adz¹;
+    Cia³a w nocy z³ego ducha
+    Z pustyñ, z mogi³ wyprowadz¹.
+    Têdy bêd¹ ci¹gn¹æ duchy.
+    Poznasz go, jeœli pamiêtasz,
+    Ukryj siê ze mn¹ w d¹b suchy,
+    W ten d¹b suchy i wygni³y,
+    Tu siê niegdyœ wró¿ki kry³y.
+    Ju¿ rusza siê ca³y smêtarz,
+    Rozwieraj¹ siê mogi³y,
+    Wybuchn¹³ p³omyk niebieski;
+    Podskakuj¹ w górê deski,
+    Wysuwaj¹ potêpieñce
+    Blade g³owy, d³ugie rêce;
+    Widzisz oczy jak zarzewie,
+    Schowaj oczy, skryj siê w drzewie.
+    Upiór z dala wzrokiem piecze,
+    Lecz guœlarza nie urzecze.
+    Ha!
+
+
+KOBIETA
+
+                        Co widzisz?
+
+
+GUŒLARZ
+
+                        Trup to œwie¿y!
+    W nie zgni³ej jeszcze odzie¿y.
+    Dymem siarki tr¹ci wko³o,
+    Czarne ma jak wêgiel czo³o.
+    Zamiast oczu — w jamach czaszki
+    ¯arz¹ siê dwie z³ote blaszki,
+    A w œrodku ka¿dego kó³ka
+    Siedzi diablik, jak w Ÿrenicy,
+    I wywraca wci¹¿ kozio³ka,
+    Miga lotem b³yskawicy.
+
+    Trup tu bie¿y, zêbem zgrzyta,
+    Z rêki przelewa do rêki,
+    Jak gdyby z sita do sita,
+    Wrz¹ce srebro — s³yszysz jêki?
+
+
+WIDMO
+
+Gdzie koœció³? — gdzie koœció³ — gdzie Boga lud chwali?
+    Gdzie koœció³, ach, poka¿, cz³owiecze.
+Ach, widzisz, jak we ³bie ten dukat miê pali,
+    Jak srebro stopione d³oñ piecze.
+Ach, wylej, cz³owieku, dla biednej sieroty,
+    Dla wiêŸnia jakiego, dla wdowy,
+Ach, wylej mi z rêki ¿ar srebrny i z³oty,
+    I dukat ten wy³up mi z g³owy.
+Ty nie chcesz! ha, kruszec przelewaæ ja muszê
+    A¿ kiedyœ ten dzieci po¿erca
+Wyzionie ³akom¹, bezdenn¹ sw¹ duszê,
+    Ten kruszec mu wlejê do serca.
+A potem przez oczy, przez uszy wylejê
+    I znowu tym wlejê korytem,
+I bêdê tym trupem obracaæ jak sitem,
+    Nalejê, wylejê, przesiejê!
+Ach, kiedy¿ przez niego ten kruszec przesiejê!
+Ach, czekaæ tak d³ugo! — gorejê! gorejê!
+    
+/ ucieka /
+
+
+GUŒLARZ
+
+                        Ha!
+
+
+KOBIETA
+
+                        Co widzisz?
+
+
+GUŒLARZ
+
+                        Ha, jak blisko!
+    Drugi wylaz³, ku nam bie¿y,
+    Jakie obrzyd³e trupisko!
+    Blade, t³uste, trup to œwie¿y,
+    I strój œwie¿y ma na ciele,
+    Ubrany jak na wesele;
+    I gad niedawno go toczy,
+    Ledwie mu wpó³ wygryz³ oczy.
+
+    Od kaplicy w stronê skoczy³,
+    Czart go uwiód³, czart zamroczy³,
+    Nie puœci go do kaplicy.
+    Czart przybra³ postaæ dziewicy;
+    I na trupa r¹czk¹ kiwa,
+    Okiem mruga, œmiechem wzywa;
+    Skacze ku niej trup zwiedziony,
+    Z grobu na grób, jak szalony.
+    I rêkami, i nogami
+    Wije, jak wiatrak skrzyd³ami —
+    Ju¿ pada do jej uœcisków;
+    Wtem spod nóg jego wytryska
+    Dziesiêæ d³ugich, czarnych pysków;
+    Wyskakuj¹ czarne psiska,
+    Od nóg lubej go porwa³y
+    I targaj¹ na kawa³y,
+    Cz³onki krwawym pyskiem trzês¹,
+    Po polu roznosz¹ miêso.
+
+    Psy zniknê³y. — Nowe dziwo,
+    Ka¿da czêœæ trupa jest ¿yw¹:
+    Wszystkie jak oddzielne trupy
+    Bieg¹ zebraæ siê do kupy.
+    G³owa skacze jak ropucha
+    I nozdrzami ogieñ bucha;
+    Czo³gaj¹ siê piersi trupa
+    Jak wielka ¿ó³wia skorupa —
+    Ju¿ zros³a siê g³owa z cia³em,
+    Jak krokodyl bie¿y cwa³em.
+    Oderwanej rêki palce
+    Dr¿¹, wij¹ siê jak padalce;
+    D³oñ za piasek chwyta, grzebie,
+    I ci¹gnie rêkê do siebie,
+    I nogi siê przyczo³ga³y,
+    I znowu trup wstaje ca³y.
+    Znowu wabi ulubiona,
+    Znowu pada w jej ramiona,
+    Znowu go porwa³y czarty,
+    I znowu w sztuki rozdarty —
+    Ha! niech go wiêcej nie widzê!
+
+
+KOBIETA
+
+    Tak siê boisz?
+
+
+GUŒLARZ
+
+                        Tak siê brzydzê!
+    ¯ó³wie, padalce, ropuchy:
+    W jednym trupie tyle gadów!
+
+
+KOBIETA
+
+    On nie bêdzie z tymi duchy!
+
+
+GUŒLARZ
+
+    Wkrótce, wkrótce koniec Dziadów.
+    S³yszysz — trzeci kur ju¿ pieje;
+    Tam œpiewaj¹ ojców dzieje,
+    I rozchodz¹ siê gromady.
+
+
+KOBIETA
+
+    I nie przyszed³ on na Dziady!
+
+
+GUŒLARZ
+
+    Jeœli duch ten jeszcze w ciele,
+    Wymów teraz jego imiê,
+    Ja na czarodziejskie ziele
+    W tajemniczym zaklnê rymie;
+    I duch cia³o swe zostawi,
+    I przed tob¹ siê objawi.
+
+
+KOBIETA
+
+    Wymówi³am —
+
+
+GUŒLARZ
+
+                        On nie s³ucha —
+    Ja zakl¹³em.
+
+
+KOBIETA
+
+                        Nie ma ducha!
+
+
+GUŒLARZ
+
+    O kobieto! twój kochanek
+    Albo zmieni³ ojców wiarê,
+    Albo zmieni³ imiê stare.
+    Widzisz, ju¿ zbli¿a siê ranek,
+    Gus³a nasze moc straci³y,
+    Nie poka¿e siê twój mi³y.
+    
+/ wychodz¹ z drzewa /
+
+    Có¿ to? có¿ to! — patrz: z zachodu,
+    Tam od Giedymina grodu,
+    Œród gêstych k³êbów zamieci
+    Kilkadziesi¹t wozów leci,
+    Wszystkie lec¹ ku pó³nocy,
+    Lec¹ ile w koniach mocy.
+    Widzisz, jeden tam na przedzie.
+    W czarnym stroju —
+
+
+KOBIETA
+
+                        On!
+
+
+GUŒLARZ
+
+                        Tu jedzie.
+
+
+KOBIETA
+
+    I znowu nazad zawróci³,
+    I tylko raz okiem rzuci³,
+    Ach, raz tylko, — jakie oko!
+
+
+GUŒLARZ
+
+    Pierœ mia³ zbroczon¹ posok¹,
+    Bo w tej piersi jest ran wiele:
+    Straszne cierpi on katusze,
+    Tysi¹c mieczów mia³ on w ciele,
+    A wszystkie przesz³y — a¿ w duszê.
+    Œmieræ go chyba z ran uleczy.
+
+
+KOBIETA
+
+    Któ¿ weñ wrazi³ tyle mieczy?
+
+
+GUŒLARZ
+
+    Narodu nieprzyjaciele.
+
+
+KOBIETA
+
+    Jedn¹ ranê mia³ na czole,
+    Jedn¹ tylko i niewielk¹,
+    Zda siê byæ czarn¹ kropelk¹.
+
+
+GUŒLARZ
+
+    Ta najwiêksze sprawia bole;
+    Jam j¹ widzia³, jam j¹ zbada³;
+    Tê ranê sam sobie zada³,
+    Œmieræ z niej uleczyæ nie mo¿e.
+
+
+KOBIETA
+
+    Ach, ulecz go, wielki Bo¿e!
+
+
+
+
+
+
+KONIEC AKTU PIERWSZEGO
+
+
+
+
