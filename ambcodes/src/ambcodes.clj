@@ -79,9 +79,11 @@ when two words have suffix that is a word in code"
   (repeatedly len #(rand-int 2)))
 
 (defn next-word [word]
-  (if (== (first word) 0)
-    (conj (rest word) 1)
-    (conj word 0)))
+  (seq (Integer/toBinaryString
+	(inc (Integer/valueOf (apply str word) 2)))))
+  ;; (if (== (first word) 0)
+  ;;   (conj (rest word) 1)
+  ;;   (conj word 0)))
 
 (def cardinal-words (iterate next-word '(0)))
 
@@ -100,6 +102,18 @@ Stops after max-tries"
 	     :default (with-meta alphabet {:tries tries}))))
   ([n] (stupid-generator n (int (* n 3/4)) (* n n n))))
 
+(defn remove-ambiguities [code strategy]
+  (loop [code (make-chars-set code)]
+    (let [amb (ambiguous? code)]
+      ;(println amb)
+      ;(Thread/sleep 100)
+      (cond
+       (false? amb) code
+       (vector? amb) (recur (if (code (second amb))
+			      (disj code (strategy amb))
+			      (disj code (first amb))))
+       :word (recur (disj code amb))))))
+
 (defn smart-generator
   ([n words strategy]
      (loop [code #{}
@@ -107,14 +121,9 @@ Stops after max-tries"
 	    words (rest words)]
        (cond (== n (count code)) code
 	     (code word) (recur code (first words) (rest words))
-	     :default
-	     (let [new-code (conj code word)
-		   amb (ambiguous? new-code)]
-	       (if (vector? amb)
-		 (recur (disj new-code (strategy amb))
-			(first words) (rest words))
-		 (recur new-code
-			(first words) (rest words)))))))
+	     :default (recur (remove-ambiguities (conj code word)
+						 strategy)
+			     (first words) (rest words)))))
   ([n strategy] (smart-generator
 		 n (repeatedly #(rand-word (int (* n 3/4))))
 		 strategy)))
@@ -153,10 +162,11 @@ Stops after max-tries"
 	lengths (map count (reduce concat codes))
 	avglen (average lengths)
 	distlen (stddist avglen lengths)]
-    {:avgtime (double avgtime)
-     :avglen (double avglen)
-     :disttime (double disttime)
-     :distlen (double distlen)}))
+    ["Kody:" (map (fn [c] (map #(apply str %) c)) codes)
+     "Średnia dł. wyrazu:" (double avglen)
+     "Odchylenie std. dł. wyrazu:" (double distlen)
+     "Średni czas [ns]:" (double avgtime)
+     "Odchylenie std. czasu:" (double disttime)]))
 
 (defn test-cardinal
   ([n strategy]
@@ -165,9 +175,10 @@ Stops after max-tries"
 	   avglen (average code-lengths)
 	   distlen (stddist avglen code-lengths)
 	   time (:nano-time (meta code))]
-       {:avgtime (double time) ; not really average...
-	:avglen (double avglen)
-	:distlen distlen}))
+       ["Kod:" (map #(apply str %) code)
+	"Śr. dł. wyrazu:" (double avglen)
+	"Odchylenie std. dł. wyrazu:" distlen
+	"Czas [ns]:" (double time)]))
   ([t n strategy] (test-cardinal n strategy)))
 
 (def chooser (JFileChooser.))
@@ -188,11 +199,15 @@ Stops after max-tries"
 (def mode-names {"Losowe wyrazy" test-strategy
 		 "Kolejne wyrazy" test-cardinal})
 
-(def strategy-names {"Usuwaj dłuższe" first
-		     "Usuwaj krótsze" second})
+(def strategy-names {"Usuwaj dłuższe" (fn [[f s]]
+					(if (> (count f) (count s))
+					  f s))
+		     "Usuwaj krótsze" (fn [[f s]]
+					(if (< (count f) (count s))
+					  f s))})
 	
 (def generator-frame
-     [:frame {:id :generator-frame}
+     [:frame {:id :main-frame}
       [Box {:id :generator-toolbar}
        [:combo-box {:id :mode-combo}]
        [:combo-box {:id :strategy-combo}]
@@ -200,7 +215,8 @@ Stops after max-tries"
        [:spinner {:id :words-count}]
        [:label {:text "Ilość testów: "}]
        [:spinner {:id :tests-count}]
-       [:button {:id :generate-button}]]
+       [:button {:id :generate-button}]
+       [:button {:id :save-button}]]
       [:scroll-pane {:constraint BorderLayout/CENTER
 		     :params [[:text-area {:id :generator-output}]]}]])
 
@@ -212,26 +228,33 @@ Stops after max-tries"
 	]
     (.setText (@ids :generator-output)
 	      (with-out-str (pprint (f tests words strategy))))))
-	
+
+(defn file-dialog
+  [open? area-id e this ids & _]
+    (if-let [f (choose-file (@ids :main-frame) open?)]
+      (if open?
+	(-> @ids area-id (.setText (slurp f)))
+	(->> @ids area-id .getText (spit f)))))
 
 (def generator-styles
-     [[:generator-frame] {:title "Generowanie kodów"
+     [[:main-frame] {:title "Generowanie kodów"
 			  :visible true
 			  :size [500 300]}
       [:generator-toolbar] {:constraint BorderLayout/WEST
 			    :params [BoxLayout/Y_AXIS]}
-      [:mode-combo] {:params [(into-array Object (keys mode-names))]
-		     :on-action-performed (fn [e this ids & _]
-					   (JOptionPane/showMessageDialog nil "ASF"))}
+      [:mode-combo] {:params [(into-array Object (keys mode-names))]}
       [:strategy-combo] {:params [(into-array Object (keys strategy-names))]}
       [:words-count :tests-count] {:params [[SpinnerNumberModel {:params [10 1 1000000 1]}]]}
       [:generate-button] {:text "Generuj" :onmcc generator-go}
+      [:save-button] {:text "Zapisz wyjście"
+		      :onmcc (partial file-dialog false :generator-output)}
       ])
 	      
 
 (def main-frame
      [:frame {:id :main-frame}
       [:tool-bar {:id :main-toolbar}
+       [:button {:id :open-generator-button}]
        [:button {:id :open-button}]
        [:button {:id :save-button}]
        [:button {:id :check-button}]]
@@ -262,6 +285,7 @@ Wynik działania algorytmu pojawi się poniżej.")
 		     :text " "}
       [:code-area] {:text invite-text}
       [:suffixes] {:editable false}
+      [:open-generator-button] {:text "Otwórz generator"}
       [:open-button] {:text "Otwórz"}
       [:save-button] {:text "Zapisz"}
       [:check-button] {:text "Sprawdź"}])
@@ -287,6 +311,12 @@ Wynik działania algorytmu pojawi się poniżej.")
 		(if (= (.getText this) invite-text)
 		  (.setText this "")))}
       [:check-button]
-      {:onmcc run-check}])
+      {:onmcc run-check}
+      [:open-button]
+      {:onmcc (partial file-dialog true :code-area)}
+      [:save-button]
+      {:onmcc (partial file-dialog false :code-area)}
+      [:open-generator-button]
+      {:onmcc (fn [& _] (gui/parse-gui generator-frame generator-styles))}])
 
 
