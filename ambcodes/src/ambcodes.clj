@@ -81,24 +81,21 @@ when two words have suffix that is a word in code"
 (defn next-word [word]
   (seq (Integer/toBinaryString
 	(inc (Integer/valueOf (apply str word) 2)))))
-  ;; (if (== (first word) 0)
-  ;;   (conj (rest word) 1)
-  ;;   (conj word 0)))
 
 (def cardinal-words (iterate next-word '(0)))
 
-(defn rand-alphabet [n max-len]
-  (repeatedly n #(rand-word max-len)))
+(defn rand-alphabet [max-len]
+  (repeatedly #(rand-word max-len)))
 
 (defn stupid-generator
   "Stupid generator, just generating random alphabets of n length with
 words of max-len length.
 Stops after max-tries"
   ([n max-len max-tries]
-     (loop [alphabet (rand-alphabet n max-len)
+     (loop [alphabet (take n (rand-alphabet max-len))
 	    tries (int 0)]
        (cond (== (inc tries) max-tries) nil
-	     (ambiguous? alphabet) (recur (rand-alphabet n max-len) (inc tries))
+	     (ambiguous? alphabet) (recur (take n (rand-alphabet max-len)) (inc tries))
 	     :default (with-meta alphabet {:tries tries}))))
   ([n] (stupid-generator n (int (* n 3/4)) (* n n n))))
 
@@ -125,7 +122,8 @@ Stops after max-tries"
 						 strategy)
 			     (first words) (rest words)))))
   ([n strategy] (smart-generator
-		 n (repeatedly #(rand-word (int (* n 3/4))))
+		 n (repeatedly #(rand-word (if (< n 10) n
+					       (int (* n 3/4)))))
 		 strategy)))
 
 (defmacro time-only [exp]
@@ -205,7 +203,7 @@ Stops after max-tries"
 		     "Usuwaj krótsze" (fn [[f s]]
 					(if (< (count f) (count s))
 					  f s))})
-	
+
 (def generator-frame
      [:frame {:id :main-frame}
       [Box {:id :generator-toolbar}
@@ -231,15 +229,15 @@ Stops after max-tries"
 
 (defn file-dialog
   [open? area-id e this ids & _]
-    (if-let [f (choose-file (@ids :main-frame) open?)]
-      (if open?
-	(-> @ids area-id (.setText (slurp f)))
-	(->> @ids area-id .getText (spit f)))))
+  (if-let [f (choose-file (@ids :main-frame) open?)]
+    (if open?
+      (-> @ids area-id (.setText (slurp f)))
+      (->> @ids area-id .getText (spit f)))))
 
 (def generator-styles
      [[:main-frame] {:title "Generowanie kodów"
-			  :visible true
-			  :size [500 300]}
+		     :visible true
+		     :size [500 300]}
       [:generator-toolbar] {:constraint BorderLayout/WEST
 			    :params [BoxLayout/Y_AXIS]}
       [:mode-combo] {:params [(into-array Object (keys mode-names))]}
@@ -249,7 +247,7 @@ Stops after max-tries"
       [:save-button] {:text "Zapisz wyjście"
 		      :onmcc (partial file-dialog false :generator-output)}
       ])
-	      
+
 
 (def main-frame
      [:frame {:id :main-frame}
@@ -320,3 +318,5 @@ Wynik działania algorytmu pojawi się poniżej.")
       {:onmcc (fn [& _] (gui/parse-gui generator-frame generator-styles))}])
 
 
+(defn start []
+  (gui/parse-gui main-frame (concat styles actions)))
