@@ -59,7 +59,8 @@
   niż gdy usuwamy dłuższe.
 
   Najłatwiej potwierdzić to używając testu z wyrazami kolejnymi.
-  Średnie długości wyrazów i ich odchylenia std. dla strategii:
+  Średnie długości wyrazów i ich odchylenia std. dla kodu 40-wyrazowego
+  i strategii:
   - *dłuższe*: 6.0, 1.47
   - *krótsze*: 5.78, 1.25
 
