@@ -3,6 +3,8 @@
   - Sprawdzanie poprawności kodu
   - Generowanie kodów
 
+  Program należy odpalać z pliku ambcodes.bat.
+
 ** Sprawdzanie poprawności kodu
   Okno tej części składa się z:
   - przestrzeni na wpisanie kodu w centralnej części,
@@ -20,7 +22,7 @@
    może trwać bardzo długo. Nie da się tego przerwać inaczej niż
    zabicie programu.
   
-   Program ma dwa tryby generowanie kodów:
+   Program ma dwa tryby generowania kodów:
    1. Słowa losowe
    2. Słowa kolejne
      

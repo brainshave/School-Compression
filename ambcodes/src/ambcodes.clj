@@ -11,6 +11,8 @@
 			JSplitPane
 			JOptionPane
 			JToolBar
+			JFrame
+			WindowConstants
 			Box BoxLayout
 			SpinnerNumberModel)))
 
@@ -318,5 +320,9 @@ Wynik działania algorytmu pojawi się poniżej.")
       {:onmcc (fn [& _] (gui/parse-gui generator-frame generator-styles))}])
 
 
-(defn start []
-  (gui/parse-gui main-frame (concat styles actions)))
+(defn start [closing?]
+  (-> (gui/parse-gui main-frame (concat styles actions))
+      :root
+      (.setDefaultCloseOperation (if closing?
+				   JFrame/EXIT_ON_CLOSE
+				   WindowConstants/HIDE_ON_CLOSE))))
