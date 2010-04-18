@@ -1,7 +1,7 @@
 * Opis programu
   Program składa się z dwóch części:
   - Sprawdzanie poprawności kodu
-  - Generownanie kodów
+  - Generowanie kodów
 
 ** Sprawdzanie poprawności kodu
   Okno tej części składa się z:
@@ -12,30 +12,32 @@
     - w tym pasku pokazywane są komunikaty na temat poprawności kodu.
 
   Program zakłada, że słowa kodowe rozdzielone są dowolną ilością białych
-  znaków. Można wprowadzać dowolne znaki, nie tylo 1 i 0.
+  znaków. Można wprowadzać dowolne znaki, nie tylko 1 i 0.
 
 ** Generowanie kodów
-  Włączenie generatora odbywa się po kliknięciu "Otwórz generator"
-  W pasku głównego okna. Generowanie kodów w zależności od ustawień
-  może trwać bardzo długo. Nie da się tego przerwać inaczej niż
-  zabicie programu.
+   Włączenie generatora odbywa się po kliknięciu "Otwórz generator"
+   W pasku głównego okna. Generowanie kodów w zależności od ustawień
+   może trwać bardzo długo. Nie da się tego przerwać inaczej niż
+   zabicie programu.
   
-  Program ma dwa tryby generowanie kodów:
-  1. Słowa losowe
-  2. Słowa kolejne
+   Program ma dwa tryby generowanie kodów:
+   1. Słowa losowe
+   2. Słowa kolejne
+     
+   Oraz dwa pod-tryby:
+   1. Usuwaj krótsze,
+      w tym trybie przy dwóch słowach kodowych z kodu usuwane jest to krótsze.
+   2. Usuwaj dłuższe,
+      usuwa dłuższy z wyrazów.
 
-  Oraz dwa podtryby:
-  1. Usuwaj krótsze,
-     W tym trybie przy dwóch słowach kodowych z kodu usuwane jest to krótsze.
-  2. Usuwaj dłuższe,
-     Usuwa dłuższy z wyrazów.
-
-  Jeśli konflikt powoduje wyraz kodowy z sufiksem usuwane jest słowo kodowe
-  niezależnie od wybranej strategii.
+   Jeśli konflikt powoduje wyraz kodowy z sufiksem usuwane jest słowo kodowe
+   niezależnie od wybranej strategii.
 
 *** Słowa losowe
-    Program generuje losowe słowa o losowej długości nie przekreczającej 3/4
-    ilości słów. Powtarza to tyle razy, ile określone w polu "Ilość testów".
+    Program generuje losowe słowa o losowej długości nie przekraczającej ilości
+    wyrazów jeśli ilość jest mniejsza od 10. Powyżej 9 wyrazów wyrazy mają
+    długość nie przekraczającą 3/4 ilości. Powtarza test tyle razy, ile
+    określone w polu "Ilość testów".
 
     Na wyjściu użytkownik otrzymuje kolekcję wygenerowanych kodów (pogrupowane
     nawiasami) oraz różne informacje statystyczne:
@@ -46,5 +48,19 @@
 *** Słowa kolejne
     Zamiast losować wyrazy brane są wyrazy reprezentujące binarnie kolejne
     liczby kardynalne. Przy każdym powtórzeniu testu z tymi ustawieniami wynik
-    będzie taki sam więc tutaj wartość pola "Ilość testów" nie ma znaczenia.
+    będzie taki sam więc tutaj wartość pola "Ilość testów" jest ignorowana
+    i test wykonywany jest tylko raz.
+
+* Strategia generowania kodów.
+  Lepszą strategia usuwania wyrazów niepasujących jest taka, w której
+  usuwamy krótsze wyrazy ponieważ zwalniamy większą grupę prefiksów
+  niż gdy usuwamy dłuższe.
+
+  Najłatwiej potwierdzić to używając testu z wyrazami kolejnymi.
+  Średnie długości wyrazów i ich odchylenia std. dla strategii:
+  - *dłuższe*: 6.0, 1.47
+  - *krótsze*: 5.78, 1.25
+
+  Przy strategii *krótsze* otrzymujemy średnio krótszy kod z mniejszym
+  rozrzutem długości.
     
