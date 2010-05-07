@@ -11,7 +11,9 @@
 			JFrame
 			Box
 			BoxLayout
-			JFileChooser)))
+			JFileChooser
+			JOptionPane
+			WindowConstants)))
 
 (defn find-series [f]
   (with-open [bytes (-> f FileInputStream. BufferedInputStream.)]
@@ -174,18 +176,41 @@
 	   doall)
       (.validate (:main-scroll @ids)))))
 
+(defn show-info [e this & _]
+  (JOptionPane/showMessageDialog
+   this
+   "Użycie programu polega na wybraniu plików i/lub katalogów
+i poczekanie aż je przetworzy. Katalogi przetwarzane są
+rekursywnie. Wynikiem działania programu jest jeden histogram
+dla każdego typu pliku.
+
+  Uwaga: Program blokuje się dopóki nie przetworzy danych
+         wejściowych. Nie ma też sposobu, by zatrzymać
+         przetwarzanie.
+
+  Autor: Szymon Witamborski, santamon@gmail.com"
+   "O programie"
+   JOptionPane/INFORMATION_MESSAGE))
+				 
+
 (def main-frame
      [:frame {:size [540 500]
-	      :title "Badanie długości serii by SW"
+	      :title "Badanie długości serii by S/W"
 	      :visible true}
       [:tool-bar {:constraint BorderLayout/NORTH}
        [:button {:text "Skanuj katalog..."
 		 :onmcc scan-dir-action}]
-       [:button {:text "Informacje"}]]
+       [:button {:text "Informacje"
+		 :onmcc show-info}]]
       [:scroll-pane {:constraint BorderLayout/CENTER
 		     :id :main-scroll
 		     :params [[Box {:id :main-scroll-inner
 				    :params [BoxLayout/Y_AXIS]}]]}]])
-(defn start []
-  (parse-gui main-frame))
-  
+
+(defn start [closing?]
+  (-> (parse-gui main-frame)
+      :root
+      (.setDefaultCloseOperation
+       (if closing?
+	 JFrame/EXIT_ON_CLOSE
+	 WindowConstants/HIDE_ON_CLOSE))))

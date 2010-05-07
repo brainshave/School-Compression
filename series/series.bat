@@ -1,0 +1,1 @@
+java -cp series-standalone.jar clojure.main -e "(use 'series.core) (start true)"
