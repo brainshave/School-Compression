@@ -241,7 +241,7 @@ Stops after max-tries"
 		     :visible true
 		     :size [500 300]}
       [:generator-toolbar] {:constraint BorderLayout/WEST
-			    :params [BoxLayout/Y_AXIS]}
+			    :params [qBoxLayout/Y_AXIS]}
       [:mode-combo] {:params [(into-array Object (keys mode-names))]}
       [:strategy-combo] {:params [(into-array Object (keys strategy-names))]}
       [:words-count :tests-count] {:params [[SpinnerNumberModel {:params [10 1 1000000 1]}]]}
