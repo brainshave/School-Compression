@@ -56,3 +56,38 @@
 	   (when-not (empty? s)
 	     (let [[s-rest block tag] (next-block s)]
 	       (cons [block tag] (lazy-seq (f s-rest)))))))))
+
+(defn concat-blocks ;;TODO zmienic na lazy-cat
+  [blocks]
+  (->> blocks (map first) (apply concat)))
+
+(defn encode-block-seq [blocks]
+  (-> blocks ((fn f [[[block tag] & blocks-rest]]
+		(when-not (empty? block)
+		  (let [length (count block)
+			byte-1 (bit-shift-right length 8)
+			byte-2 (bit-and length 255)]
+		  (lazy-cat (lazy-cat [byte-1 byte-2 tag]
+				      block)
+			    (f blocks-rest))))))))
+
+(defn decode-block-seq [s]
+  (-> s ((fn f [[byte-1 byte-2 tag & tail]]
+	   (when-not (empty? tail)
+	     (let [length (bit-or (bit-shift-left byte-1 8)
+				  byte-2)
+		   [block s-rest] (split-at length tail)]
+	       (cons [block tag]
+		     (lazy-seq (f s-rest)))))))))
+
+(defn test-block-encode [fin fout]
+  (->> fin file-byte-seq
+       block-seq
+       encode-block-seq
+       (write-seq fout)))
+
+(defn test-block-decode [fin fout]
+  (->> fin file-byte-seq
+       decode-block-seq
+       concat-blocks
+       (write-seq fout)))
