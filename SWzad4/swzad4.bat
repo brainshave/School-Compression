@@ -1,0 +1,1 @@
+java -cp SWzad4-standalone.jar clojure.main -e "(use 'swzad4) (start true)"

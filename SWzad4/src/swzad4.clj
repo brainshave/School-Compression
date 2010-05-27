@@ -6,7 +6,13 @@
   (:import (java.io FileInputStream
 		    FileOutputStream
 		    BufferedInputStream
-		    BufferedOutputStream)))
+		    BufferedOutputStream)
+	   (javax.swing Box
+			BoxLayout
+			JFileChooser
+			JFrame
+			WindowConstants)))
+
 (def *full-set*
      (reduce conj #{} (range 255)))
 
@@ -155,3 +161,56 @@
 	     (map decompress-block)
 	     concat-blocks
 	     (write-seq fout))))
+
+(def chooser (JFileChooser.))
+
+(defn choose-file
+  "Open chooser for opening or saving"
+  [parent open?]
+  (let [status (if open?
+		 (.showOpenDialog chooser parent)
+		 (.showSaveDialog chooser parent))]
+    (if (= status JFileChooser/APPROVE_OPTION)
+      (.getSelectedFile chooser))))
+
+(defn compress-click [f]
+  (fn [e this ids & _]
+    (let [fin (choose-file (@ids :main-frame) true)
+	  fout (choose-file (@ids :main-frame) false)]
+      (when (and fin fout)
+	(let [t (with-out-str (f fin fout))
+	      fin-size (.length fin)
+	      fout-size (.length fout)
+	      ratio (double (* 100 (/ fout-size fin-size)))]
+	  (-> @ids :size-in (.setText (str "wej: " fin-size)))
+	  (-> @ids :size-out (.setText (str "wyj: " fout-size)))
+	  (-> @ids :ratio (.setText (format "wsp: %.3g%%" ratio)))
+	  (-> @ids :time (.setText t)))))))
+
+(def main-frame
+     [:frame {:title "Kompresja/dekompresja by S/W"
+	      :size [400 150]
+	      :visible true
+	      :id :main-frame}
+      [Box {:params [BoxLayout/PAGE_AXIS]}
+       [:button {:text "Spakuj"
+		 :onmcc (compress-click compress)}]
+       [:button {:text "Rozpakuj"
+		 :onmcc (compress-click decompress)}]
+       [:label {:text "wej: 0"
+		:id :size-in}]
+       [:label {:text "wyj: 0"
+		:id :size-out}]
+       [:label {:text "wsp: 100%"
+		:id :ratio}]
+       [:label {:text "t"
+		:id :time}]]])
+
+(defn start [closing?]
+  (-> main-frame
+      parse-gui
+      :root
+      (.setDefaultCloseOperation
+       (if closing?
+	 JFrame/EXIT_ON_CLOSE
+	 WindowConstants/HIDE_ON_CLOSE))))
