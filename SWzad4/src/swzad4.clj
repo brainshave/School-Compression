@@ -1,11 +1,12 @@
 (ns swzad4
-  (use (sw gui)
-       (clojure.contrib pprint)
-       (clojure inspector))
-  (import (java.io FileInputStream
-		   FileOutputStream
-		   BufferedInputStream
-		   BufferedOutputStream)))
+  (:use (sw gui)
+	(clojure.contrib pprint)
+	(clojure inspector))
+  (:require (clojure.contrib (string :as string)))
+  (:import (java.io FileInputStream
+		    FileOutputStream
+		    BufferedInputStream
+		    BufferedOutputStream)))
 (def *full-set*
      (reduce conj #{} (range 255)))
 
@@ -57,21 +58,35 @@
 	     (let [[s-rest block tag] (next-block s)]
 	       (cons [block tag] (lazy-seq (f s-rest)))))))))
 
-(defn concat-blocks ;;TODO zmienic na lazy-cat
+(defn concat-blocks
+  "Skleja leniwie bloki, bez tagów."
   [blocks]
-  (->> blocks (map first) (apply concat)))
+  (->> blocks ((fn f [[[block] & blocks-rest]]
+		 (when-not (empty? block)
+		   (lazy-cat block
+			     (f blocks-rest)))))))
 
-(defn encode-block-seq [blocks]
+(defn encode-block-seq
+  "Leniwie koduje bloki w jedna sekwencje, kolejne bajty:
+  1. tag
+  2. długość - starsze 8 bitów
+  3. długość - młodsze 8 bitów
+  4- blok
+  Po bloku tag kolejnego bloku"
+  [blocks]
   (-> blocks ((fn f [[[block tag] & blocks-rest]]
 		(when-not (empty? block)
 		  (let [length (count block)
 			byte-1 (bit-shift-right length 8)
 			byte-2 (bit-and length 255)]
-		  (lazy-cat (lazy-cat [byte-1 byte-2 tag]
-				      block)
-			    (f blocks-rest))))))))
+		    (lazy-cat (lazy-cat [byte-1 byte-2 tag]
+					block)
+			      (f blocks-rest))))))))
 
-(defn decode-block-seq [s]
+(defn decode-block-seq 
+  "Leniwie dekoduje bloki z postaci z encode-block-seq
+   do sekwencji wektorów [blok tag]"
+  [s]
   (-> s ((fn f [[byte-1 byte-2 tag & tail]]
 	   (when-not (empty? tail)
 	     (let [length (bit-or (bit-shift-left byte-1 8)
@@ -80,14 +95,74 @@
 	       (cons [block tag]
 		     (lazy-seq (f s-rest)))))))))
 
-(defn test-block-encode [fin fout]
+(defn test-block-encode
+  "Testuje kodowanie bloków bez kompresji."
+  [fin fout]
   (->> fin file-byte-seq
        block-seq
        encode-block-seq
        (write-seq fout)))
 
-(defn test-block-decode [fin fout]
+(defn test-block-decode
+  "Testuje dekodowanie bloków bez kompresji."
+  [fin fout]
   (->> fin file-byte-seq
        decode-block-seq
        concat-blocks
        (write-seq fout)))
+
+(defn compress-block
+  "Kompresuje blok i zwraca [spakowany_blok tag]."
+  [[block tag]]
+  ;;(println "tag:" (char tag))
+  ;;(pprint {"block: " (split-with #(not= % \\) (map char block))})
+  ;;(print "size" (count block))
+  [
+	;; (string/replace-by
+	;;  #"(?s)(.)\1{0,254}"
+	;;  (fn [[match]]
+	;;    match)
+	;;    (let [len (count match)]
+	;;      (if (>= len 4)
+	;;        (str (char tag)
+	;;    	    (char len)
+	;;    	    (first match))
+	;;        match)))
+	;; (->> block (map char) (apply str)))
+   (->>  block
+	 (map char)
+	 (apply str)
+	 (re-seq #"(?s)(.)\1{0,254}")
+	 (map first)
+	 (map #(if (>= (count %) 4)
+		 (str
+		  (char tag)
+		  (char (count %))
+		  (first %))
+		 %))
+	 (apply concat)
+	 (map int))	
+   tag])
+
+(defn decompress-block
+  "Dekompresuje blok"
+  [[block tag]]
+  [(map int (string/replace-by
+	     (re-pattern (str "(?s)\\Q" (char tag) "\\E.."))
+	     (fn [[tag len c]] (apply str (repeat (int len) c)))
+	     (->> block (map char) (apply str))))
+   tag])
+
+(defn compress [fin fout]
+  (time (->> fin file-byte-seq
+	     block-seq
+	     (map compress-block)
+	     encode-block-seq
+	     (write-seq fout))))
+
+(defn decompress [fin fout]
+  (time (->> fin file-byte-seq
+	     decode-block-seq
+	     (map decompress-block)
+	     concat-blocks
+	     (write-seq fout))))
