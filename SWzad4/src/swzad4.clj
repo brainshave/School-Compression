@@ -114,34 +114,19 @@
 (defn compress-block
   "Kompresuje blok i zwraca [spakowany_blok tag]."
   [[block tag]]
-  ;;(println "tag:" (char tag))
-  ;;(pprint {"block: " (split-with #(not= % \\) (map char block))})
-  ;;(print "size" (count block))
-  [
-	;; (string/replace-by
-	;;  #"(?s)(.)\1{0,254}"
-	;;  (fn [[match]]
-	;;    match)
-	;;    (let [len (count match)]
-	;;      (if (>= len 4)
-	;;        (str (char tag)
-	;;    	    (char len)
-	;;    	    (first match))
-	;;        match)))
-	;; (->> block (map char) (apply str)))
-   (->>  block
-	 (map char)
-	 (apply str)
-	 (re-seq #"(?s)(.)\1{0,254}")
-	 (map first)
-	 (map #(if (>= (count %) 4)
-		 (str
-		  (char tag)
-		  (char (count %))
-		  (first %))
-		 %))
-	 (apply concat)
-	 (map int))	
+  [(->> block
+	(map char)
+	(apply str)
+	(re-seq #"(?s)(.)\1{0,254}")
+	(map first)
+	(map #(if (>= (count %) 4)
+		(str
+		 (char tag)
+		 (char (count %))
+		 (first %))
+		%))
+	(apply concat)
+	(map int))	
    tag])
 
 (defn decompress-block
@@ -153,14 +138,18 @@
 	     (->> block (map char) (apply str))))
    tag])
 
-(defn compress [fin fout]
+(defn compress 
+  "Kompresuje plik fin do fout."
+  [fin fout]
   (time (->> fin file-byte-seq
 	     block-seq
 	     (map compress-block)
 	     encode-block-seq
 	     (write-seq fout))))
 
-(defn decompress [fin fout]
+(defn decompress
+  "Dekompresuje plik fin do fout."
+  [fin fout]
   (time (->> fin file-byte-seq
 	     decode-block-seq
 	     (map decompress-block)
